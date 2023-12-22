@@ -1,0 +1,1594 @@
+	0
+Henk Kuitenbrouwer	9
+Henri Bruning	9
+Albert Kuyle	9
+Albe	9
+Dirk Coster	9
+Jan Engelman	9
+Erich Wichman	9
+Willem Pijper	9
+Just Havelaar	1
+Gerard Bruning	9
+Joep Nicolas	9
+Gerard Brom	9
+Bernard Verhoeven	9
+Leopold	2
+Johan de Meester	9
+Léon	2
+Karel van den Oever	9
+Huib Luns	9
+Wies Moens	9
+Marnix Gijsen	3
+Herman Teirlinck	3
+Richard Minne	3
+J.C. Bloem	9
+Albert Helman	9
+G.P.M. Knuvelder	9
+Frederik van Eeden	4
+Menno ter Braak	9
+Willem Nieuwenhuis	9
+Herman de Man	9
+Henriette Roland Holst-van der Schalk	9
+Charles Eyck	9
+H. Marsman	9
+A. den Doolaard	9
+Anton van Duinkerken	9
+A.A.M. Stols	5
+M. Stol	5
+Herman Gorter	9
+A. Roland Holst	9
+Ernest Michel	9
+A.M. de Jong	9
+Willem Maas	9
+Hendrik de Vries	9
+Novalis	9
+Albert Verwey	6
+Antoon Coolen	9
+Stijn Streuvels	3
+Sybold van Ravesteyn	9
+Karel van de Woestijne	3
+Prosper van Langendonck	9
+Constantijn	6
+Willem Kloos	9
+Guido Gezelle	3
+J.F.M. Sterck	1
+Frans Erens	9
+Wouter Lutkie	9
+Gerard Wijdeveld	9
+Stefan George	6
+P.N. van Eyck	6
+Nicolaas Beets	9
+Abraham Kuyper	9
+J.J. van Geuns	7
+J. van Geuns	7
+Halbo C. Kool	1
+D.A.M. Binnendijk	9
+Jan H. Eekhout	9
+A.J.D. van Oosten	9
+B.H. Molkenboer	1
+H. Mol	6
+G. Kalff	1
+A. van Domburg	9
+Ellen Russe	8
+Giovanni Papini	8
+Roel Houwink	9
+J.H. Leopold	4
+Chris de Graaff	9
+Multatuli	6
+Ad. Sassen	9
+Geerten Gossaert	1
+Ernest Claes	3
+Jacob van Lennep	9
+Felix Timmermans	3
+E.J. Potgieter	9
+Gerard Walschap	3
+Louis de Bourbon	1
+E. du Perron	9
+Jan Greshoff	3
+W.A.P. Smit	6
+Paul Vlemminx	9
+Henri Borel	3
+Constant van Wessem	1
+Theun de Vries	9
+Alfred de Vigny	9
+Arthur van Schendel	9
+Pieter van der Meer de Walcheren	9
+J.W.F. Werumeus Buning	1
+Aart van der Leeuw	1
+C.R. de Klerk	9
+Lodewijk van Deyssel	4
+Maria Viola	1
+Alphons Diepenbrock	9
+Jan Vercammen	9
+Pierre Kemp	10
+Jozef Cantré	9
+Frans Coenen	1
+A.G.W. Severijnen	9
+C.G.N. de Vooys	1
+P.J.H. Vermeeren	6
+Pieter G. Buckinx	3
+Jan Romein	5
+Garmt Stuiveling	6
+Ed. Hoornik	11
+Willem Bilderdijk	9
+Martin Leopold	2
+André Demedts	3
+Jan Prins	1
+Willem de Mérode	1
+P.C. Boutens	1
+E. Moll	1
+M. Rutten	6
+H.W.E. Moller	1
+J. Slauerhoff	9
+P.J. Veth	9
+W.R. van Hoëvell	9
+A.V. Michiels	9
+Willem Richard Boer	9
+P.W. Korthals	9
+Salomon Müller	9
+Jan Heemskerk Bzn.	9
+Adam Smith	9
+S.J. van den Bergh	9
+Alfred de Musset	9
+S. Vissering	9
+H.J. Schimmel	9
+W.J. Hofdijk	9
+Carel Adriaan Engelbregt	9
+Willem Jan Knoop	9
+J.J.L. ten Kate	9
+Johan Carl Zimmerman	9
+Pieter Nicolaas Muller	9
+Johan Adam Wijnne	9
+Samuel Adrianus Naber	9
+Cd. Busken Huet	9
+Robert Fruin	9
+Martinus Nijhoff	9
+W.N. du Rieu	6
+H.P.G. Quack	9
+Nikolaas Gerard Pierson	9
+J.A. Alberdingk Thijm	9
+Pieter Rutger Feith	13
+R. Feith	13
+Tiberius Cornelius Winkler	14
+C. Winkler	14
+Carel Vosmaer	9
+J. van Vloten	9
+Henricus Oort	15
+H. Oort	15
+H.C. Rogge	9
+Jérome Alexandre Sillem	9
+Charles Boissevain	9
+George Eliot	3
+D.E.W. Wolff	9
+David Jacob van Lennep	9
+Henri Ernest Moltzer	9
+H. Kern	9
+Abraham Seyne Kok	9
+Cornelis Bellaar Spruyt	6
+J.N. van Hall	9
+Johan Hermann Christian Heyse	9
+Allard Pierson	9
+Willem de Clercq	1
+Johan Hendrik Gallée	1
+J. Verdam	1
+Marie Henriëtte Koorders-Boeke	9
+H. van Cappelle jr.	16
+H. van Cappelle	16
+J. van Loenen Martinet	9
+Hendrik Hooyer	17
+J.H. Hooijer	17
+Anton Gerard van Hamel	9
+Jan ten Brink	9
+A.G. van Hamel	9
+Robert Macalester Loup	2
+Max Rooses	9
+Willem Hendrik de Beaufort	9
+Gerard Valette	2
+Pol de Mont	9
+Joh. Dyserinck	9
+Louis Couperus	4
+Jan C. de Vos	9
+Willem van der Vlugt	9
+Henricus Anastasius Viotta	2
+Marcellus Emants	4
+A. Kluijver	1
+A. Kluyver	1
+Hélène Swarth	1
+H.J. Polak	6
+Leo Simons	9
+R.A. Kollewijn	1
+R.P.J. Tutein Nolthenius	9
+Herman Heijermans	9
+Willem Gerard van Nouhuys	3
+W.G.C. Byvanck	9
+Taco H. de Beer	1
+Jan Veth	9
+Jan Six	9
+L. Knappert	1
+H.T. Colenbrander	9
+Conrad Th. van Deventer	6
+N.P. van den Berg	6
+A.A.W. Hubrecht	18
+Hugo de Vries	18
+Antoon Derkinderen	9
+Margo Scharten-Antink	1
+Carel Scharten	1
+Herman Robbers	1
+Top Naeff	1
+Edward B. Koster	1
+Frans Mijnssen	1
+Nico van Suchtelen	3
+Jozef Israëls	9
+M.H. van Campen	9
+Caesar Gezelle	3
+Joannes Reddingius	1
+Ina Boudier-Bakker	1
+W.L. Penning	1
+Anna van Gogh-Kaulbach	1
+Marie Metz-Koning	1
+W.J.C. van Hasselt	9
+Bernard Shaw	9
+Adriaan van Oordt	1
+Eduard Verkade	9
+Maurits Sabbe	3
+S. Bonn	1
+Jan van Nijlen	1
+Maurits Uyldert	6
+René de Clercq	1
+Augusta de Wit	9
+Pieter Valkhoff	9
+Albrecht Rodenbach	6
+D. van Blom	9
+Carry van Bruggen	1
+Herman Poort	1
+J. Prinsen J.Lzn	1
+J. Prins	1
+C.A. Verrijn Stuart	9
+C. van Vollenhoven	9
+R.C. Bakhuizen van den Brink	1
+Johan Huizinga	9
+André Jolles	9
+P. Geyl	5
+P.J. Meertens	4
+Arthur J.H. Cornette	9
+Lode Baekelmans	3
+Joris Eeckhout	3
+Virginie Loveling	1
+Maurice Roelants	3
+André de Ridder	1
+N.A. Donkersloot	9
+W. Kramer	1
+J.H. Plantenga	9
+Emmanuel de Bom	1
+Cornelia Serrurier	1
+E.J. Dijksterhuis	5
+Lode Zielens	1
+Sybrandus Johannes Fockema Andreae	5
+S.J. Fockema Andreae	5
+Paul Valéry	3
+Jozef Muls	3
+R.F. Beerling	5
+D.C. Hesseling	1
+Anton Koolhaas	10
+A. Kool	10
+Homerus	1
+Thomas Mann	3
+H.E.H. van Loon	5
+Gerlach Royen	6
+J.C. Brandt Corstius	6
+Hein Boeken	9
+Yge Foppema	5
+F. Bordewijk	9
+O. Noordenbos	5
+M.J. Langeveld	5
+J.J. Vriend	9
+E.W. Beth	5
+L.H. Grondijs	5
+J.D. Meerwaldt	5
+J.J.L. Duyvendak	5
+Wouter Paap	11
+B.M. Telders	5
+D. Loenen	5
+J.D. Bierens de Haan	5
+G.S. Overdiep	4
+Jan Campert	11
+Eduard Reeser	5
+Emmy van Lokhorst	5
+J.N. Bakhuizen van den Brink	5
+G.W. Wolthuis	5
+J.S. Bartstra	5
+G.G. Kloeke	6
+Jaap Kunst	5
+K.F. Proost	5
+W. Banning	5
+H.J. Pos	5
+Anton van der Boom	9
+M.J. Sirks	5
+A.N. Molenaar	5
+C.F.A. van Dam	1
+Miguel de Cervantes Saavedra	1
+H. Wagenvoort	5
+B.A. van Groningen	5
+J.C.H. de Pater	5
+S.M. Noach	6
+J.C.A. Fetter	5
+Willem Jan Mari van Eysinga	5
+K. Strijd	5
+C.J. de Vogel	5
+G. van der Leeuw	5
+Johan van der Woude	1
+Simon Vestdijk	9
+N.E.H. van Esveld	5
+Johannes Lindeboom	5
+C.J. Kelk	5
+A.G.M. van Melsen	5
+Jan te Winkel	1
+J.E. de Haas	5
+G.P. Frets	5
+H.J. Prakke	5
+Ferdinand Langen	5
+Marie Ramondt	5
+Gerard van Eckeren	5
+W.Ph. Coolhaas	5
+Guus Dijkhuizen	11
+Johanna K. Oudendijk	5
+Henricus	6
+Gabriël Smit	5
+H. Engel	5
+G. Révész	5
+J. Keuning	5
+Jan Barents	5
+Hubert Lampo	3
+Piet van Aken	3
+Johan Daisne	3
+Raymond Herreman	3
+August Vermeylen	3
+I.J.M. van den Berg	5
+Karel Jonckheere	3
+Raymond Brulez	3
+Martin Permys	5
+W.J. Verdenius	5
+L. van den Ham	5
+C.W. Roldanus	5
+Willem van Maanen	5
+Francis Bacon	5
+C.F.P. Stutterheim	6
+H.F.W.D. Fischer	5
+Paul Rodenko	9
+C.W. de Vries	5
+J.M. Kramer	5
+B. Hunningher	1
+J. de Graaf	5
+Mary Dresselhuys	5
+Bert Voeten	5
+Jaap Romijn	5
+René Verbeeck	3
+Urbain van de Voorde	3
+Wim Vesseur	5
+Mea Verwey	1
+W.H. Staverman	9
+Max Croiset	5
+Ton Lutz	5
+Anna Blaman	5
+Luisa Treves	5
+Jan Sebastian Rabie	5
+Hugo Claus	11
+Luc Lutz	5
+Karel Meeuwesse	9
+Frank van der Goes	1
+Paul van Ostaijen	4
+A.L. Sötemann	4
+Julien Jozef Kuypers	3
+K.H.R. de Josselin de Jong	20
+R. de Josselin de Jong	20
+H.H.J. de Leeuwe	6
+R.J. Forbes	5
+Henri Wiessing	1
+David Koning	11
+P. Minderaa	6
+A. Alberts	9
+C.B. van Haeringen	6
+K. Lekkerkerker	9
+D.A. de Graaf	1
+Gerben Colmjon	1
+C. Bittremieux	6
+Victor E. van Vriesland	9
+Leo Vroman	11
+W.J.H. Caron	6
+H.W. van Tricht	4
+Ben Stroman	9
+Herman van den Bergh	1
+Lucebert	11
+Bert Bakker	5
+Willem Elsschot	3
+C.A. Zaalberg	6
+José-Maria de Heredia	4
+Elisabeth Eybers	4
+Sybren Polet	11
+Amy van Marken	11
+Attila József	21
+A. Kibédi Varga	21
+Sándor Weöres	21
+David Rokeah	5
+W.A. Braasem	11
+Alfred Kossmann	1
+Gerrit Achterberg	4
+Hans Andreus	11
+Martien J.G. de Jong	9
+Piet Calis	9
+Theo van Baaren	5
+Paul de Wispelaere	11
+Ivo Michiels	3
+G.J. Resink	6
+A.L. Constandse	11
+J.B. Charles	5
+Karel De Clerck	1
+G.J. Geers	5
+Blas de Otero	5
+R.A. Cornets de Groot	11
+J. Bernlef	11
+Hans Verhagen	11
+Jan Hanlo	10
+Gerrit Kouwenaar	11
+Paul Snoek	4
+Ezra Pound	11
+Ad den Besten	11
+Jan G. Elburg	10
+Cyriel Buysse	3
+Han Lammers	11
+Paul van 't Veer	11
+J.L. Heldring	11
+Ger Harmsen	9
+W.J.C. Buitendijk	6
+K. Schippers	11
+Albert Besnard	9
+Harry Mulisch	11
+Dylan Thomas	11
+Remco Campert	11
+Armando	11
+C. Buddingh'	11
+Bertus Aafjes	10
+H.A. Gomperts	11
+Chris van der Weye	9
+Peter Schat	11
+Coenraad van Emde Boas	5
+W.L. Brugsma	11
+J.C. van Schagen	10
+Cees Nooteboom	10
+Frits Kief	9
+Reinbert de Leeuw	11
+Louis Paul Boon	11
+Hans Henkemans	11
+Heere Heeresma	11
+Arie de Froe	11
+J. Sperna Weiland	11
+Simon Vinkenoog	1
+Koos Schuur	1
+F.B. Löhnis	11
+H.M. van Randwijk	11
+L. de Jong	11
+Bert Schierbeek	11
+Wallace Stevens	11
+Hans Keller	11
+Jac. van Hattum	11
+Maurits Mok	11
+Louis Andriessen	11
+Jan Blokker	11
+Matthijs Vermeulen	11
+Edmond Campers	11
+S.R. de Groot	11
+S. Dresden	4
+Victor J. Brunclair	11
+Roel van Duyn	11
+Judith Herzberg	11
+Maurice Gilliams	3
+Willem Frederik Hermans	4
+Rudi Fuchs	11
+J. Bosch	4
+T.S. Eliot	11
+Joris Ivens	11
+Joris Iven	11
+Annie Romein-Verschoor	5
+Peter Brook	11
+Aad van der Mijn	11
+Rein Bloem	11
+Frits Staal	11
+Noam Chomsky	11
+Krijn ter Braak	11
+Wilbert Bank	11
+Rudolf Geel	11
+J.W. Holsbergen	11
+G. van Benthem van den Bergh	11
+Loden Vogel	11
+Günter Grass	11
+Daniël de Lange	11
+Bastiaan Willink	11
+Dick Elffers	11
+Guy Kilian	11
+Sigmund Freud	11
+Miguel de Unamuno	11
+Abram de Swaan	11
+Norbert Elias	11
+Leo Ross	4
+Jacob Israël de Haan	9
+Ton Anbeek	4
+W.F. Wertheim	5
+H. de Lange	11
+Herman de Lange	11
+T.A. van Dijk	4
+Bram van der Lek	11
+H.J. Verkuyl	4
+W.G. Klooster	4
+Lien Heyting	11
+Wim Hazeu	11
+J.J.A. Mooij	4
+A. Mooij	4
+Bert Vanheste	11
+David Kettler	11
+Bart van Heerikhuizen	11
+James Joyce	10
+Rien T. Segers	9
+Anton Blok	11
+Johan Goudsblom	11
+Wiel Kusters	10
+Emma Brunt	11
+Lodewijk Brunt	11
+Huub Beurskens	10
+R.B. Kitaj	10
+W.A.M. de Moor	6
+Frans W. Saris	23
+N.G. van Kampen	23
+Enno Endt	10
+Rainer Maria Rilke	10
+Christel van Boheemen-Saaf	10
+D.H. Lawrence	10
+Peter van Zonneveld	4
+Kees Fens	4
+Jaap Goedegebuure	4
+Gottfried Benn	10
+Maarten Steenmeijer	24
+Octavio Paz	24
+Nico Wilterdink	11
+Hans Faverey	10
+J. Weisgerber	11
+Juan Carlos Onetti	24
+Mario Vargas Llosa	24
+Mario Molegraaf	10
+Hans Warren	10
+Ton Naaijkens	10
+Paul Celan	10
+Remco Ekkers	10
+Jan van Luxemburg	4
+Marc Galle	3
+Kas Deprez	4
+G. Geerts	4
+Anne Marie Musschoot	4
+Paul Claes	6
+W.P. Gerritsen	4
+Graa Boomsma	10
+Harry G.M. Prick	4
+F. Jansonius	9
+Agnes Verbiest	4
+A. Agnes Sneller	4
+P.J. Buijnsters	6
+Hieronymus van Alphen	6
+Mieke Bal	4
+Clarín	24
+W.J. van den Akker	4
+D.W. Fokkema	4
+G.J. Dorleijn	4
+W.H. Auden	10
+Jos Joosten	4
+Ernst van Alphen	4
+Hugo Brems	10
+Anne Duden	10
+Else Lasker-Schüler	10
+Hugo Bousset	10
+Peter Verhelst	10
+Eric de Kuyper	10
+Jan Fabre	10
+Patricia de Martelaere	10
+M. Februari	10
+Charlotte Mutsaers	10
+Dirk van Bastelaere	10
+Leo Pleysier	10
+Pol Hoste	10
+Koen Peeters	10
+Walter van den Broeck	10
+Atte Jongstra	10
+Anneke Brassinga	10
+Stefan Hertmans	10
+M.E. Belpaire	3
+Johannes Jörgensen	3
+Paul Alberdingk Thijm	3
+Jan Emiel Vliebergh	3
+E. Vliebergh	3
+A. Dupont	3
+Jaak Muyldermans	3
+Jozef Jacobs	3
+Fr. Meeus	3
+Peter Benoit	3
+Constance Teichmann	3
+Jules Persyn	3
+Frans Drijvers	3
+Hugo Verriest	3
+August Cuppens	3
+J. Salsmans	2
+O. Cornet	3
+Bergman	2
+Aloïs Walgrave	3
+Lodewijk Ontrop	3
+A.W. Sanders van Loo	9
+Floris Prims	3
+Selma Lagerlöf	3
+Louisa Duykers	3
+G. van Poppel	9
+Alfons Fierens	2
+G. Kurth	2
+Hilda Ram	3
+Lodewijk Dosfel	3
+Frans van Cauwelaert	9
+Jacob Smit	9
+Constant Eeckels	3
+Jozef van Mierlo	6
+Albertine Steenhoff-Smulders	1
+Annie Salomons	1
+Antonio Fogazzaro	3
+Fernand Toussaint van Boelaere	3
+Marie Koenen	2
+Jozef Simons	2
+D.C. Tinbergen	3
+Felix Rutten	3
+Jan Hammenecker	3
+Cyriel Verschaeve	3
+J.W. Muller	6
+Marie Schmitz	3
+August van Cauwelaert	3
+Gustaaf Segers	1
+Achilles Mussche	3
+Lambrecht Lambrechts	1
+Hilarion Thans	2
+Dirk Vansina	3
+J.A. Hallez	3
+Jac. Weil	4
+Jean Cocteau	3
+Jozef Uytterhoeven	3
+Paul Claudel	3
+Léopold Levaux	2
+Sigrid Undset	3
+L. de Smet	3
+J.A. Goris	3
+Ruth Schaumann	3
+Pertinax	9
+Raphaël M.J. Kreemers	3
+Ilja Ehrenburg	3
+Marcel Lobet	6
+Edward Rombauts	9
+Max Lamberty	3
+Albert Westerlinck	3
+Fernand Deschamps	9
+Bert Decorte	3
+Paul de Vree	9
+J.J. Gielen	9
+Marcel Coole	3
+Juul Filliaert	3
+I.K. Illakowicz	3
+Anton van Wilderode	9
+Pierre H. Dubois	6
+Lode Roose	6
+Gabriela Mistral	3
+Albert van Hoogenbemt	3
+R.F. Lissens	6
+J.A. van Houtte	2
+Joos Florquin	4
+Omer Wattez	1
+Jan van Beers	1
+J.B. Schepers	1
+Paul Fredericq	1
+Christine D'haen	4
+A. van Elslander	6
+Emiel Jan Janssen	2
+Tirso de Molina	9
+Hubert van Herreweghen	10
+Herwig Hensen	1
+J.A. Worp	6
+Fernand Auwera	11
+Jef Geeraerts	4
+Willem M. Roggeman	10
+W. Ruys	10
+Patricia Lasoen	10
+Marko Fondse	10
+Eddy van Vliet	10
+Daniël van Ryssel	10
+Herman de Coninck	4
+Jacques Kruithof	4
+Stefaan van den Bremt	10
+Huub Oosterhuis	10
+Jan van der Vegt	4
+Gerd Segers	10
+Ludo Abicht	10
+Harry Scholten	10
+Lionel Deflo	4
+Wim Zaal	10
+Paul Vanderschaeghe	10
+Julia Tulkens	10
+Willy Spillebeen	4
+J.J. Wesselo	4
+Roland Jooris	10
+Charles B. Timmer	10
+H.C. ten Berge	4
+Peter Berger	10
+Hans Vlek	10
+Julien Vangansbeke	10
+Jan Vanriet	10
+Clem Schouwenaars	10
+Willem Wilmink	10
+Roger Pieters	10
+Alstein	10
+Mark Insingel	10
+Gerrit Krol	10
+Erik van Ruysbeek	10
+Gerrit Komrij	4
+Robin Hannelore	10
+Marcel van Maele	10
+Frans Depeuter	10
+Jacques Hamelink	10
+Bernard Kemp	10
+Dirk Christiaens	10
+Jeroen Brouwers	10
+Martin Ros	10
+Geert van Beek	10
+Jaap Harten	10
+Anton Korteweg	4
+Ad Zuiderent	4
+C.O. Jellema	10
+Jo Gisekin	10
+Freddy de Vree	10
+Jozef Deleu	10
+L.H. Wiener	10
+H. van Gorp	4
+Lieven Rens	6
+Wilfried Adams	10
+Karel van het Reve	10
+Frans Boenders	10
+Hugues C. Pernath	10
+Patrick Conrad	10
+J.J. Oversteegen	4
+Sjoerd Kuyper	10
+J. van Tooren	10
+Jan Wolkers	4
+José Boyens	10
+Georges Wildemeersch	10
+Monika van Paemel	4
+Marcel Janssen	4
+Maarten 't Hart	4
+Anton Haakman	10
+Marcel Janssens	6
+Miel Vanstreels	10
+J. Uyttendaele	10
+Tymen Trolsky	10
+Luuk Gruwez	10
+Hans van de Waarsenburg	10
+Herman Sabbe	10
+Rutger Kopland	4
+Hedwig Speliers	10
+Jan van der Hoeven	10
+Nic van Bruggen	10
+Bob den Uyl	10
+Michel Bartosik	10
+Georges Adé	10
+Jef van Gool	10
+Rob Delvigne	10
+Tom van Deel	4
+Wim Meewis	10
+Pszisko Jacobs	10
+Cola Debrot	10
+Hugo Raes	10
+J.P. Guépin	10
+Joris Denoo	10
+Lucienne Stassaert	10
+Rudolf van de Perre	4
+Herman Pleij	4
+J.M.A. Biesheuvel	10
+K.L. Poll	10
+Frans van Dooren	10
+R.A. Basart	10
+Albert de Longie	10
+Jan Biezen	10
+Oek de Jong	10
+Bert Kooijman	10
+Car Flanders	10
+Gust Gils	10
+Dirk Kroon	4
+F.B. Hotz	10
+Eriek Verpale	10
+Hanneke van Buuren	4
+Willy Lauwens	10
+Jos de Haes	10
+Johanna Kruit	10
+Marc Bruynseraede	10
+Henk Romijn Meijer	10
+Kees Winkler	10
+Claude van de Berge	10
+Charles Vergeer	10
+Ian	6
+Eugène van Itterbeek	10
+Elly de Waard	10
+Jan Siebelink	10
+J.J. Mak	6
+Gerard Reve	4
+Hendrik Carette	10
+Karel Hellemans	10
+Armand van Assche	10
+Willem Brakman	10
+Rob Schouten	10
+W. Waterschoot	4
+Wouter Kotte	10
+Doeschka Meijsing	10
+H.H. ter Balkt	10
+Koen Vermeiren	4
+Willem van Toorn	10
+Eva Gerlach	10
+F.L. Bastet	10
+Hans Lodeizen	10
+Jan Kuijper	10
+Marc Reynebeau	10
+Jan Schepens	3
+Lieve Scheer	10
+Frans Kuipers	10
+Dirk Verbruggen	10
+Boudewijn Büch	10
+Philip Vermoortel	6
+Ida Gerhardt	4
+Ed Leeflang	10
+Dirk de Geest	4
+Stefaan Evenepoel	10
+Benno Barnard	10
+Erik Spinoy	10
+Karel Porteman	6
+E.K. Grootes	4
+H.J.A. Hofland	10
+Kristien Hemmerechts	10
+Anne van Herreweghen	10
+Bart Vervaeck	10
+Bert Ranke	1
+Jan Walravens	3
+Marcel de Smedt	4
+F.A. Snellaert	4
+Leen Huet	10
+Frank Willaert	4
+Rudi Laermans	10
+M.A. Schenkeveld-van der Dussen	4
+Elma van Haren	10
+Kamiel Vanhole	10
+Eric Vos	4
+Jan Baetens	4
+Jef Last	9
+Jacques Gans	9
+Karel Reijnders	4
+M.C. van den Toorn	4
+W. Blok	4
+H. Schultink	4
+E.M. Uhlenbeck	4
+A.W. de Groot	4
+C. Kruyskamp	6
+J. Kamerbeek jr.	4
+J.C. Kamerbeek	4
+P.C. Paardekooper	4
+N. van Wijk	1
+C.H. den Hertog	4
+A.A. Prins	0
+A. Prins	0
+F.A. Stoett	4
+P.F. Schmitz	4
+Teun Hoekstra	4
+Harry van der Hulst	4
+S.J. Lenselink	6
+G.J. de Haan	4
+Elrud Ibsch	4
+Arie Verhagen	4
+Wim Zonneveld	4
+Mieke Trommelen	4
+R.Th. van der Paardt	9
+Rob Wolfs	4
+Lo van Driel	1
+Taco Roorda	1
+Johan Kerstens	4
+Arthur Dirksen	4
+Peter van Bart	4
+Will van Peer	4
+Anneke Neijt	4
+A.M. Duinhoven	4
+Odile Heynders	10
+J.J. Kloek	4
+W.W. Mijnhardt	4
+Fred Weerman	4
+Frank Jansen	4
+Hans Anten	4
+P.G.J. van Sterkenburg	4
+Wardy Poelstra	4
+J.M. van der Horst	4
+A. van Loey	4
+H. Duits	4
+Jan Koopmans	1
+Jan L. Walch	1
+Adriaan Loosjes	1
+Hendrik van der Wal	1
+Edmond van Offel	1
+Frits Hopman	1
+Jan J. Zeldenthuis	1
+Johann Wolfgang von Goethe	3
+F.H. Fischer	1
+J. van Oudshoorn	1
+Jo de Wit	1
+J. Saks	6
+Karel Wasch	1
+Jan van Lumey	19
+Heinrich von Kleist	19
+Alie Smeding	1
+Nico Rost	1
+Max Brod	1
+Horatius	12
+Jaap van Gelderen	12
+Elisabeth Zernike	1
+S.G. de Vries	1
+G.J.W. Koolemans Beijnen	1
+P.J. Blok	1
+Louis D. Petit	1
+G.M. Boissevain	1
+J.H. Groenewegen	1
+P.H. van der Kemp	1
+L. Scharpé	1
+J. Herderscheê	1
+G.J. Boekenoogen	1
+P.C. Molhuysen	1
+J.E. Heeres	1
+R.W.P. de Vries	1
+J.C. Breen	1
+J.J. Salverda de Grave	1
+J.S. van Veen	1
+H.L. Drucker	1
+J.H. van den Bosch	1
+J.H. Abendanon	1
+C.P. Burger	1
+M.A. Perk	1
+J.A.N. Knuttel	1
+J.H. Holwerda	1
+A.A. Verdenius	1
+G.A. Nauta	1
+H. van Strien	1
+N. van der Laan	1
+A. Jager	1
+A.L.G. Bosboom-Toussaint	1
+C.C. van de Graft	1
+G.J. Nieuwenhuis	1
+H.T. Damsté	6
+A.A. van Rijnbach	1
+S.W.F. Margadant	1
+M.E. Kronenberg	1
+F.W. Stapel	1
+F. Oudschans Dentz	1
+J. Aleida Nijland	1
+K.H. Heeroma	6
+F.P. Huygens	5
+J. Leenen	1
+L. Grootaers	6
+Frank Baur	6
+C.C. de Bruin	6
+W.H. Beuken	6
+A.C. Bouman	1
+M. Schönfeld	6
+Jan Ploeger	1
+A.P. Grové	1
+P.C. Schoonees	1
+S.P.E. Boshoff	1
+P.J. Nienaber	1
+Ernst van Heerden	1
+D.J. Opperman	1
+G.S. Nienaber	1
+H.J.J.M. van der Merwe	1
+Th. Weevers	6
+L.C. Michels	6
+Jo Daan	4
+K. Fokkema	4
+Cornelis Rijnsdorp	5
+Jacoba M. Vreugdenhil	5
+Dingeman van der Stoep	5
+P.J. Risseeuw	5
+H.T.J. Miedema	4
+J.H. Brouwer	6
+A. Ampe	2
+B. van den Berg	6
+Marinel Gerritsen	4
+G.A. van Es	4
+Nop Maas	9
+L. Strengholt	4
+Wim Vermeer	4
+M.F. Fresco	9
+F. van Elmbt	3
+Peter J.A. Nissen	10
+Leo Herberghs	10
+W.F. Jonckheere	4
+J.C. Kannemeyer	4
+Maarten Klein	4
+F.P. van Oostrom	4
+Arie-Jan Gelderblom	4
+J.A. Rispens	1
+Jef Suys	5
+Hendrik Conscience	6
+P. Spigt	5
+Tadeusz Rózewicz	10
+Marc Andries	5
+T. Haan	5
+G.J.M. van het Reve	9
+Frans Bastiaanse	1
+Nine van der Schaaf	1
+E. Rijpma	1
+H. Robbers	1
+B.H. Peteri	1
+H.H.J. Maas	1
+Jacob Geel	1
+Leo Goemans	1
+Leo van Puyvelde	1
+Chr. Stapelkamp	1
+W. van Schothorst	1
+Daan van der Zee	1
+B. Faddegon	1
+J.A. vor der Hake	1
+F.P.H. Prick van Wely	1
+Simon Gorter	1
+H. Logeman	1
+K.H. de Raaf	1
+L.J.M. Feber	1
+L.A. te Winkel	1
+Frans Verschoren	1
+G.F. Haspels	1
+H.J.E. Endepols	1
+A.S.C. Wallis	1
+William Davids	1
+J. Mathijs Acket	6
+G.J. Hoogewerff	1
+K. ter Laan	6
+J.J.A.A. Frantzen	1
+J.H. Kern	1
+Ary Delen	1
+G. Engels	1
+J.D.C. van Dokkum	1
+C.C. Uhlenbeck	1
+J.L. Horsten	1
+D.A. Stracke	1
+A. Stracke	1
+Adolf Herckenrath	1
+A.C.S. de Koe	1
+E.F. Kossmann	1
+Laurens van der Waals	1
+Alfons de Cock	1
+François Pauwels	1
+G. Bolkestein	1
+Ph.J. Simons	1
+J. Petri	1
+H.W.J. Kroes	1
+Henri van Booven	1
+Herman Middendorp	1
+Arnold Sauwen	1
+H.H. Knippenberg	1
+J. Wille	1
+R. Foncke	1
+Daan Boens	1
+Firmin van Hecke	1
+Jo van Ammers-Küller	1
+A. Wapenaar	5
+Rinke Tolman	1
+J. de Jong	4
+G.E. Opstelten	1
+K. Kooiman	1
+Wilma	4
+E.C. Pienaar	1
+Willem van Doorn	1
+A. van Collem	1
+J.F. Willems	1
+Ernst Groenevelt	1
+Lode Monteyne	1
+A. Goslinga	1
+J.G.M. Moormann	1
+Israël Querido	1
+Antoon Thiry	1
+J. Mansion	1
+A.W.C. Zuidema	1
+Maurits de Meyer	1
+J.J. le Roux	1
+H.W.J.M. Keuls	1
+G.A. Brands	1
+Willem van Eeghem	1
+Kees Meekel	1
+Fritz Francken	1
+Martien Beversluis	1
+A. Carnoy	6
+Franz de Backer	1
+D.B. Bosman	1
+J.A. van Praag	1
+Paul de Keyser	1
+A.W. Grauls	1
+P.H. Greiner	1
+Alice Nahon	1
+L.P.H. Eykman	1
+J.H. Scholte	1
+Jan Gessler	1
+P.J.J. Diermanse	1
+F.C. Dominicus	1
+Gaston Burssens	1
+W.L.M.E. van Leeuwen	1
+H. Gerversman	1
+Henrik Scholte	1
+Anton Reichling	1
+H. Schröder	1
+Joost Hiddes Halbertsma	1
+G. Colmjon	1
+K.H.E. de Jong	1
+Jef Notermans	6
+R. Pennink	1
+Oscar Dambre	6
+A.J. Schneiders	1
+L.L. Hammerich	1
+J.C. van der Does	1
+L.J. Rogier	1
+Jan H. de Groot	1
+F.E.J. Malherbe	1
+W. van Ravesteyn	1
+Jop Pollmann	1
+J.L. Pauwels	6
+H.F. Wijnman	1
+Johan Fabricius	1
+Leo van Breen	1
+C. de Boer	1
+Leo Picard	1
+C.M. van den Heever	1
+H. de Buck	1
+A.C. de Jong	1
+J.F.J. van Tol	1
+Marianne Philips	1
+Is.P. de Vooys	9
+A.P. de Bont	1
+B.H. Erné	6
+J.F. Vanderheyden	1
+F.K.H. Kossmann	6
+Eric van der Steen	1
+F.G.A. Stemvers	1
+T.J. Haarhoff	1
+G. Karsten	1
+George Meir	1
+H.L. Bezoen	1
+C.L. Thijssen-Schoute	1
+A.J. de Jong	1
+G.I. Lieftinck	6
+G. Kazemier	4
+Prosper Arents	1
+Willem Pée	6
+L.M. van Dis	1
+H.A. Höweler	1
+J.H.J. Willems	1
+Clara Eggink	1
+G. Knop	1
+Max Kijzer	1
+J.E. van der Laan	1
+Jeanne van Schaik-Willing	1
+J. Naarding	6
+H.A. Mulder	1
+Anne de Vries	2
+W. van den Ent	1
+Paul Haimon	1
+Uys Krige	1
+Willy Dols	1
+A.R. Hol	1
+J.H. van Lessen	1
+I.D. du Plessis	1
+Barend de Goede	1
+H. Bonger	1
+Robert Franquinet	1
+F.W. van Heerikhuizen	1
+P. Polman	1
+J.D.M. Cornelissen	1
+F. de Tollenaere	4
+W. Roukens	1
+Gerard den Brabander	1
+J. Karsemeijer	1
+Adriaan van der Veen	4
+J.P. van Praag	1
+N.P. van Wyk Louw	6
+A. Marja	1
+R.W. Zandvoort	1
+Max Dendermonde	1
+P.C. Boeren	1
+H. Draye	6
+G.J. Uitman	1
+K. Roelandts	6
+K.C. Peeters	1
+Gerrit Kamphuis	6
+Gilbert Degroote	6
+S.A. Louw	1
+J. Noë	2
+S.J. van der Molen	1
+Maartje Draak	6
+J.B. Drewes	6
+Sjoerd Leiker	1
+F. Veenstra	4
+Henri A. Ett	1
+G. Jo Steenbergen	1
+G.W. Huygens	1
+Jan Boon	1
+Jan Spierdijk	1
+S.P. Uri	1
+H. de Vocht	1
+Paul Lebeau	1
+H.P.H. Teesing	6
+Willem Doorenbos	1
+Adriaan Morriën	1
+C.G.L. Apeldoorn	1
+Victor Varangot	1
+C.M. Geerars	6
+C.J.E. Dinaux	1
+Lodewijk Maerevoet	1
+J.G. Bomhoff	6
+F.J.P. Peeters	1
+Michel van der Plas	1
+W.J. Buma	6
+A.J.J. de Witte	6
+A. Sassen	4
+W.Gs Hellinga	6
+J.A. Huisman	6
+F.L. Zwaan	4
+A.G.H. Bachrach	6
+J.D.P. Warners	6
+D.Th. Enklaar	6
+A. Teeuw	6
+W.E. Hegman	6
+D.P. Blok	6
+F. van Vinckenroye	6
+M. Hanot	6
+F. Ketner	6
+Peter King	6
+S.F. Witstein	6
+Pierre Brachin	6
+J. Deschamps	6
+W.J.A. Jonckbloet	6
+R. Lievens	6
+L. Peeters	4
+F.G. Droste	4
+L. Brummel	6
+V.F. Vanacker	6
+Jan van Bakel	6
+Jaap Meijer	9
+Wim J. Simons	6
+Peter van Eeten	6
+L. Koelmans	4
+J.C. Arens	6
+Hilda van Assche	6
+Ada Deprez	6
+J. Goossens	4
+W. Drop	6
+Hubert J. Michaël	9
+M.C.A. van der Heijden	6
+N. de Paepe	6
+P.E.L. Verkuyl	6
+Drs. P	6
+H.A. Wage	4
+Ger Schmook	6
+Matthias de Vries	4
+H. Entjes	4
+S. Carmiggelt	4
+F. Lulofs	4
+H.M. Hermkens	4
+R. Vos	1
+A. Kraak	4
+L. Elaut	2
+W.M.H. Hummelen	4
+J. 't Hart	4
+J.J. Spa	6
+B.C. Damsteegt	4
+W. Martin	6
+A.A. Weijnen	4
+D.M. Bakker	4
+A. Feitsma	4
+W. Gobbers	6
+Norbert Morciniec	4
+R. Jansen-Sieben	4
+W.A. Ornée	4
+J. Taeldeman	4
+H. Hulshof	4
+A. Gruijs	4
+Piet Delen	4
+H.H. Grünhagen	4
+M.J.M. de Haan	4
+J.P. Gumbert	4
+Eldert Willems	4
+Breyten Breytenbach	4
+J.B. Berns	4
+L. Mosheuvel	4
+J.G. Kooij	4
+Ludo Simons	4
+Fons van Buuren	4
+C. van de Ketterij	4
+Jan Stroop	4
+Rob Nieuwenhuys	4
+R.L.K. Fokkema	4
+G.R.W. Dibbets	4
+H.W.J. Vekeman	4
+T.T. Cloete	4
+A.G.M. Vermeulen	4
+J.W. de Vries	4
+J.M.J. Sicking	4
+Marita Mathijsen	4
+J. Reynaert	4
+M.K. van Dort-Slijper	4
+Fr. Daems	4
+N.C.H. Wijngaards	4
+Jan Noordegraaf	4
+Louis Ferron	4
+J. Molemans	4
+A. Sturm	4
+A.N. Paasman	4
+Dirk Coigneau	4
+A.M. Hagen	4
+Carel Peeters	4
+Marijke Spies	4
+Frank van Gestel	4
+Orlanda S.H. Lie	4
+F.W.N. Hugenholtz	4
+P.N.G. Pesch	4
+Evert van den Berg	4
+W.A.A.M. Merlijn	4
+J.A. Dautzenberg	4
+Frans Claes	4
+Martin Hartkamp	4
+A.J. Hanou	6
+D.H. Lammers	4
+Jan Schoolmeesters	6
+J.H. Maureau	4
+Gerard Verhoeven	4
+Mark Baeyens	4
+Hella S. Haasse	4
+G.F.H. Raat	4
+C.W. van de Watering	4
+Sies de Haan	4
+Ton van Haaften	4
+Antoine Braet	4
+J.M. Willeumier-Schalij	4
+Rudy Kousbroek	4
+J. van Marle	4
+Wim Rutgers	4
+M.H. Schenkeveld	4
+Bert van Selm	4
+R.W.W.M. van der Drift	4
+Marlies Philippa	4
+P.J. Verkruijsse	4
+Aad Nuis	4
+Camiel Hamans	4
+Guus Extra	4
+René Appel	4
+Eep Francken	4
+N. van der Blom	4
+Hanna Stouten	4
+G. van Eemeren	4
+Marijke Meijer Drees	4
+Siem Bakker	4
+G. Gerritsen-Geywitz	4
+Maarten van Buuren	4
+Piet Meeuse	4
+Ward Ruyslinck	4
+Mieke B. Smits-Veldt	4
+Hans van den Bergh	4
+Hans Heestermans	4
+Rob Rentenaar	4
+Philippe Noble	4
+W. Bronzwaer	4
+Lia van Gemert	4
+P.H. Schrijvers	4
+Aleid Truijens	4
+Dick Springorum	4
+Ad Foolen	4
+Willem G. Weststeijn	4
+G.J. Vis	4
+Frida Balk-Smit Duyzentkunst	4
+J. A. Le Loux-Schuringa	4
+Kitty M. van Leuven-Zwart	4
+Riemer Reinsma	4
+M. Vasalis	4
+W.S. Huberts	4
+Jozef D. Janssens	4
+A. Moerdijk	4
+Toon Tellegen	4
+Jan Fontijn	4
+W.F.G. Breekveldt	4
+Ton Harmsen	4
+Olf Praamstra	4
+B.P.M. Dongelmans	4
+Paul Gillaerts	4
+August Hans den Boef	4
+Theo A.J.M. Janssen	4
+Harry Bekkering	4
+Hans Bennis	4
+Bart Besamusca	4
+S.C. Dik	4
+Cyrille Offermans	4
+Frank Berndsen	4
+Aster Berkhof	4
+Irene Spijker	4
+A.A. Keersmaekers	6
+J.J.M. Westenbroek	4
+Hans Vanacker	4
+Guillaume van der Graft	5
+Bernhard F. Scholz	4
+Stanislaw Predota	4
+Willy Vandeweghe	4
+Hanneke Houtkoop-Steenstra	4
+Roger Henrard	6
+Ron Elshout	4
+J.A. van Leuvensteijn	4
+Jean Brüll	4
+Tanja Janssen	4
+Piet Visser	4
+Korrie Korevaart	4
+van der Veur	4
+Ares Koopman	4
+Rudolf Dekker	4
+Ben van Melick	4
+Jan Klein	4
+J.H. Winkelman	4
+Gé Vaartjes	4
+Hans Luijten	4
+Ineke Bulte	4
+P.J.A. Franssen	4
+Marieke M. van Oostrom	4
+Hans Renders	4
+Hanneke Eggels	4
+Dirk Geeraerts	4
+Jan Nijen Twilhaar	4
+Jaap de Jong	4
+Dieuwke E. van der Poel	4
+Frans Ruiter	4
+Pieter Nieuwint	4
+Maaike Meijer	4
+Cor van Bree	4
+Fabian R.W. Stolk	4
+Kees Singeling	4
+Marc Van Vaeck	4
+Joost Niemöller	4
+Rogi Wieg	4
+Mary G. Kemperink	4
+Herman Giesbers	4
+Ton van der Wouden	4
+Ralf Grüttemeier	4
+Jacqueline de Man	4
+Thomas Vaessens	4
+Ben Salemans	4
+Wilbert Smulders	4
+A. Middeldorp	4
+Annie van den Oever	4
+Henk Bloemhoff	4
+Kees Snoek	4
+Michiel van Kempen	4
+Ariane van Santen	4
+Annelies van Gijsen	4
+Louis Peter Grijp	4
+Ben Peperkamp	4
+Lisa Kuitert	4
+Eric Hoekstra	4
+Ton van Strien	4
+Theo Hermans	4
+Hans Broekhuis	4
+Marijke J. van der Wal	4
+Yves T'Sjoen	4
+Joost Zwagerman	4
+Margriet de Moor	4
+Hans Groenewegen	4
+Theo Meder	4
+Joris Gerits	4
+Jacqueline Bel	4
+Paul Van Keymeulen	3
+Hugo Walschap	3
+Lucien Brulez	3
+Stéphane Mallarmé	3
+Leopold Flam	3
+Lidy van Eijsselsteijn	2
+Anna Mertens	5
+Henk Krijger	5
+Ab Visser	5
+C. Vermeer	5
+C. Ouboter	5
+J.C. Schuller	5
+Koos van Doorne	5
+M. Siesling	5
+P.A. Hekstra	5
+Jaap Das	5
+K.J. Popma	5
+J. van Doorne	5
+Johan van Hulzen	5
+S.J. Popma	5
+Arjen Miedema	5
+Jan Elzo Niemeijer	5
+Aart Romijn	5
+Etus Alons-Bernhardt	22
+Endre Ady	22
+J.H. Schouten	5
+Coert Poort	5
+William Blake	1
+Emiel Willekens	6
+Carlos Tindemans	6
+Piet Couttenier	6
+Paul Schampaert	9
+Ingrid van de Wijer	6
+K. du Bois de Vroylande	2
+F. De Raedemaeker	2
+Eugenius Druwé	2
+L. Arts	2
+R. van Ooteghem	2
+Edw. De Schaepdrijver	2
+J. Donceel	2
+Alb. Raignier	2
+M. Dufraing	2
+Gaston Van Bulck	2
+Anton Van de Velde	2
+G. De Wolf	2
+A. Snoeck	2
+H. Bruders	2
+Louis H.M. Monden	2
+B. De Wint	2
+L.G. Polspoel	2
+Jan Jozef van Laer	2
+W. De Roy	2
+Marcel Matthijs	2
+Marcel van Caster	2
+A. Darquennes	2
+Ad. Jansen	2
+L. Vander Kerken	2
+E.J. Vandenbussche	2
+L. Verelst	2
+Hugo Vandeperre	2
+Edouard Dhanis	2
+J. De Jaegher	2
+Leo Simoens	2
+P. Ellerbeek	2
+W. Talloen	2
+M. Schurmans	2
+Edgard de Bruyne	2
+Michiel Dierickx	2
+Karel van Isacker	2
+L. Baudez	2
+Walter F. Smet	2
+P. Goedertier	2
+Albert Deblaere	2
+Clemens Maria Beukers	2
+E. de Strycker	2
+Alb. Block	2
+R. Leijs	2
+E. De Cooman	2
+Fr. van Baarle	2
+M. van Stratum	2
+J. Smets	2
+Pieter Frans Fransen	2
+G. Van Cutsem	2
+Em. Peeters	2
+H. Peeters	2
+Marcel Brauns	2
+Louis Sterkens	2
+W. Luyten	2
+Jos. Burvenich	2
+Antoon Fimmers	2
+J. Talloen	2
+I. De la Potterie	2
+Louis Bruyns	2
+J.B. Poukens	2
+B. Boeyckens	2
+G. Huyghe	2
+Fl. Bertiau	2
+Jozef Andriessen	2
+G. Garmijn	2
+Paul Maria Jozef de Meester	2
+L. Mestdagh	2
+J. De Fraine	2
+G. Gilleman	2
+A. Boone	2
+Jan Bruna	9
+Fr. de Jong Edz.	5
+Pieter Korthuys	5
+G.E. Mulder	5
