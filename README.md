@@ -1,5 +1,4 @@
-# Network_CCLAMP
-Network analysis of the authors in the CCLAMP corpus
+# Network analysis of the authors in the CCLAMP corpus
 
 Short description of the network:
 - Directed network
