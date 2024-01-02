@@ -1,4 +1,4 @@
-# Network analysis of the authors in the CCLAMP corpus
+# Network analysis of the authors in [the CCLAMP corpus](https://www.aup-online.com/content/journals/10.5117/NEDTAA2021.3.002.PIER)
 
 Short description of the network:
 - Directed network
