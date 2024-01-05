@@ -1,0 +1,1118 @@
+Target	Source	Weight	Author	DOB
+Jan Engelman	Willem Maas	7.0	Jan Engelman	7 juni 1900
+Henk Kuitenbrouwer	Jan Bruna	8.0	Henk Kuitenbrouwer	20 november 1903
+Jan Engelman	Albert Kuyle	15.0	Jan Engelman	7 juni 1900
+Jan Engelman	Jan Bruna	7.0	Jan Engelman	7 juni 1900
+Jan Engelman	Henk Kuitenbrouwer	13.0	Jan Engelman	7 juni 1900
+Albert Kuyle	Henk Kuitenbrouwer	27.0	Albert Kuyle	17 februari 1904
+Jan Bruna	Henk Kuitenbrouwer	8.0	Jan Bruna	17 augustus 1876
+Henk Kuitenbrouwer	Jan Engelman	13.0	Henk Kuitenbrouwer	20 november 1903
+Jan Bruna	Jan Engelman	7.0	Jan Bruna	17 augustus 1876
+Henk Kuitenbrouwer	Albert Helman	7.0	Henk Kuitenbrouwer	20 november 1903
+Jan Engelman	Albert Helman	10.0	Jan Engelman	7 juni 1900
+Albert Helman	Jan Engelman	10.0	Albert Helman	7 november 1903
+Albert Helman	Henk Kuitenbrouwer	7.0	Albert Helman	7 november 1903
+Albert Kuyle	Jan Engelman	15.0	Albert Kuyle	17 februari 1904
+Henk Kuitenbrouwer	Albert Kuyle	27.0	Henk Kuitenbrouwer	20 november 1903
+Albert Helman	Albert Kuyle	6.0	Albert Helman	7 november 1903
+Albert Kuyle	Albert Helman	6.0	Albert Kuyle	17 februari 1904
+Albert Kuyle	Anton van Duinkerken	10.0	Albert Kuyle	17 februari 1904
+Anton van Duinkerken	Henk Kuitenbrouwer	15.0	Anton van Duinkerken	2 januari 1903
+Anton van Duinkerken	Albert Kuyle	10.0	Anton van Duinkerken	2 januari 1903
+Sybold van Ravesteyn	Anton van Duinkerken	8.0	Sybold van Ravesteyn	18 februari 1889
+Anton van Duinkerken	Sybold van Ravesteyn	8.0	Anton van Duinkerken	2 januari 1903
+Anton van Duinkerken	A. van Domburg	7.0	Anton van Duinkerken	2 januari 1903
+Henk Kuitenbrouwer	Anton van Duinkerken	15.0	Henk Kuitenbrouwer	20 november 1903
+A.J.D. van Oosten	Sybold van Ravesteyn	8.0	A.J.D. van Oosten	12 november 1898
+Henk Kuitenbrouwer	Ad. Sassen	5.0	Henk Kuitenbrouwer	20 november 1903
+A.J.D. van Oosten	Anton van Duinkerken	22.0	A.J.D. van Oosten	12 november 1898
+Anton van Duinkerken	A.J.D. van Oosten	22.0	Anton van Duinkerken	2 januari 1903
+A. van Domburg	A.J.D. van Oosten	5.0	A. van Domburg	9 januari 1895
+A. van Domburg	Anton van Duinkerken	7.0	A. van Domburg	9 januari 1895
+A. van Domburg	Henk Kuitenbrouwer	5.0	A. van Domburg	9 januari 1895
+A.J.D. van Oosten	Henk Kuitenbrouwer	9.0	A.J.D. van Oosten	12 november 1898
+A.J.D. van Oosten	A. van Domburg	5.0	A.J.D. van Oosten	12 november 1898
+Henk Kuitenbrouwer	A. van Domburg	5.0	Henk Kuitenbrouwer	20 november 1903
+Henk Kuitenbrouwer	A.J.D. van Oosten	9.0	Henk Kuitenbrouwer	20 november 1903
+Ad. Sassen	A.J.D. van Oosten	5.0	Ad. Sassen	1906
+Ad. Sassen	Henk Kuitenbrouwer	5.0	Ad. Sassen	1906
+A.J.D. van Oosten	Ad. Sassen	5.0	A.J.D. van Oosten	12 november 1898
+A.J.D. van Oosten	Wouter Paap	6.0	A.J.D. van Oosten	12 november 1898
+A.J.D. van Oosten	Jan Engelman	11.0	A.J.D. van Oosten	12 november 1898
+Jan Engelman	Wouter Paap	5.0	Jan Engelman	7 juni 1900
+Sybold van Ravesteyn	A.J.D. van Oosten	8.0	Sybold van Ravesteyn	18 februari 1889
+Jan Engelman	A.J.D. van Oosten	11.0	Jan Engelman	7 juni 1900
+Wouter Paap	Jan Engelman	5.0	Wouter Paap	7 mei 1908
+Wouter Paap	A.J.D. van Oosten	6.0	Wouter Paap	7 mei 1908
+A.J.D. van Oosten	A.G.W. Severijnen	8.0	A.J.D. van Oosten	12 november 1898
+A.J.D. van Oosten	Gerard Wijdeveld	5.0	A.J.D. van Oosten	12 november 1898
+A.J.D. van Oosten	Jan Vercammen	5.0	A.J.D. van Oosten	12 november 1898
+Gerard Wijdeveld	A.J.D. van Oosten	5.0	Gerard Wijdeveld	1905
+Margo Scharten-Antink	Carel Scharten	49.0	Margo Scharten-Antink	7 september 1869
+Carel Scharten	Margo Scharten-Antink	49.0	Carel Scharten	14 maart 1878
+Johan de Meester	J.N. van Hall	20.0	Johan de Meester	6 februari 1860
+R.P.J. Tutein Nolthenius	J.N. van Hall	6.0	R.P.J. Tutein Nolthenius	6 juni 1851
+Carel Scharten	J.N. van Hall	10.0	Carel Scharten	14 maart 1878
+J.N. van Hall	Johan de Meester	20.0	J.N. van Hall	15 januari 1840
+Johan de Meester	H.T. Colenbrander	12.0	Johan de Meester	6 februari 1860
+J.N. van Hall	H.T. Colenbrander	12.0	J.N. van Hall	15 januari 1840
+J.N. van Hall	Carel Scharten	10.0	J.N. van Hall	15 januari 1840
+H.T. Colenbrander	Carel Scharten	5.0	H.T. Colenbrander	13 december 1871
+Carel Scharten	H.T. Colenbrander	5.0	Carel Scharten	14 maart 1878
+H.T. Colenbrander	J.N. van Hall	12.0	H.T. Colenbrander	13 december 1871
+J.N. van Hall	R.P.J. Tutein Nolthenius	6.0	J.N. van Hall	15 januari 1840
+J.N. van Hall	D. van Blom	7.0	J.N. van Hall	15 januari 1840
+Johan de Meester	D. van Blom	8.0	Johan de Meester	6 februari 1860
+H.T. Colenbrander	D. van Blom	13.0	H.T. Colenbrander	13 december 1871
+Johan Huizinga	D. van Blom	6.0	Johan Huizinga	7 december 1872
+D. van Blom	J.N. van Hall	7.0	D. van Blom	19 december 1877
+D. van Blom	M.H. van Campen	6.0	D. van Blom	19 december 1877
+M.H. van Campen	J.N. van Hall	6.0	M.H. van Campen	1 juli 1874
+J.N. van Hall	M.H. van Campen	6.0	J.N. van Hall	15 januari 1840
+H.T. Colenbrander	Johan de Meester	12.0	H.T. Colenbrander	13 december 1871
+M.H. van Campen	D. van Blom	6.0	M.H. van Campen	1 juli 1874
+Carel Scharten	R.C. Bakhuizen van den Brink	6.0	Carel Scharten	14 maart 1878
+R.C. Bakhuizen van den Brink	Margo Scharten-Antink	6.0	R.C. Bakhuizen van den Brink	28 februari 1810
+R.C. Bakhuizen van den Brink	Carel Scharten	6.0	R.C. Bakhuizen van den Brink	28 februari 1810
+D. van Blom	Johan de Meester	8.0	D. van Blom	19 december 1877
+D. van Blom	Johan Huizinga	6.0	D. van Blom	19 december 1877
+J.C. Bloem	H. Marsman	5.0	J.C. Bloem	10 mei 1887
+D. van Blom	H. Marsman	5.0	D. van Blom	19 december 1877
+H.T. Colenbrander	H. Marsman	5.0	H.T. Colenbrander	13 december 1871
+H. Marsman	Arthur J.H. Cornette	9.0	H. Marsman	30 september 1899
+Arthur J.H. Cornette	D.A.M. Binnendijk	7.0	Arthur J.H. Cornette	4 maart 1880
+D. van Blom	Arthur J.H. Cornette	7.0	D. van Blom	19 december 1877
+Arthur J.H. Cornette	H.T. Colenbrander	11.0	Arthur J.H. Cornette	4 maart 1880
+Johan Huizinga	Arthur J.H. Cornette	6.0	Johan Huizinga	7 december 1872
+Martinus Nijhoff	Arthur J.H. Cornette	9.0	Martinus Nijhoff	20 april 1894
+Martinus Nijhoff	Arthur J.H. Cornette	9.0	Martinus Nijhoff	26 december 1826
+Martinus Nijhoff	H. Marsman	5.0	Martinus Nijhoff	20 april 1894
+Martinus Nijhoff	H. Marsman	5.0	Martinus Nijhoff	26 december 1826
+Arthur J.H. Cornette	H. Marsman	9.0	Arthur J.H. Cornette	4 maart 1880
+D.A.M. Binnendijk	Arthur J.H. Cornette	7.0	D.A.M. Binnendijk	12 oktober 1902
+Arthur J.H. Cornette	Martinus Nijhoff	9.0	Arthur J.H. Cornette	4 maart 1880
+Arthur J.H. Cornette	Johan Huizinga	6.0	Arthur J.H. Cornette	4 maart 1880
+H.T. Colenbrander	Arthur J.H. Cornette	11.0	H.T. Colenbrander	13 december 1871
+N.A. Donkersloot	Martinus Nijhoff	5.0	N.A. Donkersloot	8 september 1902
+D. van Blom	Martinus Nijhoff	5.0	D. van Blom	19 december 1877
+H. Marsman	Martinus Nijhoff	5.0	H. Marsman	30 september 1899
+H. Marsman	J.C. Bloem	5.0	H. Marsman	30 september 1899
+N.A. Donkersloot	Arthur J.H. Cornette	6.0	N.A. Donkersloot	8 september 1902
+Martinus Nijhoff	D. van Blom	5.0	Martinus Nijhoff	20 april 1894
+Martinus Nijhoff	D. van Blom	5.0	Martinus Nijhoff	26 december 1826
+Martinus Nijhoff	H.T. Colenbrander	6.0	Martinus Nijhoff	20 april 1894
+Martinus Nijhoff	H.T. Colenbrander	6.0	Martinus Nijhoff	26 december 1826
+H. Marsman	H.T. Colenbrander	5.0	H. Marsman	30 september 1899
+Arthur J.H. Cornette	Jan Greshoff	5.0	Arthur J.H. Cornette	4 maart 1880
+H.T. Colenbrander	Martinus Nijhoff	6.0	H.T. Colenbrander	13 december 1871
+Jan Greshoff	Arthur J.H. Cornette	5.0	Jan Greshoff	15 december 1888
+Arthur J.H. Cornette	N.A. Donkersloot	6.0	Arthur J.H. Cornette	4 maart 1880
+D. van Blom	H.T. Colenbrander	13.0	D. van Blom	19 december 1877
+H.T. Colenbrander	N.A. Donkersloot	6.0	H.T. Colenbrander	13 december 1871
+N.A. Donkersloot	H.T. Colenbrander	6.0	N.A. Donkersloot	8 september 1902
+H.T. Colenbrander	H.E.H. van Loon	6.0	H.T. Colenbrander	13 december 1871
+E.J. Dijksterhuis	H.T. Colenbrander	21.0	E.J. Dijksterhuis	28 oktober 1892
+Theun de Vries	E.J. Dijksterhuis	5.0	Theun de Vries	26 april 1907
+E.J. Dijksterhuis	H.E.H. van Loon	8.0	E.J. Dijksterhuis	28 oktober 1892
+Arthur J.H. Cornette	E.J. Dijksterhuis	5.0	Arthur J.H. Cornette	4 maart 1880
+E.J. Dijksterhuis	D. van Blom	6.0	E.J. Dijksterhuis	28 oktober 1892
+E.J. Dijksterhuis	J.H. Plantenga	22.0	E.J. Dijksterhuis	28 oktober 1892
+H.T. Colenbrander	J.H. Plantenga	9.0	H.T. Colenbrander	13 december 1871
+H.T. Colenbrander	E.J. Dijksterhuis	21.0	H.T. Colenbrander	13 december 1871
+D. van Blom	E.J. Dijksterhuis	6.0	D. van Blom	19 december 1877
+H.E.H. van Loon	E.J. Dijksterhuis	8.0	H.E.H. van Loon	1885
+E.J. Dijksterhuis	Arthur J.H. Cornette	5.0	E.J. Dijksterhuis	28 oktober 1892
+B.M. Telders	E.J. Dijksterhuis	8.0	B.M. Telders	19 maart 1903
+J.H. Plantenga	H.T. Colenbrander	9.0	J.H. Plantenga	15 januari 1891
+J.H. Plantenga	E.J. Dijksterhuis	22.0	J.H. Plantenga	15 januari 1891
+J.H. Plantenga	Anton van der Boom	6.0	J.H. Plantenga	15 januari 1891
+E.J. Dijksterhuis	Anton van der Boom	12.0	E.J. Dijksterhuis	28 oktober 1892
+Anton van der Boom	J.H. Plantenga	6.0	Anton van der Boom	28 januari 1895
+Anton van der Boom	E.J. Dijksterhuis	12.0	Anton van der Boom	28 januari 1895
+J.N. Bakhuizen van den Brink	E.J. Dijksterhuis	5.0	J.N. Bakhuizen van den Brink	25 mei 1896
+E.J. Dijksterhuis	B.M. Telders	8.0	E.J. Dijksterhuis	28 oktober 1892
+H. Marsman	D. van Blom	5.0	H. Marsman	30 september 1899
+E.J. Dijksterhuis	J.N. Bakhuizen van den Brink	5.0	E.J. Dijksterhuis	28 oktober 1892
+F. Bordewijk	J.H. Plantenga	7.0	F. Bordewijk	10 oktober 1884
+E.J. Dijksterhuis	F. Bordewijk	8.0	E.J. Dijksterhuis	28 oktober 1892
+A.N. Molenaar	E.J. Dijksterhuis	35.0	A.N. Molenaar	20 april 1888
+A.N. Molenaar	J.H. Plantenga	5.0	A.N. Molenaar	20 april 1888
+A.N. Molenaar	F. Bordewijk	5.0	A.N. Molenaar	20 april 1888
+F. Bordewijk	E.J. Dijksterhuis	8.0	F. Bordewijk	10 oktober 1884
+E.J. Dijksterhuis	A.N. Molenaar	35.0	E.J. Dijksterhuis	28 oktober 1892
+J.W.F. Werumeus Buning	C.F.A. van Dam	17.0	J.W.F. Werumeus Buning	4 mei 1891
+F. Bordewijk	A.N. Molenaar	5.0	F. Bordewijk	10 oktober 1884
+B.A. van Groningen	E.J. Dijksterhuis	10.0	B.A. van Groningen	20 mei 1894
+E.J. Dijksterhuis	Theun de Vries	5.0	E.J. Dijksterhuis	28 oktober 1892
+J.H. Plantenga	A.N. Molenaar	5.0	J.H. Plantenga	15 januari 1891
+E.J. Dijksterhuis	J.C.H. de Pater	7.0	E.J. Dijksterhuis	28 oktober 1892
+Cornelia Serrurier	E.J. Dijksterhuis	5.0	Cornelia Serrurier	1879
+E.J. Dijksterhuis	Cornelia Serrurier	5.0	E.J. Dijksterhuis	28 oktober 1892
+G.P. Frets	E.J. Dijksterhuis	8.0	G.P. Frets	8 november 1879
+A.N. Molenaar	Marie Ramondt	6.0	A.N. Molenaar	20 april 1888
+Johanna K. Oudendijk	A.N. Molenaar	5.0	Johanna K. Oudendijk	1906
+A.N. Molenaar	Jan Barents	9.0	A.N. Molenaar	20 april 1888
+Jan Barents	A.N. Molenaar	9.0	Jan Barents	8 december 1916
+E.J. Dijksterhuis	Jan Barents	9.0	E.J. Dijksterhuis	28 oktober 1892
+J.C.H. de Pater	E.J. Dijksterhuis	7.0	J.C.H. de Pater	26 november 1887
+E.J. Dijksterhuis	P. Geyl	5.0	E.J. Dijksterhuis	28 oktober 1892
+P. Geyl	E.J. Dijksterhuis	5.0	P. Geyl	15 december 1887
+A.N. Molenaar	Martin Permys	6.0	A.N. Molenaar	20 april 1888
+A.N. Molenaar	L. van den Ham	10.0	A.N. Molenaar	20 april 1888
+E.J. Dijksterhuis	Martin Permys	8.0	E.J. Dijksterhuis	28 oktober 1892
+E.J. Dijksterhuis	L. van den Ham	17.0	E.J. Dijksterhuis	28 oktober 1892
+Martin Permys	L. van den Ham	5.0	Martin Permys	25 januari 1896
+E.J. Dijksterhuis	G.P. Frets	8.0	E.J. Dijksterhuis	28 oktober 1892
+E.J. Dijksterhuis	C.J. Kelk	5.0	E.J. Dijksterhuis	28 oktober 1892
+Willem van Maanen	E.J. Dijksterhuis	7.0	Willem van Maanen	22 november 1890
+Marie Ramondt	A.N. Molenaar	6.0	Marie Ramondt	22 maart 1878
+E.J. Dijksterhuis	B.A. van Groningen	10.0	E.J. Dijksterhuis	28 oktober 1892
+B.A. van Groningen	A.N. Molenaar	7.0	B.A. van Groningen	20 mei 1894
+Martin Permys	A.N. Molenaar	6.0	Martin Permys	25 januari 1896
+E.J. Dijksterhuis	Willem van Maanen	7.0	E.J. Dijksterhuis	28 oktober 1892
+A.N. Molenaar	Johanna K. Oudendijk	5.0	A.N. Molenaar	20 april 1888
+C.J. Kelk	E.J. Dijksterhuis	5.0	C.J. Kelk	28 augustus 1901
+Jan Barents	B.A. van Groningen	6.0	Jan Barents	8 december 1916
+L. van den Ham	A.N. Molenaar	10.0	L. van den Ham	1912
+L. van den Ham	E.J. Dijksterhuis	17.0	L. van den Ham	1912
+Jan Barents	E.J. Dijksterhuis	9.0	Jan Barents	8 december 1916
+Martin Permys	E.J. Dijksterhuis	8.0	Martin Permys	25 januari 1896
+B.A. van Groningen	Jan Barents	6.0	B.A. van Groningen	20 mei 1894
+A.N. Molenaar	B.A. van Groningen	7.0	A.N. Molenaar	20 april 1888
+E.J. Dijksterhuis	Jaap Romijn	5.0	E.J. Dijksterhuis	28 oktober 1892
+Jaak Muyldermans	A. Dupont	9.0	Jaak Muyldermans	8 september 1855
+Frans Drijvers	Jaak Muyldermans	5.0	Frans Drijvers	1858
+Frans Drijvers	Jaak Muyldermans	5.0	Frans Drijvers	 1858
+A. Dupont	Jaak Muyldermans	9.0	A. Dupont	13 juli 1868
+A. Dupont	Jan Emiel Vliebergh	11.0	A. Dupont	13 juli 1868
+Jan Emiel Vliebergh	A. Dupont	11.0	Jan Emiel Vliebergh	24 januari 1872
+Jaak Muyldermans	Frans Drijvers	5.0	Jaak Muyldermans	8 september 1855
+E. Vliebergh	Jules Persyn	9.0	E. Vliebergh	19de eeuw
+Jules Persyn	E. Vliebergh	9.0	Jules Persyn	20 april 1878
+M.E. Belpaire	Jules Persyn	5.0	M.E. Belpaire	31 januari 1853
+Jules Persyn	August van Cauwelaert	11.0	Jules Persyn	20 april 1878
+Gerard Walschap	J.A. Hallez	6.0	Gerard Walschap	9 juli 1898
+Gerard Walschap	Jules Persyn	7.0	Gerard Walschap	9 juli 1898
+J.A. Hallez	Jules Persyn	7.0	J.A. Hallez	4 juni 1881
+J.A. Hallez	Gerard Walschap	6.0	J.A. Hallez	4 juni 1881
+Frederik van Eeden	Jac. Weil	5.0	Frederik van Eeden	3 april 1860
+August van Cauwelaert	Gerard Walschap	6.0	August van Cauwelaert	31 december 1885
+Jozef Uytterhoeven	August van Cauwelaert	7.0	Jozef Uytterhoeven	15 oktober 1890
+August van Cauwelaert	J.A. Hallez	9.0	August van Cauwelaert	31 december 1885
+Jules Persyn	Louisa Duykers	20.0	Jules Persyn	20 april 1878
+J.A. Hallez	August van Cauwelaert	9.0	J.A. Hallez	4 juni 1881
+August van Cauwelaert	L. de Smet	11.0	August van Cauwelaert	31 december 1885
+August van Cauwelaert	Jules Persyn	11.0	August van Cauwelaert	31 december 1885
+August van Cauwelaert	Louisa Duykers	32.0	August van Cauwelaert	31 december 1885
+L. de Smet	Jules Persyn	15.0	L. de Smet	20ste eeuw
+L. de Smet	Louisa Duykers	18.0	L. de Smet	20ste eeuw
+August van Cauwelaert	Jozef Uytterhoeven	7.0	August van Cauwelaert	31 december 1885
+J.A. Hallez	Louisa Duykers	15.0	J.A. Hallez	4 juni 1881
+M.E. Belpaire	August van Cauwelaert	5.0	M.E. Belpaire	31 januari 1853
+M.E. Belpaire	Louisa Duykers	9.0	M.E. Belpaire	31 januari 1853
+L. de Smet	August van Cauwelaert	11.0	L. de Smet	20ste eeuw
+Gerard Walschap	Louisa Duykers	5.0	Gerard Walschap	9 juli 1898
+Jules Persyn	L. de Smet	15.0	Jules Persyn	20 april 1878
+J.A. Goris	Louisa Duykers	5.0	J.A. Goris	1899
+Louisa Duykers	Jules Persyn	20.0	Louisa Duykers	13 maart 1869
+Louisa Duykers	L. de Smet	18.0	Louisa Duykers	13 maart 1869
+August van Cauwelaert	M.E. Belpaire	5.0	August van Cauwelaert	31 december 1885
+Marnix Gijsen	Louisa Duykers	6.0	Marnix Gijsen	20 oktober 1899
+Raphaël M.J. Kreemers	Louisa Duykers	18.0	Raphaël M.J. Kreemers	13 januari 1894
+August van Cauwelaert	Raphaël M.J. Kreemers	7.0	August van Cauwelaert	31 december 1885
+Gerard Walschap	Marnix Gijsen	24.0	Gerard Walschap	9 juli 1898
+Gerard Walschap	August van Cauwelaert	6.0	Gerard Walschap	9 juli 1898
+Louisa Duykers	Marnix Gijsen	6.0	Louisa Duykers	13 maart 1869
+Louisa Duykers	August van Cauwelaert	32.0	Louisa Duykers	13 maart 1869
+Louisa Duykers	J.A. Goris	5.0	Louisa Duykers	13 maart 1869
+Maurice Roelants	Marnix Gijsen	7.0	Maurice Roelants	19 december 1895
+Marnix Gijsen	Julien Jozef Kuypers	7.0	Marnix Gijsen	20 oktober 1899
+Louisa Duykers	J.A. Hallez	15.0	Louisa Duykers	13 maart 1869
+Louisa Duykers	Raphaël M.J. Kreemers	18.0	Louisa Duykers	13 maart 1869
+Raphaël M.J. Kreemers	August van Cauwelaert	7.0	Raphaël M.J. Kreemers	13 januari 1894
+Louisa Duykers	Fernand Deschamps	7.0	Louisa Duykers	13 maart 1869
+Louisa Duykers	M.E. Belpaire	9.0	Louisa Duykers	13 maart 1869
+Fernand Deschamps	Louisa Duykers	7.0	Fernand Deschamps	13 juli 1868
+Paul Claudel	Urbain van de Voorde	5.0	Paul Claudel	6 augustus 1868
+Albert Westerlinck	André Demedts	11.0	Albert Westerlinck	17 februari 1914
+André Demedts	Albert Westerlinck	11.0	André Demedts	8 augustus 1906
+Menno ter Braak	E. du Perron	20.0	Menno ter Braak	26 januari 1902
+E. du Perron	Menno ter Braak	20.0	E. du Perron	2 november 1899
+Simon Vestdijk	E. du Perron	5.0	Simon Vestdijk	17 oktober 1898
+E. du Perron	Simon Vestdijk	5.0	E. du Perron	2 november 1899
+Maurice Roelants	Raymond Herreman	5.0	Maurice Roelants	19 december 1895
+Maurice Roelants	Gerard Walschap	11.0	Maurice Roelants	19 december 1895
+Marnix Gijsen	Raymond Herreman	7.0	Marnix Gijsen	20 oktober 1899
+Marnix Gijsen	Gerard Walschap	24.0	Marnix Gijsen	20 oktober 1899
+Raymond Herreman	Gerard Walschap	9.0	Raymond Herreman	21 augustus 1896
+Raymond Herreman	Maurice Roelants	5.0	Raymond Herreman	21 augustus 1896
+Gerard Walschap	Maurice Roelants	11.0	Gerard Walschap	9 juli 1898
+Maurice Roelants	Raymond Brulez	5.0	Maurice Roelants	19 december 1895
+Gerard Walschap	Raymond Brulez	28.0	Gerard Walschap	9 juli 1898
+Raymond Herreman	Marnix Gijsen	7.0	Raymond Herreman	21 augustus 1896
+Gerard Walschap	Raymond Herreman	9.0	Gerard Walschap	9 juli 1898
+Gerard Walschap	Karel Jonckheere	18.0	Gerard Walschap	9 juli 1898
+Marnix Gijsen	Maurice Roelants	7.0	Marnix Gijsen	20 oktober 1899
+Jan L. Walch	Hendrik van der Wal	6.0	Jan L. Walch	2 januari 1879
+Hendrik van der Wal	Jan L. Walch	6.0	Hendrik van der Wal	1880
+Johann Wolfgang von Goethe	Nico van Suchtelen	7.0	Johann Wolfgang von Goethe	28 augustus 1749
+Mea Verwey	Jan L. Walch	5.0	Mea Verwey	2 maart 1892
+Mea Verwey	Frans Coenen	5.0	Mea Verwey	2 maart 1892
+Jan L. Walch	Frans Coenen	40.0	Jan L. Walch	2 januari 1879
+Frans Coenen	Jan L. Walch	40.0	Frans Coenen	24 april 1866
+Jan Koopmans	C.G.N. de Vooys	34.0	Jan Koopmans	26 maart 1860
+C.G.N. de Vooys	Jan Koopmans	34.0	C.G.N. de Vooys	26 mei 1873
+D.C. Tinbergen	C.G.N. de Vooys	7.0	D.C. Tinbergen	8 mei 1874
+C.G.N. de Vooys	D.C. Hesseling	5.0	C.G.N. de Vooys	26 mei 1873
+M. Schönfeld	C.G.N. de Vooys	18.0	M. Schönfeld	9 februari 1880
+C.G.N. de Vooys	D.C. Tinbergen	7.0	C.G.N. de Vooys	26 mei 1873
+C.B. van Haeringen	C.G.N. de Vooys	23.0	C.B. van Haeringen	16 mei 1892
+C.G.N. de Vooys	G.G. Kloeke	6.0	C.G.N. de Vooys	26 mei 1873
+C.G.N. de Vooys	M. Schönfeld	18.0	C.G.N. de Vooys	26 mei 1873
+G.G. Kloeke	C.G.N. de Vooys	6.0	G.G. Kloeke	10 juli 1887
+C.B. van Haeringen	M. Schönfeld	5.0	C.B. van Haeringen	16 mei 1892
+C.G.N. de Vooys	C.B. van Haeringen	23.0	C.G.N. de Vooys	26 mei 1873
+W. Kramer	C.G.N. de Vooys	6.0	W. Kramer	10 november 1885
+M. Schönfeld	C.B. van Haeringen	5.0	M. Schönfeld	9 februari 1880
+C.C. de Bruin	C.G.N. de Vooys	5.0	C.C. de Bruin	15 mei 1905
+C.G.N. de Vooys	W. Kramer	6.0	C.G.N. de Vooys	26 mei 1873
+C.G.N. de Vooys	C.C. de Bruin	5.0	C.G.N. de Vooys	26 mei 1873
+W.A.P. Smit	C.G.N. de Vooys	11.0	W.A.P. Smit	6 december 1903
+C.G.N. de Vooys	W.A.P. Smit	11.0	C.G.N. de Vooys	26 mei 1873
+W.A.P. Smit	C.B. van Haeringen	6.0	W.A.P. Smit	6 december 1903
+C.B. van Haeringen	W.A.P. Smit	6.0	C.B. van Haeringen	16 mei 1892
+Fernand Toussaint van Boelaere	Karel Jonckheere	8.0	Fernand Toussaint van Boelaere	18 februari 1875
+Gerard Walschap	Albert van Hoogenbemt	7.0	Gerard Walschap	9 juli 1898
+Gerard Walschap	Herman Teirlinck	5.0	Gerard Walschap	9 juli 1898
+Gerard Walschap	Hubert Lampo	10.0	Gerard Walschap	9 juli 1898
+Gerard Walschap	Johan Daisne	14.0	Gerard Walschap	9 juli 1898
+Gerard Walschap	Fernand Toussaint van Boelaere	12.0	Gerard Walschap	9 juli 1898
+Gerard Walschap	Julien Jozef Kuypers	10.0	Gerard Walschap	9 juli 1898
+Raymond Brulez	Herman Teirlinck	6.0	Raymond Brulez	18 oktober 1895
+Raymond Brulez	Karel Jonckheere	15.0	Raymond Brulez	18 oktober 1895
+Raymond Brulez	Hubert Lampo	11.0	Raymond Brulez	18 oktober 1895
+Raymond Brulez	Johan Daisne	12.0	Raymond Brulez	18 oktober 1895
+Raymond Brulez	Fernand Toussaint van Boelaere	14.0	Raymond Brulez	18 oktober 1895
+Raymond Brulez	Raymond Herreman	7.0	Raymond Brulez	18 oktober 1895
+Raymond Brulez	Julien Jozef Kuypers	11.0	Raymond Brulez	18 oktober 1895
+Karel Jonckheere	Hubert Lampo	6.0	Karel Jonckheere	9 april 1906
+Karel Jonckheere	Johan Daisne	7.0	Karel Jonckheere	9 april 1906
+Karel Jonckheere	Fernand Toussaint van Boelaere	8.0	Karel Jonckheere	9 april 1906
+Karel Jonckheere	Raymond Herreman	6.0	Karel Jonckheere	9 april 1906
+Karel Jonckheere	Julien Jozef Kuypers	7.0	Karel Jonckheere	9 april 1906
+Hubert Lampo	Johan Daisne	6.0	Hubert Lampo	1 september 1920
+Hubert Lampo	Fernand Toussaint van Boelaere	6.0	Hubert Lampo	1 september 1920
+Hubert Lampo	Julien Jozef Kuypers	5.0	Hubert Lampo	1 september 1920
+Johan Daisne	Fernand Toussaint van Boelaere	8.0	Johan Daisne	2 september 1912
+Johan Daisne	Julien Jozef Kuypers	5.0	Johan Daisne	2 september 1912
+Fernand Toussaint van Boelaere	Raymond Herreman	5.0	Fernand Toussaint van Boelaere	18 februari 1875
+Fernand Toussaint van Boelaere	Julien Jozef Kuypers	7.0	Fernand Toussaint van Boelaere	18 februari 1875
+Gerard Walschap	Piet van Aken	10.0	Gerard Walschap	9 juli 1898
+Hubert Lampo	Piet van Aken	6.0	Hubert Lampo	1 september 1920
+Hubert Lampo	Raymond Brulez	11.0	Hubert Lampo	1 september 1920
+Hubert Lampo	Karel Jonckheere	6.0	Hubert Lampo	1 september 1920
+Herman Teirlinck	Raymond Brulez	6.0	Herman Teirlinck	24 februari 1879
+Raymond Herreman	Raymond Brulez	7.0	Raymond Herreman	21 augustus 1896
+Raymond Herreman	Fernand Toussaint van Boelaere	5.0	Raymond Herreman	21 augustus 1896
+Raymond Herreman	Karel Jonckheere	6.0	Raymond Herreman	21 augustus 1896
+Piet van Aken	Julien Jozef Kuypers	5.0	Piet van Aken	15 februari 1920
+Piet van Aken	Raymond Brulez	10.0	Piet van Aken	15 februari 1920
+Piet van Aken	Fernand Toussaint van Boelaere	6.0	Piet van Aken	15 februari 1920
+Piet van Aken	Karel Jonckheere	8.0	Piet van Aken	15 februari 1920
+Julien Jozef Kuypers	Raymond Brulez	11.0	Julien Jozef Kuypers	14 augustus 1892
+Julien Jozef Kuypers	Johan Daisne	5.0	Julien Jozef Kuypers	14 augustus 1892
+Julien Jozef Kuypers	Fernand Toussaint van Boelaere	7.0	Julien Jozef Kuypers	14 augustus 1892
+Julien Jozef Kuypers	Karel Jonckheere	7.0	Julien Jozef Kuypers	14 augustus 1892
+Johan Daisne	Karel Jonckheere	7.0	Johan Daisne	2 september 1912
+Karel Jonckheere	Gerard Walschap	18.0	Karel Jonckheere	9 april 1906
+Karel Jonckheere	Bert Decorte	6.0	Karel Jonckheere	9 april 1906
+Johan Daisne	Gerard Walschap	14.0	Johan Daisne	2 september 1912
+Johan Daisne	Bert Decorte	5.0	Johan Daisne	2 september 1912
+Gerard Walschap	Bert Decorte	11.0	Gerard Walschap	9 juli 1898
+Bert Decorte	Achilles Mussche	6.0	Bert Decorte	2 juli 1915
+Bert Decorte	Marnix Gijsen	6.0	Bert Decorte	2 juli 1915
+Bert Decorte	Raymond Brulez	8.0	Bert Decorte	2 juli 1915
+Bert Decorte	Karel Jonckheere	6.0	Bert Decorte	2 juli 1915
+Bert Decorte	Hubert Lampo	6.0	Bert Decorte	2 juli 1915
+Piet van Aken	Marnix Gijsen	8.0	Piet van Aken	15 februari 1920
+Piet van Aken	Hubert Lampo	6.0	Piet van Aken	15 februari 1920
+Julien Jozef Kuypers	Marnix Gijsen	7.0	Julien Jozef Kuypers	14 augustus 1892
+Julien Jozef Kuypers	Hubert Lampo	5.0	Julien Jozef Kuypers	14 augustus 1892
+Achilles Mussche	Marnix Gijsen	5.0	Achilles Mussche	12 augustus 1896
+Achilles Mussche	Raymond Brulez	8.0	Achilles Mussche	12 augustus 1896
+Achilles Mussche	Karel Jonckheere	6.0	Achilles Mussche	12 augustus 1896
+Marnix Gijsen	Raymond Brulez	17.0	Marnix Gijsen	20 oktober 1899
+Marnix Gijsen	Karel Jonckheere	10.0	Marnix Gijsen	20 oktober 1899
+Marnix Gijsen	Fernand Toussaint van Boelaere	11.0	Marnix Gijsen	20 oktober 1899
+Marnix Gijsen	Hubert Lampo	5.0	Marnix Gijsen	20 oktober 1899
+Fernand Toussaint van Boelaere	Hubert Lampo	6.0	Fernand Toussaint van Boelaere	18 februari 1875
+Gerard Walschap	Achilles Mussche	8.0	Gerard Walschap	9 juli 1898
+Marnix Gijsen	Bert Decorte	6.0	Marnix Gijsen	20 oktober 1899
+Marnix Gijsen	Achilles Mussche	5.0	Marnix Gijsen	20 oktober 1899
+Marnix Gijsen	Johan Daisne	10.0	Marnix Gijsen	20 oktober 1899
+Bert Decorte	Johan Daisne	5.0	Bert Decorte	2 juli 1915
+Karel Jonckheere	Raymond Brulez	15.0	Karel Jonckheere	9 april 1906
+Fernand Toussaint van Boelaere	Raymond Brulez	14.0	Fernand Toussaint van Boelaere	18 februari 1875
+Fernand Toussaint van Boelaere	Johan Daisne	8.0	Fernand Toussaint van Boelaere	18 februari 1875
+Raymond Brulez	Piet van Aken	10.0	Raymond Brulez	18 oktober 1895
+Raymond Brulez	Gerard Walschap	28.0	Raymond Brulez	18 oktober 1895
+Raymond Brulez	Marnix Gijsen	17.0	Raymond Brulez	18 oktober 1895
+Karel Jonckheere	Piet van Aken	8.0	Karel Jonckheere	9 april 1906
+Karel Jonckheere	Marnix Gijsen	10.0	Karel Jonckheere	9 april 1906
+Piet van Aken	Gerard Walschap	10.0	Piet van Aken	15 februari 1920
+Fernand Toussaint van Boelaere	Gerard Walschap	12.0	Fernand Toussaint van Boelaere	18 februari 1875
+Fernand Toussaint van Boelaere	Marnix Gijsen	11.0	Fernand Toussaint van Boelaere	18 februari 1875
+Paul Van Keymeulen	Gerard Walschap	6.0	Paul Van Keymeulen	3 februari 1920
+Paul Van Keymeulen	Raymond Brulez	5.0	Paul Van Keymeulen	3 februari 1920
+Jan Greshoff	Gerard Walschap	9.0	Jan Greshoff	15 december 1888
+Jan Greshoff	Raymond Brulez	7.0	Jan Greshoff	15 december 1888
+Jan Greshoff	Marnix Gijsen	5.0	Jan Greshoff	15 december 1888
+Raymond Brulez	Achilles Mussche	8.0	Raymond Brulez	18 oktober 1895
+Marnix Gijsen	Jan Greshoff	5.0	Marnix Gijsen	20 oktober 1899
+Johan Daisne	Hubert Lampo	6.0	Johan Daisne	2 september 1912
+Johan Daisne	Marnix Gijsen	10.0	Johan Daisne	2 september 1912
+Johan Daisne	Raymond Brulez	12.0	Johan Daisne	2 september 1912
+Bert Decorte	Gerard Walschap	11.0	Bert Decorte	2 juli 1915
+Hubert Lampo	Marnix Gijsen	5.0	Hubert Lampo	1 september 1920
+Hubert Lampo	Gerard Walschap	10.0	Hubert Lampo	1 september 1920
+Marnix Gijsen	Piet van Aken	8.0	Marnix Gijsen	20 oktober 1899
+Julien Jozef Kuypers	Piet van Aken	5.0	Julien Jozef Kuypers	14 augustus 1892
+Gerard Walschap	Paul Van Keymeulen	6.0	Gerard Walschap	9 juli 1898
+Raymond Brulez	Paul Van Keymeulen	5.0	Raymond Brulez	18 oktober 1895
+Herman Teirlinck	Gerard Walschap	5.0	Herman Teirlinck	24 februari 1879
+Raymond Brulez	Bert Decorte	8.0	Raymond Brulez	18 oktober 1895
+Hubert Lampo	Bert Decorte	6.0	Hubert Lampo	1 september 1920
+Gerard Walschap	Jan Greshoff	9.0	Gerard Walschap	9 juli 1898
+Karel Jonckheere	Jan Greshoff	6.0	Karel Jonckheere	9 april 1906
+Karel Jonckheere	Achilles Mussche	6.0	Karel Jonckheere	9 april 1906
+Raymond Brulez	Jan Greshoff	7.0	Raymond Brulez	18 oktober 1895
+Raymond Brulez	Maurice Roelants	5.0	Raymond Brulez	18 oktober 1895
+Julien Jozef Kuypers	Gerard Walschap	10.0	Julien Jozef Kuypers	14 augustus 1892
+Jan Greshoff	Karel Jonckheere	6.0	Jan Greshoff	15 december 1888
+Achilles Mussche	Gerard Walschap	8.0	Achilles Mussche	12 augustus 1896
+Achilles Mussche	Bert Decorte	6.0	Achilles Mussche	12 augustus 1896
+Albert van Hoogenbemt	Gerard Walschap	7.0	Albert van Hoogenbemt	1 maart 1900
+Dingeman van der Stoep	Cornelis Rijnsdorp	5.0	Dingeman van der Stoep	17 september 1906
+P.J. Risseeuw	M. Siesling	5.0	P.J. Risseeuw	16 mei 1901
+P.J. Risseeuw	C. Ouboter	8.0	P.J. Risseeuw	16 mei 1901
+Dingeman van der Stoep	C. Ouboter	5.0	Dingeman van der Stoep	17 september 1906
+C. Ouboter	J.C. Schuller	5.0	C. Ouboter	1914
+C. Vermeer	P.A. Hekstra	5.0	C. Vermeer	20ste eeuw
+Jacoba M. Vreugdenhil	P.A. Hekstra	8.0	Jacoba M. Vreugdenhil	1913
+Jacoba M. Vreugdenhil	Cornelis Rijnsdorp	6.0	Jacoba M. Vreugdenhil	1913
+Cornelis Rijnsdorp	C. Vermeer	5.0	Cornelis Rijnsdorp	19 september 1894
+Dingeman van der Stoep	Jaap Das	5.0	Dingeman van der Stoep	17 september 1906
+C. Ouboter	Jaap Das	6.0	C. Ouboter	1914
+C. Vermeer	Cornelis Rijnsdorp	5.0	C. Vermeer	20ste eeuw
+C. Vermeer	P.J. Risseeuw	9.0	C. Vermeer	20ste eeuw
+C. Vermeer	Jacoba M. Vreugdenhil	7.0	C. Vermeer	20ste eeuw
+Cornelis Rijnsdorp	Jacoba M. Vreugdenhil	6.0	Cornelis Rijnsdorp	19 september 1894
+Cornelis Rijnsdorp	Dingeman van der Stoep	5.0	Cornelis Rijnsdorp	19 september 1894
+P.J. Risseeuw	Jacoba M. Vreugdenhil	7.0	P.J. Risseeuw	16 mei 1901
+C. Ouboter	P.J. Risseeuw	8.0	C. Ouboter	1914
+C. Ouboter	P.A. Hekstra	6.0	C. Ouboter	1914
+C. Ouboter	Jacoba M. Vreugdenhil	9.0	C. Ouboter	1914
+C. Ouboter	C. Vermeer	6.0	C. Ouboter	1914
+P.J. Risseeuw	P.A. Hekstra	5.0	P.J. Risseeuw	16 mei 1901
+P.J. Risseeuw	C. Vermeer	9.0	P.J. Risseeuw	16 mei 1901
+P.A. Hekstra	Jacoba M. Vreugdenhil	8.0	P.A. Hekstra	20ste eeuw
+P.A. Hekstra	C. Vermeer	5.0	P.A. Hekstra	20ste eeuw
+Jacoba M. Vreugdenhil	C. Vermeer	7.0	Jacoba M. Vreugdenhil	1913
+C. Ouboter	Dingeman van der Stoep	5.0	C. Ouboter	1914
+M. Siesling	P.J. Risseeuw	5.0	M. Siesling	20ste eeuw
+Jacoba M. Vreugdenhil	Jaap Das	5.0	Jacoba M. Vreugdenhil	1913
+Jacoba M. Vreugdenhil	P.J. Risseeuw	7.0	Jacoba M. Vreugdenhil	1913
+P.A. Hekstra	P.J. Risseeuw	5.0	P.A. Hekstra	20ste eeuw
+C. Vermeer	Johan van Hulzen	5.0	C. Vermeer	20ste eeuw
+C. Vermeer	J. van Doorne	5.0	C. Vermeer	20ste eeuw
+C. Vermeer	C. Ouboter	6.0	C. Vermeer	20ste eeuw
+Jaap Das	J. van Doorne	6.0	Jaap Das	1911
+Jaap Das	C. Ouboter	6.0	Jaap Das	1911
+J. van Doorne	C. Ouboter	6.0	J. van Doorne	16 februari 1908
+Jacoba M. Vreugdenhil	C. Ouboter	9.0	Jacoba M. Vreugdenhil	1913
+Jacoba M. Vreugdenhil	J. van Doorne	5.0	Jacoba M. Vreugdenhil	1913
+Johan van Hulzen	C. Vermeer	5.0	Johan van Hulzen	1 juli 1891
+C. Ouboter	J. van Doorne	6.0	C. Ouboter	1914
+J. van Doorne	P.A. Hekstra	5.0	J. van Doorne	16 februari 1908
+J.C. Schuller	C. Ouboter	5.0	J.C. Schuller	20ste eeuw
+P.A. Hekstra	J. van Doorne	5.0	P.A. Hekstra	20ste eeuw
+Jacoba M. Vreugdenhil	Jan Elzo Niemeijer	5.0	Jacoba M. Vreugdenhil	1913
+P.A. Hekstra	C. Ouboter	6.0	P.A. Hekstra	20ste eeuw
+Jan Elzo Niemeijer	C. Ouboter	6.0	Jan Elzo Niemeijer	1922
+Jaap Das	Dingeman van der Stoep	5.0	Jaap Das	1911
+J. van Doorne	C. Vermeer	5.0	J. van Doorne	16 februari 1908
+J. van Doorne	Jaap Das	6.0	J. van Doorne	16 februari 1908
+C. Ouboter	Jan Elzo Niemeijer	6.0	C. Ouboter	1914
+J. van Doorne	Jacoba M. Vreugdenhil	5.0	J. van Doorne	16 februari 1908
+Jan Elzo Niemeijer	Jacoba M. Vreugdenhil	5.0	Jan Elzo Niemeijer	1922
+J. Salsmans	Hugo Vandeperre	8.0	J. Salsmans	2 september 1873
+J. Salsmans	F. De Raedemaeker	14.0	J. Salsmans	2 september 1873
+J. Salsmans	Ad. Jansen	6.0	J. Salsmans	2 september 1873
+Hugo Vandeperre	F. De Raedemaeker	10.0	Hugo Vandeperre	20ste eeuw
+Hugo Vandeperre	Ad. Jansen	6.0	Hugo Vandeperre	20ste eeuw
+F. De Raedemaeker	Ad. Jansen	7.0	F. De Raedemaeker	1894
+F. De Raedemaeker	Alb. Raignier	9.0	F. De Raedemaeker	1894
+Eugenius Druwé	F. De Raedemaeker	17.0	Eugenius Druwé	19de eeuw
+L. Arts	F. De Raedemaeker	24.0	L. Arts	1901
+L. Arts	K. du Bois de Vroylande	35.0	L. Arts	1901
+F. De Raedemaeker	K. du Bois de Vroylande	44.0	F. De Raedemaeker	1894
+F. De Raedemaeker	Edw. De Schaepdrijver	6.0	F. De Raedemaeker	1894
+F. De Raedemaeker	L. Arts	24.0	F. De Raedemaeker	1894
+F. De Raedemaeker	J. Donceel	6.0	F. De Raedemaeker	1894
+F. De Raedemaeker	R. van Ooteghem	8.0	F. De Raedemaeker	1894
+Edw. De Schaepdrijver	K. du Bois de Vroylande	5.0	Edw. De Schaepdrijver	19de eeuw
+Edw. De Schaepdrijver	L. Arts	6.0	Edw. De Schaepdrijver	19de eeuw
+K. du Bois de Vroylande	L. Arts	35.0	K. du Bois de Vroylande	19de eeuw
+K. du Bois de Vroylande	J. Donceel	7.0	K. du Bois de Vroylande	19de eeuw
+K. du Bois de Vroylande	R. van Ooteghem	14.0	K. du Bois de Vroylande	19de eeuw
+L. Arts	J. Donceel	5.0	L. Arts	1901
+L. Arts	R. van Ooteghem	8.0	L. Arts	1901
+F. De Raedemaeker	Eugenius Druwé	17.0	F. De Raedemaeker	1894
+F. De Raedemaeker	M. Dufraing	5.0	F. De Raedemaeker	1894
+K. du Bois de Vroylande	Eugenius Druwé	20.0	K. du Bois de Vroylande	19de eeuw
+K. du Bois de Vroylande	Alb. Raignier	11.0	K. du Bois de Vroylande	19de eeuw
+F. De Raedemaeker	J.A. van Houtte	16.0	F. De Raedemaeker	1894
+J.A. van Houtte	Emiel Jan Janssen	17.0	J.A. van Houtte	10 maart 1913
+J.A. van Houtte	F. De Raedemaeker	16.0	J.A. van Houtte	10 maart 1913
+J.A. van Houtte	L. Arts	13.0	J.A. van Houtte	10 maart 1913
+Emiel Jan Janssen	F. De Raedemaeker	45.0	Emiel Jan Janssen	23 april 1897
+Emiel Jan Janssen	L. Arts	34.0	Emiel Jan Janssen	23 april 1897
+F. De Raedemaeker	Emiel Jan Janssen	45.0	F. De Raedemaeker	1894
+J.A. van Houtte	K. du Bois de Vroylande	14.0	J.A. van Houtte	10 maart 1913
+J.A. van Houtte	Eugenius Druwé	8.0	J.A. van Houtte	10 maart 1913
+Emiel Jan Janssen	K. du Bois de Vroylande	56.0	Emiel Jan Janssen	23 april 1897
+Emiel Jan Janssen	Eugenius Druwé	22.0	Emiel Jan Janssen	23 april 1897
+F. De Raedemaeker	J. Salsmans	14.0	F. De Raedemaeker	1894
+F. De Raedemaeker	L. Elaut	5.0	F. De Raedemaeker	1894
+J. Salsmans	J.A. van Houtte	8.0	J. Salsmans	2 september 1873
+J. Salsmans	K. du Bois de Vroylande	16.0	J. Salsmans	2 september 1873
+L. Elaut	K. du Bois de Vroylande	5.0	L. Elaut	26 december 1897
+Emiel Jan Janssen	G. De Wolf	16.0	Emiel Jan Janssen	23 april 1897
+K. du Bois de Vroylande	G. De Wolf	14.0	K. du Bois de Vroylande	19de eeuw
+L. Arts	G. De Wolf	10.0	L. Arts	1901
+K. du Bois de Vroylande	F. De Raedemaeker	44.0	K. du Bois de Vroylande	19de eeuw
+K. du Bois de Vroylande	Emiel Jan Janssen	56.0	K. du Bois de Vroylande	19de eeuw
+K. du Bois de Vroylande	Edw. De Schaepdrijver	5.0	K. du Bois de Vroylande	19de eeuw
+K. du Bois de Vroylande	J.A. van Houtte	14.0	K. du Bois de Vroylande	19de eeuw
+K. du Bois de Vroylande	A. Snoeck	8.0	K. du Bois de Vroylande	19de eeuw
+F. De Raedemaeker	G. De Wolf	8.0	F. De Raedemaeker	1894
+F. De Raedemaeker	A. Snoeck	8.0	F. De Raedemaeker	1894
+Emiel Jan Janssen	Edw. De Schaepdrijver	5.0	Emiel Jan Janssen	23 april 1897
+Emiel Jan Janssen	J.A. van Houtte	17.0	Emiel Jan Janssen	23 april 1897
+Emiel Jan Janssen	A. Snoeck	9.0	Emiel Jan Janssen	23 april 1897
+Edw. De Schaepdrijver	J.A. van Houtte	5.0	Edw. De Schaepdrijver	19de eeuw
+G. De Wolf	L. Arts	10.0	G. De Wolf	20ste eeuw
+A. Snoeck	L. Arts	6.0	A. Snoeck	20ste eeuw
+K. du Bois de Vroylande	H. Bruders	6.0	K. du Bois de Vroylande	19de eeuw
+K. du Bois de Vroylande	J. Salsmans	16.0	K. du Bois de Vroylande	19de eeuw
+K. du Bois de Vroylande	Louis H.M. Monden	16.0	K. du Bois de Vroylande	19de eeuw
+K. du Bois de Vroylande	B. De Wint	7.0	K. du Bois de Vroylande	19de eeuw
+Emiel Jan Janssen	H. Bruders	6.0	Emiel Jan Janssen	23 april 1897
+Emiel Jan Janssen	J. Salsmans	15.0	Emiel Jan Janssen	23 april 1897
+Emiel Jan Janssen	J. Donceel	6.0	Emiel Jan Janssen	23 april 1897
+Emiel Jan Janssen	Louis H.M. Monden	18.0	Emiel Jan Janssen	23 april 1897
+Emiel Jan Janssen	B. De Wint	7.0	Emiel Jan Janssen	23 april 1897
+F. De Raedemaeker	Louis H.M. Monden	13.0	F. De Raedemaeker	1894
+F. De Raedemaeker	B. De Wint	5.0	F. De Raedemaeker	1894
+J. Salsmans	Louis H.M. Monden	5.0	J. Salsmans	2 september 1873
+Emiel Jan Janssen	Jan Jozef van Laer	6.0	Emiel Jan Janssen	23 april 1897
+Emiel Jan Janssen	L.G. Polspoel	7.0	Emiel Jan Janssen	23 april 1897
+K. du Bois de Vroylande	Jan Jozef van Laer	5.0	K. du Bois de Vroylande	19de eeuw
+K. du Bois de Vroylande	L.G. Polspoel	6.0	K. du Bois de Vroylande	19de eeuw
+F. De Raedemaeker	L.G. Polspoel	5.0	F. De Raedemaeker	1894
+L. Arts	J.A. van Houtte	13.0	L. Arts	1901
+L. Arts	Edw. De Schaepdrijver	6.0	L. Arts	1901
+J. Donceel	K. du Bois de Vroylande	7.0	J. Donceel	19de eeuw
+J.A. van Houtte	Edw. De Schaepdrijver	5.0	J.A. van Houtte	10 maart 1913
+A. Snoeck	F. De Raedemaeker	8.0	A. Snoeck	20ste eeuw
+A. Snoeck	Emiel Jan Janssen	9.0	A. Snoeck	20ste eeuw
+A. Snoeck	K. du Bois de Vroylande	8.0	A. Snoeck	20ste eeuw
+F. De Raedemaeker	A. Darquennes	11.0	F. De Raedemaeker	1894
+L. Arts	Emiel Jan Janssen	34.0	L. Arts	1901
+L. Arts	H. Bruders	5.0	L. Arts	1901
+L. Arts	A. Darquennes	8.0	L. Arts	1901
+L. Arts	L. Verelst	6.0	L. Arts	1901
+Emiel Jan Janssen	A. Darquennes	16.0	Emiel Jan Janssen	23 april 1897
+Emiel Jan Janssen	L. Verelst	6.0	Emiel Jan Janssen	23 april 1897
+K. du Bois de Vroylande	A. Darquennes	14.0	K. du Bois de Vroylande	19de eeuw
+K. du Bois de Vroylande	L. Verelst	6.0	K. du Bois de Vroylande	19de eeuw
+L. Arts	Ad. Jansen	6.0	L. Arts	1901
+L. Arts	A. Snoeck	6.0	L. Arts	1901
+L. Arts	J. Salsmans	13.0	L. Arts	1901
+L. Arts	L. Vander Kerken	16.0	L. Arts	1901
+L. Arts	Leo Simoens	5.0	L. Arts	1901
+L. Arts	E.J. Vandenbussche	10.0	L. Arts	1901
+L. Arts	Alb. Raignier	6.0	L. Arts	1901
+Ad. Jansen	J. Salsmans	6.0	Ad. Jansen	19de eeuw
+Ad. Jansen	K. du Bois de Vroylande	7.0	Ad. Jansen	19de eeuw
+Ad. Jansen	L. Vander Kerken	8.0	Ad. Jansen	19de eeuw
+Ad. Jansen	Emiel Jan Janssen	8.0	Ad. Jansen	19de eeuw
+Alb. Block	L. Vander Kerken	5.0	Alb. Block	19de eeuw
+Alb. Block	Emiel Jan Janssen	5.0	Alb. Block	19de eeuw
+A. Snoeck	L. Vander Kerken	5.0	A. Snoeck	20ste eeuw
+J. Salsmans	L. Vander Kerken	10.0	J. Salsmans	2 september 1873
+J. Salsmans	E.J. Vandenbussche	6.0	J. Salsmans	2 september 1873
+J. Salsmans	Emiel Jan Janssen	15.0	J. Salsmans	2 september 1873
+L. Verelst	K. du Bois de Vroylande	6.0	L. Verelst	20ste eeuw
+L. Verelst	Emiel Jan Janssen	6.0	L. Verelst	20ste eeuw
+K. du Bois de Vroylande	L. Vander Kerken	27.0	K. du Bois de Vroylande	19de eeuw
+K. du Bois de Vroylande	E.J. Vandenbussche	14.0	K. du Bois de Vroylande	19de eeuw
+L. Vander Kerken	E.J. Vandenbussche	8.0	L. Vander Kerken	1910
+L. Vander Kerken	Emiel Jan Janssen	34.0	L. Vander Kerken	1910
+L. Vander Kerken	J.A. van Houtte	10.0	L. Vander Kerken	1910
+L. Vander Kerken	A. Darquennes	10.0	L. Vander Kerken	1910
+Leo Simoens	Emiel Jan Janssen	6.0	Leo Simoens	11 april 1915
+E.J. Vandenbussche	Emiel Jan Janssen	13.0	E.J. Vandenbussche	19de eeuw
+Emiel Jan Janssen	Alb. Raignier	11.0	Emiel Jan Janssen	23 april 1897
+Emiel Jan Janssen	Leo Simoens	6.0	Emiel Jan Janssen	23 april 1897
+H. Bruders	K. du Bois de Vroylande	6.0	H. Bruders	19de eeuw
+H. Bruders	Emiel Jan Janssen	6.0	H. Bruders	19de eeuw
+L.G. Polspoel	K. du Bois de Vroylande	6.0	L.G. Polspoel	19de eeuw
+L.G. Polspoel	Emiel Jan Janssen	7.0	L.G. Polspoel	19de eeuw
+L. Vander Kerken	Louis H.M. Monden	8.0	L. Vander Kerken	1910
+L. Vander Kerken	L. Arts	16.0	L. Vander Kerken	1910
+L. Vander Kerken	K. du Bois de Vroylande	27.0	L. Vander Kerken	1910
+L. Vander Kerken	Ad. Jansen	8.0	L. Vander Kerken	1910
+L. Vander Kerken	F. De Raedemaeker	24.0	L. Vander Kerken	1910
+L. Vander Kerken	R. van Ooteghem	9.0	L. Vander Kerken	1910
+L. Vander Kerken	Hugo Vandeperre	10.0	L. Vander Kerken	1910
+Louis H.M. Monden	Emiel Jan Janssen	18.0	Louis H.M. Monden	1911
+Louis H.M. Monden	L. Arts	12.0	Louis H.M. Monden	1911
+Louis H.M. Monden	K. du Bois de Vroylande	16.0	Louis H.M. Monden	1911
+Louis H.M. Monden	F. De Raedemaeker	13.0	Louis H.M. Monden	1911
+Louis H.M. Monden	A. Darquennes	7.0	Louis H.M. Monden	1911
+Emiel Jan Janssen	Ad. Jansen	8.0	Emiel Jan Janssen	23 april 1897
+Emiel Jan Janssen	R. van Ooteghem	13.0	Emiel Jan Janssen	23 april 1897
+Emiel Jan Janssen	Hugo Vandeperre	11.0	Emiel Jan Janssen	23 april 1897
+L. Arts	Hugo Vandeperre	10.0	L. Arts	1901
+K. du Bois de Vroylande	Ad. Jansen	7.0	K. du Bois de Vroylande	19de eeuw
+K. du Bois de Vroylande	Hugo Vandeperre	10.0	K. du Bois de Vroylande	19de eeuw
+Ad. Jansen	F. De Raedemaeker	7.0	Ad. Jansen	19de eeuw
+Ad. Jansen	Hugo Vandeperre	6.0	Ad. Jansen	19de eeuw
+J. Donceel	F. De Raedemaeker	6.0	J. Donceel	19de eeuw
+F. De Raedemaeker	Hugo Vandeperre	10.0	F. De Raedemaeker	1894
+R. van Ooteghem	A. Darquennes	9.0	R. van Ooteghem	19de eeuw
+L. Arts	J. De Jaegher	5.0	L. Arts	1901
+K. du Bois de Vroylande	J. De Jaegher	5.0	K. du Bois de Vroylande	19de eeuw
+Emiel Jan Janssen	J. De Jaegher	5.0	Emiel Jan Janssen	23 april 1897
+F. De Raedemaeker	L. Vander Kerken	24.0	F. De Raedemaeker	1894
+Hugo Vandeperre	K. du Bois de Vroylande	10.0	Hugo Vandeperre	20ste eeuw
+Hugo Vandeperre	Emiel Jan Janssen	11.0	Hugo Vandeperre	20ste eeuw
+Hugo Vandeperre	L. Vander Kerken	10.0	Hugo Vandeperre	20ste eeuw
+Emiel Jan Janssen	L. Vander Kerken	34.0	Emiel Jan Janssen	23 april 1897
+Edouard Dhanis	F. De Raedemaeker	10.0	Edouard Dhanis	1902
+Edouard Dhanis	L. Arts	9.0	Edouard Dhanis	1902
+Edouard Dhanis	Eugenius Druwé	7.0	Edouard Dhanis	1902
+Edouard Dhanis	L. Vander Kerken	11.0	Edouard Dhanis	1902
+Edouard Dhanis	Emiel Jan Janssen	18.0	Edouard Dhanis	1902
+Edouard Dhanis	E.J. Vandenbussche	5.0	Edouard Dhanis	1902
+Edouard Dhanis	K. du Bois de Vroylande	16.0	Edouard Dhanis	1902
+Edouard Dhanis	R. van Ooteghem	5.0	Edouard Dhanis	1902
+F. De Raedemaeker	E.J. Vandenbussche	6.0	F. De Raedemaeker	1894
+L. Arts	Eugenius Druwé	12.0	L. Arts	1901
+Eugenius Druwé	L. Vander Kerken	15.0	Eugenius Druwé	19de eeuw
+Eugenius Druwé	Emiel Jan Janssen	22.0	Eugenius Druwé	19de eeuw
+Eugenius Druwé	E.J. Vandenbussche	7.0	Eugenius Druwé	19de eeuw
+Eugenius Druwé	K. du Bois de Vroylande	20.0	Eugenius Druwé	19de eeuw
+Eugenius Druwé	R. van Ooteghem	6.0	Eugenius Druwé	19de eeuw
+Eugenius Druwé	Hugo Vandeperre	6.0	Eugenius Druwé	19de eeuw
+Eugenius Druwé	J.A. van Houtte	8.0	Eugenius Druwé	19de eeuw
+L. Vander Kerken	A. Snoeck	5.0	L. Vander Kerken	1910
+Edw. De Schaepdrijver	Emiel Jan Janssen	5.0	Edw. De Schaepdrijver	19de eeuw
+J. Donceel	Emiel Jan Janssen	6.0	J. Donceel	19de eeuw
+Emiel Jan Janssen	E.J. Vandenbussche	13.0	Emiel Jan Janssen	23 april 1897
+E.J. Vandenbussche	K. du Bois de Vroylande	14.0	E.J. Vandenbussche	19de eeuw
+E.J. Vandenbussche	Hugo Vandeperre	5.0	E.J. Vandenbussche	19de eeuw
+Hugo Vandeperre	J.A. van Houtte	6.0	Hugo Vandeperre	20ste eeuw
+L. Arts	Louis H.M. Monden	12.0	L. Arts	1901
+L. Arts	P. Ellerbeek	6.0	L. Arts	1901
+Eugenius Druwé	Louis H.M. Monden	10.0	Eugenius Druwé	19de eeuw
+Eugenius Druwé	J. Salsmans	7.0	Eugenius Druwé	19de eeuw
+Hugo Vandeperre	J. Salsmans	8.0	Hugo Vandeperre	20ste eeuw
+Emiel Jan Janssen	W. Talloen	5.0	Emiel Jan Janssen	23 april 1897
+Emiel Jan Janssen	P. Ellerbeek	6.0	Emiel Jan Janssen	23 april 1897
+Louis H.M. Monden	L. Vander Kerken	8.0	Louis H.M. Monden	1911
+Louis H.M. Monden	J. Salsmans	5.0	Louis H.M. Monden	1911
+L. Vander Kerken	J. Salsmans	10.0	L. Vander Kerken	1910
+L. Vander Kerken	P. Ellerbeek	5.0	L. Vander Kerken	1910
+J. Salsmans	P. Ellerbeek	6.0	J. Salsmans	2 september 1873
+Eugenius Druwé	L. Arts	12.0	Eugenius Druwé	19de eeuw
+Eugenius Druwé	Michiel Dierickx	11.0	Eugenius Druwé	19de eeuw
+Eugenius Druwé	L. Baudez	6.0	Eugenius Druwé	19de eeuw
+L. Arts	Michiel Dierickx	14.0	L. Arts	1901
+L. Arts	Karel van Isacker	5.0	L. Arts	1901
+L. Arts	L. Baudez	6.0	L. Arts	1901
+J. Salsmans	Michiel Dierickx	6.0	J. Salsmans	2 september 1873
+F. De Raedemaeker	Michiel Dierickx	20.0	F. De Raedemaeker	1894
+F. De Raedemaeker	Karel van Isacker	5.0	F. De Raedemaeker	1894
+F. De Raedemaeker	L. Baudez	7.0	F. De Raedemaeker	1894
+Michiel Dierickx	Emiel Jan Janssen	30.0	Michiel Dierickx	25 juni 1909
+Michiel Dierickx	L. Vander Kerken	19.0	Michiel Dierickx	25 juni 1909
+Michiel Dierickx	E.J. Vandenbussche	6.0	Michiel Dierickx	25 juni 1909
+Michiel Dierickx	Karel van Isacker	6.0	Michiel Dierickx	25 juni 1909
+Michiel Dierickx	K. du Bois de Vroylande	26.0	Michiel Dierickx	25 juni 1909
+Michiel Dierickx	L. Baudez	8.0	Michiel Dierickx	25 juni 1909
+Michiel Dierickx	J.A. van Houtte	5.0	Michiel Dierickx	25 juni 1909
+Hugo Vandeperre	E.J. Vandenbussche	5.0	Hugo Vandeperre	20ste eeuw
+Emiel Jan Janssen	Karel van Isacker	8.0	Emiel Jan Janssen	23 april 1897
+Emiel Jan Janssen	L. Baudez	11.0	Emiel Jan Janssen	23 april 1897
+L. Vander Kerken	L. Baudez	9.0	L. Vander Kerken	1910
+Karel van Isacker	K. du Bois de Vroylande	9.0	Karel van Isacker	26 juni 1913
+K. du Bois de Vroylande	L. Baudez	12.0	K. du Bois de Vroylande	19de eeuw
+K. du Bois de Vroylande	P. Ellerbeek	5.0	K. du Bois de Vroylande	19de eeuw
+L. Arts	Walter F. Smet	6.0	L. Arts	1901
+Walter F. Smet	Eugenius Druwé	7.0	Walter F. Smet	1915
+Walter F. Smet	K. du Bois de Vroylande	13.0	Walter F. Smet	1915
+Walter F. Smet	F. De Raedemaeker	7.0	Walter F. Smet	1915
+Walter F. Smet	Emiel Jan Janssen	14.0	Walter F. Smet	1915
+Walter F. Smet	L. Baudez	6.0	Walter F. Smet	1915
+Walter F. Smet	L. Vander Kerken	9.0	Walter F. Smet	1915
+K. du Bois de Vroylande	L. Elaut	5.0	K. du Bois de Vroylande	19de eeuw
+L. Baudez	L. Vander Kerken	9.0	L. Baudez	20ste eeuw
+Edouard Dhanis	Albert Deblaere	8.0	Edouard Dhanis	1902
+Edouard Dhanis	G. De Wolf	9.0	Edouard Dhanis	1902
+Eugenius Druwé	Albert Deblaere	8.0	Eugenius Druwé	19de eeuw
+Eugenius Druwé	G. De Wolf	7.0	Eugenius Druwé	19de eeuw
+J. Salsmans	L. Arts	13.0	J. Salsmans	2 september 1873
+Emiel Jan Janssen	Albert Deblaere	19.0	Emiel Jan Janssen	23 april 1897
+Emiel Jan Janssen	P. Goedertier	5.0	Emiel Jan Janssen	23 april 1897
+L. Arts	Albert Deblaere	9.0	L. Arts	1901
+Albert Deblaere	G. De Wolf	10.0	Albert Deblaere	1916
+Albert Deblaere	K. du Bois de Vroylande	16.0	Albert Deblaere	1916
+G. De Wolf	K. du Bois de Vroylande	14.0	G. De Wolf	20ste eeuw
+K. du Bois de Vroylande	P. Goedertier	5.0	K. du Bois de Vroylande	19de eeuw
+Emiel Jan Janssen	Walter F. Smet	14.0	Emiel Jan Janssen	23 april 1897
+J. Salsmans	Eugenius Druwé	7.0	J. Salsmans	2 september 1873
+Eugenius Druwé	Walter F. Smet	7.0	Eugenius Druwé	19de eeuw
+B. De Wint	L. Vander Kerken	5.0	B. De Wint	19de eeuw
+B. De Wint	K. du Bois de Vroylande	7.0	B. De Wint	19de eeuw
+E.J. Vandenbussche	L. Vander Kerken	8.0	E.J. Vandenbussche	19de eeuw
+E.J. Vandenbussche	L. Arts	10.0	E.J. Vandenbussche	19de eeuw
+L. Vander Kerken	Walter F. Smet	9.0	L. Vander Kerken	1910
+J.A. van Houtte	Hugo Vandeperre	6.0	J.A. van Houtte	10 maart 1913
+K. du Bois de Vroylande	Walter F. Smet	13.0	K. du Bois de Vroylande	19de eeuw
+G. De Wolf	Edouard Dhanis	9.0	G. De Wolf	20ste eeuw
+G. De Wolf	F. De Raedemaeker	8.0	G. De Wolf	20ste eeuw
+G. De Wolf	L. Vander Kerken	9.0	G. De Wolf	20ste eeuw
+G. De Wolf	Emiel Jan Janssen	16.0	G. De Wolf	20ste eeuw
+Michiel Dierickx	Louis H.M. Monden	8.0	Michiel Dierickx	25 juni 1909
+L. Arts	E. de Strycker	6.0	L. Arts	1901
+F. De Raedemaeker	E. de Strycker	5.0	F. De Raedemaeker	1894
+L. Vander Kerken	E. de Strycker	5.0	L. Vander Kerken	1910
+E. de Strycker	K. du Bois de Vroylande	7.0	E. de Strycker	20ste eeuw
+E. de Strycker	Emiel Jan Janssen	7.0	E. de Strycker	20ste eeuw
+R. Leijs	Albert Deblaere	5.0	R. Leijs	20ste eeuw
+R. Leijs	K. du Bois de Vroylande	8.0	R. Leijs	20ste eeuw
+R. Leijs	F. De Raedemaeker	5.0	R. Leijs	20ste eeuw
+R. Leijs	Walter F. Smet	5.0	R. Leijs	20ste eeuw
+Albert Deblaere	F. De Raedemaeker	9.0	Albert Deblaere	1916
+Albert Deblaere	Walter F. Smet	8.0	Albert Deblaere	1916
+K. du Bois de Vroylande	Karel van Isacker	9.0	K. du Bois de Vroylande	19de eeuw
+F. De Raedemaeker	Walter F. Smet	7.0	F. De Raedemaeker	1894
+E. De Cooman	F. De Raedemaeker	5.0	E. De Cooman	20ste eeuw
+E. De Cooman	Emiel Jan Janssen	6.0	E. De Cooman	20ste eeuw
+Fr. van Baarle	F. De Raedemaeker	7.0	Fr. van Baarle	20ste eeuw
+Fr. van Baarle	Eugenius Druwé	6.0	Fr. van Baarle	20ste eeuw
+Fr. van Baarle	Emiel Jan Janssen	10.0	Fr. van Baarle	20ste eeuw
+Fr. van Baarle	L. Vander Kerken	8.0	Fr. van Baarle	20ste eeuw
+Fr. van Baarle	K. du Bois de Vroylande	7.0	Fr. van Baarle	20ste eeuw
+B. De Wint	Emiel Jan Janssen	7.0	B. De Wint	19de eeuw
+Alb. Raignier	F. De Raedemaeker	9.0	Alb. Raignier	20ste eeuw
+Alb. Raignier	Michiel Dierickx	5.0	Alb. Raignier	20ste eeuw
+Alb. Raignier	Emiel Jan Janssen	11.0	Alb. Raignier	20ste eeuw
+Alb. Raignier	K. du Bois de Vroylande	11.0	Alb. Raignier	20ste eeuw
+J.A. van Houtte	L. Vander Kerken	10.0	J.A. van Houtte	10 maart 1913
+L. Arts	Edouard Dhanis	9.0	L. Arts	1901
+F. De Raedemaeker	Edouard Dhanis	10.0	F. De Raedemaeker	1894
+F. De Raedemaeker	Fr. van Baarle	7.0	F. De Raedemaeker	1894
+L. Vander Kerken	Michiel Dierickx	19.0	L. Vander Kerken	1910
+L. Vander Kerken	Edouard Dhanis	11.0	L. Vander Kerken	1910
+L. Vander Kerken	Fr. van Baarle	8.0	L. Vander Kerken	1910
+Emiel Jan Janssen	Michiel Dierickx	30.0	Emiel Jan Janssen	23 april 1897
+Emiel Jan Janssen	Edouard Dhanis	18.0	Emiel Jan Janssen	23 april 1897
+Emiel Jan Janssen	Fr. van Baarle	10.0	Emiel Jan Janssen	23 april 1897
+Emiel Jan Janssen	Pieter Frans Fransen	5.0	Emiel Jan Janssen	23 april 1897
+K. du Bois de Vroylande	Michiel Dierickx	26.0	K. du Bois de Vroylande	19de eeuw
+K. du Bois de Vroylande	Edouard Dhanis	16.0	K. du Bois de Vroylande	19de eeuw
+K. du Bois de Vroylande	Fr. van Baarle	7.0	K. du Bois de Vroylande	19de eeuw
+Michiel Dierickx	Edouard Dhanis	10.0	Michiel Dierickx	25 juni 1909
+Michiel Dierickx	Fr. van Baarle	9.0	Michiel Dierickx	25 juni 1909
+Michiel Dierickx	Pieter Frans Fransen	5.0	Michiel Dierickx	25 juni 1909
+F. De Raedemaeker	E. De Cooman	5.0	F. De Raedemaeker	1894
+Michiel Dierickx	E. De Cooman	5.0	Michiel Dierickx	25 juni 1909
+Emiel Jan Janssen	E. De Cooman	6.0	Emiel Jan Janssen	23 april 1897
+Emiel Jan Janssen	E. de Strycker	7.0	Emiel Jan Janssen	23 april 1897
+Eugenius Druwé	Edouard Dhanis	7.0	Eugenius Druwé	19de eeuw
+Eugenius Druwé	Fr. van Baarle	6.0	Eugenius Druwé	19de eeuw
+Eugenius Druwé	A. Darquennes	7.0	Eugenius Druwé	19de eeuw
+J.A. van Houtte	Michiel Dierickx	5.0	J.A. van Houtte	10 maart 1913
+Michiel Dierickx	G. De Wolf	7.0	Michiel Dierickx	25 juni 1909
+Michiel Dierickx	L. Arts	14.0	Michiel Dierickx	25 juni 1909
+Michiel Dierickx	E. de Strycker	5.0	Michiel Dierickx	25 juni 1909
+Michiel Dierickx	A. Darquennes	9.0	Michiel Dierickx	25 juni 1909
+Louis H.M. Monden	G. De Wolf	8.0	Louis H.M. Monden	1911
+Louis H.M. Monden	Edouard Dhanis	6.0	Louis H.M. Monden	1911
+L. Vander Kerken	G. De Wolf	9.0	L. Vander Kerken	1910
+Ad. Jansen	L. Arts	6.0	Ad. Jansen	19de eeuw
+K. du Bois de Vroylande	E. de Strycker	7.0	K. du Bois de Vroylande	19de eeuw
+G. De Wolf	A. Darquennes	5.0	G. De Wolf	20ste eeuw
+Edouard Dhanis	A. Darquennes	6.0	Edouard Dhanis	1902
+Fr. van Baarle	A. Darquennes	6.0	Fr. van Baarle	20ste eeuw
+L. Baudez	Eugenius Druwé	6.0	L. Baudez	20ste eeuw
+L. Baudez	F. De Raedemaeker	7.0	L. Baudez	20ste eeuw
+L. Baudez	Walter F. Smet	6.0	L. Baudez	20ste eeuw
+L. Baudez	Michiel Dierickx	8.0	L. Baudez	20ste eeuw
+L. Baudez	Emiel Jan Janssen	11.0	L. Baudez	20ste eeuw
+L. Baudez	K. du Bois de Vroylande	12.0	L. Baudez	20ste eeuw
+Fr. van Baarle	Michiel Dierickx	9.0	Fr. van Baarle	20ste eeuw
+Walter F. Smet	Michiel Dierickx	8.0	Walter F. Smet	1915
+Emiel Jan Janssen	Alb. Block	5.0	Emiel Jan Janssen	23 april 1897
+L. Vander Kerken	Alb. Block	5.0	L. Vander Kerken	1910
+L. Baudez	Louis H.M. Monden	5.0	L. Baudez	20ste eeuw
+L. Baudez	L. Arts	6.0	L. Baudez	20ste eeuw
+Louis H.M. Monden	E.J. Vandenbussche	5.0	Louis H.M. Monden	1911
+Louis H.M. Monden	Michiel Dierickx	8.0	Louis H.M. Monden	1911
+Edouard Dhanis	Michiel Dierickx	10.0	Edouard Dhanis	1902
+E.J. Vandenbussche	Michiel Dierickx	6.0	E.J. Vandenbussche	19de eeuw
+P. Ellerbeek	K. du Bois de Vroylande	5.0	P. Ellerbeek	20ste eeuw
+Pieter Frans Fransen	Michiel Dierickx	5.0	Pieter Frans Fransen	1913
+K. du Bois de Vroylande	Marcel Brauns	12.0	K. du Bois de Vroylande	19de eeuw
+K. du Bois de Vroylande	R. Leijs	8.0	K. du Bois de Vroylande	19de eeuw
+A. Darquennes	Walter F. Smet	5.0	A. Darquennes	14 september 1909
+A. Darquennes	Fr. van Baarle	6.0	A. Darquennes	14 september 1909
+A. Darquennes	Michiel Dierickx	9.0	A. Darquennes	14 september 1909
+A. Darquennes	L. Vander Kerken	10.0	A. Darquennes	14 september 1909
+A. Darquennes	Emiel Jan Janssen	16.0	A. Darquennes	14 september 1909
+A. Darquennes	Marcel Brauns	5.0	A. Darquennes	14 september 1909
+A. Darquennes	R. Leijs	5.0	A. Darquennes	14 september 1909
+A. Darquennes	Eugenius Druwé	7.0	A. Darquennes	14 september 1909
+A. Darquennes	Edouard Dhanis	6.0	A. Darquennes	14 september 1909
+Walter F. Smet	Marcel Brauns	6.0	Walter F. Smet	1915
+Walter F. Smet	R. Leijs	5.0	Walter F. Smet	1915
+Walter F. Smet	Edouard Dhanis	5.0	Walter F. Smet	1915
+Michiel Dierickx	Marcel Brauns	9.0	Michiel Dierickx	25 juni 1909
+Michiel Dierickx	R. Leijs	5.0	Michiel Dierickx	25 juni 1909
+Michiel Dierickx	Eugenius Druwé	11.0	Michiel Dierickx	25 juni 1909
+L. Vander Kerken	Marcel Brauns	7.0	L. Vander Kerken	1910
+L. Vander Kerken	R. Leijs	5.0	L. Vander Kerken	1910
+L. Vander Kerken	Eugenius Druwé	15.0	L. Vander Kerken	1910
+E.J. Vandenbussche	Eugenius Druwé	7.0	E.J. Vandenbussche	19de eeuw
+E.J. Vandenbussche	Edouard Dhanis	5.0	E.J. Vandenbussche	19de eeuw
+Emiel Jan Janssen	Marcel Brauns	12.0	Emiel Jan Janssen	23 april 1897
+Emiel Jan Janssen	R. Leijs	8.0	Emiel Jan Janssen	23 april 1897
+Marcel Brauns	Edouard Dhanis	8.0	Marcel Brauns	2 oktober 1913
+R. Leijs	Eugenius Druwé	5.0	R. Leijs	20ste eeuw
+Pieter Frans Fransen	Emiel Jan Janssen	5.0	Pieter Frans Fransen	1913
+E. De Cooman	Michiel Dierickx	5.0	E. De Cooman	20ste eeuw
+A. Darquennes	F. De Raedemaeker	11.0	A. Darquennes	14 september 1909
+Emiel Jan Janssen	Louis Sterkens	9.0	Emiel Jan Janssen	23 april 1897
+L. Vander Kerken	Louis Sterkens	6.0	L. Vander Kerken	1910
+Louis Sterkens	Michiel Dierickx	6.0	Louis Sterkens	1912
+Michiel Dierickx	Alb. Raignier	5.0	Michiel Dierickx	25 juni 1909
+Emiel Jan Janssen	A. Ampe	11.0	Emiel Jan Janssen	23 april 1897
+A. Darquennes	A. Ampe	7.0	A. Darquennes	14 september 1909
+A. Darquennes	R. van Ooteghem	9.0	A. Darquennes	14 september 1909
+Eugenius Druwé	R. Leijs	5.0	Eugenius Druwé	19de eeuw
+Eugenius Druwé	Louis Sterkens	5.0	Eugenius Druwé	19de eeuw
+L. Vander Kerken	A. Ampe	7.0	L. Vander Kerken	1910
+R. Leijs	Michiel Dierickx	5.0	R. Leijs	20ste eeuw
+A. Ampe	Michiel Dierickx	9.0	A. Ampe	17 april 1912
+A. Ampe	R. van Ooteghem	8.0	A. Ampe	17 april 1912
+Michiel Dierickx	Louis Sterkens	6.0	Michiel Dierickx	25 juni 1909
+Michiel Dierickx	R. van Ooteghem	10.0	Michiel Dierickx	25 juni 1909
+A. Darquennes	L. Arts	8.0	A. Darquennes	14 september 1909
+A. Darquennes	G. De Wolf	5.0	A. Darquennes	14 september 1909
+A. Darquennes	K. du Bois de Vroylande	14.0	A. Darquennes	14 september 1909
+A. Darquennes	L. Baudez	5.0	A. Darquennes	14 september 1909
+F. De Raedemaeker	R. Leijs	5.0	F. De Raedemaeker	1894
+R. Leijs	L. Vander Kerken	5.0	R. Leijs	20ste eeuw
+G. De Wolf	Michiel Dierickx	7.0	G. De Wolf	20ste eeuw
+G. De Wolf	R. van Ooteghem	5.0	G. De Wolf	20ste eeuw
+R. van Ooteghem	L. Baudez	5.0	R. van Ooteghem	19de eeuw
+L. Arts	Marcel Brauns	6.0	L. Arts	1901
+L. Arts	A. Ampe	5.0	L. Arts	1901
+L. Arts	Jos. Burvenich	11.0	L. Arts	1901
+Edouard Dhanis	Marcel Brauns	8.0	Edouard Dhanis	1902
+Edouard Dhanis	A. Ampe	5.0	Edouard Dhanis	1902
+Edouard Dhanis	Jos. Burvenich	9.0	Edouard Dhanis	1902
+F. De Raedemaeker	Marcel Brauns	7.0	F. De Raedemaeker	1894
+F. De Raedemaeker	A. Ampe	8.0	F. De Raedemaeker	1894
+F. De Raedemaeker	Jos. Burvenich	12.0	F. De Raedemaeker	1894
+Emiel Jan Janssen	Jos. Burvenich	21.0	Emiel Jan Janssen	23 april 1897
+E. de Strycker	L. Vander Kerken	5.0	E. de Strycker	20ste eeuw
+E. de Strycker	Michiel Dierickx	5.0	E. de Strycker	20ste eeuw
+E. de Strycker	Jos. Burvenich	5.0	E. de Strycker	20ste eeuw
+L. Vander Kerken	Jos. Burvenich	10.0	L. Vander Kerken	1910
+Marcel Brauns	A. Ampe	6.0	Marcel Brauns	2 oktober 1913
+Marcel Brauns	Michiel Dierickx	9.0	Marcel Brauns	2 oktober 1913
+Marcel Brauns	K. du Bois de Vroylande	12.0	Marcel Brauns	2 oktober 1913
+Marcel Brauns	R. van Ooteghem	5.0	Marcel Brauns	2 oktober 1913
+Marcel Brauns	Jos. Burvenich	11.0	Marcel Brauns	2 oktober 1913
+A. Ampe	K. du Bois de Vroylande	10.0	A. Ampe	17 april 1912
+A. Ampe	Jos. Burvenich	10.0	A. Ampe	17 april 1912
+G. De Wolf	Jos. Burvenich	7.0	G. De Wolf	20ste eeuw
+Michiel Dierickx	Jos. Burvenich	16.0	Michiel Dierickx	25 juni 1909
+K. du Bois de Vroylande	Jos. Burvenich	20.0	K. du Bois de Vroylande	19de eeuw
+R. van Ooteghem	Jos. Burvenich	10.0	R. van Ooteghem	19de eeuw
+A. Darquennes	Jos. Burvenich	8.0	A. Darquennes	14 september 1909
+Marcel Brauns	F. De Raedemaeker	7.0	Marcel Brauns	2 oktober 1913
+A. Ampe	F. De Raedemaeker	8.0	A. Ampe	17 april 1912
+Michiel Dierickx	J. Salsmans	6.0	Michiel Dierickx	25 juni 1909
+Eugenius Druwé	Jos. Burvenich	6.0	Eugenius Druwé	19de eeuw
+Louis H.M. Monden	J. Noë	7.0	Louis H.M. Monden	1911
+Louis H.M. Monden	L. Baudez	5.0	Louis H.M. Monden	1911
+Louis H.M. Monden	Jos. Burvenich	9.0	Louis H.M. Monden	1911
+F. De Raedemaeker	J. Noë	7.0	F. De Raedemaeker	1894
+F. De Raedemaeker	I. De la Potterie	5.0	F. De Raedemaeker	1894
+Emiel Jan Janssen	J. Noë	12.0	Emiel Jan Janssen	23 april 1897
+Emiel Jan Janssen	Louis Bruyns	6.0	Emiel Jan Janssen	23 april 1897
+Emiel Jan Janssen	I. De la Potterie	8.0	Emiel Jan Janssen	23 april 1897
+A. Ampe	L. Vander Kerken	7.0	A. Ampe	17 april 1912
+L. Vander Kerken	B. De Wint	5.0	L. Vander Kerken	1910
+L. Vander Kerken	I. De la Potterie	6.0	L. Vander Kerken	1910
+J. Noë	Michiel Dierickx	7.0	J. Noë	1913
+J. Noë	K. du Bois de Vroylande	11.0	J. Noë	1913
+J. Noë	Jos. Burvenich	9.0	J. Noë	1913
+Michiel Dierickx	Louis Bruyns	5.0	Michiel Dierickx	25 juni 1909
+Michiel Dierickx	I. De la Potterie	7.0	Michiel Dierickx	25 juni 1909
+Karel van Isacker	R. van Ooteghem	5.0	Karel van Isacker	26 juni 1913
+Karel van Isacker	Jos. Burvenich	7.0	Karel van Isacker	26 juni 1913
+L. Baudez	R. van Ooteghem	5.0	L. Baudez	20ste eeuw
+L. Baudez	Jos. Burvenich	6.0	L. Baudez	20ste eeuw
+L. Baudez	I. De la Potterie	5.0	L. Baudez	20ste eeuw
+Louis Bruyns	K. du Bois de Vroylande	5.0	Louis Bruyns	15 januari 1919
+Louis Bruyns	Jos. Burvenich	6.0	Louis Bruyns	15 januari 1919
+K. du Bois de Vroylande	I. De la Potterie	9.0	K. du Bois de Vroylande	19de eeuw
+Jos. Burvenich	I. De la Potterie	8.0	Jos. Burvenich	18 augustus 1914
+A. Ampe	Emiel Jan Janssen	11.0	A. Ampe	17 april 1912
+Emiel Jan Janssen	W. Luyten	6.0	Emiel Jan Janssen	23 april 1897
+Michiel Dierickx	W. Luyten	5.0	Michiel Dierickx	25 juni 1909
+Michiel Dierickx	Walter F. Smet	8.0	Michiel Dierickx	25 juni 1909
+W. Luyten	K. du Bois de Vroylande	6.0	W. Luyten	20ste eeuw
+W. Luyten	Jos. Burvenich	5.0	W. Luyten	20ste eeuw
+Walter F. Smet	Jos. Burvenich	7.0	Walter F. Smet	1915
+P. Goedertier	K. du Bois de Vroylande	5.0	P. Goedertier	20ste eeuw
+Louis H.M. Monden	Albert Deblaere	8.0	Louis H.M. Monden	1911
+J. Noë	Albert Deblaere	6.0	J. Noë	1913
+Albert Deblaere	Michiel Dierickx	10.0	Albert Deblaere	1916
+Albert Deblaere	R. van Ooteghem	6.0	Albert Deblaere	1916
+Albert Deblaere	Jos. Burvenich	13.0	Albert Deblaere	1916
+Karel van Isacker	Michiel Dierickx	6.0	Karel van Isacker	26 juni 1913
+R. van Ooteghem	G. De Wolf	5.0	R. van Ooteghem	19de eeuw
+Jos. Burvenich	G. De Wolf	7.0	Jos. Burvenich	18 augustus 1914
+F. De Raedemaeker	Albert Deblaere	9.0	F. De Raedemaeker	1894
+Albert Deblaere	A. Ampe	7.0	Albert Deblaere	1916
+K. du Bois de Vroylande	W. Luyten	6.0	K. du Bois de Vroylande	19de eeuw
+I. De la Potterie	Albert Deblaere	5.0	I. De la Potterie	1914
+I. De la Potterie	Michiel Dierickx	7.0	I. De la Potterie	1914
+I. De la Potterie	Emiel Jan Janssen	8.0	I. De la Potterie	1914
+I. De la Potterie	F. De Raedemaeker	5.0	I. De la Potterie	1914
+I. De la Potterie	L. Vander Kerken	6.0	I. De la Potterie	1914
+I. De la Potterie	Marcel Brauns	5.0	I. De la Potterie	1914
+I. De la Potterie	K. du Bois de Vroylande	9.0	I. De la Potterie	1914
+Edouard Dhanis	Walter F. Smet	5.0	Edouard Dhanis	1902
+Albert Deblaere	Emiel Jan Janssen	19.0	Albert Deblaere	1916
+Albert Deblaere	L. Vander Kerken	11.0	Albert Deblaere	1916
+Albert Deblaere	Marcel Brauns	8.0	Albert Deblaere	1916
+Michiel Dierickx	F. De Raedemaeker	20.0	Michiel Dierickx	25 juni 1909
+Michiel Dierickx	A. Ampe	9.0	Michiel Dierickx	25 juni 1909
+B. De Wint	F. De Raedemaeker	5.0	B. De Wint	19de eeuw
+Marcel Brauns	Walter F. Smet	6.0	Marcel Brauns	2 oktober 1913
+Edouard Dhanis	B. Boeyckens	6.0	Edouard Dhanis	1902
+A. Darquennes	Albert Deblaere	5.0	A. Darquennes	14 september 1909
+Marcel Brauns	Emiel Jan Janssen	12.0	Marcel Brauns	2 oktober 1913
+Marcel Brauns	B. Boeyckens	5.0	Marcel Brauns	2 oktober 1913
+Marcel Brauns	Albert Deblaere	8.0	Marcel Brauns	2 oktober 1913
+Emiel Jan Janssen	B. Boeyckens	9.0	Emiel Jan Janssen	23 april 1897
+A. Ampe	Albert Deblaere	7.0	A. Ampe	17 april 1912
+B. Boeyckens	J. Noë	5.0	B. Boeyckens	20ste eeuw
+B. Boeyckens	Jos. Burvenich	8.0	B. Boeyckens	20ste eeuw
+B. Boeyckens	K. du Bois de Vroylande	10.0	B. Boeyckens	20ste eeuw
+Walter F. Smet	Albert Deblaere	8.0	Walter F. Smet	1915
+Walter F. Smet	J. Noë	6.0	Walter F. Smet	1915
+Walter F. Smet	Louis Sterkens	6.0	Walter F. Smet	1915
+Albert Deblaere	J. Noë	6.0	Albert Deblaere	1916
+Albert Deblaere	Louis Sterkens	6.0	Albert Deblaere	1916
+Albert Deblaere	Louis Bruyns	5.0	Albert Deblaere	1916
+Jos. Burvenich	Louis Sterkens	5.0	Jos. Burvenich	18 augustus 1914
+Jos. Burvenich	Karel van Isacker	7.0	Jos. Burvenich	18 augustus 1914
+Jos. Burvenich	Louis Bruyns	6.0	Jos. Burvenich	18 augustus 1914
+Jos. Burvenich	K. du Bois de Vroylande	20.0	Jos. Burvenich	18 augustus 1914
+Jos. Burvenich	R. van Ooteghem	10.0	Jos. Burvenich	18 augustus 1914
+Jan Jozef van Laer	K. du Bois de Vroylande	5.0	Jan Jozef van Laer	1908
+Louis Sterkens	K. du Bois de Vroylande	5.0	Louis Sterkens	1912
+E.J. Vandenbussche	Jos. Burvenich	5.0	E.J. Vandenbussche	19de eeuw
+I. De la Potterie	Jos. Burvenich	8.0	I. De la Potterie	1914
+I. De la Potterie	L. Baudez	5.0	I. De la Potterie	1914
+Marcel Brauns	L. Vander Kerken	7.0	Marcel Brauns	2 oktober 1913
+L. Vander Kerken	Albert Deblaere	11.0	L. Vander Kerken	1910
+J. Noë	Walter F. Smet	6.0	J. Noë	1913
+Albert Deblaere	L. Baudez	5.0	Albert Deblaere	1916
+Jos. Burvenich	L. Baudez	6.0	Jos. Burvenich	18 augustus 1914
+Jos. Burvenich	Michiel Dierickx	16.0	Jos. Burvenich	18 augustus 1914
+Jos. Burvenich	W. Luyten	5.0	Jos. Burvenich	18 augustus 1914
+Jos. Burvenich	Walter F. Smet	7.0	Jos. Burvenich	18 augustus 1914
+Emiel Jan Janssen	Jozef Andriessen	5.0	Emiel Jan Janssen	23 april 1897
+A. Ampe	A. Darquennes	7.0	A. Ampe	17 april 1912
+R. Leijs	A. Darquennes	5.0	R. Leijs	20ste eeuw
+Albert Deblaere	A. Darquennes	5.0	Albert Deblaere	1916
+Jos. Burvenich	Jozef Andriessen	5.0	Jos. Burvenich	18 augustus 1914
+Jos. Burvenich	A. Darquennes	8.0	Jos. Burvenich	18 augustus 1914
+Louis Sterkens	Walter F. Smet	6.0	Louis Sterkens	1912
+L. Baudez	A. Darquennes	5.0	L. Baudez	20ste eeuw
+Walter F. Smet	A. Darquennes	5.0	Walter F. Smet	1915
+Jos. Burvenich	Emiel Jan Janssen	21.0	Jos. Burvenich	18 augustus 1914
+Jos. Burvenich	L. Vander Kerken	10.0	Jos. Burvenich	18 augustus 1914
+Jos. Burvenich	Albert Deblaere	13.0	Jos. Burvenich	18 augustus 1914
+Louis Sterkens	Albert Deblaere	6.0	Louis Sterkens	1912
+Louis Sterkens	L. Vander Kerken	6.0	Louis Sterkens	1912
+Louis Sterkens	Emiel Jan Janssen	9.0	Louis Sterkens	1912
+Louis Sterkens	Jos. Burvenich	5.0	Louis Sterkens	1912
+Paul Maria Jozef de Meester	Emiel Jan Janssen	5.0	Paul Maria Jozef de Meester	1916
+Paul Maria Jozef de Meester	K. du Bois de Vroylande	6.0	Paul Maria Jozef de Meester	1916
+R. van Ooteghem	K. du Bois de Vroylande	14.0	R. van Ooteghem	19de eeuw
+Louis H.M. Monden	Walter F. Smet	5.0	Louis H.M. Monden	1911
+Jos. Burvenich	J. Noë	9.0	Jos. Burvenich	18 augustus 1914
+Michiel Dierickx	J. Noë	7.0	Michiel Dierickx	25 juni 1909
+K. du Bois de Vroylande	J. Noë	11.0	K. du Bois de Vroylande	19de eeuw
+J. Noë	Louis H.M. Monden	7.0	J. Noë	1913
+J. Noë	F. De Raedemaeker	7.0	J. Noë	1913
+J. Noë	Emiel Jan Janssen	12.0	J. Noë	1913
+A. Ampe	L. Arts	5.0	A. Ampe	17 april 1912
+Jos. Burvenich	Louis H.M. Monden	9.0	Jos. Burvenich	18 augustus 1914
+Jos. Burvenich	F. De Raedemaeker	12.0	Jos. Burvenich	18 augustus 1914
+Jos. Burvenich	E. de Strycker	5.0	Jos. Burvenich	18 augustus 1914
+Jos. Burvenich	L. Arts	11.0	Jos. Burvenich	18 augustus 1914
+Albert Deblaere	Louis H.M. Monden	8.0	Albert Deblaere	1916
+Albert Deblaere	L. Arts	9.0	Albert Deblaere	1916
+E. de Strycker	L. Arts	6.0	E. de Strycker	20ste eeuw
+K. du Bois de Vroylande	Louis Bruyns	5.0	K. du Bois de Vroylande	19de eeuw
+E.J. Vandenbussche	Louis H.M. Monden	5.0	E.J. Vandenbussche	19de eeuw
+L. Vander Kerken	L. Mestdagh	5.0	L. Vander Kerken	1910
+Emiel Jan Janssen	L. Mestdagh	8.0	Emiel Jan Janssen	23 april 1897
+Albert Deblaere	L. Mestdagh	5.0	Albert Deblaere	1916
+Jos. Burvenich	L. Mestdagh	5.0	Jos. Burvenich	18 augustus 1914
+K. du Bois de Vroylande	L. Mestdagh	6.0	K. du Bois de Vroylande	19de eeuw
+F. De Raedemaeker	B. Boeyckens	6.0	F. De Raedemaeker	1894
+Marcel Brauns	L. Arts	6.0	Marcel Brauns	2 oktober 1913
+B. Boeyckens	Emiel Jan Janssen	9.0	B. Boeyckens	20ste eeuw
+L. Mestdagh	Jos. Burvenich	5.0	L. Mestdagh	1 september 1916
+L. Mestdagh	Emiel Jan Janssen	8.0	L. Mestdagh	1 september 1916
+L. Mestdagh	G. De Wolf	5.0	L. Mestdagh	1 september 1916
+L. Mestdagh	K. du Bois de Vroylande	6.0	L. Mestdagh	1 september 1916
+A. Ampe	Edouard Dhanis	5.0	A. Ampe	17 april 1912
+A. Ampe	Marcel Brauns	6.0	A. Ampe	17 april 1912
+Edouard Dhanis	Louis H.M. Monden	6.0	Edouard Dhanis	1902
+Karel van Isacker	Emiel Jan Janssen	8.0	Karel van Isacker	26 juni 1913
+Karel van Isacker	L. Arts	5.0	Karel van Isacker	26 juni 1913
+Jozef Andriessen	Jos. Burvenich	5.0	Jozef Andriessen	2 december 1917
+Walter F. Smet	Louis H.M. Monden	5.0	Walter F. Smet	1915
+Jos. Burvenich	B. Boeyckens	8.0	Jos. Burvenich	18 augustus 1914
+B. Boeyckens	F. De Raedemaeker	6.0	B. Boeyckens	20ste eeuw
+Albert Deblaere	I. De la Potterie	5.0	Albert Deblaere	1916
+K. du Bois de Vroylande	B. Boeyckens	10.0	K. du Bois de Vroylande	19de eeuw
+E.J. Vandenbussche	F. De Raedemaeker	6.0	E.J. Vandenbussche	19de eeuw
+B. Boeyckens	Marcel Brauns	5.0	B. Boeyckens	20ste eeuw
+Alb. Raignier	L. Arts	6.0	Alb. Raignier	20ste eeuw
+R. Leijs	Emiel Jan Janssen	8.0	R. Leijs	20ste eeuw
+L. Mestdagh	L. Vander Kerken	5.0	L. Mestdagh	1 september 1916
+L. Mestdagh	Albert Deblaere	5.0	L. Mestdagh	1 september 1916
+F. De Raedemaeker	A. Boone	5.0	F. De Raedemaeker	1894
+Emiel Jan Janssen	A. Boone	6.0	Emiel Jan Janssen	23 april 1897
+Emiel Jan Janssen	Paul Maria Jozef de Meester	5.0	Emiel Jan Janssen	23 april 1897
+J. Noë	B. Boeyckens	5.0	J. Noë	1913
+A. Darquennes	Louis H.M. Monden	7.0	A. Darquennes	14 september 1909
+G. De Wolf	Louis H.M. Monden	8.0	G. De Wolf	20ste eeuw
+G. De Wolf	L. Mestdagh	5.0	G. De Wolf	20ste eeuw
+Albert Deblaere	R. Leijs	5.0	Albert Deblaere	1916
+A. Boone	F. De Raedemaeker	5.0	A. Boone	20ste eeuw
+A. Boone	Emiel Jan Janssen	6.0	A. Boone	20ste eeuw
+Willem Maas	Jan Engelman	7.0	Willem Maas	28 april 1897
+A.G.W. Severijnen	A.J.D. van Oosten	8.0	A.G.W. Severijnen	19de eeuw
+Jan Vercammen	A.J.D. van Oosten	5.0	Jan Vercammen	7 november 1906
+Margo Scharten-Antink	R.C. Bakhuizen van den Brink	6.0	Margo Scharten-Antink	7 september 1869
+Arthur J.H. Cornette	D. van Blom	7.0	Arthur J.H. Cornette	4 maart 1880
+Martinus Nijhoff	N.A. Donkersloot	5.0	Martinus Nijhoff	20 april 1894
+Martinus Nijhoff	N.A. Donkersloot	5.0	Martinus Nijhoff	26 december 1826
+P.C. Boutens	Homerus	7.0	P.C. Boutens	20 februari 1870
+H.E.H. van Loon	H.T. Colenbrander	6.0	H.E.H. van Loon	1885
+J.H. Plantenga	F. Bordewijk	7.0	J.H. Plantenga	15 januari 1891
+C.F.A. van Dam	J.W.F. Werumeus Buning	17.0	C.F.A. van Dam	6 maart 1899
+J.W.F. Werumeus Buning	Miguel de Cervantes Saavedra	15.0	J.W.F. Werumeus Buning	4 mei 1891
+C.F.A. van Dam	Miguel de Cervantes Saavedra	15.0	C.F.A. van Dam	6 maart 1899
+L. van den Ham	Martin Permys	5.0	L. van den Ham	1912
+Jaap Romijn	E.J. Dijksterhuis	5.0	Jaap Romijn	29 maart 1912
+Jules Persyn	M.E. Belpaire	5.0	Jules Persyn	20 april 1878
+Jules Persyn	Gerard Walschap	7.0	Jules Persyn	20 april 1878
+Jules Persyn	J.A. Hallez	7.0	Jules Persyn	20 april 1878
+Jac. Weil	Frederik van Eeden	5.0	Jac. Weil	1869
+Louisa Duykers	Gerard Walschap	5.0	Louisa Duykers	13 maart 1869
+Urbain van de Voorde	Paul Claudel	5.0	Urbain van de Voorde	27 oktober 1893
+Nico van Suchtelen	Johann Wolfgang von Goethe	7.0	Nico van Suchtelen	25 oktober 1878
+Jan L. Walch	Mea Verwey	5.0	Jan L. Walch	2 januari 1879
+Frans Coenen	Mea Verwey	5.0	Frans Coenen	24 april 1866
+D.C. Hesseling	C.G.N. de Vooys	5.0	D.C. Hesseling	15 juli 1859
+Fernand Toussaint van Boelaere	Piet van Aken	6.0	Fernand Toussaint van Boelaere	18 februari 1875
+Jaap Das	Jacoba M. Vreugdenhil	5.0	Jaap Das	1911
+Edw. De Schaepdrijver	F. De Raedemaeker	6.0	Edw. De Schaepdrijver	19de eeuw
+R. van Ooteghem	F. De Raedemaeker	8.0	R. van Ooteghem	19de eeuw
+J. Donceel	L. Arts	5.0	J. Donceel	19de eeuw
+R. van Ooteghem	L. Arts	8.0	R. van Ooteghem	19de eeuw
+M. Dufraing	F. De Raedemaeker	5.0	M. Dufraing	19de eeuw
+L. Elaut	F. De Raedemaeker	5.0	L. Elaut	26 december 1897
+J.A. van Houtte	J. Salsmans	8.0	J.A. van Houtte	10 maart 1913
+Jan Jozef van Laer	Emiel Jan Janssen	6.0	Jan Jozef van Laer	1908
+L.G. Polspoel	F. De Raedemaeker	5.0	L.G. Polspoel	19de eeuw
+H. Bruders	L. Arts	5.0	H. Bruders	19de eeuw
+L. Verelst	L. Arts	6.0	L. Verelst	20ste eeuw
+Leo Simoens	L. Arts	5.0	Leo Simoens	11 april 1915
+E.J. Vandenbussche	J. Salsmans	6.0	E.J. Vandenbussche	19de eeuw
+R. van Ooteghem	L. Vander Kerken	9.0	R. van Ooteghem	19de eeuw
+R. van Ooteghem	Emiel Jan Janssen	13.0	R. van Ooteghem	19de eeuw
+Hugo Vandeperre	L. Arts	10.0	Hugo Vandeperre	20ste eeuw
+J. De Jaegher	L. Arts	5.0	J. De Jaegher	20ste eeuw
+J. De Jaegher	K. du Bois de Vroylande	5.0	J. De Jaegher	20ste eeuw
+J. De Jaegher	Emiel Jan Janssen	5.0	J. De Jaegher	20ste eeuw
+R. van Ooteghem	Edouard Dhanis	5.0	R. van Ooteghem	19de eeuw
+R. van Ooteghem	Eugenius Druwé	6.0	R. van Ooteghem	19de eeuw
+Hugo Vandeperre	Eugenius Druwé	6.0	Hugo Vandeperre	20ste eeuw
+P. Ellerbeek	L. Arts	6.0	P. Ellerbeek	20ste eeuw
+Louis H.M. Monden	Eugenius Druwé	10.0	Louis H.M. Monden	1911
+W. Talloen	Emiel Jan Janssen	5.0	W. Talloen	19de eeuw
+P. Ellerbeek	Emiel Jan Janssen	6.0	P. Ellerbeek	20ste eeuw
+P. Ellerbeek	L. Vander Kerken	5.0	P. Ellerbeek	20ste eeuw
+P. Ellerbeek	J. Salsmans	6.0	P. Ellerbeek	20ste eeuw
+Karel van Isacker	F. De Raedemaeker	5.0	Karel van Isacker	26 juni 1913
+Walter F. Smet	L. Arts	6.0	Walter F. Smet	1915
+Albert Deblaere	Edouard Dhanis	8.0	Albert Deblaere	1916
+Albert Deblaere	Eugenius Druwé	8.0	Albert Deblaere	1916
+G. De Wolf	Eugenius Druwé	7.0	G. De Wolf	20ste eeuw
+P. Goedertier	Emiel Jan Janssen	5.0	P. Goedertier	20ste eeuw
+G. De Wolf	Albert Deblaere	10.0	G. De Wolf	20ste eeuw
+K. du Bois de Vroylande	Albert Deblaere	16.0	K. du Bois de Vroylande	19de eeuw
+E. de Strycker	F. De Raedemaeker	5.0	E. de Strycker	20ste eeuw
+Marcel Brauns	A. Darquennes	5.0	Marcel Brauns	2 oktober 1913
+Louis Sterkens	Eugenius Druwé	5.0	Louis Sterkens	1912
+R. van Ooteghem	A. Ampe	8.0	R. van Ooteghem	19de eeuw
+R. van Ooteghem	Michiel Dierickx	10.0	R. van Ooteghem	19de eeuw
+Jos. Burvenich	Edouard Dhanis	9.0	Jos. Burvenich	18 augustus 1914
+R. van Ooteghem	Marcel Brauns	5.0	R. van Ooteghem	19de eeuw
+Jos. Burvenich	Marcel Brauns	11.0	Jos. Burvenich	18 augustus 1914
+K. du Bois de Vroylande	A. Ampe	10.0	K. du Bois de Vroylande	19de eeuw
+Jos. Burvenich	A. Ampe	10.0	Jos. Burvenich	18 augustus 1914
+Jos. Burvenich	Eugenius Druwé	6.0	Jos. Burvenich	18 augustus 1914
+Louis Bruyns	Emiel Jan Janssen	6.0	Louis Bruyns	15 januari 1919
+Louis Bruyns	Michiel Dierickx	5.0	Louis Bruyns	15 januari 1919
+R. van Ooteghem	Karel van Isacker	5.0	R. van Ooteghem	19de eeuw
+W. Luyten	Emiel Jan Janssen	6.0	W. Luyten	20ste eeuw
+W. Luyten	Michiel Dierickx	5.0	W. Luyten	20ste eeuw
+Michiel Dierickx	Albert Deblaere	10.0	Michiel Dierickx	25 juni 1909
+R. van Ooteghem	Albert Deblaere	6.0	R. van Ooteghem	19de eeuw
+Marcel Brauns	I. De la Potterie	5.0	Marcel Brauns	2 oktober 1913
+B. Boeyckens	Edouard Dhanis	6.0	B. Boeyckens	20ste eeuw
+Louis Bruyns	Albert Deblaere	5.0	Louis Bruyns	15 januari 1919
+K. du Bois de Vroylande	Louis Sterkens	5.0	K. du Bois de Vroylande	19de eeuw
+Jos. Burvenich	E.J. Vandenbussche	5.0	Jos. Burvenich	18 augustus 1914
+L. Baudez	Albert Deblaere	5.0	L. Baudez	20ste eeuw
+Jozef Andriessen	Emiel Jan Janssen	5.0	Jozef Andriessen	2 december 1917
+K. du Bois de Vroylande	Paul Maria Jozef de Meester	6.0	K. du Bois de Vroylande	19de eeuw

@@ -1,0 +1,19 @@
+Target	Source	Weight	Author	DOB
+P.J. Veth	W.J.C. van Hasselt	15.0	P.J. Veth	2 december 1814
+E.J. Potgieter	S.J. van den Bergh	14.0	E.J. Potgieter	27 juni 1808
+E.J. Potgieter	W.J.C. van Hasselt	14.0	E.J. Potgieter	27 juni 1808
+E.J. Potgieter	P.J. Veth	14.0	E.J. Potgieter	27 juni 1808
+S.J. van den Bergh	W.J.C. van Hasselt	14.0	S.J. van den Bergh	10 januari 1814
+S.J. van den Bergh	P.J. Veth	14.0	S.J. van den Bergh	10 januari 1814
+W.J.C. van Hasselt	P.J. Veth	15.0	W.J.C. van Hasselt	9 januari 1795
+Pieter Nicolaas Muller	Johan Hermann Christian Heyse	5.0	Pieter Nicolaas Muller	23 september 1821
+Samuel Adrianus Naber	Johan Hermann Christian Heyse	8.0	Samuel Adrianus Naber	16 juli 1828
+Johan Hermann Christian Heyse	Samuel Adrianus Naber	8.0	Johan Hermann Christian Heyse	23 maart 1839
+Johan Hermann Christian Heyse	Marie Henriëtte Koorders-Boeke	8.0	Johan Hermann Christian Heyse	23 maart 1839
+Marie Henriëtte Koorders-Boeke	Johan Hermann Christian Heyse	8.0	Marie Henriëtte Koorders-Boeke	29 mei 1837
+Johan Hermann Christian Heyse	Pieter Nicolaas Muller	5.0	Johan Hermann Christian Heyse	23 maart 1839
+S.J. van den Bergh	E.J. Potgieter	14.0	S.J. van den Bergh	10 januari 1814
+W.J.C. van Hasselt	E.J. Potgieter	14.0	W.J.C. van Hasselt	9 januari 1795
+P.J. Veth	E.J. Potgieter	14.0	P.J. Veth	2 december 1814
+W.J.C. van Hasselt	S.J. van den Bergh	14.0	W.J.C. van Hasselt	9 januari 1795
+P.J. Veth	S.J. van den Bergh	14.0	P.J. Veth	2 december 1814

@@ -1,0 +1,7920 @@
+Author	POD
+	
+Willem Maas	Utrecht
+Willem Nieuwenhuis	
+Karel van den Oever	Antwerpen
+Wies Moens	Geleen
+Eduard A. Serrarens	Roermond
+L.J.M. Feber	Den Haag
+G.P.M. Knuvelder	Eindhoven
+Jan Bruna	
+Bernard Verhoeven	Arnhem
+Adr. E. Maas	Scheveningen
+M. Bruna	
+Ed. Hoornik	Amsterdam
+Gerard Bruning	Nijmegen
+Piet Visser	
+Jos. van der Kolk	
+C.A. Terburg	
+J.A. Dom Gregorius de Wit	Visp
+Jean Cocteau	Milly-la-Forêt
+Wim Snitker	
+Eliseus Bruning	Nijmegen
+Willem ten Berge	Haarlem
+Wouter Lutkie	Nuland
+Hendrik Andriessen	Haarlem
+Henriette Roland Holst-van der Schalk	Amsterdam
+Kees Meekel	Bachellerie
+Pieter van der Meer de Walcheren	Breda
+Herman de Man	Schiphol
+Michel de Ghelderode	Schaarbeek
+Willem Putman	Brugge
+To Hölscher	Helmond
+Jan Campert	Neuengamme
+Jos. Panhuijsen	Amsterdam
+Pierre Kemp	Maastricht
+Paul van Ostaijen	Miavoye-Anthée
+Victor J. Brunclair	Lagelund (Sleeswijk-Holstein)
+Marie Koenen	Maastricht
+A. Roland Holst	Bergen
+Roel Houwink	Zeist
+Mathias Kemp	Maastricht
+J.C. van Schagen	Deventer
+Henrik Scholte	Amsterdam
+A. den Doolaard	Hoenderloo
+Martien Beversluis	Vrouwenpolder
+J.J. ten Berge S.J.	Nijmegen
+Erich Wichman	Amsterdam
+Blaise Cendrars	Parijs
+H.W.E. Moller	Tilburg
+Dop Bles	Den Haag
+Hans van Zijl	
+François Villon	
+J. Wille	Oosterbeek
+Henri Morel	Heerlen
+J.H. Horemans	
+Theo Vonck	
+Lambert Melissen	
+Gerard Wijdeveld	
+[tijdschrift] Dietsche Warande en Belfort	
+Mien Proost	
+Jacques Gans	Amsterdam
+Theo Schlichting	Amsterdam
+Hendrik Wiegersma	Deurne
+H.E.H. van Loon	
+J.F.M. Sterck	Amsterdam
+J.C. Bloem	Kalenberg
+Vic Reinders	Maastricht
+Jan H. Eekhout	Amsterdam
+Huub van der Grinten	
+F.J.H. Lousberg	Maastricht
+D.A.M. Binnendijk	Amsterdam
+A. Viruly	
+Jacques Schreurs	Weert
+J.J. van Geuns	Amsterdam
+Halbo C. Kool	Kortenhoef
+Emile Erens	Heemstede
+Maurits Mok	Bergen
+Gabriël Smit	Laren (N.H.)
+Joris Ivens	Parijs
+Luc Tournier	Willemstad
+Wilhelmus Nicolaï	
+Oscar Leyendekkers	
+Chris de Graaff	Amsterdam
+L. Stolte	
+A.J.A. Etman	
+J.B. Stolte	
+N.G.H. Deen	Rotterdam
+Frans Erens	Houthem-Sint Gerlach
+Charles Eyck	Schimmert
+Ad. Sassen	
+Lodewijk van Deyssel	Haarlem
+Jan Thorn-Prikker	Keulen
+Alfons Olterdissen	
+G.D. Franquinet	Maastricht
+E. Jaspar	
+Laurent Polis	Maastricht
+G.H. Weustink	
+P. Hendrix	Dordrecht
+M. Revis	Amsterdam
+Jan H. de Groot	Zeist
+Frans van Oldenburg Ermke	Meerssen
+A. van Domburg	Eindhoven
+Giovanni Papini	
+Martin Bruijns	Arnhem
+Eric van der Steen	Amsterdam
+Leo van Breen	
+Herman Oosterwijk	
+Louis de Bourbon	Arnhem
+Berend Kuitert Cz	
+Alphons Diepenbrock	Amsterdam
+Aug. Cuypers	Leiderdorp
+Stijn Streuvels	Ingooigem (Anzegem)
+Paul Vlemminx	Hertogenbosch
+Franciscus De Smidt	Lier
+G.J. Peelen	
+Heleen Hoekstra	
+A.P.Th. Sassen	Amsterdam
+Jos. van Schaveren	
+E.Th.J. Brom	Amsterdam
+G. Vrijmoed	Delft
+Koos van Doorne	
+Willem Brandt	Bussum
+E.H.M. Beekman	Den Haag
+H. van Rooijen	Amersfoort
+H.M. van Randwijk	Purmerend
+Antoon Coolen	Eindhoven
+J.H. Newman	Birmingham
+Hendrik de Vries	Haren
+Gaston Burssens	Antwerpen
+Paul Claudel	Parijs
+Michiel de Swaen	Duinkerken
+Wouter Paap	Lage Vuursche
+David de Kok	Boekel
+J.A.A. Mekel	Sachsenhausen
+Felix Rutten	Rome
+Freek van Leeuwen	Leiderdorp
+Herluf van Merlet	Bussum
+Kees Klap	
+C.C. Berg	Leiden
+Jan Vercammen	Brugge
+Jan Gin	Enschede
+Johan Brouwer	Overveen
+Charles Nypels	Groesbeek
+Marie Gijsen	Berlicum
+Luc van Hoek	
+Willem Nolet	Amsterdam
+A.G.W. Severijnen	
+G.W. van der Does	Den Haag
+C.P.M. Romme	Tilburg
+J.W.F. Werumeus Buning	Amsterdam
+Hubert Cuypers jr.	
+Jac. van Hattum	Amstelveen
+Renaat de Vos	
+F.Ph.A. Tellegen	
+Ernest van der Hallen	Lier
+Leo Boekraad	
+Herman Hutte	
+Esther Hadassa Weyl	
+Piet Oomes	Nijmegen
+Ben van Eysselsteijn	Sliedrecht
+L.S.J. Hanekroot	
+Joannes Reddingius	Bennekom
+Bertus Aafjes	Swolgen
+Paul Haimon	Mheer
+K. Steur	Volendam
+Gerth Schreiner	Blaricum
+C.R. de Klerk	
+Jo Manders	Rijsbergen
+J. Slauerhoff	Hilversum
+A.J.M. Cornelissen	
+Gerard den Brabander	Amsterdam
+Carole Vos	
+Bert Bakker	Ilpendam
+Frank Valkenier	Tilburg
+P.J.H. Vermeeren	Keulen
+Simon Vestdijk	Utrecht
+Bert Decorte	
+Martin Leopold	
+Johan de Molenaar	Utrecht
+A.A. Smijers	Huis ter Heide ut
+Piet Beek	
+Willem Hoffman	
+Wiel van der Randen	Amsterdam
+C.J. Vos	Utrecht
+G. Engelberg	
+René Berghen	Antwerpen
+Marcel Matthijs	Brugge
+Bert Verbist	
+Blanka Gyselen	Antwerpen
+Albe	Brussel
+Marnix van Gavere	Deinze
+René Verbeeck	Mortsel
+Edgar Twello	
+A. van der Wey	
+Charles Roelofsz	Amsterdam
+August Vermeylen	Brussel
+Adrien Jans	Brussel
+Hans Keilson	Hilversum
+Jan Bent	
+Maurits Dekker	Amsterdam
+Gustav Delory	Lille
+Jacob Hendrik van Duinen	Muiderberg
+Joh. Hartog	
+Chris van der Weye	Muiden
+F.J.J. Buytendijk	
+Roel Verlaan	
+Leo Heirman	Vlieland
+Albert C.A. Voortman	
+Max de Jong	Amsterdam
+A.G.M. van de Wijnpersse	
+Robert Franquinet	Maastricht
+Maarten Vrolijk	
+Bert Peleman	
+A. Marja	Den Haag
+Reinold Kuipers	Amstelveen
+Ferd. Sassen	Lugano
+D.A. de Graaf	
+Walter Breedveld	Tilburg
+Marianne Philips	Naarden
+Jeanne Liedmeier	
+G. Vos de Wael	
+Loe Maas	Maastricht
+K.J. Hahn	
+Jacques Benoit	Vorden
+Hendrik Houwens Post	Utrecht
+Hélène Nolthenius	
+Johan Berger	
+A.L.M. Arnolds	Bunnik
+C.J. Kelk	Doorwerth
+H.W.J.M. Keuls	Ede
+H.J.M.F. Lodewick	Cadier en Keer
+Ab Visser	Amsterdam
+Hubert Janssen	Gare du Nord, Parijs
+Jacques Idserda	Laren
+Jan Derks	
+J. van Delden	Appingedam
+F.J.J. Buitendijk	
+P.H. van der Kemp	
+Otto Dijk	
+Otto van Eck	
+Max Prick van Wely	
+Anton van der Vet	
+Peter Crassaerts	
+R.J. Valkhoff	
+J.J. Nieuwburg	
+H. de Vries	
+W.J.C. van Hasselt	Amsterdam
+Nicolaas Beets	Utrecht
+Jan Pieter Heije	Amsterdam
+Hendrik Engelinus Weijers	Leiden
+J. Ackersdijck	Utrecht
+E.J. Potgieter	Amsterdam
+Jacob Pieter van Walrée	Amsterdam
+S.J. van den Bergh	Den Haag
+J.P. Arend	Amsterdam
+Herman Pol	Amsterdam
+A.L.G. Bosboom-Toussaint	Den Haag
+Willem Gerard Brill	Utrecht
+Joël Emanuel Goudsmit	Leiden
+S. de Visser S.zoon	
+J.I.D. Nepveu	Utrecht
+L.Ph.C. van den Bergh	Den Haag
+Johannes Gerardus la Lau	Leiden
+J.J.A. Goeverneur	Groningen
+Conradus Leemans	Leiden
+Jan van der Hoeven	Leiden
+Cornelis Star Numan	Groningen
+Montanus de Haan Hettema	
+Taco Roorda	Leiden
+John Bake	Velp
+Johan de Wal	Arnhem
+Jacob Geel	Den Haag
+André van Hasselt	Brussel
+J.F. Oltmans	Steenderen
+A.L. Lesturgeon	Zweelo
+Willem Ernst Johan Berg	Hilversum
+Hendrik Jan Nassau	Assen
+Wopke Eekhoff	Leeuwarden
+H.F. Cohen	
+Henricus Bernardus Martini van Geffen	
+Petrus de Raadt	Voorschoten
+Leigh Hunt	Londen
+Willem Moll	
+Johan Rudolph Thorbecke	Den Haag
+Hendrik Chistiaan Millies	Utrecht
+Adriaan Beeloo	Amsterdam
+A.W. Engelen	Velp
+Bartholomeus Philippus de Kanter	Den Haag
+Levy Ali Cohen	Groningen
+W.J.A. Jonckbloet	Wiesbaden
+W.C.L. Clarisse	Harderwijk
+R.C. Bakhuizen van den Brink	Den Haag
+Henry Wadsworth Longfellow	
+Joost Hiddes Halbertsma	Deventer
+R.P.A. Dozy	Leiden
+P.T. Helvetius van den Bergh	Den Haag
+Friedrich Kaiser	Leiden
+J. van Geuns	Amsterdam
+Jan Gerhardus Ottema	Leeuwarden
+Gerrit de Clercq	Amsterdam
+C.J. van Assen	Velp
+Gerardus Arnoldus Nicolaus Allebé	Amsterdam
+C.W. Opzoomer	Oosterbeek
+Johannes Aletta Marinus Mensinga	Flensburg
+Abraham des Amorie van der Hoeven jr.	Utrecht
+Dionys Burger	Amersfoort
+Carl Ludwig Blume	Leiden
+Willem Louis de Sturler	Den Haag
+Willem Leonard Ritter	Haarlem
+C.H.D. Buys Ballot	Utrecht
+Jacobus Izaäk Doedes	Utrecht
+Jacob Dirks	Leeuwarden
+F.C. Donders	Utrecht
+Jan van Gilse	Amsterdam
+Johannes ab Utrecht Dresselhuis	Middelburg
+Georges Declercq	
+Jacques François Bosdijk	Amsterdam
+A.J. de Bull	Baarn
+Isaäc da Costa	Amsterdam
+M.M. von Baumhauer	Delft
+T.W.J. Juynboll	Leiden
+G.E. Voorhelm Schneevoogt	Oosterbeek
+Henry Riehm	Amsterdam?
+P. Halbertsma	Bloemendaal
+Joannes Jacobus de Hollander	Breda
+T.K.M. von Baumhauer	Zutphen
+E. Piaget	
+D.D. Büchler	
+Willem Richard Boer	Utrecht
+J.J. Belinfante	Den Haag
+Jacques Clement Perk	
+E.W. Beth	Amsterdam
+J.J. Viotta	Amsterdam
+P.A. de Génestet	Rozendaal
+J.J. Rovère van Breugel	
+Dirk Harting	Enkhuizen
+J.C.G. Evers	Den Haag
+Jan Heemskerk Bzn.	Den Haag
+E.B. Swalue	Amsterdam
+G. Knoop	Harderwijk
+Christiaan Lodewijk Schuller tot Peursum	Utrecht
+J. Pijnappel	
+J.A. Alberdingk Thijm	Amsterdam
+Salomon Müller	
+A.V. Michiels	Padang
+P.W. Korthals	Haarlem
+W.R. van Hoëvell	Den Haag
+Pieter Leendertz Wz.	Dortmund
+Mark Prager Lindo	Den Haag
+Jacob van Lennep	Oosterbeek
+A.C. Oudemans	Nijmegen
+Johannes Zeeman	Overveen
+Lodewijk Willem van Deventer	
+Aug. Philips	
+Jakob Karel Willem Quarles van Ufford	Den Haag
+Hendrik Jan Spijker	Den Haag
+Johan Carl Zimmerman	
+H.J. Schimmel	Bussum
+H.J. van der Helm	
+Jacob Leonard de Bruyn Kops	Den Haag
+Jacob de Witte van Citters	Montreux
+Ernst Julius Kiehl	Middelburg
+P.A.S. van Limburg Brouwer	Den Haag
+W.J. Hofdijk	Arnhem
+C.A.J.A. Oudemans	Arnhem
+F.M. Cowan	op zee
+J.G.A. Faber	
+Johannes Adriaan Molster	
+Henriette Frederika Bosscha	Twello
+Hendrik Jacob van der Heim	Florence
+C.L. van Woelderen	Dordrecht
+Louis Susan Pedro Meyboom	Amsterdam
+Daniel Koorders	Bennebroek
+L.M. Heemskerk	
+J.L. Dusseau	Amsterdam
+Marinus Lodewijk van Deventer	Prinsenhage (Breda)
+A. Rientjes	
+S.J. Hoekstra	Heerenveen
+Arie de Jager	Rotterdam
+Gozewinus Acker Stratingh	Groningen
+Winand Carel Hugo Staring	Klein Dochteren
+H.W. de Graaf	
+Pieter Arend Leupe	Den Haag
+C.C. Huysmans	Den Haag
+H. van Cappelle jr.	Voorburg
+Elise van Calcar	Den Haag
+Theo Hermans	
+F.J. Swartwout	
+Cornelis Hooyer	Barchem
+Daniël Veegens	
+Johannes Bosscha	Den Haag
+L.J. Egeling	Den Haag
+Pieter de la Court	Amsterdam
+Johan de Witt	Den Haag
+J. Tideman	Den Haag
+F.A.W. Miquel	Utrecht
+Adriaan Loosjes	Bloemendaal
+Jan Herman Herman de Ridder	Den Haag
+Joannes Tideman	Hilversum
+H. van Cappelle	Haarlem
+Jan Willem van der Noordaa	Rotterdam
+Samuel Adrianus Naber	
+Willem Doorenbos	Den Haag
+H. Halbertsma	Amersfoort
+P.J. Hollman	Alkmaar
+Antonius van der Linde	Wiesbaden
+Cornelius Marinus de Jong van Rodenburgh	Haarlem
+Mari Johan Mees	Rotterdam
+Lodewijk Willem Ernst Rauwenhoff	Méran
+J.C. Reepmaker	
+Jan Jacob de Gelder	Alkmaar
+L. de Hartog	
+Johan Adam Wijnne	Utrecht
+Jan Pieter Nicolaas Land	Arnhem
+Jan Gerrit Hulleman	Utrecht
+Nicolaus Meursinge	
+Johannes Pols	Den Haag
+B.M. Perk	
+Adrianus Bruinvisch Maatjes	Amsterdam
+Antony Winkler Prins	Voorburg
+J.W. Muller	Leiden
+Albert Hendrik Arnoldus Ekker	Den Haag
+Ben Sloot	
+Wilhelm Christiaan Knottenbelt	Katendrecht (Rotterdam)
+Carel Vosmaer	Montreux
+Geert Berings	
+N.W.P. Rauwenhoff	
+Johannes Margadant	
+Simke Heerts Rinkes	Arnhem?
+Abraham Kuenen	Leiden
+C.P. Burger	Amsterdam
+Walter Bosch	
+Nicolas Charles Sieburgh	
+Aart Veder	
+W.C.A. Staring	Den Haag
+A.S. Carpentier Alting	Den Haag
+Abraham Seyne Kok	
+P.J.B.C. Robidé van der Aa	Den Haag
+J. Wttewaall	Utrecht
+W. Ruys	Den Haag
+Frederik Nagtglas	De Bilt
+P.C. Margadant	Dieren
+Sijo Kornelius Thoden van Velzen	
+Hendrik de Veer	Rhenen
+W.J.A. de Witt Huberts	Amsterdam
+D.E.W. Wolff	
+T.T.H. Jorissen	Amsterdam
+Mon Steyaert	
+H.P.G. Quack	Amsterdam
+S.J. Hingst	Den Haag
+Abraham Dirk Loman	
+Johannes van Dam	Leiden
+Samuël Senior Coronel	Leeuwarden
+Hippoliet Bauduin	Rome
+Tobias Michael Carel Asser	Den Haag
+Simon Frederik Groen	
+F.P.J. Sibmacher Zìjnen	Middelburg
+Steven Blaupot ten Cate	Hoogezand
+Johannes Philippus Heukelom	Amsterdam
+W.H. van de Sande Bakhuyzen	
+Abraham Willem de Klerck	
+Willem baron van Goltstein	Putten
+Julius Christiaan van Deventer	Dordrecht
+Otto van Rees	Utrecht
+J. Limburg	
+Firmin van der Poorten	Aalst
+Lodewijk Mulder	Den Haag
+N.J. den Tex	Amersfoort
+Herman Agatho des Amorie van der Hoeven	Den Haag
+Pieter Bleeker	Den Haag
+J.F.B. Baert	Utrecht
+J. Beckering Vinckers	Groningen
+Samuel van Houten	Den Haag
+Gerrit Kuyper Hzn	Den Haag
+P.A. Tiele	Utrecht
+Thomas Kroon JHz.	Apeldoorn
+Henri Ernest Moltzer	Utrecht
+R.S. Tjaden Modderman	
+H.A. Wijnne	Groningen
+Nicolaas Jacob Bernard Kappeyne van de Coppello	Amsterdam
+Isaäc Dornseiffen	Doorn
+Jan Willem Nicolaas Mosselmans	Leiden
+Izaak Jan Blaupot ten Cate	Vries
+Nicolaas Bernhardus Donkersloot	Den Haag
+Jan Luzac	
+Anthony Ewoud Jan Modderman	Den Haag
+Jan ten Brink	Leiden
+B.J. Stokvis	
+Jacob Gijsbert de Hoop Scheffer	Amsterdam
+M.H. Jansen	Den Haag
+D. Huizinga	Groningen
+Bernard Dominicus Hubertus Tellegen	Groningen
+Hendrik Adriaan Antonius van Berckel	Rotterdam
+Julius de Geyter	Antwerpen
+H.W. Schroeder van der Kolk	
+H. Neubronner van der Tuuk	Soerabaja
+J.C. de Vries	
+B.H.C.K. van der Wijck	
+Jan Willem Straatman	
+H.T. Karsten	
+Jeronimo de Vries	Haarlem
+H.F.R. Hubrecht	
+W.F.R. Suringar	Leiden
+A.J.A. Gerlach	Wiesbaden
+A.W.M. van Hasselt	
+A.E. Croockewit	Den Haag
+Jb. Boeke	
+A. Quak	
+H. van der Hoeven	
+Cornelis Marinus Francken	Utrecht
+Meinardus Siderius Pols	Utrecht
+M.T.H. Perelaer	Den Haag
+R.P. Mees Azn.	Rotterdam
+G.H.J. Elliot Boswel	Voorburg
+W.C.D. Olivier	
+Henricus Oort	
+Joanan Rutgers	
+Charles Boissevain	Naarden
+M.W.C. Gori	Hilversum
+Willem Johannes Franciscus Nuyens	Westwoud
+Johan Gram	Den Haag
+Hendrik Hooyer	Arnhem
+D.J. Mom Visch	
+Michaël Wilhelm Scheltema	Den Haag
+Peter van Bosse	Den Haag
+W.A. van Rees	Den Haag
+Matthijs Salverda	Den Haag
+E.J.P. Jorissen	
+Gerard Keller	Arnhem
+François de Casembroot	Den Haag
+W.P. Sautijn Kluit	Amsterdam
+Isaac Arnold Lamping	
+Anton Gillis Cornelis van Duyl	Amsterdam
+M.A.N. Rovers	Utrecht
+J.J. Cornelissen	Leiden
+A.L.H. Ising	Den Haag
+Tobias van Westrheene Wzn	Den Haag
+G.M. Boissevain	Bloemendaal
+George Lodewijk Kepper	
+H.P. van Karnebeek	Den Haag
+H. van Herwerden	Utrecht
+Cornelius Marius Kan	
+J.S.G. Gramberg	Cobden, Illinois
+C.J.F. Mirandolle	Haarlem
+H.C. van Hall	
+T.J. Stieltjes	Rotterdam
+P.J.W. Teding van Berkhout	Deventer
+Hendrik Pierson	
+Peter van Os	
+Willem Pieter Wolters	Grafenberg bij Dusseldorf
+Adriaan van Eck	Leiden
+W. Koster Gzn.	Utrecht
+Sadi de Gorter	
+G.A. van Hamel	Amsterdam
+Cornelis Bellaar Spruyt	Hilversum
+Jan Karel baron van Goltstein	Den Haag
+Balthazar Heldring	amsterdam
+Martinus Leopold	Arnhem
+M.H. du Croo	Aalten
+Victor de Stuers	
+P. van Geer	Den Haag
+Philip Reinhard Hugenholtz	Amsterdam
+Willem Arnold Pieter Pistorius	
+B. Carsten	Wiesbaden
+Aart Admiraal	Schoonhoven
+Pieter Marinus Netscher	Den Haag
+Jean Baptist van Hugenpoth tot den Beerenclauw	's-Hertogenbosch
+Bruno Jz. Tideman	Den Haag
+Hendrik Wolfgang van der Meij	
+Johannes Bodel Nijenhuis	Leiden
+S.M.S. de Ranitz	
+A.J.C. Geerts	Yokohama
+Hugo Beyerman	Den Haag
+H.J. van Ankum	Zeist
+Pieter Heering	Den Haag
+W.A. Verschuer	Den Haag
+W.C. Hojel	Den Helder
+W. Heineken	
+Jan Willem Gerbrandt van Oordt	Kaapstad
+Ocko Wicher Star Numan	
+P. de Boer	Groningen
+L.M.J. Glasius	
+H. van de Stadt	
+Jacob Paulus Amersfoordt	
+M.C.L. Lotsij	Utrecht
+Jacob Dirk Veegens	Den Haag
+A.P.C. van Karnebeek	
+J. l' Ange Huet	Rangkasbitung
+W.K. van Dedem	Calcutta
+Floris der Kinderen Fzn.	
+Joan Frederik van Oordt	Kaapstad
+Daniël Hartevelt	
+Elise Adelaïde Haighton	Den Haag
+Constantijn	Hertogenbosch
+J.H.F. Sollewijn Gelpke	Bandoeng
+Tijs Terwey	Amsterdam
+Gerardus Petrus Booms	Den Haag
+Pierre Joseph Henry Baudet	Utrecht
+A.C. Loffelt	Den Haag
+P.J. Cosijn	Leiden
+A.T. Reitsma	
+Taco H. de Beer	Den Haag
+J.L. Hoorweg	
+Jeronimo de Bosch Kemper	Amsterdam
+Annaeus Frederik Eilerts de Haan	Meppel
+Jan Hartog	Doorn
+Frederik Christiaan de Brieder	
+Rudolf Cornelis Hendrik Römer	Deil
+D.W. Rost van Tonningen	
+F.V.H.A. de Stuers	Den Haag
+C.D.H. Schneider	Den Haag
+Willem Bernard Johannes van Eyk	Den Haag
+J.C. de Marez Oyens	
+Ewaldus Daniël Pijzel	Amsterdam
+N. Donker	
+M. de Ras	Den Haag
+Henrick Witte	
+M.C. Piepers	
+A. Elink Sterk jr.	Den Haag
+J.A.F.L. van Heeckeren	Meerssen
+Pieter de Jong	
+F.H. Boogaard	Den Haag
+Willem Hendrik de Beaufort	Den Haag
+Willem Degenhardt	Amsterdam
+Barthold Jacob Lintelo de Geer van Jutphaas	Utrecht
+Margaretha Wijnanda Maclaine Pont	Den Haag?
+C.M. Vos	Amsterdam
+Johan Drabbe	Domburg
+W.B.G. Molkenboer	
+F.J. Haver Droeze	Dordrecht
+Adrianus Dirk de Vries	
+Adrianus Daniel de Vries	
+Henricus Anastasius Viotta	
+L.A.J.W. baron Sloet van de Beele	Arnhem
+Th.W. Engelmann	Berlijn
+A.H.G.P. van den Es	Baarn
+I.D. Franssen van de Putte	Den Haag
+Petrus Conradi	
+J. van Loenen Martinet	
+Jacob Léon Wertheim	Amsterdam
+J. Winkler Prins	op de Keltische Zee
+Samuel Muller Fzn.	
+R.M. van Goens	Werningerode
+Jacob Hendrik Hora Siccama	
+D.C. Meijer	
+A.C. Vreede	Leiden
+V.A. Julius	Utrecht
+J. Aleida Nijland	
+Jacob Adolf Bruno Wiselius	
+E.O. Houtsma	
+C. Terburch	
+Jean Charles Naber	Utrecht
+J.C. Costerus	Hilversum
+G. Kalff	Sassnitz
+G. de Bosch Kemper	Brussel
+Emile Habets	
+Maurits Smit	
+T.H.F. van Riemsdijk	
+Nicolaas de Roever	Amsterdam
+F.P. ter Meulen	
+A.L. de Rop	Amsterdam
+C. Honigh	Zwollerkarspel
+A.C. Waller	
+[tijdschrift] Vaderlandsche Letteroefeningen	
+H.E. Beunke	Amersfoort
+Jan de Louter	
+H.G. Roodhuyzen	
+Melchior Treub	St. Rafael
+L.R. Koolemans Beynen	Macassar
+Anth. Grolman	Utrecht
+G.E. Langemeijer	Bloemendaal
+K.W. van Gorkom	
+Albert Jan ten Brink	Den Haag
+Frederik van Hogendorp	Bendorf
+H.L. Berckenhoff	
+H.U. Meyboom	Paterswolde
+Henri Raloff	
+A.L.W. Seyffardt	
+J.G. Frederiks	Amsterdam
+Anthonie Marius Kollewijn	
+M. van Andelst	
+J.C.M. van Riemsdijk	
+J.J.L. ten Kate	Amsterdam
+Anton Gerard van Hamel	Amsterdam
+Robert Macalester Loup	
+Anne Busken Huet-van der Tholl	Parijs
+Johannes Reitsma A.Tzn.	Groningen
+Gerrit de Vries	
+A.S.C. Wallis	Rotterdam
+Jan Philip de Bordes	
+Max Rooses	Antwerpen
+L.A.J. Burgersdijk	Apeldoorn
+Petrus Martinus Bots	Dongen
+A.E.J. Holwerda	
+David van Hoogstraten	Amsterdam
+Carl Ludwig Lütkebühl jr.	
+T.M. Tromp	
+Virginie Loveling	Gent
+J. Röell	Den Haag
+J.D. de Jong	Den Haag
+R. Feith	Groningen
+François de Bas	Den Haag
+H. Koekebakker	Zwartsluis
+Pol de Mont	Berlijn
+A.A.W. Hubrecht	
+J.A. Worp	
+Gerard Valette	
+J.A. Bientjes	Amersfoort
+Gerard Heymans	
+A.J.W. Farncombe Sanders	Den Haag
+Joh. Dyserinck	Baarn
+George Eliot	Londen
+L. de Vlaming	
+H.L.F. Pisuisse	Den Haag
+Jan van Beers	Antwerpen
+J.H. Hooijer	Arnhem
+Anthony Beaujon	Heidelberg
+M.A. Perk	Amsterdam
+Jac. Moleschott	Rome
+Johannes Hermanus Gunning jr.	Arnhem
+W.C. Mees	
+R.P.J. Tutein Nolthenius	La Tour de Peilz
+E.B. Kielstra	Den Haag
+B. Sijmons	Groningen
+Constantinus Bake	Den Haag
+Josephine Giese	Voorburg
+Louis Couperus	De Steeg
+Willem Pleyte	Leiden
+J.W. van der Linden	
+Hijman Binger	
+Jan Carel Matthes	
+Jacob Kuyper Hzn.	Den Haag
+Jan Izaak van Doorninck	Zwolle
+Martina Geertruida Sara van der Feen	Den Haag
+M.E.F. Elout van Soeterwoude	Batjan
+W. Gosler	
+Hélène Swarth	Velp
+A. Bruining	
+P.A.M. Boele van Hensbroek	
+Fiore della Neve	Florence
+J.P. Hasebroek	Amsterdam
+J.C. Loman jr.	Den Haag
+Pieter Gerard van Schermbeek	Deventer
+Abraham Bredius	Monaco
+P.W.A. Cort van der Linden	Den Haag
+Pierre Daniel Chantepie de la Saussaye	Bilthoven
+C.H. den Hertog	Amsterdam
+Marie Agathe Boddaert	Den Haag
+J.J.P. Valeton	
+W.C. van Manen	Leiden
+B. Dorhout Mees	Bendorf
+Willem van der Vlugt	Tongeren
+Theodoor Carel Gobée	Soerabaja
+F.S. van Nierop	
+A.W. Kroon-Star Numan	
+Arnold Werumeus Buning	Den Haag
+Frans Netscher	Haarlem
+Geertruida Carelsen	Haarlem
+Jan Six	
+W.G.C. Byvanck	Den Haag
+F.J.L. Krämer	
+Henri David Levyssohn Norman	
+Christiaan Snouck Hurgronje	Leiden
+Adriaan Pit	Nijmegen
+Elise Knuttel-Fabius	
+Albartus Telting	Den Haag
+Johannes Mulder	
+Joan Bohl	Amsterdam
+S.E. Harthoorn	
+Willem Pieter Cornelis Knuttel	Den Haag
+G.W. Bruinsma	Breda
+Albertus Hendrikus Nijland	Indië
+Matthias de Vries	Leiden
+Johan baron d' Aulnis de Bourouill	Utrecht
+Louis Trenard	Belley
+Gerard Slothouwer	
+Charles François van Duyl	Groningen
+Emile Seipgens	Leiden
+Th. Swart Abrahamsz	
+Willem A. Hecker	Delft
+Willem Jacob Manssen	
+J.H. Kips	Lochem
+George Alexander Wilken	Leiden
+N.J. Singels	Zeist
+Samuel Muller	Amsterdam
+Herman Frederik Carel ten Kate	Carthago
+Pieter Nicolaas van Kampen	Amsterdam
+A. Kluijver	
+Frits Lapidoth	Nauheim
+Jan F. Beekman	
+J.H. van den Bosch	Wageningen
+J. Menno Huizinga	
+J.J.A.A. Frantzen	
+J.E. Sachse	
+H. Was	
+H.J. Polak	Groningen
+Marcellus Emants	Baden
+W. Jaeger	
+C.A. Steger	Den Haag
+J.A. Tours	
+Izaak Jan le Cosquino de Bussy	Hilversum
+J.B.C. Adriaensen	Schaarbeek
+Jacob Samuel Speyer	Leiden
+W.L. Penning	Den Haag
+N.P. van den Berg	
+Johanna A. Wolters	
+C.C. Uhlenbeck	
+G.J. Boekenoogen	Leiden
+L.W.C. van den Berg	Delft
+A.J. Immink	
+P.J. Blok	Leiden
+Leo Simons	
+H. J. Eymael	
+G.H. Priem	
+S.J. Warren	
+K.O. Meinsma	Zutphen
+J.H. Groenewegen	
+J.F. van Bemmelen	Leiden
+Leopold	Haarlem
+A.J. Bothenius Brouwer	Rotterdam
+J.G. Gleichman	Den Haag
+Hendrik Barend Greven	Den Haag
+Bernhard van Meurs	Rotterdam
+Wolfgang Brandt	
+Jan Frederik Niermeyer	Utrecht
+J.J. van Toorenenbergen	Amsterdam
+R.C. Boer	Amsterdam
+Willem Frederik Andriessen	Alkmaar
+Herman Heijermans	Zandvoort
+L. Knappert	Leiden
+Edward B. Koster	Den Haag
+Marie Snijder van Wissenkerke	
+Arnoldus Nicolaas Jacobus Fabius	Bussum
+M. Straub	
+Samuel Kalff	
+J.P. Moltzer	
+H. Logeman	Sleidinge
+Willem Bilderdijk	Haarlem
+S.R. Steinmetz	
+B.J.H. Ovink	
+J.E. Enklaar	Den Haag
+Elie van Rijckevorsel	Rotterdam
+Philippe Zilcken	Villefranche
+Cyriel Buysse	Afsnee
+A.W. Pulle	
+Jan Veth	Amsterdam
+Henri Borel	Den Haag
+Joannes van der Vliet	
+L. Serrurier	Jakarta
+Nicolaas Dirk Doedes	Utrecht
+Betsy Juta	
+August Gittée	
+Willem Gerard van Nouhuys	Den Haag
+J.F.D. Blöte	Tilburg
+anoniem Ridder metter swane	
+C.H.H. Spronck	
+Johannes Theodorus Petrus de Groot	Schiedam
+F.V. Engelenburg	
+Gerard Vissering	
+H.Z. Zegers de Beijl	Sragen
+Frederike J. van Uildriks	Gorssel
+H.S.M. Wickevoort Crommelin	
+Philippus Samuel van Ronkel	Leiden
+J.H. van 't Hoff	Steglitz, bij Berlijn
+A.G. van Hamel	Utrecht
+H. Heukels	
+G.F. Haspels	Arnhem
+Willem Duflou	Elsene
+C. Winkler	
+Jan Marcus Hoogvliet	
+C.A. Pekelharing	
+H.Y. Groenewegen	
+Foeke Buitenrust Hettema	Zwolle
+W.L.P.A. Molengraaff	
+Ida Heijermans	Amsterdam
+Jacob Gerard Patijn	Den Haag
+W.M. Engelberts	
+H.A. Lorentz	Haarlem
+H. Zwaardemaker	Utrecht
+Augusta de Wit	Baarn
+Hendrik Clemens Muller	Den Haag
+L.J. Plemp van Duiveland	Den Haag
+J. Mathijs Acket	
+G. den Tex	
+H. Tz. Pyttersen	
+Johan Hora Adema	
+Maurits Wagenvoort	Voorburg
+Carel Scharten	Florence
+C.A.E. Wichmann	Hamburg
+Frank van der Goes	Laren
+M.W.F. Treub	Den Haag
+B.D. Eerdmans	Leiden
+W.Ph. Scheuer	Hilversum
+Joh. H. Been	Brielle
+H.A. Kooyker	Groningen
+F. Beelaerts van Blokland	Den Haag
+G.H. Marius	
+G.J. Kolff	
+H.W.Ph.E. van den Bergh van Eysinga	Zutphen
+Hendrik Doeff	Amsterdam
+O.M. de Munnick	Den Haag
+Anna van Hogendorp	
+J.H. van den Broek	Brussel
+Gerrit Halfcaegh	
+H.L. Drucker	Den Haag
+Gianni Riotta	
+J.W. Doyer Jz.	
+G.P. Rouffaer	
+Margo Scharten-Antink	Florence
+A.W. Byvanck	Leiden
+Johannes Hermanus Gunning J. Hzn.	Amsterdam
+D.G. Jelgersma	
+Margaretha Meijboom	Voorburg
+D.E. Siegenbeek van Heukelom	Leiden
+D. Simons	
+Egberdina Anna Junius	Arnhem?
+F.A.F.C. Went	
+Julius de Boer	Zeist
+Gerrit van Gorkom	Den Haag
+Hendrik Johan Haverman	
+L.S. Meijer	
+Aletta H. Jacobs	Baarn
+Paul François Hubrecht	Doorn
+Charlotte van Herwerden	
+C.H.Th. Bussemaker	Leiden
+L.E. Visser	
+Anna Ekker	
+Conrad Th. van Deventer	Den Haag
+Judith Viorst	
+Frans Mijnssen	
+Ida Haakman	
+Nellie van Kol	Utrecht
+Fleur Bourgonje	
+Anna Germonprez	Wilrijk
+M. Tonnet	
+Gerard van Eckeren	Wassenaar
+M.J. Pijnappel	Amsterdam
+Aloysius Brouwer Ancher	
+Hugo Krabbe	Leiden
+J.W. Jenny Weijerman	
+P.C. Boutens	Den Haag
+Bas Veth	Bussum
+C.H. Kühn	
+J.C. van Leyden	
+W.P. Kops	Amsterdam?
+S. van Aken	
+G.H. Betz	Den Haag
+A.D. van Assendelft de Coningh	Amsterdam
+J. Marx	
+Bernard Gewin	Utrecht
+C.G.S. Sandberg	
+T.J. de Boer	Den Haag
+J. Eigenhuis	Epe
+C.A. Worp-Roland Holst	
+Arnoldus Wilhelmus Stellwagen	Apeldoorn
+J.H. de Veer	Amsterdam
+G.H. van Waveren jr.	
+N. Mansvelt	Haarlem
+J.C.G. Grasé	
+H. van Hogendorp	
+Gijsbert Karel graaf van Hogendorp	Den Haag
+Johannes Hasselman	Tiel
+Marie Metz-Koning	Ascona
+Gerard van Hulzen	Den Haag
+H.R. Offerhaus	
+J.E. Jasper	
+J.J.G. Vürtheim	
+Richard de Cneudt	Gent
+E. van Hille	
+J.P. van Rossum	
+C.K. Elout	Wassenaar
+J. Mar. Ruys	
+Maurice Wilmotte	
+J.A. Simons-Mees	Den Haag
+Antoon Derkinderen	Amsterdam
+P.J. van Löben Sels	
+A.W. Nieuwenhuis	
+I. Kooistra	
+G.P. Bakker	
+P. Leendertz (jr.)	
+B. Symons	
+Willem Lodewijk van Helten	Den Haag
+Alfred Listal	
+Gideon Busken Huet	Parijs
+J.D. van der Waals	Amsterdam
+L.N. de Jong	
+K.C. Boxman-Winkler	Utrecht
+Dan. Engelen	Heerenveen
+F.J.L. Rompel	Kaapstad
+H.G. van der Vies	Baden Baden
+T.J. Bezemer	Bennekom
+Jacobus Boelen Jhz.	Utrecht
+L.A.A. van Kervel	
+J. Everts	Amsterdam
+Maria Muller-Lulofs	Utrecht
+Paul Fredericq	Gent
+Elizabeth Visser	
+Israël Querido	Amsterdam
+Gerrit Simons	
+Louis Carbin	Menton
+Theodoor Bernard van Lelyveld	Den Haag
+Johanna Naber	Den Haag
+Martina G. Kramers	
+C.B. Hylkema	
+G. van Rijnberk	
+W. de Vletter	
+M.J. Brusse	Schoorl
+Hélène Mercier	Amsterdam
+D. Bos	Den Haag
+H.L. Oort	
+Pieter Corbeels	Doornik
+Johannes Everts jr.	
+F. de Haan	Haarlem
+F.A. van Engen	
+L.F. de Beaufort	Amersfoort
+Sara Bouterse	
+J.H. Blankert	
+Hendrik Mulder	
+Wilhelmus Johannes Kühler	Leiden
+G.A. van den Bergh van Eysinga	Haarlem
+W.E. van Dam van Isselt	Bilthoven
+Johan Christiaan van Eerde	Amsterdam
+W. Vollgraff	
+G. Polvliet	
+Ch.F. Haje	
+A. Hotz	
+Sam Goudsmit	
+A. Kluyver	
+L.H. Grondijs	Den Haag
+Jan Limburg	
+Karel Vos	Groningen
+Jozef Israëls	Den Haag
+Tine van Buul	Amstelveen
+Martha Johanna Hamaker	
+A.E. Thierens	Vlissingen
+Gustaaf D' Hondt	Gent
+J.J. Salverda de Grave	Den Haag
+J. de Jager	
+J.W.T. Cohen Stuart	Den Haag
+H.J. Hamburger	
+W.H. Hasselbach	
+J.M. Hoogvliet	Den Haag
+J.H. Deibel	
+Nicolaas Japikse	Den Haag
+A.J.G. Maclaine Pont	Hilversum
+Anna van Gogh-Kaulbach	Haarlem
+Louis Havet	
+J. van den Bergh van Eysinga-Elias	
+M.H. Lem	
+A. Meyroos	
+J. Hobma	
+I. Zeehandelaar	
+H.P. Staal	Den Haag
+J. Boudewijnse	
+J.D.C. van Dokkum	
+Leo van Puyvelde	Ukkel
+Martinus Poelhekke	
+Samuel Pierre l' Honoré Naber	Den Haag
+Jan Jacob Thomson	Baarn
+F. Schmidt-Degener	Amsterdam
+Arthur van Schendel	Amsterdam
+Johannes Aarnout Loebèr jr.	
+J.H.F. Kohlbrugge	
+H. Buringh Boekhoudt	Velp
+Nico Oosterbeek	
+Th. van Ameide	Den Haag
+P.N. van Eyck	Wassenaar
+C. te Lintum	Den Haag
+O. Oppermann	
+Herman Robbers	Amsterdam
+P. van Romburgh	
+S. Bonn	Amsterdam
+Hendrika Boer	
+J.A. van Hamel	Baarn
+Pieter Valkhoff	Hilversum
+Geerten Gossaert	Utrecht
+Rommert Casimir	Voorburg
+Johannes Benedictus Kan	Apeldoorn
+Eltjo Aldegondus van Beresteyn	Den Haag
+William Davids	
+Johanna Westerdijk	Baarn
+H.G. van der Waals	
+G.J. Nieuwenhuis	
+Dorothée Buys	
+Jacob Israël de Haan	Jeruzalem
+Adriaan van Oordt	Bussum
+E.M. ten Cate	Apeldoorn
+J.H. Holwerda	
+Herman Middendorp	Den Haag
+Jan Jelles Hof	Leeuwarden
+Nico van Suchtelen	Ermelo
+Multatuli	Nieder-Ingelheim
+C.J. Hasselman	
+J. Prinsen J.Lzn	
+Willem Meijer	
+F.M. Wibaut	Amsterdam
+Herman Baccaert	Mechelen
+J.Ph. Vogel	
+H.N. de Fremery	
+Jac. P. Thijsse	Overveen
+J.B. Kan	Den Haag
+Jan Slingenberg	
+H.F. Jonkman	
+G.J. Heering	Oegstgeest
+J.J. Tesch	Den Haag
+P. Otten	
+Coen Hissink	
+J.J. Bekaar	
+Wilhelm Loeb	Kimberley
+Ina Boudier-Bakker	Utrecht
+Aart van der Leeuw	Voorburg
+J.D. Bierens de Haan	Haarlem
+Nicolaas Messchaert	Utrecht
+A.S. van Oven	
+Just Havelaar	Amersfoort
+Frederik Daniel Eduard van Ossenbruggen	
+Hendrik Onnen	
+Jan de Gruyter	Amersfoort
+Johan Toot	
+H.L. de Beaufort	
+Richard Roland Holst	Bloemendaal
+Th.M. Roest van Limburg	Amsterdam
+C.E. Hooykaas	
+H. Burger	
+Willem Kalma	
+J. Bosboom Nz.	
+J. Philip van Goethem	
+H.J. Westerling	
+Jacobus Gerardus Veldheer	
+Ernst Heldring	
+Marie Loke	
+J.C. Hol	
+Johan van Meurs	
+Peter Spaan	
+N.H. Swellengrebel	Amsterdam
+A.W. Weissman	Haarlem
+Anton Reinhard Falck	Brussel
+C. Kramer	
+Leonie van Nierop	
+C. Pekelharing	
+J.J.B. Elzinga	
+Johan Wesselink	
+J. Berlage	Gorssel
+H.P.N. Muller	Den Haag
+J. Rietema	
+Jan Overduin	Kampen
+Gerrit Kalff jr.	Amsterdam
+Jo van Ammers-Küller	Bakel
+M.A. van Herwerden	
+J.G. Sleeswijk	Den Haag
+Frans Bastiaanse	Amsterdam
+A.W. van Renterghem	
+François Pauwels	Amstelveen
+Jan Prins	Naarden
+P.F.H. Fromberg	Buitenzorg
+G.J. Hoogewerff	Florence
+J. de Wit	
+F. de Sinclair	
+Gerard van den Hoek	Grouw
+Jan J. Zeldenthuis	
+Frank Gericke	
+Zadok Stokvis	Dieren
+A.H. Blaauw	Renkum
+Kornelis Sneyders de Vogel	Groningen
+G.C.J. Vosmaer	
+C.A. van Manen	
+C. Becker	Oldenzaal
+F.E. Posthumus Meyjes	
+Tannelie Blom	
+F.W.J.G. Snijder van Wissenkerke	Rijswijk
+Matthée Corneille Valeton	
+L.L.C.M. van Outhoorn	
+Jan van Rossem	
+Joseph Loopuit	Amsterdam
+Halbe Binnerts	Voorburg
+Pieter Willem de Koning	
+Jean-Pierre van Rossem	Sint-Pieters-Jette
+Top Naeff	Dordrecht
+A. van Collem	Heemstede
+Em. Querido	Sobibor
+Th. de Meester	Den Haag
+Tobie Goedewaagen	Den Haag
+W. Nolen	Den Haag
+Wally Moes	
+P. van Schilfgaarde	
+W. de Sitter	Leiden
+Karel Wasch	
+Johan W. Schotman	Zwolle
+Jac. D. Huizinga	Huizinge
+S. Pinkhof	Oranienburg
+A.A.H. Struycken	
+A.J. Wensinck	
+B.C.J. Loder	
+Käthe Mussche	
+K. Jansma	Amsterdam
+Jac. van Looy	Haarlem
+C.T. van Valkenburg	
+S. Ritsema van Eck	
+R. de Josselin de Jong	
+Jan van Nijlen	Ukkel
+Henri van Booven	Den Haag
+Jelte Dijkstra	
+P.H. Ritter jr.	Houten
+J.P. Kuenen	
+J.J. Boasson	
+J.M. van IJssel de Schepper-Becker	
+Adriaan J. Barnouw	Shelter Island
+E. W. Holthuysen	
+Petrus Raëskin	
+M.J. Sirks	Groningen
+Frits Hopman	Leiden
+Dirk Merens	
+Herman Lysen	
+J. van Oudshoorn	Den Haag
+Isidoor Teirlinck	Sint-Gillis
+J. de Marees van Swinderen	Amsterdam
+R.A. Verweij	
+Meint Joustra	Leiden
+E.C. van Dorp	Banjoe Biroe
+W. Elink Schuurman	
+A. van Hengel	
+G.F.E. Gonggrijp	
+Multavidi	
+W.B. Kristensen	
+H. van Loon	
+Dan. de Lange jr.	
+C. Lekkerkerker	
+J. Rietsema	
+Marie Schmitz	Dordrecht
+H. Oort	Rotterdam
+J.A. Eigeman	
+A.H.M.J. van Kan	Den Haag
+Martin Albers	
+A.C. Josephus Jitta	
+K.H. Roessingh	Leiden
+G. Titta Rosa	Milaan
+S.H. de Roos	Haarlem
+Laurens van der Waals	Herwijnen
+Henriette Laman Trip-de Beaufort	Bennekom
+Andrew de Graaf	
+Simon van Brakel	Dordrecht
+P.C.J.A. Boeles	Leeuwarden
+Job Steynen	
+Emmanuel de Bom	Kalmthout
+Madeleine Böhtlingk	Zeist
+Herman Poort	Groningen
+Cornelis Veth	Den Haag
+D.M.G. Koch	
+Timon Hendrik Fokker	Rome
+A.J. de Sopper	Leiden
+Herman Frijda	Auschwitz
+Marie Cremers	Bussum
+C.A. Verrijn Stuart	Zeist
+Jeanne van Schaik-Willing	Amsterdam
+Jac. C. Bloem	Den Haag
+Johannes van der Elst	Haarlem
+Hk. de Vries	
+E.E. Gewin	Baarn
+J.A. Schroeder	
+Is.P. de Vooys	Arnhem
+Antoon Thiry	Antwerpen
+H.A. Enno van Gelder	Den Haag
+Marcus van Blankenstein	Den Haag
+Johan Fabricius	Glimmen
+Jo de Wit	Den Haag
+Henri Bakels	
+Hendrika Ghijsen	Middelburg
+F. Adama van Scheltema	
+A. Geyl	
+L. Ali Cohen	Haarlem
+Johan Huijts	
+W.M.F. Mansvelt	Java
+Lode Baekelmans	Antwerpen
+J.P. Fockema Andreae	Utrecht
+Edith Werkendam	Brussel
+J. Faber	
+Frits G. Tingen	
+A.M. Hammacher	Abano Terme
+Isidoor van Beugem	Gent
+Elisabeth Reitsma	
+L.M.A. von Schmid	Den Haag
+Sybrandi Braak	Wassenaar
+C.M. van Hille-Gaerthé	Den Haag
+Petrus van Renesse	
+André Jolles	Leipzig
+E.F. Kossmann	
+D.Th. Jaarsma	
+B.H. Rethmeier	
+Gerbert Scholten	
+E.C. Abendanon	Monte Carlo
+F. Dijkema	Amsterdam
+J.P.A. François	Den Haag
+H.H.J. Moulijn-Haitsma Mulier	
+Nine van der Schaaf	Bloemendaal
+Jo Landheer	Apeldoorn
+P. Verhagen Lzn.	
+A.B. Droogleever Fortuyn	Utrecht
+J. Burger	
+J.J.L. Duyvendak	Leiden
+Gerard Brom	Wijchen
+J.A. Lambert-van der Kolf	
+C. Bakker	Utrecht
+J. Bierens de Haan	
+J.W. Marmelstein	
+Miek Janssen	
+G.J.D.C. Stempels	
+Jenny Mollinger	
+W. Kuenen	
+A.S. Oppenheim	
+J.M. Bottemanne	Den Haag
+Adriaan Daniel Fokker	Beekbergen
+Willem Leendertz	Santpoort-Zuid
+Beatrice Willing	
+J.J. van Loghem	
+Frans Maurits de Jaeger	Haren
+Jooske Brandeler-den Beer Poortugael	Den Haag
+J. Aalbers	
+C.W. van der Pot	Den Haag
+G.J. Geers	Groningen
+Cornelia Serrurier	
+J.P. Wesselink-van Rossum	
+H.M.J. Oldewelt	
+G.W.J. Bruins	Washington
+Elize van Kaathoven	
+J.H. Kramers	Oegstgeest
+Siegfried E. van Praag	Brussel
+Teatse Eeltsje Holtrop	
+A.M. de Jong	Amsterdam
+Constant van Wessem	Wassenaar
+Daniël Crena de Iongh	New York
+Sybrand Allard Waller Zeper	Leeuwarden
+G.H. Hintzen	
+H. Enno van Gelder	Den Haag
+H.C. Hartevelt	
+Albert Plasschaert	
+Johannes Tielrooy	Amsterdam
+Theodoor Jan Stomps	
+H.L. van Oordt	
+P. Verdoes	
+W.E. van Wijk	Arnhem
+G.J.C.A. Pop	
+René Klinkenbergh	
+J.C. Baak	Amsterdam
+J.A.A.H. de Beaufort	Amersfoort
+P.E. van Renesse	
+C.J. Wolterbeek	Den Haag
+Agatha Seger	
+H.L. van Duyl	Utrecht
+Willem de Mérode	Eerbeek
+Philippus van Blom	Den Haag
+Pierre Blussé	Den Haag
+Willem van der Kaay	Den Haag
+A. Kool	
+Lodewijk Franck	Wijnegem
+G.A. van Klinkenberg	
+J.W. Teillers	
+F.C. Dominicus	Den Haag
+Willem de Clercq	Amsterdam
+E.D. van Dissel	Ellecom
+H. Ribbius	
+P. Roosenburg	
+W. Feuilletau de Bruyn	Den Haag
+W.H. Staverman	Deventer
+J.H. van Zanten	
+Ferrad Whaley Hudig	Aerdenhout
+Willem van Doorn	
+A.G.N. Swart	
+J. Reitsma	
+H.T. de Graaf	
+J.P. van Limburg Stirum	
+J.C.C. Tonnet	
+G.J. Morsch	
+J.E. van der Pot	Rotterdam
+C. Wolterbeek	
+S.I. van Zuylen van Nyevelt	
+D. Merens	
+Boris Raptschinsky	
+A.J. van der Steur	Rotterdam
+A. Plate	
+W. Kramer	Bussum
+A.W.C. Zuidema	
+Willem Pijper	Leidschendam
+Wilhelm Martin	Den Haag
+J.Z. Kannegieter	
+Abraham Benjamin Cohen Stuart	Scheveningen
+C. de Boer	Leiden
+Reinier van Genderen Stort	Wassenaar
+N.J. Polak	
+Johannes Lindeboom	Groningen
+Matthijs Vermeulen	Laren
+Robert van Genechten	Den Haag
+B.G. Escher	Arnhem
+P.L. van Eck jr.	
+C.J. Blaauw	Haarlem
+D.F. Slothouwer	
+R.W.J. den Tex	
+Herman Vos	Antwerpen
+F.J.A. Huart	Amsterdam
+D.J. Sannes	
+D. Dresden	Delft
+J.B. Manger	Amsterdam
+J.A.J. Barge	Leiden
+L.A. Alting Mees	
+A.A.M. Stols	Tarragona
+L.J. van Holk	De Bilt
+T.J.C. Gerritsen	Den Haag
+C.L. Heesakkers	Leiden
+Hermann Wolf	Amsterdam
+B. van Geuns	Zaandam
+Arnold Lysen	
+Th. van Welderen Rengers	
+Leendert van Lange	
+E.A.N.P. Franchimont	
+E. du Perron	Bergen
+R.A.D. Cort van der Linden	
+Pieter Zeeman	Amsterdam
+Kasper Niehaus	Bergen
+Maria van Royen	
+F.G. Scheltema	Amsterdam
+Jan Toorop	Den Haag
+J.F. Kunst	
+Fenna de Meyier	Wageningen
+C.H. van Os	Delft
+P.J. Fehmers	Leiden
+Antoon Jacob	Antwerpen
+Antoon Gerard Roos	Groningen
+Ben Onie	
+L.G.M. Baas Becking	Canberra
+Boudewijn Nierstrasz	
+J.W. van Nouhuys	Den Haag
+Amand Simoens	Mortsel
+R. Wiarda	
+Lien ter Laan-van Lokhorst	Den Haag
+M.A. Muusses	Laren
+F.D.K. Bosch	Leiden
+H.A. Mulder	Grahamstad
+August Vanhoutte	Oostende
+Jac. van Ginneken	Nijmegen
+Roelof Kranenburg	Den Haag
+J.M. de Casseres	Den Haag
+W.E.J. Kuiper	
+Hendrik Brugmans	Brugge
+Godard Gosses	Zeist
+Hermien Manger	
+Willem van Maanen	Utrecht
+Jan Kalf	Den Haag
+J.M.J. Schepper	
+Jérôme Decroos	Münster
+Dirk Hudig	Amsterdam
+Evert Willem Schallenberg	Amersfoort
+C.M. Hamaker Sr.	
+C. Binnerts	
+W.J. van de Woestijne	
+F.A. van der Hoeven	
+I.J. Brugmans	Den Haag
+Ralph Springer	
+F.A.J. Vermeulen	
+A.C. Kersbergen	
+C.J.J. Westermann	
+Jan P.M.L. de Vries	Utrecht
+Jacob Haantjes	Goes
+H.G.J. Maas Geesteranus	
+I.H. Gosses	Groningen
+Jan Carel de Haan	Oegstgeest
+J. Zaaijer	
+C. Tielrooy-de Gruyter	
+Arie Zijderveld	Amsterdam
+David Jacob van Lennep	Utrecht
+Christoffel Verwey	
+G.A. Nauta	
+A.A. Bake	Londen
+Richard Minne	Sint-Martens-Latem
+Han G. Hoekstra	Amsterdam
+Jaap van Gelderen	
+W.L. de Vreese	Voorschoten
+Anny C.A. Alberdingk Thijm	
+H.N. ter Veen	
+J.A. Pollones	
+J. Wolterbeek Muller	
+Gerrit Besselaar	Den Haag
+Gabe van der Zee	Maarssen
+Wilhelmina Smit-van de Wall	
+P.J. Idenburg	
+J.C.M. Warnsinck	Den Haag
+N. Levi	
+D. Cohen	Amsterdam
+R.F. Beerling	Leiden
+Jaap Kunst	Amsterdam
+L. Kappeyne van de Coppello-Wijgers	
+A. Feberwee	Soest
+Leo Plemp van Duiveland	Amsterdam
+H.Th. de Booy	Amsterdam
+C.W. Roldanus	Haren
+J.B. Besançon	Den Haag
+Barend ter Haar Bzn.	Nijmegen
+Jacoba Eggink	
+C. Weststrate	
+Douwe Kalma	Leeuwarden
+André De Weerdt	Antwerpen
+G.W.J. Drewes	Noordwijk
+Henri Houben	
+L.K. Wolff	
+B. Vechtman	
+Hugo de Groot	Rostock
+Emile Verviers	
+A.N.J. den Hollander	
+M.R.J. Brinkgreve	Amersfoort
+J.H. Pluvier	
+P.C. Molhuysen	Den Haag
+D.J.H. ter Horst	
+A.H. Philipse	
+Paul Cronheim	Amsterdam
+K.S. van Heynsbergen	
+Kees van Bruggen	Amsterdam
+Elisabeth du Perron-de Roos	
+A.W. de Groot	Laren
+Klaas Heeringa	Utrecht
+R.J. Kortmulder	
+C.J. de Vogel	
+Anton Koolhaas	Amsterdam
+Homerus	
+J.J. von Schmid	
+K.F.O. James	
+A. Hendriks-Kappelhoff	Velp
+Ed Coenraads	Haarlem
+Tine Brinkgreve-Wicherink	Leiden
+B.M. Telders	Bergen-Belsen
+Hermanus Arnoldus Idema	
+Ar. Kwink	
+P.J. van Winter	Groningen
+H.A.C. Snethlage	
+Marion Duimel	
+J.H. Scholte	
+J. Steur	
+A. Jager	
+Sofia Antoniadis	Athene
+Edgar Allan Poe	Baltimore
+J.G. van Dillen	Amsterdam
+Theodorus Ligthart	
+Jan Daman	Rotterdam
+Gs. Finjee	Batavia
+Erik Hörnström	
+M.H. Székely-Lulofs	Amsterdam
+G. van der Leeuw	Groningen
+Aleksej Hackel	Leiden
+E.H. ter Kuile	
+F.W.S. van Thienen	
+Jan Hulsker	Victoria, B.C., Canada
+H. Hettema jr.	
+C.D.J. Brandt	Utrecht
+H.J. de Vleeschauwer	Pretoria
+J.F. Haccoû	
+G. Knuttel Wzn	Den Haag
+A.J. Bernet Kempers	Arnhem
+W.F. Prins	
+Hajo Brugmans	Amsterdam
+Chr. Cornelissen	Domme
+Maurits Sabbe	Antwerpen
+Ph.J. Idenburg	Wassenaar
+Marie van Dessel-Poot	Brussel
+Uys Krige	
+J.R. van Blom	
+Truus Gerhardt	Den Haag
+G. Knuttel jr.	Rijswijk
+Jan Willem Meyer Ranneft	Den Haag
+Frans Buyle	Antwerpen
+F.W. Prins	
+Hermann Goetz	
+Eline Canter Cremers-van der Does	Den Haag
+H.N. Boon	Den Haag
+T. van der Zee	
+Hendrik Riemens	
+H. van der Tuin	
+J.J. Schrieke	
+Arnoldus Noach	
+J.F. Niermeyer	
+Eduard Reeser	Utrecht
+D.F.W. van Lennep	
+J.N. Bakhuizen van den Brink	Leiden
+Lode Zielens	Antwerpen
+F.L. Ganshof	Brussel
+Johan Wesseling	
+F.S. Knipscheer	
+C.J. van Geel	
+P. Lascaris	
+A.F. Zwaardemaker	
+J.P. Wiersma	Groningen
+Herman Dirk van Broekhuizen	Pretoria
+Willem Johannes Leyds	Den Haag
+S. Posthuma	
+Stephan Ronart	
+G.S. Overdiep	Groningen
+J.H. Boeke	Leiden
+N.J. Krom	Leiden
+C.F. Roos	
+H. Drion	Leiden
+C.H. de Goeje	
+A.L. Wurfbain	
+J. Molemans	
+G. Bolkestein	Den Haag
+A. Hollenberg	
+F.M.P. Oosterhof	Tours
+W. Arondéus	Overveen
+George Lodewijk Schorer	
+Jan Willem Berkelbach van der Sprenkel	Haarlem
+Wim van de Woestijne	
+Jan Spoelstra	
+H.J.F.W. Brugmans	Groningen
+K. R. Gallas	Amsterdam
+Nicolaas Johannes Cornelis Marie Kappeyne van de Coppello	
+C.C. van de Graft	Utrecht
+A.G.A. van Rappard	Utrecht
+D. Loenen	
+Waldie van Eck	
+K. Posthumus	
+F.W.A. Korff	Haarlem
+M.J. Langeveld	Bussum
+Willy Dols	
+C.F.A. van Dam	Utrecht
+A.C. Verbeek	
+Leonhard Huizinga	Wassenaar
+N.E.M. Pareau	Groningen
+S.M. Noach	
+H. Kraemer	Driebergen
+J. Patijn	
+D.T. Spronk	
+C.F. Meyer	Kilchberg
+Ida Gerhardt	Warnsveld
+Andreas Glotzbach	
+A.H. Nijhoff	Den Haag
+Henk Vastenouw	
+G.H. Blanken	Voorschoten
+J.R. Evenhuis	
+Christina Kroes-Ligtenberg	Den Haag
+A.J. van Soest	
+Koos Schuur	Almere Stad
+E. Cantillon	Den Haag
+Jan Barents	
+Theo van Baaren	Groningen
+W. Wiersma	
+A.J. Jansen	
+Th.H.J. van Huet	
+J. Buffin	
+P.W.J. Steinz	
+Hein de Bruin	Amsterdam
+Elizabeth Barrett Browning	Florence
+K. ter Laan	Utrecht
+Horatius	
+Elisabeth Cheixaou	Zeist
+K.H. Heeroma	Groningen
+H.J. Pos	Haarlem
+J.E. de Haas	
+H.J. van Tienhoven	
+J.G. Delfgaauw	
+G. Révész	Amsterdam
+O. Bottema	Delft
+Daan Zonderland	Den Haag
+F. Lulofs	Assen
+W.Ph. Coolhaas	Bilthoven
+Jan Waterink	Amsterdam
+Guus Dijkhuizen	
+Jorge Manrique	
+G. le Maire	Bergen
+H.P. van den Aardweg	Amsterdam
+Jan Hendrik Jongkees	Utrecht
+Johanna K. Oudendijk	
+Herman Johannes Lam	
+H. Wagenvoort	
+Willem van Reymerswael	
+G.J.H. Kuyk	
+Frank Onnen	
+Leo Verdievel	Oostduinkerke
+F. Ph. Groeneveld	
+G.M. van der Plank	
+W.J.W. Koster	
+W. Rip	
+E. Horbach	
+J.V. Rijpperda Wierdsma	Oegstgeest
+J.H. Brouwer	Leeuwarden
+C.W. de Vries	
+Jacobus Schuurmans Stekhoven	
+Th.H. Lunsingh Scheurleer	
+Eva E. Gerretsen	
+R.P. Cleveringa	Oegstgeest
+H. Plessner	Göttingen
+G. Milius	
+J.D.M. Cornelissen	Nijmegen
+H. Engel	Almen
+Nel Veerman	
+J. Hoogendoorn	
+Alfred de Musset	Parijs
+R. van Luttervelt	Lochem
+C.W. Sangster-Warnaars	
+M.C. van der Werff	
+Jan Klein	
+E. Smedes	Haarlem
+W. Gerdes	
+J. Delden	
+G.F.W. van Berckel	
+F. Oudschans Dentz	Claremont
+August Henkels	
+Karel Jonckheere	
+A.E. Rosendahl Huber	
+Martin Permys	Amsterdam
+Ph. Kohnstamm	Ermelo
+Johanna de Jongh	Breda
+J. de Kanter	
+L. Aletrino	Amsterdam
+T.P. Sevensma	Hilversum
+H. Gerversman	Rotterdam
+J.M. Kramer	
+L.C.T. Bigot	Arnhem
+L. van den Ham	
+Sergei Smirnov	
+I.A. Bunin	
+Dmitrij Sergeevic Merezjkovskij	
+J.H. Thiel	Utrecht
+A. van Velsen	
+Willem van Everdingen	
+A.M. van der Giezen	
+Frouwien van der Vooren-Kuyper	
+Herman Meyer	Roquebrune
+K. Strijd	
+J. Kruseman	
+J.E. Verschaffelt	
+Henk Breuker	Montpellier
+G.H. 's- Gravesande	Bilthoven
+H.E. Enthoven	New York
+W. Vloedgraven-Stuyver	
+R.A.V. van Haersolte	
+Michel van der Plas	Leidschendam
+Eduard Verkade	Breukelen
+Jan Gonda	
+M.C. Tideman	Huis ter Heide
+Sjoerd Leiker	Hoorn
+W. Lubberink	Hilversum
+L.C. Michels	Ubbergen
+A.A. Weijnen	Malden
+J. Bax	
+J.C.J. Kleijntjens	Den Haag
+J.M. Sterken	
+Lou Vleugelhof	
+Tue Gad	
+S.A.M. Bottenheim	Amsterdam
+B. Faddegon	Ede
+Marc Rozelaar	
+Alexander Sizoo	Amsterdam
+J. Peters	Heiloo
+R.F. Scheltema de Heere	
+L.J. Rogier	
+Mies Bouhuys	Amsterdam
+Willem den Boer	Leiden
+J.R. Thorbecke	
+L.W.G. Scholten	Utrecht
+Dirk Schoute	Soest
+Marinus van der Goes van Naters	
+Bas van Gelder	Borculo
+A. Bicker Caarten	
+P.J. Enk	Groningen
+H. van de Waal	Leiden
+M. van der Plas	
+P. Krug	
+Johannes van Melle	Johannesburg
+Nicholas G. Lély	
+Jan C. M. Leijten	
+I.J.M. van den Berg	
+J.A. Bierens de Haan	Sienna
+Amoene van Haersolte	Dalfsen
+A.M. Chamalaun	
+Henri A. Ett	Delft
+Aede van Eysinga	Oenkerk
+H.F.W.D. Fischer	Leiden
+A. Kleijn	Oosterbeek
+J.L.F. van Essen	Den Haag
+Th.C. van Stockum	Heerenveen
+Léon Polak	
+Carl Mennicke	Frankfurt am Main
+Abraham Schierbeek	Den Haag
+Henri Overhoff	
+M. de Vroede	Oostende
+A.V.N. van Woerden	
+Johan Tersteeg	Den Haag
+Maarten Schneider	Den Haag
+B.L. van der Waerden	
+A.G.M. van Melsen	
+Fanny de Jong	
+Karel Kuypers	
+Paul A.G. Dibon	Villiers sur Morin
+Manuel van Loggem	
+Jaap Romijn	Ellewoutsdijk
+Alb. de la Court	
+Julien Benda	Fontenay-aux-Roses
+Nico Verhoeven	Sneek
+Wouter Nijhoff	Den Haag
+Th.M. Metz	
+Henriëtte Schuurbeque Boeye	Amersfoort
+Hanny Michaelis	Amsterdam
+Carel Swinkels	Nuland
+L.Th. Lehmann	Amsterdam
+J.E. Jonkers	
+J. van IJzeren	
+Simon Vinkenoog	Amsterdam
+C.H. Telders	Den Haag
+J. Milius	
+W.L.M.E. van Leeuwen	Schoorl
+T.S. Eliot	Londen
+Charles B. Timmer	
+Hans Warren	Goes
+M. Klaassen	
+Dj. Adinegoro	Jakarta
+Bertus van Lier	Groningen
+F.W. Zeylmans van Emmichoven	Kaapstad
+Hans Bendien	
+John Vandenbergh	
+Truman Capote	Los Angeles
+Edward Arlington Robinson	
+Carl Sandburg	
+Ezra Pound	
+Horace Gregory	Shelburne Falls, Massachusetts
+Charles-Henry Ford	New York
+Jan G. Elburg	Amsterdam
+Kenneth Patchen	
+Thomas McGrath	Minneapolis (Minnesota)
+Gerrit Kouwenaar	Amsterdam
+Robert Hayden	
+Zack Gilbert	
+Annetje Reens-Neufeld	
+Frederick Franck	Warwick
+Casper Höweler	
+E.G. Marshall	Bedford
+Anna Blaman	Rotterdam
+Jan Spierdijk	
+Jan Lincklaan Westenberg	
+Hendr. Ad. Warmelink	Amsterdam
+Mea Verwey	Santpoort-Noord
+Harry Brander	
+Laurens Welagen	
+Barend Rijdes	Haarlem
+Maurits de Meyer	Wilrijk
+Nes Tergast	Den Haag
+Jan Sebastian Rabie	
+Ernst Denny Hirsch Ballin	
+Dola de Jong	Laguna Woods, Californië
+Dolf Verspoor	Amsterdam
+Rivai Apin	
+J.C. Brandt Corstius	Odijk
+W. Nienaber-Luitingh	
+A.C.M. Kurpershoek-Scherft	Leiden
+D.G. van Vreumingen	
+Hans Lodeizen	Lausanne
+Lucebert	Alkmaar
+Gerard Diels	Amsterdam
+Theo J. van der Wal	Bergen
+Josine Reuling	Amsterdam
+H.E. Greve	Den Haag
+J.C.A. Fetter	
+Christine D'haen	Brugge
+W.J. van der Molen	Orvelte
+Tom Eekman	Laren
+N.E.H. van Esveld	
+G.J. van der Woude	
+Carlo (graaf) Sforza	Rome
+Giacomo Leopardi	
+A.H. Luijdjens	
+Enrico Nencioni	Ardenza
+Gabriele d' Annunzio	Gardone Riviera
+Goffredo Bellonci	Lido di Camaiore
+G.A. Bouwman-Pot	
+Vitaliano Brancati	Turijn
+Antonio Baldini	Rome
+Bruno Zevi	
+Umberto Saba	Gorizia
+Giulio Carlo Argan	
+Corrado Govoni	
+Lionello Venturi	
+Eugenio Montale	Milaan
+Mario Verdone	Rome
+Massimo Mila	
+Emilio Lavagnino	Genève
+Hugo Claus	Antwerpen
+Fred Polak	
+David Scheinert	Koekelberg
+H. de la Fontaine Verwey	Amsterdam
+J.G. van der Ploeg	Rotterdam
+A. Kessen	Leiden
+J.Th. Spaan	
+Charles Baudelaire	Parijs
+Barend de Goede	
+Maria Dermoût	Den Haag
+H.W.J. Kroes	Den Haag
+J.A. Rispens	Deventer
+W.A.F. Stokhuyzen	Den Haag
+H.I. Keus	
+Marius Wilhelm Holtrop	
+W.R. Heere	Tilburg
+J.P. van Praag	
+H.C. van de Hulst	
+Sj. Groenman	
+A.D. de Groot	Schiermonnikoog
+Jan Peters	
+C.A.R. Graamans	
+J.J. Vriend	
+Charles Wentinck	
+Leo van Egeraat	Ulvenhout
+G.J. de Grooth	
+A. van Lennep	
+Remco Campert	
+Jan de Jong	
+D.Th. Enklaar	Utrecht
+J.H.J. van der Pot	Oegstgeest
+Maps Valk	
+H. Wielek	Amsterdam
+A.A.M. Horsting-Boerma	
+William Faulkner	Oxford
+Ch.G. Matser	
+W.A. Braasem	Hoorn
+Justus Meyer	
+Cola Debrot	Amsterdam
+W.Gs Hellinga	Londen
+Guillaume van der Graft	Utrecht
+Hendrik Jan Reinink	Den Haag
+K.H.R. de Josselin de Jong	Warnsveld
+Ad den Besten	Amstelveen
+Pier Westra	
+M.J. Francken	
+Charles Webster	
+Ernest Barker	
+William A. Robson	
+Oscar R. Hobson	
+William Wilson	
+Thomas Hardy	
+Dylan Thomas	New York
+Max Schuchart	Den Haag
+Doris Lessing	Londen
+Reyner Banham	
+Robert Melville	
+Marius Flothuis	Amsterdam
+C. Nicolaï	
+Charles Boost	Amsterdam
+F. Bender	
+J.H. Huizinga	
+H.H.J. de Leeuwe	Amersfoort
+Leo Herberghs	Heerlen
+A.C. Niemeyer	
+J. Petri	
+Herman van den Bergh	Rome
+David Koning	Laren
+Adriaan van der Veen	Den Haag
+Harriët Laurey	Lage Mierde
+J.H. Kernkamp	Bilthoven
+G.H.M. van Huet	Rotterdam
+Alfred Kossmann	Amsterdam
+Anton Kloppers	Grächen
+Arthur Lehning	Lys-St.-Georges
+J.G. de Beus	Founex
+A. Graafhuis	
+Jan Wit	Groningen
+A. Alberts	Amsterdam
+Bernard Vlekke	
+W.H. Somermeyer	
+Leo Vroman	Fort Worth
+L.P.J. Braat	
+Josepha Mendels	Eindhoven
+Jan Vermeulen	Nijmegen
+B.W. Schaper	Oegstgeest
+Yge Foppema	Oegstgeest
+Jacques den Haan	Beekbergen
+C. Vermeer	
+J.J. Beljon	Oud-Beijerland
+Christiaan Terpstra	Vriezenveen
+Michaël Deak	
+J.B. Charles	Oegstgeest
+Ido Keekstra	tussen Hoofddorp en Heemstede
+Rie Cramer	Laren
+J.H. Plokker	Utrecht
+Nico Rost	Amsterdam
+August Defresne	Amsterdam
+Bert Schierbeek	Amsterdam
+Marga Minco	
+Nico Wijnen	
+Jan Meulenbelt	
+Abel J. Herzberg	Amsterdam
+E.A.A. Vermeer	
+P.J. Arisz	
+Maarten Mourik	Callantsoog
+K. Lekkerkerker	Amsterdam
+Hafis	
+C. Bittremieux	Herent
+Adriaan Morriën	Amsterdam
+Liane Bruylants	Veurne
+J.H. Schouten	
+Henk Romijn Meijer	Souillac
+G.J. de Vries	Baarn
+M. Vasalis	Roden
+J. Valentin	
+W.F. Dankbaar	Oosterwolde
+Evert Werkman	
+Rein Blijstra	Amsterdam
+Reinder P. Meijer	Londen
+Klaas Wiersma	
+Elsa Frank	
+Louis Saalborn	Amsterdam
+Ary den Hertog	Nijmegen
+Ben Stroman	Haarlem
+B. Hunningher	
+Jan Walravens	Ukkel
+W.P. Pos	Amsterdam
+Luisa Treves	
+E. Elias	Delft
+Wim Vesseur	
+A. Pitlo	Overveen
+Luc Lutz	Rotterdam
+G.A.M. Eickholt	
+Tjalie Robinson	Den Haag
+Léon de Greiff	Bogotá
+Elizabeth da Costa Gomez	
+J.J.A. Mooij	
+C.L.W. Fock	Den Haag
+Pieter S. Gerbrandy	Den Haag
+J.D. Meerwaldt	Amsterdam
+James S. (Jim) Holmes	Amsterdam
+Dirk Volker Nijland	
+Max Croiset	Den Haag
+Cees Nooteboom	
+M.H.J. Verjans	
+Nel Noordzij	Thonon-les-Bains
+G. Quispel	
+Jan van Gelder	
+Lies Wolters	
+Bernhard prins der Nederlanden	Utrecht
+Fernán Silva Valdés	
+J.A. van Praag	Amsterdam
+Pablo Neruda	Santiago
+Ventura García Calderón	Parijs
+José Gorostiza	
+A. Methöfer	
+Rufino Blanco Fombona	Buenos Aires
+Joaquín E. Weiss y Sánchez	
+Menotti del Picchia	São Paolo
+Martha de Castro	
+W.H. van Helsdingen	Den Haag
+A.I. Spits	
+E.P.M. Tervooren	
+A. Jonkers	
+R.A.J. van Lier	Wageningen
+J. van de Walle	Hertogenbosch
+Henk Dennert	
+W.J. Jansen	
+Frans Debrabandere	
+Piet Apol	Amsterdam
+P.A.H. de Boer	Oegstgeest
+Th. Govaart	Breda
+J.M. de Jong	Düsseldorf
+Franz Hellens	Brussel
+Marcel Coole	Brussel
+Bert van Aerschot	Mechelen
+Paul Snoek	Tielt
+Elisabeth Eybers	Amsterdam
+Willem Elsschot	Antwerpen
+J. Bruyn	
+Reindert Jacobsen	
+E.M. Janssen Perio	
+Ary Delen	Antwerpen
+Gerrit-Hugo Pronk	
+Aleida Gerarda Schot	Amsterdam
+Willem van Elden	
+Antonio Machado	
+Martin Adán	
+Manuel Bandeira	Rio de Janeiro
+Augusto Roa Bastos	Asunción
+Carlos Drummond de Andrade	Rio de Janeiro
+Cecília Meireles	Rio de Janeiro
+José-Maria de Heredia	
+Jules Supervielle	Parijs
+Erik Lindegren	Stockholm
+Amy van Marken	Amsterdam
+Gunnar Ekelöf	
+Artur Lundkvist	Stockholm
+Edith Södergran	Rosjtsjino
+August von Platen	
+Attila József	
+Sándor Weöres	
+David Rokeah	
+Pham Van Ky	
+Makhali-Phal	
+Pierre Brachin	
+Waring Cuney	
+Leslie M. Collins	
+Owen Dodson	
+Don Maquis	
+Charles Causley	
+Ed. de Jonghe	
+Pieter Lieftinck	
+J. Prins	
+Egbert Krispyn	
+A. van der Schalk	
+Charley Toorop	Bergen
+J.H. Leopold	Rotterdam
+John Rädecker	Amsterdam
+Dick Voerman	
+Li Tai Po	
+Gerrit Borgers	Leidschendam
+Cenne de la Chitarra	Arezzo
+G.J. Resink	Jakarta
+B.M. Baxter	
+J.H. Loenen	
+Chr.J. van Geel	Amsterdam
+Heere Heeresma	Laren
+Beb Vuyk	Blaricum
+J.L. Heldring	
+W. Banning	Driebergen
+S. Dresden	Leiden
+Henri Schadee	
+L.G. Kortenhorst	
+P.M. Boer-den Hoed	Amsterdam
+L.J. Hartog	
+Fred Pfeifer	
+Theo Joekes	Den Haag
+Martien J.G. de Jong	
+Victor Varangot	
+S.F. Witstein	Alphen a/d Rijn
+Ton van Oudwijk	Utrecht
+Wilfred Smit	Rotterdam
+Saskia Ferwerda	Utrecht
+Catharina Kortebos	
+Th.G. Sinnige	Arnhem?
+J.G.M. Moormann	Lent
+Piet Calis	
+Catharina van der Linden	Steenwijk
+Walter Debrock	Sint-Pieters-Jette
+B.H.D. Hermesdorf	Nijmegen
+C.J.E. Dinaux	Heerde
+Victor Spoor	
+C.P. Gunning	
+Corly Verlooghen	
+Louise van Santen	
+Roger Pieters	
+F. van der Blij	
+S. Carmiggelt	Amsterdam
+Claude Korban	
+C.J. Greshoff	
+A. Middeldorp	Voorhout
+Fokke Sierksma	Leiden
+Jaap Harten	Den Haag
+Mia van der Haegen	
+Marcel Leemans	
+Marcel van de Velde	
+Lode de Visscher	
+C.O. Jellema	Leens
+B. Nieskens-Isphording	
+Ivo Schöffer	Leiden
+Paul de Wispelaere	
+Wim Hijmans	
+P. Gros	
+J.I.S. Zonneveld	Zeist
+Eddy de Vries	
+Paul R. Rijkens	
+A. Schaafsma	
+B.J. van Eyk	Amsterdam
+J.M.J. Kooy	
+H.F. van Panhuys	
+Maarten Rooij	Haarlem
+H. Nieuwenhuis	
+J. Kassies	
+Hella S. Haasse	Amsterdam
+Arie Querido	
+J. Droogleever Fortuyn	Arnhem
+M. Gruber	Haren
+Nol Gregoor	Doorn
+H.W.F. Stellwag	Baarn
+Sigmund Freud	Londen
+H.P.H. Jansen	Leiden
+H. van Riessen	
+Jan Wolkers	Den Burg
+Max Nord	Amsterdam
+K. Schippers	
+Jacques Hamelink	
+B.V.A. Röling	
+C.A. Zaalberg	Oegstgeest
+Francisco Carrasquer	Tárrega
+Tom Kerber	
+A.J. Dekker	
+Paul Rodenko	Warnsveld
+James Brockway	Den Haag
+M.D. Ozinga	Utrecht
+Karel De Clerck	
+Willem van Toorn	
+Lizzy Sara May	Hoorn
+François Meyer	
+H.A. Combé	
+Marcus de Jong	
+Tj.S. Visser	Bussum
+V.W.D. Schenk	
+G.A. van Poelje	Den Haag
+H. Leffelaar	
+Jan Aler	
+Martin J. Klein	
+Burny Every	
+E. Eijkemans	
+Han Lammers	
+Marko Fondse	Amsterdam
+Ger Harmsen	
+Jakobus Kloek	
+F.E. Frenkel	
+Leo Ross	
+Ewald Vanvugt	
+C.B. Vaandrager	Rotterdam
+Felipe M. Lorda Alaiz	Barcelona
+A. Kramer	
+K. Rijsdorp	
+P. Hummelen	
+G. Puchinger	Lunteren
+H. van der Linde	
+Albert Besnard	Bloemendaal
+W. Boswinkel	Amsterdam
+J. Brugman	
+Floris Evers	
+Hendrik van Teylingen	Amsterdam
+W. Gortzak	Amsterdam
+Carl Friedrich von Weizsäcker	
+Jan Hanlo	Maastricht
+David Maarschalk	Den Haag
+Joris Diels	
+Bertram Joseph	
+Ben Jonson	
+John Milton	
+N. Brugman-Begemann	
+Samuel Johnson	
+Erik Vos	
+Coenraad van Emde Boas	Amsterdam
+Neeltje Maria Min	
+J.A.G. Tans	Groningen
+H.C.J. Duijker	Leiden
+Ton Lathouwers	
+A.M. Meerloo	
+Huug Kaleis	
+D.U. Stikker	Wassenaar
+S.C. Derksen	
+S.R. de Groot	
+H.J.A. Hofland	Amsterdam
+Frits Kief	
+Nico Scheepmaker	Amsterdam
+Abram de Swaan	
+Henk Sneevliet	Amersfoort
+Wim Klinkenberg	
+Sem Davids	Castricum
+J.W. Holsbergen	Amsterdam
+Henk van Kerkwijk	
+Bob den Uyl	Rotterdam
+Herman Gorter	St-Joost-Ten-Noode, Brussel
+Helen Knopper	
+H.M. Voetelink	Amsterdam
+Michaël Slory	Paramaribo
+R. Roegholt	Amsterdam
+Peter van Lieshout	
+Peter Schat	
+J.H. Donner	Amsterdam
+Wim Zaal	
+Mark Insingel	
+Rommert Boonstra	
+Willem Frederik Hermans	Utrecht
+Harry Mesterom	
+Marianne Meester	
+Sonja Prins	Breda
+J.H. Mak	
+Martin Hartkamp	
+H.C. ten Berge	
+Henry Faas	Amsterdam
+Benno J. Stokvis	
+Frank Diamand	
+Arnold de Vos	
+Paul Steenhauer	
+G. van Benthem van den Bergh	
+Hans Vlek	Hertogenbosch
+Cees de Jong	
+H.A. Gomperts	Draguignan
+A.J. Westerman Holstijn	
+Joop den Uyl	Amsterdam
+Daniel de Lange	
+J. Sperna Weiland	Rotterdam
+J.W. Hingst	
+Henriette van Duin	
+Paulien Selter	
+Alette Beaujon	Aruba
+Simon Koster	
+Judith Herzberg	
+Frits Dekking	Amsterdam
+Milo Anstadt	Amsterdam
+Ferenc Karinthy	Boedapest
+Bart Tromp	Den Haag
+Wim van Rees	
+Misha Mengelberg	Amsterdam
+L.H.C. Hulsman	
+Jan J. Klant	Amsterdam
+Dick Hillenius	Amsterdam
+Teo Anton van Kooten	
+Bas van de Werk	
+Aad van der Mijn	
+Fenna van den Burg	Amsterdam
+Paul van 't Veer	
+Rudi Fuchs	
+Jan Rogier	
+L.H. Wiener	
+Johan T. van Minnen	Zeist
+Arend Heyting	Lugano
+G.M.N. Verschuuren	
+A.J. Cuppen	Amsterdam
+Johan Jansen	
+Huib Riethof	
+David Kettler	
+G.H. van Es	
+Kees Ouwens	Heemstede
+Nic Brink	
+Theo de Boer	
+K. Zickhardt	
+Riekus Waskowsky	Rotterdam
+Rudolf Geel	
+Hans Gruyters	
+Henri van Praag	Hilversum
+C.J. Dippel	
+Hein Ruygers	
+H. Linnemann	
+M.G. Plattel	
+Joke Kool-Smit	
+Aad Nuis	Den Haag
+Monika Warnenska	
+Thierry de Beaucé	
+Enno Endt	Edam
+Jan van Harten	
+Jan van der Vegt	
+Abraham Sutzkever	
+Kees Simhoffer	Maastricht
+Ben Wolken	
+H. Ramaer	
+Peter Weibel	
+Bea Vianen	Paramaribo
+E. Land	
+R.A. Maandag	
+E.M. Barth	
+J.S. Henriksson	Sittard
+Tiele Rümke	
+Herma Vergouwe	
+Rutger Kopland	Glimmen
+Arnold Spauwen	
+Aryiris Chionis	Athene
+M. Blijstra	
+H.M. Ruitenbeek	
+M.C. Brands	Amsterdam
+A.G. van der Spek	
+H. Schaafsma	
+H. Daudt	Amsterdam
+Johan Goudsblom	
+Loden Vogel	
+L.J. Zimmerman	Den Haag
+Jos Ruting	Amsterdam
+Klaus Siegel	
+Wilna Burger	
+Luk Wenseleers	
+Theo Stibbe	
+J. van der Gaag	Leiden
+Nicolás Guillén	
+Jacques Vallier	
+P. Eldering	
+Lucas van der Land	Vivès
+Alejo Carpentier	Parijs
+Mia Boxman	
+Constance E. van der Maesen	
+Heberto Padilla	
+R.J.A. van Suchtelen van de Haere	
+Louis Ferron	Haarlem
+A.L.R. Fernhout	
+B. Lipschits-Linnewiel	
+Bastiaan Willink	
+Hans Knoop	
+Thera Coppens	
+Wiek Röling	
+Huub Oosterhuis	
+Wessel te Gussinklo	
+Tom van Deel	
+Gerard Termorshuizen	
+Hans van de Waarsenburg	Maastricht
+Jules Dister	
+Astère Michel Dhondt	
+Wim Rouw	
+Jane Debrot	
+Pieter A.M. Seuren	
+S.C. Dik	Holysloot
+W.F. Wertheim	
+Hendrik Conscience	Brussel
+Peter Collier	
+Orlando Emanuels	
+Roel van Duyn	
+Oscar Timmers	
+Ho Chi Minh	Hanoi
+Konrad Boehmer	Amsterdam
+Vasilis Vasilikos	
+Kenneth Keniston	
+L.L. Coïni	
+Gerrit Bakker	Schoorl
+Leo Haring	
+Jan Geurt Gaarlandt	
+Jacques L. Schmitz	
+Robert Paul Flipse	
+Louis Andriessen	
+Lieuwe Brouwers	
+César Vallejo	
+Oswaldo Salazar	
+Karen Spalding	
+Petronella Everdina Eldering	Amersfoort
+Percy B. Lehning	
+J.F. Glastra van Loon	Den Haag
+Bertus Dijk	
+Nicanor Parra	
+Han ten Brummelhuis	
+Walter Haesaert	
+Kees Fens	Amsterdam
+F. Tichelman	
+J.D. van der Meulen	
+Judicus Verstegen	
+António Jacinto	
+Godfried Bomans	Bloemendaal
+Charles Bettelheim	Parijs
+Johanna Fortuin	
+Willem van Malsen	Ermelo
+Mark Brusse	
+Klaas de Jonge	
+Aart J.M. van de Laar	
+Go Mandersloot	
+W.G. Wolters	
+D. van Arkel	Diepenheim
+E. Mandel	
+Mary McCarthy	
+Hans Tentije	
+H.G. Matthes	
+G.A. Lindeboom	
+Silvia W. de Groot	
+R. Dobru	Paramaribo
+Rodney Russell	
+Jan Voorhoeve	Parijs
+Ursy M. Lichtveld	
+Ch.J. Wooding	
+Judith Allard-de Kom	
+H.F. de Ziel	Haarlem
+Pieter Polanen	Paramaribo
+Shrinivási	Willemstad
+A.F. May	
+Jo Löffel	Den Haag
+Thea Doelwijt	
+Paul Marlee	
+Jozef Slagveer	Paramaribo
+Edgar Cairo	Amsterdam
+Harry Kensmil	
+R. de Jong	
+Gerrit Huizer	
+Michael Wilson	
+Wim Huyskens	
+Wouter Donath Tieges	Amsterdam
+Geerten Meijsing	
+G.P.F. Buddingh'	Arkel
+Norbert Elias	Amsterdam
+Anton Korteweg	
+Hugo Pos	Amsterdam
+Hugo Brandt Corstius	Amsterdam
+P.Th. Hugenholtz	
+P.A. Verburg	
+Ans van Haersolte	Wassenaar
+Lodewijk Prins	
+Ed. Ebels	
+Anneke Jansen	
+R. Sierksma	
+Reinbert de Leeuw	
+Kees Winkler	Amsterdam
+Cyrille Offermans	
+Rob Vermeulen	
+Wijnand Steemers	
+Ton Anbeek	
+Dirk Kroon	
+Theo de Jong	
+Cas Wouters	
+Reinout Bakker	Allicante
+A. Ladan	
+Piet van Caldenborgh	
+Fritz Zondervan	
+W.H. van der Linden	
+C. van de Haar	
+H.J. Vieu-Kuik	
+H. de Lange	
+O.J. de Jong	Amsterdam
+H.F.J.M. van den Eerenbeemt	Tilburg
+W.M. Zappey	
+Rob Rentenaar	
+W. Burger	
+Peter Harper	
+Ivan Illich	Bremen
+C. Schepel	
+John H. Schaar	
+Sheldon S. Wolin	
+Bart van Steenbergen	
+Bram van der Lek	
+J.J.G. Syatauw	
+A. van 't Laar	
+J.Th.M. Palstra	
+Hugh P. Gallacher	
+C.J. Stigter	
+J. Hetterschij	
+H.H. ter Balkt	Nijmegen
+H.M.A. Struyker Boudier	
+Fred Bornstein	
+Bouke B. Jagt	
+Fons Elders	
+Peter Berger	
+A.L. Vos	
+Friedhelm Debus	
+Camiel Hamans	
+Dolph Kohnstamm	
+J.R. Slotemaker de Bruine	Wassenaar
+Matthijs Siegenbeek	Leiden
+H. Baudet	Leiden
+C.D. Saal	
+S.J. Doorman	
+J.M.W. van Ussel	
+J. van Baal	Doorn
+E.V.W. Vercruijsse	
+Jan Donkers	
+Eddy van Vliet	Roeselare
+H.J. Verkuyl	
+Raymond ten Berge	
+Jan W.H. Wentink	
+W.E. Krul	
+Marianne Vos	
+Rob Bognár	
+Bert Vanheste	Nijmegen
+Berend Lasseur	
+Derek Phillips	
+M.C.A. Brongers	
+Paul Goodman	
+Sorin Alexandrescu	
+Adrian Pâunescu	
+Jacques van Alphen	
+Ad Kooyman	
+Peter Hofstede	
+J.Th. Snijders	
+Tessel Pollmann	
+Hermann H. Frese	
+Alvin W. Gouldner	Madrid
+Hidde van der Ploed	
+P. Schumacher	
+Hessel Miedema	
+Wim Hazeu	
+E. van der Starre	
+Armando	Potsdam
+Jacob Groot	
+Samuel de Lange	
+Eva Vondeling	
+Józef Lewandowski	Stockholm
+Annie Gransch	
+Nadjezjda Mandelstam	Moskou
+Alexander Münninghoff	
+Ilja Ehrenburg	Moskou
+I.F. Fedorov	
+Bessie Schadee	
+Joeri Galanskov	Orlow
+Esselien 't Hart	
+Aleksander Ivanov	
+Wim van Dam	
+Michail Kalik	
+Vikentij Gerasimtsjoek	
+Adam Tern	
+Jan van Eijk	
+Jos J.B. van der Putten	
+Franco Ferrarotti	
+Guy Desrole	
+Irene van Grinsven	
+Els de Graaf	
+A.P. van Goudoever	
+Michel Korzec	Podkowa Lesna
+Nico Wilterdink	
+Han de Vries	Garderen
+Laurens van Krevelen	
+Gerbrand Muller	
+Hugues C. Pernath	Borgerhout
+Willy Lauwens	
+C.W. Aakster	
+A.J. Dunning	Amsterdam
+Hilbert Kuik	
+P. Hirschler	
+Chris Mast	
+C.J.B.J. Trimbos	Rotterdam
+G.A. Ladee	
+J.H. de Haas	Den Haag
+C.D. Fuchs	
+R.A. Basart	Loosdrecht
+Marcel van der Linden	
+Bert Menco	
+Tim Krabbé	
+Willem M. Roggeman	
+Noam Chomsky	
+Robert S. Cohen	
+José Cardoso Pires	
+Hans Faverey	Amsterdam
+Anton Haakman	
+Francisco Marinho	
+Joanna Martinez-Horsman	
+Jan Stroop	
+Hans Plomp	
+Antal Sivirsky	
+Maarten 't Hart	
+Boris Tomas	
+E.C.P. van Waalwijk van Doorn	
+H.R. van Gunsteren	
+J.H. Kamstra	
+Anton Blok	
+Esteban López	
+Peter Zonderland	
+Cor Blok	
+Lidy van Marissing	
+Herman Pleij	
+H.E. Ruitenberg	
+Jak van der Meulen	
+Jean Améry	Salzburg
+P.R. Baehr	Heemstede
+Martin Mooij	Rotterdam
+Hans Carl Artmann	Wenen
+Elisaveta Bagrjana	Sofia
+Kristien Warmenhoven	
+Keorapetse Kgositsile	
+Michael Krüger	
+Mazisi Kunene	
+Philip Levine	Fresno, Californië
+Ruud Löbler	
+Czeslaw Milosz	Krakau
+János Pilinszky	
+Waldo Rojas	
+Sapardi Djoko Damono	
+Mongane Wally Serote	
+Charles Tomlinson	
+Kazuko Shiraisi	
+Noriko de Vroomen-Kondo	
+Raymond Benders	
+Martin Lusse	
+P.A. Wackie Eysten	
+Gust Gils	Antwerpen
+V.S. Naipaul	Londen
+George Huppert	
+Breyten Breytenbach	
+Charles Vergeer	
+Hans van den Bergh	Amsterdam
+Paul Kapteyn	
+F.B. Hotz	Leiden
+Rien T. Segers	
+Pier Boorsma	
+Jack ter Heide	
+Grahame Lock	
+Ton Korver	
+M. Fennema	
+Margriet Poort	
+Elmer Schönberger	
+Wiel Kusters	
+Jules A. Deelder	
+Mieke Westra	
+Aline Glastra van Loon	
+Christine Brinkgreve	
+Alex Korzec	
+J.J. Witkam	
+Siep Stuurman	
+Emil Bentzen	
+Arie Gelderblom	Rotterdam
+Adriaan van Dis	
+Maria van der Moer	
+Paul Celan	Parijs
+J.W. Niemeijer	Utrecht
+Jaime Mendizábal	
+Frans de Rover	Santa Cruz de Tenerife, Tenerife
+Magda van Emde Boas	Amsterdam
+Stefan Morawski	
+Sjoerd Kuyper	
+Hans van Lier	
+F.G. Droste	
+Pieter de Meijer	
+Alex van Gelder	
+Peter van Zonneveld	
+Fernando Schellen	
+A.K. Koekkoek	Tilburg
+C.J.M. Schuyt	
+Cees Cruson	
+Ton Zwaan	
+Philip Ramp	
+John Berger	Parijs
+Max Arian	
+Loek Esmeijer	
+Arthur Mitzman	
+B.J.S. Hoetjes	
+Petrus Adrianus Johannes Bentvelzen	
+J.J. van der Werff ten Bosch	Leiderdorp
+M.B. ter Borg	
+Louis Boon	
+August Heyting	
+Hans Magnus Enzensberger	
+Leo Damen	
+R.Th.R. Wentges	
+Ampie Coetzee	
+Gérard van den Eerenbeemt	
+Leo Fretz	
+W. van Dort	
+Marcel Baudet	
+Walter van der Star	
+Dick Pels	
+Lloyd Haft	
+H.J. Smeding	
+Toon Tellegen	
+E.J. Dommering	
+Leendert Witvliet	
+Th.J. de Jong	
+Joyce van Lankeren	
+J.N. Swallow	
+Margreet Hirs	
+Erika Dedinszky	
+W. van Drimmelen	
+Botto van den Bergh	Den Haag
+Carlo Ginzburg	
+Peter van Gestel	Amsterdam
+Freek Bruinsma	
+I. van der Sluis	
+J.J. Klinkert	
+F. Vos	
+Akira Nagazumi	
+Rudy Kousbroek	Leiden
+Ango Sakaguchi	
+Jan Noordhoek	
+Frans Boenders	
+E.G. de Poorter	
+M.J. de Meijer	
+Wim Markus	
+Jaap Oostermann	
+Rudolf Dekker	
+J.H. van Geemert	
+Pieter Spierenburg	
+Jacques Kruithof	Amsterdam
+J.M.A. Biesheuvel	
+Pieter Lukkenaer	
+Lela Zeckovic	
+Ben Cami	Aalst
+José Boyens	
+A.H.G. Rinnooy Kan	
+Marcel van Herpen	
+H.T. Boonstra	
+A.J. Kox	
+P.H. Polak	
+Constantijn Huygens	Den Haag
+Ph. de Vries	
+H.J.M. Bos	
+J. Lodewijks	
+J.C. Ebbinge Wubben	
+Dick van den Bosch	
+R.H.J. Egeter van Kuyk	
+Federico García Lorca	
+Emma Brunt	
+J.W. Bezemer	Oldeberkoop
+Martin Veltman	Amsterdam
+John Kleinen	
+Edzard Dideric	
+Remco Ekkers	
+Alfred Pijpers	
+J. Popken	
+Eva Abraham-van der Mark	
+Michael Masuch	
+Frida Balk-Smit Duyzentkunst	Bloemendaal
+Ida van Heteren	
+J.M. van der Horst	
+Elly de Waard	
+Frans H. van Eemeren	
+J.H. Maureau	
+Ad Teulings	
+Frans de Cort	Elsene
+G. Dijkink	
+J. Beijk	
+Tsjow Meng-Tiè	
+Erik K. de Vries	
+Herman ten Kroode	
+Hans Sleutelaar	
+L.C. Suttorp	Den Haag
+Willem Bijsterbosch	Den Haag
+Hans Verhagen	
+G.J.H. van Gelder	
+Sadiq Galal al'Azm	Berlijn
+A.H. de Groot	
+R. Kruk	
+G.H.A. Juynboll	Leiden
+J.J.G. Jansen	Amsterdam
+Usama ibn Munqidh	
+C.A.O. van Nieuwenhuijze	
+Roel Otten	
+Abu 'l-Ala al-Ma'arri	Ma'arra bij Aleppo
+C.G. Brouwer	
+F. de Jong	
+P.S. van Koningsveld	
+L.I. Graf	
+R.J. Spruit	
+Octavio Paz	
+Steef Davidson	
+Isaak Kaplanas	Amsterdam
+Jaap Goedegebuure	
+R. Kroes	
+Anthony Mertens	
+W.A.M. de Moor	Groesbeek
+Rabin Gangadin	
+Jan Siebelink	
+Aleid Truijens	
+Jérôme Vervaecke	
+Klaas Ruitenbeek	
+Lu Xun	
+Cita Golterman-van Dijk	Amsterdam
+Peter Reinhart Gleichmann	
+Tine Ausma	
+Albert Jan Govers	
+Herman Roodenburg	
+E.E.G. Vermeulen	
+Philippe Noble	
+Pim den Boer	
+Margot de Hartog	
+Michel Huisman	
+Frans W. Saris	
+R. Vanderauwera	
+Maarten van Rossem	
+Jacobus Bos	
+Henk Tromp	
+M.J. Weggelaar	
+Y.S. Brenner	Bilthoven
+K. van der Arren	
+Lea Dasberg	Jeruzalem
+Carolijn Visser	
+J.E. Ellemers	
+E. Braches	
+E. van den Boogaart	
+Dhiravat na Pomberja	
+Pauline Moody	
+Maria Bogucka	
+Hendrik Henrichs	
+Louis Emmerij	
+Jaap Goudsmit	
+A.B. Lapian	Jakarta
+Willem Otterspeer	
+A.M.J. de Keijser	
+Peter van Seters	
+Marjolijn Sorbi	
+R. Lindeman	
+M.K. van der Steeg	
+Arie Rip	
+Berend Lantink	
+Gunther S. Stent	Haverford
+Nelleke van Maaren	Amsterdam
+W.A. Verloren van Themaat	
+Manuel Kneepkens	
+Jeroen Henneman	
+Rien Goettsch	
+Nel Veenboer	
+Beate Zilversmidt	
+A.J. van der Staay	
+Ilja Scholten	
+Jan W. Boersma	
+L.P.J. Veelenturf	
+J.D. Querido	
+Herman de Lange	
+Herman Franke	Amsterdam
+Jean-Paul Franssens	Amsterdam
+G.L. Durlacher	Haarlem
+Herbert van Erkelens	
+Ron Hey	
+F.L. van Holthoon	
+Wim Neetens	
+Paul Casparie	
+Helga Nowotny	
+Rien van den Broek	
+Christel van Boheemen-Saaf	
+Jan Paul Hinrichs	
+C.W. Mönnich	
+W. Albeda	Maastricht
+Hans van de Braak	
+Adam Szirmai	
+Kees Nijland	
+P. Smoor	
+Lourina de Voogd	
+Ed de Moor	
+Frank Loog	
+Hans Berghuis	Haelen
+Henk de Velde	
+Eva van Sonderen	
+Willem G. Weststeijn	
+P.J. de Voogd	
+G. Groenhuis	
+Hans Ester	
+Marjan Groenewegen	
+A.C. Zijderveld	
+Frans Budé	
+Douwe Draaisma	
+Frans Weitenberg	
+Peter Zeeman	
+Joseph Brodsky	New York
+Arthur Langeveld	
+Kees Caljé	Rotterdam
+Reinold Widemann	
+Marijke Rijsberman	
+Hans Bertens	
+Jaap van der Bent	
+Rik Planting	
+Elisabeth Roudinesco	
+R. Overeem	
+Tonja van Rijthoven	
+Jaap van Heerden	
+Maarten Steenmeijer	
+Jan Houwink	
+August Hans den Boef	
+Pieter Sijpersma	
+Otto van den Muijzenberg	
+Nico G. Schulte Nordholt	
+R. Menggali	
+Elly Touwen-Bouwsma	
+Henk Schulte Nordholt	
+H.M.J. Maier	
+Wil Rouleaux	
+Ulrike Weinhold	
+Ben de Pater	
+Marie-José Heijkant	
+Tjalling Bos	
+Leander Hanssen	
+Raymond Corbey	
+Joris Iven	
+Adriaan M. van der Hoeven	
+Sirkka-Liisa Hahmo	
+Vojtech Mastny	
+A. Lammers	
+Jan Bank	
+Herman de Liagre Böhl	
+Jan Blokker	Amsterdam
+A.C.M. de Kok	
+Elsbeth Etty	
+Marga Demmers	
+Carme Riera	
+Bob de Nijs	
+Xavier Fàbregas	Palermo
+Siem Juliard	
+Paul van Heck	
+Dirk van Bastelaere	
+Th. Kuiper-Weijhenke	
+Eva Hofman	
+P.F.M. Fontaine	Amsterdam
+W.L. Stokvis	
+Evert Sweens	
+Freddy de Vree	Antwerpen
+Gerrit Krol	Groningen
+Carl Friedman	
+Rolf Wolfswinkel	
+Wim Reilingh	
+Hub. Hermans	
+Jan Lechner	
+H.J. 't Hart	
+André Spoor	Den Haag
+Hans Freudenthal	Utrecht
+H.B.G. Casimir	Heeze
+E.H. Kossmann	
+Hans Ree	
+S.V. Langeveld	
+Jan Tinbergen	Den Haag
+Beatrijs Ritsema	
+Louis J. Mostertman	
+J.P. de Jong	
+Jojada Verrips	
+H. Schuttevâer	
+L. Lafour	
+Gerhard Dünnhaupt	
+Jan Kuijper	
+C.J.G. Holtzappel	
+Hans Ras	Warmond
+Henk Flinterman	
+Johan B.W. Polak	
+Rob Sijmons	
+Ph.M. Bosscher	Den Helder
+Kitty Verrips-Roukens	
+M.A. Wes	
+Paula Vermeyden	Amsterdam
+H.L. Wesseling	Oegstgeest
+H.W. von der Dunk	
+Frank Kuitenbrouwer	
+Flip de Kam	
+Drs. P	Amsterdam
+K.L. Poll	Rotterdam
+I. Samkalden	
+José Rentes de Carvalho	
+Hans Dorrestijn	
+H.A.M. Snelders	
+Pieter Lakeman	
+G.M. van Asperen	Amsterdam
+J.P. Guépin	Amsterdam
+Hugh Jans	
+Ch. Enschedé	Haarlem
+Ellen Ombre	
+Gerrit Komrij	Amsterdam
+Jan van Hoften	
+G.A. Wagner	
+Frans Hüsken	Haarlem
+Wilt Idema	
+B. de Gaay Fortman	
+E.P. Wellenstein	Den Haag
+Jan Juffermans	
+Frank Martinus Arion	Willemstad, Curaçao
+J.C. Heesterman	
+Hans Calis	
+Herman Hertzberger	
+Berthe Meijer	Amsterdam
+A. Komen	
+Charlotte Mutsaers	
+A.M. Hagen	
+Anneke Brassinga	
+E. T. Woudstra	
+Egil Törnqvist	Amsterdam
+Dédé Brouwer	
+Stefan Hertmans	
+Bart Driessen	
+Peter van der Veer	
+Herman Tieken	
+M.E. 't Hart	
+Reinder Boverhuis	
+Sanjukta Gupta	
+William H. McNeill	
+Jan Lucassen	
+Wout Ultee	
+René Bekius	
+Fréderique van Cleeff-Hiegentlich	
+Annemarie Cottaar	
+Frank Bovenkerk	
+Aart G. Broek	
+Igma van Putte-De Windt	
+Gregor Benton	
+Gèr Boosten	
+J. Weisgerber	
+David Minter	
+Terrence Doody	
+Joris Duytschaever	
+Harold Beaver	
+Michel Bartosik	Antwerpen
+K. Michel	
+Jan Peter Nauta	
+Ton Ceelen	
+Bram Kempers	
+B.G.J. de Graaff	
+J.C.H. Blom	
+Kees Revier	
+Han Foppe	
+Joke Dame	
+Flora Stiemer	
+H.G. van Bueren	Zeist
+Thom Holterman	
+Joke Huisman	
+Marijke Smalbraak	
+Edmund Licher	
+Johan Heilbron	
+Paul M. Doolan	
+Jan H. Mysjkin	
+Ben van Melick	
+Cok van der Voort	
+Dick Molewijk	
+B. Zwaal	
+Mario Molegraaf	
+Marietta Ioannidou	
+Hero Hokwerda	
+Jan Klees	
+Andriëtte M. Stathi-Schoorel	
+W.J. Aerts	
+Salvador Hertog	Amsterdam
+Lodewijk Brunt	
+Ton Naaijkens	
+Jos van Asperen	
+Jan Gielkens	
+Paul Marijnis	Leiden
+André Brink	
+J.H. van Dijk	
+Guy Posson	
+Elisabeth van Elsen	
+Rob Delvigne	
+Hans Aniba	
+Hans Moll	
+Herman Koningsveld	
+Raymond van den Broeck	
+Agnes M. Zwaneveld	
+René van Hezewijk	
+Philip van der Eijk	
+Kitty M. van Leuven-Zwart	
+Anneke Neijt	
+Jenny Tuin	
+Jos Perry	
+G. van Os	
+Cees Koster	
+B.J. Asscher	Baarn
+Dorie Nielen	
+Helen Saelman	
+Ines Colijn	
+Anne Marie Heemskerk	
+Daphne Muller	
+Menno Kraan	
+Miriam Van hee	
+Maarten van Buuren	
+Remieg Aerts	
+Hubert Smeets	
+Peter Odell	
+Chun-chan Yeh	
+Henny Scheepmaker	
+Jean-Clarence Lambert	
+Tess Visser	
+Peter King	
+Marc Galle	Gent
+A.J. Goblet (d'Alviella)	Brussel
+Hans Hom	
+Sitor Situmorang	Apeldoorn
+Robert P. Swierenga	
+Jan Zielonka	
+Monika van Paemel	
+Jan Stavinoha	
+Ágnes Roboz	
+Eva Bodor	
+Margret Brügmann	
+Stephen Mennell	
+Herman Liebaers	Sint-Pieters-Jette
+Geoffrey Douglas Madge	
+Mea M. Flothuis	
+Monika Triest	
+Ernest Zahn	
+Ronald Jonkers	
+Jan Bakker	
+Kester Freriks	
+Paul J.A. Frische	Heerlen
+Frans Kusters	Nijmegen
+Boeli van Leeuwen	Curaçao
+Nicolette Smabers	
+Jan Versteeg	
+Gerrit-Jan Berendse	
+Willem Derks	
+Salvador Bloemgarten	
+H. Schippers	
+H. Schröder	
+F.G. von der Dunk	
+J. van Tooren	
+Ieme van der Poel	
+Manet van Montfrans	
+Henk Hillenaar	
+Ruud Meijer	
+Maria van Daalen	
+Hendr. Gerritsen	Amsterdam
+E.M. Beekman	Northampton
+Jack Vance	Oakland, Californië
+John Heymans	
+Michael O'Loughlin	
+Jinke Obbema	
+Jozef Deleu	
+Roland Mortier	
+Mark Schaevers	
+Luc Huyse	
+Anne Marie Musschoot	
+Paul Claes	
+Georges Adé	Edegem
+Wim van Rooy	
+Michel Oukhow	Antwerpen
+Herman Sabbe	
+Geert Bekaert	Mortsel
+Nico Frijda	Amsterdam
+C. Schmidt	
+Evert van Uitert	
+Marius Buning sr.	Amstelveen
+L.K.H. van Beek	
+Antoine Bodar	
+Marja Brouwers	
+Louise O. Fresco	
+Jan Kostwinder	Amsterdam
+Ron Elshout	
+Kreek Daey Ouwens	
+Mieke Tillema	
+Laurens van Schie	
+György Spiró	
+Dorin Tudoran	
+Jan Fontijn	
+Rudi Wester	
+J.J. Oversteegen	
+Ian Gibson	
+Nan Lenders	
+Arjen Duinker	
+J. Heymans	
+Piet de Rooy	
+Greetje van den Bergh	
+P.H.J.T. Ververgaert	
+Willem de Ruiter	
+J.H. Brinks	
+K. Kolthoff	
+Henry Schogt	
+Kristien Hemmerechts	
+Miel Vanstreels	
+Geert Maessen	
+Barber van de Pol	
+A.D. Leeman	
+Theodor Duquesnoy	Amsterdam
+Graa Boomsma	
+M.J. Trappenburg	
+Patricia de Martelaere	Wezemaal
+Guido Eekhaut	
+Stefaan van den Bremt	
+J.A.A. van Doorn	Rijswijk
+G.C. Molewijk	
+C.J.F. Stuldreher	Amsterdam
+Liesbeth Dolk	
+Jero Gardenia	
+Helena Spanjaard	
+Lucas Reijnders	
+Koos van Weringh	
+Selma Leydesdorff	
+Adriaan Venema	Amsterdam
+Oscar van Weerdenburg	
+Wouter Gomperts	
+Henk te Velde	
+Frank Albers	
+Rouke van der Hoek	
+Joachim von der Thüsen	
+J.W. Onderdelinden	
+Paul van der Heijde	
+Maarten Doorman	
+Eelco Runia	
+Job Creyghton	
+Antoine A.R. de Kom	
+Riet de Jong-Goossens	
+Karin van Lierop	
+C.P. Bakker	
+Joris Pintor	
+Georgine Sanders	Fort Worth
+Marc Schreurs	
+Jan Timman	
+H.H. Kubbinga	
+Mark van Andel	
+Lieneke Frerichs	
+Mary G. Kemperink	
+Anton van Wilderode	Sint-Niklaas
+Umberto Eco	Milaan
+Henny Vlot	
+A. van Dantzig	Amsterdam
+J. Mannoury	Bussum
+Maarten van der Wee	
+Niek Muller	
+Ineke van Kessel	
+A.L. Schneiders	
+Wina Born	Amsterdam
+Jan Mulder	
+G.L. van Lennep	
+Yvonne Kroonenberg	
+Cisca Dresselhuys	
+Ch.J. Enschedé	
+Harry G.M. Prick	Maastricht
+Huib van Krimpen	
+Gerardjan Rijnders	
+Max van Rooy	
+Hans Maarten van den Brink	
+Ben Bos	
+Gerard de Vries	
+Walter van den Broeck	
+S.F. Baekers	
+Agnes Verbiest	
+Alex van Schooten	
+Gie van den Berghe	
+Michiel Mastenbroek	
+P.J. Buijnsters	
+Th.M. Scholten	
+Henk Harbers	
+Jeroen Boomgaard	
+Andries Sarlemijn	
+Michiel van Kempen	
+Guido van Heulendonk	
+Jeroen J.H. Dekker	
+Willem van den Berg	Rhenen
+Jan Brands	
+Joël Cahen	
+Ernst van Alphen	
+Ria van den Brandt	
+Stephan Sanders	
+Hugo Verdaasdonk	Amsterdam
+Christa Schuenke	
+Maruschka Romijn	
+Thomas Rosenlöcher	
+Christine Delhaye	
+Rudi Laermans	
+Koen Dille	
+Rik Lina	
+Saskia Poldervaart	
+Jan Bervoets	
+Andries Querido	
+W.S. Huberts	
+Lambert Lambertz	
+Richard Todd	
+Winnie Todd-Kooy	
+Bert Wartena	
+Kamiel Vanhole	
+Marc Adang	
+Tjebbe van Tijen	
+Jean A. Schalekamp	nabij Costitx (Mallorca)
+M.J.P.M. Weijtens	
+Olga Krijtová	Praag
+Zofia Klimaszewska	
+René A. Römer	
+C.E. Dip	
+Luc Alofs	
+Alex Reinders	
+Gladys do Rego-Kuster	
+Carel de Haseth	
+Jules de Palm	
+Henry Habibe	
+Walter J.M. Palm	
+Elis Juliana	
+Lasana M. Sekou	
+Wim Rutgers	
+Jos de Roo	
+Frans Heiligers	
+Robert A. Rojer	
+Felix de Rooy	
+Michael A. Newton	
+Roel J. den Dulk	
+Emma Crébolder	
+Yvonne Né	
+Marc Groenhuijsen	
+Leo Morpurgo	Parimaribo
+Theo Para	
+Peter Meel	
+Nardo Aluman	
+Frans Malajuwara	
+Ruud Beeldsnijder	Den Haag
+Celestine Raalte	
+Carlo Hoop	
+Dorus Vrede	
+André Pakosie	
+Surianto	Paramaribo
+G.D. van Wengen	Oegstgeest
+Joanna Werners	
+Jit Narain	
+Theo Damsteegt	
+Chitra Gajadin	
+Astrid Roemer	
+Cándani	
+Henna Goudzand	
+Marcel Bénabou	
+Gemma Pappot	
+Piet Meeuse	
+Jan van der Waals	
+Maurice van Lieshout	
+J.J.M. Bakker	
+Lucy Kooman	
+Peter van Ham	
+Jos Joosten	
+Jack van der Weide	
+Marc Kregting	
+Joy Arpots	
+D. Frenkel	
+J.W. Nobel	
+Boris Todoroff	
+Max Niematz	
+Fleur Thomése	
+Frans van Zetten	
+Kees Hensen	
+Fransje Klaver	
+Mieke Bal	
+Elrud Ibsch	
+J. Neubauer	
+Carel Peeters	
+Maaike Meijer	
+Jolande Withuis	
+M. Weisglas	Den Haag
+Klaas Koetje	
+Michael Tophoff	
+Conny Kristel	Amsterdam
+Maarten Asscher	
+Willem Schoonen	
+J. Breman	
+Ann Laura Stoler	
+Jeanette Bos	
+H.W.J. Drijvers	Groningen
+M. Stol	
+Heather Sutherland	
+Maria Bosch	Amsterdam
+Doris Edel	
+Dorelies Kraakman	
+Annet Mooij	
+Kees van Hage	
+Vincent Hunink	
+R.Th. van der Paardt	
+Piet Gerbrandy	
+Mieke Koenen	
+Reinold Vugs	
+Marja Loomans	
+A. Bergsma	
+Anita Wijzenbroek-Zoethout	
+Sara van Epenhuysen	
+P. Hijmans	
+Cornelia Wilhelmina Bosch	
+A. Agnes Sneller	
+Odile Heynders	
+Rien Verhoef	
+W.J. van den Akker	
+Helenius Munt	
+Irene de Jong	
+C.M.J. Sicking	
+D.M. Schenkeveld	
+Fred Spier	
+Marcel Kurpershoek	
+Julia Quak-Stoilova	Zaandam
+Frederike van der Leek	
+Ed van der Elsken	Edam
+Herman Kaal	
+Freek de Jonge	
+Mark Smeets	
+Carla Rijkenberg	
+Cees van der Pluijm	Arnhem
+Ida Vos	Amstelveen
+Karl Edersheimer	
+Peter Buijs	
+Barbara den Uyl	
+Nelleke Noordervliet	
+Helen Wilcox	
+Ben van der Velden	
+Wim Denslagen	
+Joes Segal	
+Gerard van Emmerik	
+H.C. Hemker	
+Caroline van Eck	
+Repke Hollema	
+Walter van der Kooi	
+Philip Mechanicus	Amsterdam
+C.W. van de Watering	
+Peter Bergsma	
+Léon Hanssen	
+Casper Hakfoort	
+P. Clausing	
+Peter Drehmanns	
+Nan van Houte	
+Janny Donker	
+Robert Steijn	
+Ger Thijs	
+Karst Woudstra	
+Tonie van Marle	
+Marcel Möring	
+Hana Bobková	
+Paul Binnerts	
+L. Frank	
+Marianne van Kerkhoven	
+Cas Enklaar	
+Ton Lutz	
+Lien Heyting	
+Marijn van der Jagt	
+Loek Zonneveld	Amsterdam
+Tom Blokdijk	
+Otto Valkman	
+Ritsaert ten Cate	Amsterdam
+Hedy d' Ancona	
+Erik Slagter	
+Siem Bakker	
+Karol Lesman	
+Jan Blonski	
+Jan van der Meer	
+Goenawan Mohamad	
+Herman de Kat	
+Ton Hoenselaars	
+Joep Leerssen	
+Hans Goedkoop	
+Jelle Koopmans	
+Karin Tilmans	
+Helen Gerretsen	
+Niels Helsloot	
+Joris Note	
+Tom van As	
+Ludo Abicht	
+Madeleine van Strien-Chardonneau	
+Margarete van Ackeren	
+Dick Dooijes	Baarn
+Otto Treumann	Weesp
+Gerrit Noordzij	
+Pieter Brattinga	Kootwijk
+Cees van Dijk	
+Ad ten Bosch	
+Wim Crouwel	
+Gerard Unger	Bussum
+Kurt Löb	Amsterdam
+Ger Kleis	
+Paul Hefting	Haarlem
+Christoph Noordzij	
+Melle Broeksma	
+Peter Mertens	
+Swip Stolk	
+Frank Blokland	
+Gitte Postel	
+Margreet Schrevel	
+Paul Beers	
+Sjaak Commandeur	
+Frans van Dooren	Oss
+Marijke Emeis	
+M. D'Hane-Scheltema	
+Jeanne Holierhoek	
+Frida Vogels	
+Kees Mercks	
+Cora Polet	
+Jean Pierre Rawie	
+Mariolein Sabarte Belacortu	
+P.H. Schrijvers	
+Frans van Woerden	
+Hans Vandevoorde	
+Caroline Meijer	
+Hans Henkemans	Nieuwegein
+Ton Lemaire	
+Marc Reugebrink	
+K.-J. Citron	
+Micha Hilgers	
+Kathinka Dittrich van Weringh	
+Henri Beunders	
+Erhard Blankenburg	
+Michael Hamburger	Suffolk
+José F.A. Oliver	
+Carla Bogaards	
+Bodo Kirchhoff	
+Annemiek Munstermann	
+Wolfgang Hilbig	
+Ruurd Bakker	
+Hubert van den Berg	
+Peter Abelsen	
+Frans Geraedts	
+Leonard de Jong	
+Edwin Krijgsman	
+Lies Wesseling	
+Tijn Boon	
+Tijl Huygen	
+J.C. Hess	
+Dewijch Griffioen	
+Herman Leenders	
+Per Hojholt	
+Annelies van Hees	
+Barbara Noske	
+Tomas Vanheste	
+Jacques Arends	
+Nanda van den Berg	
+Benjamin Biebuyck	
+Chris Keulemans	
+Catherine Barel	
+Fernando Venâncio	
+Sophia de Mello Breyner Andresen	Lissabon
+Arie Pos	
+Luís de Sousa Rebelo	
+Mário-Henrique Leiria	
+Harrie Lemmens	
+Emile Schra	
+Peter Brook	
+Jan Ritsma	
+Emanuel Overbeeke	
+Frank Kouwenhoven	
+Oswin Schneeweisz	
+Benno Premsela	
+Roeland Gerritsen	
+Willy Coolsaet	
+Bai Juyi	
+Eva van Schaik	
+David Vaughan	
+Hans Snoek	
+Kees Hogenbirk	
+Ben Knapen	
+Margriet de Moor	
+Mark Richartz	
+Hugo Brems	
+Edith van Ruyven	
+J. van Heetvelde	Brugge
+Jean-Pierre Plooij	
+Guy Widdershoven	
+Wim Tigges	
+Xandra Schutte	
+Peter Verhelst	
+Joris Verheijen	
+Ed Leeflang	Amsterdam
+Dago Steenis	
+Peter Nijssen	
+Frank vande Veire	
+Mario Gommeren	
+Jan Hein Furnée	
+Carine Meulders	
+Frans Kingma	
+Kees Bruin	
+Jorge Esquinca	
+Alexander Koesjner	
+Annegret Böttner	
+Dino Campana	Scandicci
+Onno Kosters	
+Simon Armitage	
+Yves Bonnefoy	
+John Ashbery	
+Peter Handke	
+Philippe Jaccottet	
+Michael Donhauser	
+Michael Ondaatje	
+Hans Kloos	
+Bruno K. Öijer	
+Franz Baermann Steiner	
+Jacques Roubaud	
+Olga Sedakova	
+Ulrich Meister	
+Ad Beenackers	Nieuwegein
+Tonnus Oosterhoff	
+Maarten van Delden	
+Mario Vargas Llosa	
+Juan José Arreola	
+Juan Carlos Onetti	
+Horacio Quiroga	
+J.L.J. van Schoot	
+G. Vertogen	
+Arnold Heumakers	
+Dirk van Delft	
+Johan Reyniers	
+Hugo Dittberner	
+Esther Jansma	
+Etienne van Heerden	
+Roland Jaccard	
+H.J. Houte	
+Slavoj Zizek	
+Thomas Elsaesser	
+Marc de Kesel	
+Predrag Dojcinovic	
+Margreet Schouwenaar	
+Geert Lernout	
+Lucy Grealy	
+Marian Lameris	
+Herman Cohen	
+Joh. R. Vlek	
+Herman Philipse	
+Anton Ent	
+R.B. Kitaj	
+Dorinde van Oort	
+Dirk van Weelden	
+Clarín	
+Doeschka Meijsing	Amsterdam
+Phillip Herring	
+M. de Boer	
+Günter Grass	
+Jan Hontscharenko	
+Paul Bogaert	
+William Carlos Williams	
+Chris Honingh	
+Wieke Bonnier	
+Eltjo Muntinga	
+Marie de Meister	
+René J. van Boven	
+Jan Lampo	
+Joris Denoo	
+Frank Verkuijl	
+Martien Kappers	
+Johan de Boose	
+Else Lasker-Schüler	
+H.C. Halberstadt-Freud	
+Joke J. Hermsen	
+Lut Missinne	
+Thomas Leeflang	
+Karen Vintges	
+Christa Stevens	
+Antoine Verbij	Berlijn
+Winnie Sorgdrager	
+G.M. Hopkins	
+W. Bronzwaer	Nijmegen
+Rudy Bremer	
+Saint-John Perse	
+Claude van de Berge	
+Monica Soeting	
+Philippe Sollers	
+Leonard Beuger	
+Hans Achterhuis	
+Mark Boog	
+Peter Swanborn	
+August Willemsen	Amsterdam
+Graciliano Ramos	
+Gerard Nienhuis	
+André Schmitz	
+Josef Winkler	
+Jan Eijkelboom	Dordrecht
+Bora Cosic	
+Mattijs van de Port	
+Ariejan Korteweg	
+Zoran Djukanovic	
+Rüdiger Safranski	
+Joost Niemöller	
+Thomas Rosenboom	
+Magnus Hisrschfeld	
+Edouard Roditi	
+Dieter Hülsmanns	
+Erik Zürcher	Warmond
+Maghiel van Crevel	
+Chuan Xi	
+Peter Buwalda	
+O. Hammerstein	
+Martijn van Calmthout	
+Yücel Yesilgöz	
+Ankie Lempens	
+Ole Bouman	
+Menno Tamminga	
+Jos de Wit	
+Hein Groen	
+Jan Heemstra	
+Marc Schoorl	
+Herman Koch	
+Koen Peeters	
+Pol Hoste	
+Leon Gommers	
+Russell Artus	
+Peter Theunynck	
+Erik Menkveld	Amsterdam
+Arjen Mulder	
+Eric de Kuyper	
+Wim Hottentot	
+Peter Verstraten	
+Basha Faber	
+Klaus Theweleit	
+Manon Uphoff	
+Gert Hekma	
+Leo Steinberg	
+Yukio Mishima	Tokio
+Jacques Westerhoven	
+Jantine Oldersma	
+Wislawa Szymborska	
+Felicitas Hoppe	
+C.F. van Beusekom	
+Sven Danner	
+Sjaak Koenis	
+Harry N.A. Priem	
+Kees 't Hart	
+Pam Emmerik	Rotterdam
+Joke van Leeuwen	
+Hedda Martens	
+Charles Simic	
+William T. Vollmann	
+Nicolaas Matsier	
+Oek de Jong	
+Alain Robbe-Grillet	Caen
+Els Broeksma-van Capelle	
+Bart Verschaffel	
+Karl Krolow	
+René Boomkens	
+Herman de Coninck	Lissabon
+Hugo Bousset	
+Atte Jongstra	
+Yra van Dijk	
+Goffe Jensma	
+Koen Koch	Amsterdam
+Rinus Ferdinandusse	
+Roelof Haveman	
+Marjan Wijers	
+Jan Willem Duyvendak	
+L. Laeyendecker	
+Yves van Kempen	
+Joyce Outshoorn	
+Wouter Vanstiphout	
+Harry Oosterhuis	
+Chris Rutenfrans	
+Tom Schalken	
+Pamela Koevoets	
+Rob Schouten	
+Kees Vuyk	
+Frank Reijnders	
+Ciaran Carson	
+Frits Abrahams	
+Ed van Thijn	
+Maria Stahlie	
+John Jansen van Galen	
+Mirjam Schöttelndreier	
+Thijs Wöltgens	Kerkrade
+Ido de Haan	
+Stella Braam	
+Irene Costera Meijer	
+Jos de Putter	
+Arnon Grunberg	
+Helga Ruebsamen	Den Haag
+Michael Frijda	
+Maarten Elzinga	
+Kees Bokweide	
+Marjoleine de Vos	
+Chris Lorenz	
+Jos van der Lans	
+Jeroen Onstenk	
+Kees Vreugdenhil	
+Charles Reznikoff	
+Jules Laforgue	
+Matsuo Basho	
+Gregor Laschen	
+Lennart Sjögren	
+Theodore Roethke	Bainbridge Island, Washington
+Ria Loohuizen	
+Ernst Jandl	
+Adolf Wölfli	
+Joannes Six van Chandelier	
+Johannes Bobrowski	Berlijn
+Ted Hughes	
+Caroline Lamarche	
+Bibiana Mikkelsen	
+Stine Jensen	
+Hein-Anton van der Heijden	
+Godert Posthumus	
+Bart Moeyaert	
+Tayeb Mokeddem	
+Pierre Michon	
+Rokus Hofstede	
+David Foster Wallace	
+Göran Tunström	
+Marcel Beyer	
+Wil Hansen	
+Durs Grünbein	
+Sasbout Beukelsz. v.d. Burch	
+P.C. Verveen	
+Mirna Velcic-Canivez	
+Pim van Tol	
+Armand van Assche	Waasmunster
+Bob Baljet	
+K. van Berkel	
+Marijke Besselink	
+Fred Dijs	
+Otto Egberts	
+Roelof van Gelder	
+Tijs Goldschmidt	
+Harm Habing	
+Hubert-Jan Henket	
+Wim Hofman	
+Frederike Huygen	
+Hans Keller	
+Aad Kosto	
+Reinier Lucassen	
+Fred Pelt	
+Marieke Sanders-ten Holte	
+Gary Schwartz	
+B. Sliggers	
+Jan Tromp	
+R.P.W. Visser	
+Bart Vos	
+J.H. van der Waals	
+Aryeh Lev Stollman	
+Babet Mossel	
+Matthé Sjamaar	
+Huib Schwab	
+Raj Kamal Jha	
+Jelle Noorman	
+Gijs van Oenen	
+Koedooder & Heilig	
+Derek Walcott	Gros Islet
+Hans Onno van den Berg	
+Gustav Herling	Napels
+Peter-Paul Verbeek	
+Petran Kockelkoren	
+René Puthaar	
+Bart Vervaeck	
+Erwin Mortier	
+Martin Bril	Amsterdam
+Simon Frith	
+Pieter Cramer	
+Wouter Klootwijk	
+Ivan Nio	
+Arjan Witte	
+Ko Kooman	
+Peter Holvoet-Hanssen	
+Miguel Declercq	
+Paul Valéry	
+Max Beckmann	NA;NA
+Thomas Vaessens	
+José van Dijck	
+Brady Udall	
+Bert Meelker	
+Guus Middag	
+Robert Gernhardt	
+Gerrie Bruil	
+Joost Zwagerman	Haarlem
+Anton van de Wardt	
+Jonathan Treitel	
+Jan Lodewijk Mercelis	Strombeek Bever
+Hilda Ram	Antwerpen
+Hector Claeys	Kanegem
+August Cuppens	Loksbergen
+Hendrik Persyn	
+Gustaaf Verriest sr.	Saint-Cloud
+Hugo Verriest	Ingooigem
+Henri Donders	
+Eug. de Lepeleer	
+A.M.J.I. Binnewiertz	
+Alfons Jozef Maria Janssens	
+Delfien Vanhaute	Edewalle
+Omer Karel de Laey	Hooglede
+A.W. Sanders van Loo	
+H.J.A.M. Schaepman	Rome
+Jozef Jacobs	
+Prosper van Langendonck	Brussel
+Jacob Lenaerts	
+Aloïs Walgrave	Brugge
+Hendrik de Marez	Merelbeke
+Jef Hinderdael	Soest
+C. van Ongeval	
+Frans Drijvers	Willebroek
+Paolo Gentili	
+Edward van Even	Leuven
+Lambrecht Lambrechts	Gent
+Peter Jozef Tijsmans	
+Adriaen Lourisz Lepel	
+Desideer Claes	
+A.G. Welvaar	
+Th. Heidebrand	
+A. Weemaes	
+Edward de Grijse	
+H. Bischoff	
+Fr. Meeus	
+A. Verheyen	
+H. Sermon	Borgerhout
+van der Veur	
+Lambert Jageneau	
+Alb. vander Elst	
+John Lancaster Spalding	
+Ch. Lucas	
+Florimond Heuvelmans	Den Haag
+de Ticheleer	
+Leo Goemans	
+Adolf de Ceuleneer	Mortsel
+Emiel de Grave	
+Mimosa	
+August Victor Bultijnck	
+P.C. de Bruyne-Klinkenberg	
+Melati van Java	Noordwijk aan Zee
+Martin Brants	Schaarbeek
+Ed. Loos	
+Jan Kornelis de Cock	Davos
+J. Erembout	
+Johannes Jörgensen	
+Johannes Romboldus van der Lans	
+Arthur Wenthworth Powell	
+Jan Craeynest	Sint-Michiels
+Joz. vanden Eynde	
+A. Habets	
+H. van Houtte	Gent
+G.H. Haastert	
+Adolf Rutten	
+Alphonse Naert	
+Jan Stuyt	
+Eugène Isebaert	
+Alfons Mervillie	Kortrijk
+Eugeen Leën	Hasselt
+P.L. van den Heuvel	
+Jaak Boonen	
+C.P.F. Lecoutere	Knokke
+Paul Hamélius	Luik
+A. Prayon-van Zuylen	
+J. Sencie	
+Simonart	
+P. Rutten	
+Constant Eeckels	Elsene
+Henri W.J. Schouten	
+H. de Vocht	
+C. Callewaert	
+Lodewijk De Wolf	
+I. Vandegaer	
+F. Palmen	
+Herman Linnebank	
+O. Cornet	
+Paul Bellefroid	Nijmegen
+G. van Poppel	
+Hubert van Fall-Mheer	
+H. Hosdey	Hoeilaart
+Gustaaf Segers	
+Frans van Cauwelaert	Antwerpen
+Jean-Baptiste de Bethune	Heestert
+D. Staroger	
+A. Bertang	
+J. Kleyntjens	
+Em. van Cappel	Izegem
+A. van Eigenleven	
+C. de Waal	
+J.W. van Heeswijk	
+Ernest Soens	
+Simon Staf	
+Lodewijk Ontrop	Antwerpen
+A. van Wassenhove	
+Alfons de Cock	Antwerpen
+Alfons Fierens	
+Jozef de Voght	Meerhout
+J.A. van Lieshout	
+L. Scharpé	Betekom
+J. Lievens	
+Jan van Leenen	
+X. Smits	
+J. Kautzen	
+Jozef Muls	Kapellenbos
+D.A. Stracke	
+H. Gabriëls	
+F.P. Lorreins	
+Eug. vander Heyden	
+Lodewijk Vincent Scheltjens	Rupelmonde
+J. Jacobsen	
+Fr. van den Weghe	
+B. Adriaansen	
+E. Vliebergh	
+Emiel Hullebroeck	
+C. Clerckx	
+Franz Mets	
+E. van Fraechem	
+J. Verest	
+Alfons Siffer	
+L. Ghys	
+Tom Bruce	
+Leo van Nerum	
+Dirk van Minden	
+A. Carnoy	
+Cl. Buvé	
+I. de Vreese	
+Omer Wattez	Sint-Lambrechts-Woluwe
+Albrecht Rodenbach	Roeselare
+R. Maere	
+W.W. Druenlanders	
+Karel Elebaers	Herentals
+Z. Peeters	
+A.M. van Kersbeek	
+E.J. Mertens	
+J. Fischer	
+Alfons Moortgat	Tiegem
+Thomas Ryetius	
+P. Henneckes	
+Th. van Tichelen	Sint-Gillis
+Jan Franssen	
+P.J. Stinissen	Borgerhout
+Titus Brandsma	Dachau
+Stephanie Vetter	
+Fr. Ludovicus Blomme	
+D.A. Dyland	
+R. Lemaire	
+L. Noël	
+Em. Broes	
+Gabriël Verborght	
+A. Taelman	
+B. van Kesteren	
+L. van der Essen	
+Jan Gessler	Heverlee
+Felix Timmermans	Lier
+J. van Mollé	
+Johannes van Well	
+Octaaf Steghers	Sint-Jans-Molenbeek
+E. van Leuven	
+Fr. Bertrand	
+Julie van der Lans-Russel	
+Arthur de Vos	
+Gerrit Grijns	
+F. Verhelst	
+F. Dewitte	Emelgem
+H. Coppieters	
+Fr. Stanislas	
+S.L. van Berne	
+Ernest Claes	Brussel
+J. Jos Kempenaers	
+J.F. van Olmhof	
+Juul Grietens	Borgerhout
+Petrus Dubois	Amsterdam
+L. Ghijs	
+F. van Calloo	
+Theo Brakels	
+J. Wagemans	
+Jozef de Cock	Roosendaal
+Jules van Nuffel	Wilrijk
+J.-J. Symoens	
+M. Dewickere	Gent
+V. Voorden	
+Emiel Fleerackers	Turnhout
+Ivo Struyf	Kikwit
+J. Mees	
+Dés. de Kock	
+Arthur Meulemans	Etterbeek
+Gust Doussy	
+C.W. van Berkel	
+Joseph Feskens	
+Frans Delbeke	Londen
+A. Baert	
+P. Petrus M. Janssens	
+O. d' Hose	
+P. Bertrand	
+Albin van Hoonacker	
+Jozef Arras	Lier
+Jacob Mees	Nijmegen
+K. de Wals	
+H. Mansion	
+P. Soens	
+Gust. Hens	
+Arthur Coussens	
+René Adriaensen	
+A. Verstreken	
+Jozef Vercoullie	Gent
+P. Placidus Eykens	
+P. Hildebrand	
+Jaak van Rettipo	
+F. Michielsens	
+Karel van de Vijver	
+J. Mansion	
+Berthold Missiaen	Brugge
+E.H.Hendrik de Vis	
+Goevaart	
+Leo van Riel	
+Aloïs Van Loy	
+Armand van Veerdeghem	Oudergem
+Emiel van der Straeten	Sint-Truiden
+Jan Bernaerts	Westerlo
+H. Brutsaert	
+Cyriel de Baere	Beringen-Mijn
+P. Janssens	Terneuzen?
+Ivo Cornelis	
+Jan Hammenecker	Westrode-Wolvertem
+Sam Devriendt	
+George Roose-Antonissen	
+P.A. van Rooy	
+Léonce Reypens	Sint-Maria-Oudenhove
+Aug. Bruijnseels	
+Camille Poupeye	Schaarbeek
+A. van den Dries	
+Henri van Deursen	
+Jozef Simons	Turnhout
+Perquy	
+A.J. van de Perre	
+Marcel Romeo Breyne	Ahrensburg
+J. de Berraly	
+P. de Dura	
+D. Logeman-van der Willigen	Brussel
+A. van Beirendonck	
+Victor Naveau	Boechout
+Radvliet	
+Jos Pierreux	
+Ivo Engelen	
+E. van Dievoet	
+J. Buelens	
+Lod. van Mierop	Bussum
+A. Lhorijn-Thans	
+Leo van Dorpe	
+Jan Job	
+Aug. Bruynseels	
+Jef Crick	Sint-Amandsberg
+C. van Malten	
+L.H. Smeding	
+Maria Viola	Ouderkerk a/d Amstel
+Edward Vlietinck	Berchem
+Jaap van Manen	
+Raphael Ligtenberg	
+H. Pauli	
+Rob. Ree	
+L. Bril	
+P. Berthold	
+Joseph Bittremieux	Brugge
+C.J. Vierhout	
+Cyriel Verschaeve	Solbad Hall
+Koh-i-noor	
+Leo Speet	Aerdenhout
+[tijdschrift] Van Onzen Tijd	
+J. Caekbeke	
+Edward Vermeulen	Hooglede
+Edward van Bergen	Naaldwijk
+K. Camerman	
+Albert van Driessche	Sint-Niklaas
+Paul van Alderman	
+Juul Filliaert	Nieuwpoort
+Joost Stokers	
+Gery Helderenberg	Lede
+L. Vermeirsch	
+Johan van de Natuur	
+Joh. van Dinter	
+Odo Siril	
+Filip de Pillecyn	Gent
+Huber Lebon	
+J. de Porr	
+Lodewijk van Eyck	Turnhout
+Joseph Laenen	
+Maurits van Hoeck	
+Frans Verschoren	Westmalle
+Evermar van Moere	
+J.F.M. Coveliers	Ieper
+R. Foncke	Gent
+Florentijn Jan van der Mueren	Leuven
+V. Willems	
+zuster Maria Jozefa	
+Dirk Vansina	Leuven
+René Gaspar	Helmond
+Jan Boon	Ukkel
+Wilhelm Scherer	
+Remy Saen	
+Joris Caeymaex	Lommel
+Lambert Aerts	
+Leo Bittremieux	
+Josette Pasquasy	
+August Nobels	
+A.R. Vincke	
+M.R. Pauwels	
+Hilaire Allaeys	Antwerpen
+Amaat Vyncke	Kibanga
+E.D. van Nuffel	
+Julius de Wachtere	
+Jozef Goethals	
+P. Kubben	
+J. Coenen	Gellik
+Jos. de Roeck	
+Constant Lindemans	Brussel
+Lynn Doyle	
+Alexander Elberts	Deventer
+Jan Paquay	
+L. Grootaers	Leuven
+A. van Langendonck	
+Eva Moltesen-Hällström	
+Karel Brants	
+van Huffelen	
+Hubert van de Weerd	Brussel
+Jef Scheirs	Sint-Agatha-Bergem
+Prosper Poullet	
+P. Thuysbaert jr.	Lokeren
+Raynerius Podevijn	
+Eugène Joors	Berchem
+Hendrik Mande	Delft (klooster Sion)
+Eduard Amter	Leuven
+Stephanus de Clippele	Kortrijk
+I.S. Toergenjev	
+Jos. de Klerk	
+Maurits Coomans	
+A. Geerebaert	
+Edmond Rubbens	
+Johannes Tauler	
+J. van Malderen	
+Edw. De Schaepdrijver	
+Jozef van Reusel	Leuven
+Lode Monteyne	Berchem
+Jan Bols	
+Anton Van de Velde	Schilde
+L. Debruyn	
+Frisc over de Heiden	
+Karel Pauwels	
+B.H. Molkenboer	
+Jos Vermeulen	Gent
+Oscar Monstrey	Roeselare
+Clemens van der Straeten	
+Jos Spriet	
+L. Uten	Boechout
+Semper Jejunus	
+A. Nagels	
+Joseph Coppens	
+Mirza Riza Viham	
+Karel van Sull	
+L. Seurinck	
+J. Rombouts	Mortsel
+Stephanie Claes-Vetter	Brussel
+Arthur Boon	
+R.V. Mortier	Brugge
+Eugenius Druwé	
+Gérard Philips	
+J.A. Goris	
+Charles Gillès de Pélichy	
+J. Heyrman	
+Odilon Demarre	Sleidinge
+Leonie Weckx	
+Julius Plancquaert	Flobecq
+Hilarion Thans	Smeermaas-Laken
+Reinier Ysabie	Gent
+Odilo Jacobs	Aalst
+J.P. Colsen	
+Vincent Cleerdin	Vucht
+C.H. de Ronde	
+Joris Baers	Sleidinge
+Th. De Ronde	Leuven
+E.H.J. Bernaerts	
+Lydia van Kerckhoven	
+Juliaan De Vriendt	
+Alice Nahon	Antwerpen
+D.F.F.J. Mercier	
+K.L.M. Schoeters	
+Clemens Daenen	Heverlee
+E. Jaulusz.	
+Stan Dietvors	
+Arnold van Praag	
+Huib Hoste	Hove
+Oskar Katann	
+Eugeen van Oye	Gistel
+Herman Deckers	
+Mécs Laszló	Pannonhalma
+A. Cardyn	
+Richard Dewachter	Duffel
+André van Praag	
+Ernest Closson	
+Jan Chiapusso	Lawrence
+A.M. Pols	Kalmthout
+L. van den Eynde	
+Pierre De Clercq	
+L. de Smet	
+Jozef Uytterhoeven	Mortsel
+Jos. de Brandt	
+Robert Grosche	Keulen
+E.H.J. Hallez	
+Huib Luns	
+Constant Godelaine	Luik
+August van Boeckxsel	
+J. Groot	
+A.J. Hallez	
+Edgar Lee Masters	
+Francisque Darcieux	Clermont-Ferrand
+Victorinus Groot	
+Adolf ter Haghe	
+Jef Notermans	Maastricht
+Alfons Ariëns	Amersfoort
+Albertine Steenhoff-Smulders	Baarn
+Rita Hostie	
+F.S. van Bouwdijk Bastiaanse	Den Haag
+Rob. Roemans	Vorst
+Theo Cruysse	
+H.J. de Vleeschouwer	Pretoria
+Marc de Munnynck	Freiburg
+Arnold Sauwen	Brasschaat (Vriesdonk)
+Sigrid Undset	Lillehammer
+O. Praem	
+C. Ldov	
+Maurits S.C.M. Molenaar	Sittard
+Robert van Passen	
+Jeanne de Bruyn	La Plata
+Frans de Wilde	Antwerpen
+Theodoor Belpaire	
+Gottfried Hasenkamp	Münster
+Gabriël Merlier	
+Paul Van de Woestijne	
+Pol Douliez	
+Hildegard van Bingen	Rupertsberg
+Aimé de Marest	Sint-Agatha-Bergem
+C. Vervaever	
+J.F.J. van Tol	Colmar
+Pol Heyns	Bonheiden
+G. van Mulders	
+Christian Rimestad	
+Johan Oskar Larsen	
+Valfrid Palmgren	
+Erik Jespersen	
+Jörgen Bukdahl	Askov
+Joh. Nordahl-Olsen	
+Karl Madson	
+Erling Lauhn	Bergen
+Peder Gram	Kopenhagen
+Selma Lagerlöf	Sunne
+Karl Gustav Ossianilsson	Rystad
+Edvard Welle-Strand	
+Theo Findahl	Rome
+Pertinax	Brive-la-Gaillarde
+R. van Pottelbergh	
+F.A. Vercammen	Tilburg
+Jan Bloem	
+A. Mansion	
+G. van Overbeke	
+Ruth Schaumann	
+Giovanni Vittorio Amoretti	Turijn
+A. Della Corte	Turijn
+Arrigo Levasti	Firenze
+Guido Piovene	Londen
+Cipriano Efisio Oppo	Rome
+G.A. Borgese	Fiesole
+Ada Negri	Milaan
+Domenico Giuliotti	Chianti
+Michelangelo Zimolo	
+Edgard de Bruyne	Schaarbeek
+Vincenzo Cardarelli	Rome
+Antonio Fogazzaro	Vicenza
+Sergio Corazzini	Rome
+Nicola Moscardelli	Rome
+Franco de Wyels	
+Louis Knuvelder	
+A. Stracke	
+Eugène de Hovre	Gent
+J. Rodolfo Lozada	
+Amado Nervo	Montevideo
+Rob van Roosbroeck	Oosterhout
+Karel Verbeke	
+Paolo Arcari	Rome
+H.J. Elias	Ukkel
+Theo Bogaerts	Brussel
+Frank van den Wijngaert	
+Paul Verbruggen	Deurne (Antwerpen?)
+Ellen Russe	
+Cornelis Backer	Zwolle
+Georg Moenius	München
+Günther Müller	Bonn
+Friedrich Muckermann, S.J.	
+Willem Gijssels	Antwerpen
+Marcel Lobet	Rixensart
+R.B. Lenaerts	
+F. Collin	Antwerpen
+Jozef de Wilde	
+Andries Morlion	New York
+Rudolf Arnheim	Ann Arbor, Michigan
+Karel Dekeukeleire	Werchter
+P. Seligmann	
+Lode Geysen	
+L. Patris	
+René Devos	
+D. Lunders	
+J.G.R. van Dyck	
+Theodor Absil	
+Staf Weyts	Brugge
+Lanceloot	
+William van den Aker	
+Stephanus G. Axters	Lubbeek
+Thierry de Wael	
+A.G. Christiaens	Sint-Pieters Leeuw
+Em. de Deyne	
+Paul Sobry	Leuven
+Albert Westerlinck	
+P. Vermeiren	
+Paul Lebeau	Borgerhout
+Alfons Walschap	
+Fernand Bekaert	
+Pomp de Basschaerde	
+P. Morlion	
+Han. Jonkers	
+Oskar van der Hallen	Tenerife
+Jef de Pillecijn	
+Maurits Peeters	
+P.J. Weckx	
+Fernand Deschamps	Brussel
+Peter Benoit	Antwerpen
+J.F. Vanderheyden	
+Hugo Anns	
+F. Philips	
+René Goris	
+Paul Franck	
+Walther von der Vogelweide	
+Frans Verachtert	
+L. Delwaide	
+Jos. Wils	
+Bert Ranke	
+O. Westerlinck	
+Joh. Boe	
+Taeke de Groot	
+H.H.J. Maas	Eindhoven
+D. Zijlstra	Rotterdam
+R. van Cauwelaert	
+Frans Tobback	
+V.E. van Uytvanck	Cochem
+Jef Contryn	
+Leo Galle	
+Jan Bertels	
+Maurits de Doncker	Gent
+Desiderius Erasmus	Bazel
+Rainer Maria Rilke	Montreux
+J.L. de Belder	Deurle
+Thilda Deckers	
+Korneel Goossens	
+Jan Kestens	
+Robert Maistriaux	
+W.A. de Witte	
+Frans Broekaert	
+A.L Bem	
+Irma van de Port	
+Gilbert Degroote	Leuven
+Marc Staels	
+Willy Vaerewijck	Deurne
+Aloïs Janssens	
+Fred. Walecijn	
+Paul de Ryck	Sint-Amandsberg
+Marcel Grypdonck	
+Novalis	Weissenfels
+Ludo Poplemont	
+Luc Indestege	Brussel
+Luc van Brabant	Veurne
+Liesbeth van Thillo	
+Leys Achiel	
+Karel Capek	
+Max Kijzer	Midden-Europa
+Jean-Charles Snoy et d'Oppuers	Eigenbrakel
+J. Keunen	Hamont
+P. Verberne	
+Vital Celen	Antwerpen
+Leo Landsman	
+A. Plas	
+Robert Storm Petersen	Frederiksberg
+Alfons van Beylen	
+Stefaan Leonard	
+Marie Schous	
+H. van Lennep	
+Marcel Tobie	
+Luc van Hoeck	
+Basiel de Craene	Merendree
+Jan Melis	Borgerhout
+P.Em. Valvekens	Ukkel
+Camiel van Deyck	
+Hendrik Prijs	Alken
+Gerard Michiels	
+Elmar Borg	
+Jan D'Haese	
+H. Brugge	
+Robert Guiette	Antwerpen
+Jo de Meester	
+Xavier Pruszynski	
+Waclaw Husarski	
+Tadeusz Breza	
+Waclaw Sieroszewski	
+Kazimierz Tetmajer-Przerwa	
+Venceslas Berent	
+Emil Zegadlowicz	
+Tadeusz Boy-Zelenski	
+Leopold Staff	
+Juljusz Kaden-Bandrowski	
+Zofja Nalkowska	
+I.K. Illakowicz	Poznan
+Ferdynand Goetel	
+Zofja Kossak-Szczucka	
+Julian Tuwim	
+Jan Parandowski	
+Jaroslaw Iwaszkiewicz	
+Maria Jasnorzewska	Manchester
+Herminia Naglerowa	
+Maria Dabrowska	Warschau
+Jozef Wittlin	
+Jan Lechon	
+Marja Kuncewiczowna	
+Eva Szelburg Zarembina	
+Michal Choromanski	
+Kazimierz Wierzynski	Londen
+Jozef Czechowicz	
+Swiatopelk Karpinski	
+Jozef Lobodowski	
+St. Pietak	
+Amedée Arents	
+P. Keymeulen	
+Era Lobet	
+Lode Quasters	Sint-Niklaas
+Jos de Haes	Brussel (Jette)
+Elisabeth Dhanens	
+George Meir	
+August Corbet	
+E. van Uytbergen	
+P. van Keymolen	
+Ventura García Caldéron	
+Michel Demedts	
+Filippo Donini	
+Paul Walkiers	
+Piet Zonderzorg	
+Maria Huybrechts	
+José de Ceulaer	
+Aster Berkhof	
+A. Kriekemans	
+August Vanistendael	Leuven
+Louise Labé	Parcieux
+Lode Cantens	
+Nic van Beeck	
+J.L. Pauwels	
+Honoré van Waeyenbergh	Korbeek-Lo
+Jan Valvekens	Antwerpen
+Frank Meyland	Gent
+Abel J. Coetzee	
+Gabriela Mistral	
+René J. Seghers	Brussel
+August Vercauteren	
+Joris Dedier	
+Firmin van Hecke	Gent
+Albert de Longie	Ooike
+Adriaan Magerman	Deinze
+John L. Brown	
+B. Boeyckens	
+R.F. Lissens	
+Emiel van Hemeldonck	Arendonk
+Ant. Gobert	
+Marcel Brauns	Gent
+Gerard Verbeke	Leuven
+W.J. Elsman	
+Reninca	
+Marius F. Valkhoff	
+C.M. van den Heever	Johannesburg
+Paul Van Keymeulen	
+Lode Campforts	
+N. Wildiers	
+Pierre Berteloot	
+Willem van den Broeck	
+Jan van den Broeck	
+Maurice Schuyten	
+Émile O.J.J.G. Lousse	
+R.K.J.E. Antonissen	
+Karel Vertommen	Antwerpen
+Fr. Nooyens	
+Julia Tulkens	
+Betsie Hollants	
+Frans van Boogaerdt	
+Rosa Temmerman	
+Mona van Garsse	
+Pieter-Emmanuel Oyen	
+Maxime Deswarte	
+Frans Verstreken	
+Roover de Rik	
+Yrjö Kaijärvi	Rautalampi
+Hans Reykers	
+W. Everaet	
+Joos Florquin	
+Jos van der Steen	
+Henri Schoofs	
+Gaston Duribreux	Oostende
+Johan van Mechelen	Gent
+Fr. Claessens	
+Margriet Baers	
+Hubert Verwilghen	
+Raymond Pouilliart	
+Adolf Herckenrath	Gent
+C.J. Lannoy	
+Daan Boens	Gent
+Rik Zienstra	
+Jan Leyten	
+Joris Taels	Edegem
+Albert Speekaert	
+Roger Ghesquiere	
+Andries Poppe	
+Erik van Ruysbeek	Etterbeek
+Herman van Snick	Koksijde
+August Govaers	
+Jules Van Ackere	Ukkel
+Willem Doevenspeck	Deurne
+Leo Simoens	
+Ernst Wiechert	
+Charles van Lerberghe	
+Maurits Bilcke	
+Friedrich Rückert	
+S.J. de Hoest	Nijkerk
+Frank Baur	Waasmunster
+Jan Elemans	
+Luc Debaene	Berchem
+N. Machiavelli	
+S.A. Vosters	Etten-Leur
+Paul Possemiers	Antwerpen
+Karel de Busschere	Ieper
+Jos Smeyers	
+Lode Wils	
+M. Hanot	
+Tirso de Molina	
+Eugène van Itterbeek	Sibiu
+Pierre Lambrechts	Brussel
+Fa Claes	
+Roland Jooris	
+Hedwig Speliers	
+Luc Verbeke	Waregem
+Joris Delameillieure	
+Miguel de Unamuno	
+Willy Spillebeen	
+Robin Hannelore	
+Anthony Jansen	Bloemendaal
+Fernand Auwera	
+Luc Clerinx	
+J. Brants	
+Reginald De Schryver	
+Frans Kuipers	
+Luk Adriaens	
+Ludo Simons	
+Julien Vangansbeke	
+Frans de Haes	
+H. van Gorp	
+Paul Vanderschaeghe	
+Leo Pleysier	
+Jef van Gool	
+J. Goossens	
+Jozef Boets	Antwerpen
+Luuk Gruwez	
+Alstein	
+Frans Deschoemaeker	
+Lucienne Stassaert	
+Aleidis Dierick	
+Rita Ghesquiere	Leuven
+José Lambert	
+Wilfried Adams	Antwerpen
+Frans Depeuter	
+Chris Coppens	
+Johanna Kruit	
+Lisette Keustermans	
+Willy Balyon	Heerlen
+W.F. Jonckheere	
+Patricia Lasoen	
+Piet van Aken	Antwerpen
+J.P. Heyen	
+Hervé J. Casier	
+Hanna Kirsten	Brugge
+Dirk Verbruggen	Mechelen
+Jozef de Vos	
+Hendrik Carette	
+Jaak De Maere	
+Philip Vermoortel	
+Elke Brems	
+Bernard Verstraete	
+Jo Gisekin	
+Robert Lagrain	Brugge
+Koen Vermeiren	
+Mark Kinet	
+Katrien Desiere	
+Willem de Groot	Delft
+Chris de Stoop	
+G. Geerts	
+Johan Corveleijn	
+A.B. de Cooman	
+Stefaan Evenepoel	
+Charles Ducal	
+Vic Nachtergaele	
+Willy Vanhaelewijn	
+Jan van Coillie	
+Hans de Greve	
+Michelangelo	
+Lieven de Cauter	
+Lenze L. Bouwers	
+Lionel Deflo	
+Bernard Dewulf	
+Erik Spinoy	
+E. Dekker	
+Toine Hovens	
+Ernst van Altena	Landsmeer
+Paul Koeck	
+Eric Derluyn	
+Marleen de Crée-Roex	
+Julien Vermeulen	
+Annie Verhaeghe	
+Bies van Ede	
+Karel Porteman	
+Frank Pollet	
+Dirk de Geest	
+Jan Flamend	
+Kees Vellekoop	
+Martine de Clercq	
+Mark Van Tongele	
+Elisabeth Marain	
+Elisabeth Leijnse	
+J.L. Weverbergh	
+Marc Reynebeau	
+Frans Berkelmans	
+Karel Roelants	
+Anne van Herreweghen	
+Luc Renders	
+Koenraad Goudeseune	
+Dante Alighieri	Ravenna
+Luk Lambrechts	
+Marcel de Smedt	
+Guido De Bruyn	
+Philips Koninck	Amsterdam
+D. Delabastita	
+Jef Snauwaert	
+J.J. Roest van Alkemade	Modena
+Piet Couttenier	
+J. van Iseghem	
+Ivo Michiels	Le Barroux
+Jo Tollebeek	
+Maurits van Saene	Aalst
+Bert Govaerts	
+Joris Gerits	Bonheiden
+Jean-Luc Lambreghts	
+Toon Saelens	
+Bart Vonck	
+Jean-Paul den Haerynck	
+J. Hoogteijling	
+Bert Bevers	
+Rino Feys	
+Emile Clemens	
+Patrick Cornillie	
+Mark Eyskens	
+Peter Ghyssaert	
+Jo Govaerts	
+Publius Ovidius Naso	Tomis
+Rik Deweerdt	
+Gilbert van Hool	
+Bruneau	
+Leen Huet	
+Steven Wilsens	
+Francis Bacon	Madrid
+A.F.Th. van der Heijden	
+Johan Reijmerink	
+Herbert van Uffelen	
+J.C. Kannemeyer	Stellenbosch
+Tom Pijnenborg	
+Els Vos	
+Bart Janssen	
+Dirk Geeraerts	
+Cees Verraak	
+Menko ten Cate	
+August Thiry	
+Hubert de Vogelaere	
+L. Beheydt	
+Hartmann von Aue	
+Jo Boon	
+Lieve Blancquaert	
+M. Februari	
+Connie Palmen	
+Jacques De Visscher	
+Maryse Vincken	
+J. Van Acker	
+Matteo Maria Boiardo	Reggio nell'Emilia
+Hendrik Schreuder van Draag	
+Robert Lema	
+Eddy Walrave	
+J.J. Goossens	
+Luc Devoldere	
+Judit Gera	
+Geert van Istendael	
+Serge van Duijnhoven	
+Paul Verhuyck	Graauw
+Gaston de Mey	
+Annemiek Neefjes	
+Tony Le Duc	
+Johan Daenen	
+Yves T'Sjoen	
+Victor Burgin	
+Kasimierz Bendkowski	
+Elma van Haren	
+Kaat Tilley	Asbeek
+Ad Zuiderent	
+Carl de Keyzer	
+K. van der Stighelen	
+Anna Maria van Schurman	Wieuwerd
+Thérèse Schwartze	Amsterdam
+M.A. Schenkeveld-van der Dussen	
+Anna Enquist	
+Luk van den Dries	
+Eric de Volder	Gent
+Eva Gerlach	
+Ludo Bekkers	
+François Haverschmidt	Schiedam
+Jan Baetens	
+Guido van Genechten	
+Lieven Baeyens	
+Kristiaan Borret	
+Guido Vrolix	
+Pascal Cornet	
+Rudyard Kipling	
+Edgar Rice Burroughs	
+Dominique Goblet	
+Jan van Loy	
+Galileo Galilei	Arcetri
+James Joyce	
+Joh. de Graaff	
+Ultra Violet	New York City
+Johnny Maeschalck	
+Mustafa Stitou	
+Walter Verdin	
+Jan Lauwereyns	
+Saskia de Coster	
+Geertrui Daem	
+Monica Droste	Antwerpen
+Guy Rombouts	
+Didi de Paris	
+Pjeroo Roobjee	
+Arthur Rimbaud	
+Pieter Boskma	
+Dianne Hagen	
+Marlene Dumas	
+Gert-Jan van Rooij	
+Felx Tirry	
+Peter Cox	
+Peter Sander	
+Wouter Verbeylen	
+Eric Vos	
+Hans Groenewegen	Rijswijk
+Idel Ianchelevici	Maisons-Laffitte
+Georges Wildemeersch	
+Geert Buelens	
+Pierre Alechinsky	
+Stefan Brijs	
+Ray Gilles	
+Jan Vaerten	Beerse
+Florent Wellens	
+Maurice D'Haese	Aalst
+Frans Denissen	
+Bob van Laerhoven	
+Johan Vandenbroucke	
+Karl Vissers	
+Erik Vlaminck	
+F.C. Terborgh	Linho Sintra
+Ernest Michel	Nijmegen
+Louis van Loo	
+Jacob Bendien	Amsterdam
+J.A. Dèr Mouw	Den Haag
+M.B. Frenkel	
+Paul Rogghé	Gent
+Stefan George	
+Giacomo Antonini	Froxfield, Petersfield
+C.L. Sciarone	
+B. Roest Crollius	
+Aulus Persius Flaccus	
+J.C. Noordstar	
+Plato	Athene
+Fred Batten	
+Amaat Honoraat Joos	Gent
+Rudolf Escher	De Koog
+Piet Verhoog	
+Gerard van Gelder	
+E.M. Uhlenbeck	Voorhout
+A. de Buck	Leiden
+Grietje Drewes	
+A. Teeuw	
+J.G. Bomhoff	
+A.E. Cohen	Oegstgeest
+H.J. Drossaart Lulofs	
+C. de Deugd	Spaubeek
+Karel van het Reve	Amsterdam
+C.J. Ruijgh	
+Z.R. Dittrich	
+G.W. Locher	
+Frederik Willem Nicolaas Hugenholtz	Grand Rapids
+C. Soeteman	Oegstgeest
+P.E. Josselin de Jong	
+J.C. Opstelten	
+T.A. Birrell	
+Simon Kooyman	
+F.R. Kraus	
+Christiaan Hooykaas	Den Haag
+D.J. Kohlbrugge	
+A.B. Breebaart	
+J.C. Anceaux	
+A. Chorus	
+J.H. Waszink	
+A. Mooij	
+F. Drijkoningen	
+P.H. Pott	
+J. M. Welcker	
+B. Siertsema	Haarlem
+B.H. Wind	
+J. van der Eng	
+W. van Ravesteyn	Rotterdam
+J.W. de Jong	
+Frank C. Maatje	
+J.H. Croon	
+W.J. Verdenius	Zeist
+Wiecher Zwanenburg	
+Antonie Cohen	
+Marcel Janssens	
+Jan van der Veen	
+P.J.H. Pijls	
+A. Kibédi Varga	
+F. de Tollenaere	Warmond
+F.R. Noske	
+P.A.M. Geurts	Venray
+I.N. Bulhof-Rutgers	
+H. Mol	
+W.J.H. Caron	Driebergen
+Jacob Smit	
+H.P.H. Teesing	Utrecht
+P.C. Paardekooper	
+G. Nuchelmans	
+F. Bulhof	
+W. Drop	Amersfoort
+J.A. van Dorsten	
+G.F. Bos	
+A.Z. van 't Hoff Stolk-Huisman	
+J.J. Wesselo	
+S.G. Nooteboom	
+B.N. Teensma	
+Louise Statenus	
+A.A. Prins	
+P.H. van Laer	
+W.A.M. de Vroomen	
+J.M. Bremer	
+Steven ten Brinke	Utrecht
+D.R. Jonker	
+T.A. van Dijk	
+Cor van Bree	
+Raoul Van Caenegem	Gent
+R.S. Prins	
+E. Wagenaar-Cornelissen	
+P. Gaeffke	Philadelphia
+J.G. Schippers	
+A.L. des Tombe	
+Ronald Landheer	
+W. Hogendoorn	
+A. Kraak	Monnickendam
+Co Vet	
+W.J.M. Levelt	
+L. Pepplinkhuizen	
+A.W.G. Eijgendaal	
+Sjaak de Mey	
+A. M. de Wachter-Schaerlaekens	
+H.J. Brinkman	
+B.P.F. Al	
+Guus Extra	
+J. F. P. de Smit	
+W. Kaper	
+G.F.H. Raat	
+M. van de Ven	
+Horst A. Steinmetz	
+Gerard Kempen	
+P.F. Schmitz	
+D.J.M. ten Berge	
+W.C. van Unnik	Utrecht
+H.A.J.F. Misset	
+C. Reedijk	Zeist
+E.K. Grootes	
+J.G.P. Best	
+Jeanette van der Valk	
+A.A. Verrijn Stuart	Haarlem
+Ger Schmook	Antwerpen
+P.G.J. van Sterkenburg	
+Paul van Hauwermeiren	
+Alfred G.H. Kerckhoffs	
+A. Ollongren	
+Alain Bossuyt	
+Geert Evert Booij	
+Harry van der Hulst	
+A. Dees	Badhoevedorp
+A. Meintema	
+Paul Pelckmans	
+Frank Jansen	
+Th. van den Hoek	
+Flor Aarts	
+Ariane van Santen	
+Harry Bekkering	
+J. van Marle	
+W. Pijnenburg	
+Quirinus Ignatius Maria Mok	Leiden
+Erik Maten	
+D. Otten	
+G.J. de Haan	
+Arthur Eijffinger	
+P. Th. van Reenen	
+Marie-Louise Montulet	
+Louk Wijsen	
+A. Feitsma	
+Geert Koefoed	
+Jos Hoogeveen	
+Charles Grivel	
+A.G.H. Bachrach	
+Françoise van Rossum-Guyon	
+A.J.A. Fehr	Amsterdam
+L.D. Couprie	
+Willem Adelaar	
+J.A. de Vries	
+J.A. Dautzenberg	Nijmegen
+Jan van Bakel	
+J.P. Fokkelman	
+Peter Verstegen	
+Marijke Loots	
+P.J. Peverelli	
+Julia van Gunsteren-Viersen	
+Frank Berndsen	
+M. Uhlenbeck-Winkel	
+B.J. Hoff	
+V.J.J.P. van Heuven	
+J. Hoftijzer	
+Hannes Meinkema	
+B.P. Visser	
+Geert Adriaens	
+Chantal Keijsper	
+Will Derks	
+Ton van Haaften	
+Maarten Klein	
+Wim Zonneveld	
+Hans Heestermans	
+Ria Lemaire-Mertens	
+Norval S.H. Smith	
+Bert Schouten	
+Erica C. García	
+J. Knol	
+Mineke Schipper	
+Arie Verhagen	
+H.F.A. van der Lubbe	Rotterdam
+H. Hulshof	
+Erica Huls	
+Sophie Levie	
+Bob Rigter	
+N. van der Laan	Heelsum
+Arie Schippers	
+Ina Schermer-Vermeer	
+Arthur Kooyman	
+Annechien Vink	
+H. Proeme	
+Lo van Driel	
+Dick Schram	
+Johan Kerstens	
+K. de Bot	
+Kees-Jan Backhuys	
+Rob Wolfs	
+Ben van der Have	
+Antoine Braet	
+Päivi Schot-Saikku	
+Sandro Briosi	
+R.M. van Zonneveld	Groningen
+Jef Bogman	
+Kees Meerhoff	
+M.K. van Dort-Slijper	
+Harry Verschuren	
+Jacqueline Bel	
+Peter van Bart	
+Jeannette M. Hollaar	
+Aaldrik Koops	
+Will van Peer	
+Johan van Benthem	
+Martin Schouten	
+Peter V. Zima	
+M.P.R. van den Broecke	
+P. Schellens	
+René Marres	
+Theo A.J.M. Janssen	
+Marijke J. van der Wal	
+Mieke Trommelen	
+Gert de Jager	
+A. Moerdijk	
+Els Elffers	
+Walter Haeseryn	
+Reinier Salverda	
+Maartje Süter	
+A.M. Duinhoven	
+W.G. Klooster	
+W.H.M. Mattens	
+Margreet Onrust	
+U. Schuurs	
+Pierre Swiggers	
+Karel van den Eynde	
+Willy Vandeweghe	
+S. De Vriendt	
+J.J. Kloek	
+Els Jongeneel	
+Jacomine Nortier	
+H.F. Schatz	
+Essa Reijmers	
+Lucia Nankoe	
+Rolf Zwaan	
+Ralf Grüttemeier	
+Hub Zwart	
+Ruurd R. Nauta	
+Alida Toussaint-Dekker	Zeist
+Robert S. Kirsner	
+Sies de Haan	
+J.V. Schmöler	
+B. van Heusden	
+Marinel Gerritsen	
+J. Lachlan Mackenzie	
+Matthijs Engelberts	
+Hanneke Mulder	
+Alied Blom	
+Alette van Doggenaar	
+René Appel	
+Wardy Poelstra	
+Hans van Stralen	
+Pamela Pattynama	
+R.H. Baayen	
+Hans Anten	
+Anneke van Luxemburg-Albers	
+A. Sturm	
+Justine Pardoen	
+G.J. Vis	Schoorl
+Klaus Beekman	
+Saskia van As	
+Guy Janssens	
+Els Weijers	
+Fritz A. Ponelis	Kaapstad
+Sytze Wiersma	
+Frank van den Bogaard	
+Thijs Jansen	
+Matthias Prangel	
+Ger Groot	
+Jan Noordegraaf	
+Isabel Hoving	
+A. Lubotsky	
+Linda Verstraten	
+Henk de Berg	
+J.B. Berns	
+Saskia Daalder	
+L.H. Hoek	
+Saskia Tellegen-van Delft	
+Anneke Nunn	
+Ann Rigney	
+Frans Ruiter	
+W.W. Mijnhardt	
+José Sanders	
+Gisela Redeker	
+Ton Nijhuis	
+Peter Bakema	
+J.A.M. Komen	
+Matthias Hüning	
+Wim Honselaar	
+Wilma Siccama	
+Tieme van Dijk	
+F.W. Korsten	
+Dirk Boutkan	Leeuwarden
+Arnoud Wils	
+Kees van der Waerden	
+Els Andringa	
+Walter Schönau	
+Sjef Barbiers	
+Leonie Cornips	
+Margreet den Buurman	
+Casper de Groot	
+J.G. Kruyt	
+Ido Weijers	
+Annelies Schulte Nordholt	
+Jos van Winkel	
+Marjolijn Verspoor	
+Louise Cornelis	
+Ute Langner	
+Paul Hadermann	
+Kees Snoek	
+Fred Weerman	
+Matthijs Bakker	
+Ad Foolen	
+J.D.F. van Halsema	
+Henk Haverkate	
+Edmond van Offel	Gravenwezel
+Jeannette Nijhuis	Perugia
+A.M. Nachenius-Roegholt	Utrecht
+Frans Hulleman	
+Marie Heijermans-Peers	
+H.A. van Daalhoff	
+J.B. Schepers	Haarlem
+Bé Stolk	
+Frits Leonhard	Wolfheze
+R.A. Hugenholtz	
+René de Clercq	Sint-Maartensdijk
+Alfred Boysen	
+Henri Dekking	Rotterdam
+David Moolenaar	
+Leo Meert	Antwerpen
+Daan van der Zee	
+Suze la Chapelle-Roobol	Den Haag
+Trabadoeli	
+Willem Graadt van Roggen	
+Carry van Bruggen	Laren
+E. Bergsma	
+J.F. van Hees	
+M. Dz. van Dordrecht	Leuven
+J. van der Burg-Hora Adema	
+L.S. Hijlsma	
+Fokko Bos	
+J. van der Pant jr.	
+Suze La Chapelle-Roobol	
+J.N. Pattist	
+Jan F.E. Celliers	
+Émile Verhaeren	Rouen
+Leonce du Catillon	
+Jan Fabricius	Wimborne
+Johannes Couperus	
+Willem Frederik Schürmann	Rotterdam
+Pauline le Roux	
+Theocritus	
+Albertine de Haas	
+Robert de Hooghe	
+Jules Bernard Schürmann	
+Franz Michael Krings	Chicago
+Hendrik van der Wal	
+Pieter van der Meer	
+Piet van Assche	
+Dora Janssen	
+Josef Cohen	Groningen
+Jelte Nicolaas van der Ley	Laren
+H.F. Wirth	
+Willem Caland	Utrecht
+Else Osten	
+Albertine Draaijer-de Haas	
+Anna Elisabeth Buma	Leeuwarden
+R.L. Stevenson	Vailima
+Henri H. van Calker	Hilversum
+Lita de Ranitz	Amsterdam
+Heinrich Petermeyer	
+Balthazar Verhagen	
+Henricus	
+Omar Khayyam	
+Adriaan van Slooten	
+Karel Antoon Casteels	
+Janito Benavente y Martinez	Madrid
+Herman van Puymbrouck	
+Johan van Wageningen	
+Remko ter Laan	
+H. van Raalte-Simons	
+Maryot	
+Gabriële Violanti	
+Anne Hallema	Breda
+Jos Janssen	Antwerpen
+J. de Jong	
+J.W. van Cittert	
+Prosper Mérimée	Cannes
+Bernard Canter	Scheveningen
+Carlo Goldini	Parijs
+Mary Robbers	
+M.H. Werkman	
+F.H. Fischer	
+Johann Wolfgang von Goethe	Weimar
+D.A. Zoethout	
+Hendrik C. Diferee	Amsterdam
+Joseph O. Kronig	
+Mies Kievits	
+A.E. van den Tol	
+Amélie de Man	
+Marie de Rovanno	
+P. Bierens de Haan	
+Johan Gustaaf Danser	Rotterdam
+Herman Wolf	
+H.J. de Marez Oyens	Amsterdam
+A.G. van Kranendonk	Leiden
+Jeanne van Son-Willing	
+Rhoda	
+Jet Luber	Bergen
+Ernst Groenevelt	Den Haag
+Charles van Iersel	
+E.H. Teissen	
+C.P. van der Weide	
+J.L.M. Lauweriks	
+Nella Moltzer	
+Nelly M. Burgers	
+C. Krak	
+Fritz Smit Kleine	Doorn
+F.J. de Holl	
+A. Moresco	
+W.M. Ebbink	
+Valborg Isaachsen-Dudok van Heel	
+C. de Leeuw-Schönberg	
+Rinke Tolman	Amersfoort
+Jan Strobbe	
+J. Saks	Amsterdam
+Henriette Barbe	
+W. Boschman	
+A.A. Bosschart	Laren
+M.E. Klinkhamer-van Hoytema	
+W. de Rijke	
+H.S. Keuls jr.	
+Heinrich von Kleist	
+M.L.A. Barnardiston-Van Riemsdijk	
+M.H.J. Schoenmaekers	Laren
+W. Reich	
+Jos Jansen	
+Carla van Lidth de Jeude	
+David de Jong	Amsterdam
+Eduard van Collem	Gmina Oswiecim
+Nanny Speyer	
+Laura Olivier	
+Georges Eekhoud	Schaarbeek
+M.D. Henkel	
+Willem Johannes Steenhoff	Amsterdam
+W. Haanstra	
+Alfred de Vigny	
+J.C. Bruijn	
+Alie Smeding	Utrecht
+Alb. Kolkman	
+C. de Dood	
+Agnes François	
+Maxim Gorki	Moskou
+E. de Haas	
+L. de Haas	
+J.N. Jacobsen Jensen	
+Herman Menagé Challa	
+Ludvig Holberg	Kopenhagen
+B.A. Meuleman	
+H. Lievegoed	
+Juul Roggeveen	
+Henriette Geerling	
+Jan Grégoire	Amsterdam
+D.H. Lawrence	Vence
+H. Korteling	Deventer
+Thomas Raucat	Parijs
+Johan Schmidt	
+G. de Bruijn	
+Wouter Hutschenruyter	
+H.W. van Loon	
+J. Nienhuis	De Bilt
+J.P. Zoomers-Vermeer	Apeldoorn
+Sidonie Gabrielle Colette	
+Eva Raedt-de Canter	Edam
+Taï Aagen-Moro	
+Hermance Farensbach	
+Annelies van Cauwelaert	
+Juul Horn	
+Ernst S. Willartz	
+Marja Stevens	
+Albert van Waasdijk	
+Con Schröders	Hilversum
+N. de Praetere	
+Willem Enzinck	Oostburg
+Frans Harmen Kiveron	Borneo
+A.H. Unger	
+Friedrich Hölderlin	
+J.A. van der Made	
+Nico de Haas	
+Frans Hannema	
+Ferdinand Vercnocke	Duffel
+Sjoerd de Vries	
+Jan Redam	
+Steven Barends	
+Hendrik Lindt	
+George Kettmann jr.	Roosendaal
+Ben Moritz	
+Henri Bruning	Nijmegen
+Sybren Modderman	
+Karin Moen	
+Rudolf Steinmetz	
+S.G. de Vries	Leiden
+Louis D. Petit	
+G.J.W. Koolemans Beijnen	
+J. Verdam	
+Gerardus Johannes van der Hoeve	
+T. Zaaijer	Leiden
+J.M. Nuyts	
+J.E. Banck	Wiesbaden
+Jan Frederik Willem Conrad	Den Haag
+T.C. van der Kulk	
+W.R. Veder	
+J. Herderscheê	Amsterdam
+W.H. Stenfert Kroese	
+H.J. de Dompierre de Chaufepié	
+François van Veerdeghem	
+B. van Meer	
+Johan Adriaan Feith	Groningen
+J.W.M. Schorer	
+Corneille L. Landré	Amsterdam
+Carel Eduard Daniëls	
+J. Jelgerhuis Swildens	Amsterdam
+J.G. Nijk	
+Thomas Nolen	Rotterdam
+P.J. Muller	
+E.N. Rahusen	
+Godschalk Horatius van Borssum Waalkes	Utrecht
+Wilco Julius van Welderen Baron Rengers	
+O.J.H. van Limburg Stirum	Godesberg
+Jacob Cornelis van Slee	Diepenveen
+M.A. Gooszen	Lochem
+P. Feenstra jr.	
+J.G.C. Joosting	Velp
+J.T. Cremer	Amsterdam
+J.J. Tavenraat	Den Haag
+Willem Polman Kruseman	
+Jan te Winkel	Amsterdam
+G.H. Leignes Bakhoven	Goes
+F.B. Löhnis	Baden-Baden
+J.M.L. Keuller	
+Rijke de Wolf	
+J.S. van Veen	
+L.H. Slotemaker	
+R.A. van Sandick	
+Thérèse Hoven	
+J.E. Heeres	
+Johannes de Hullu	
+Tj. Kielstra	
+Ludolf Willem Bakhuizen van den Brink	
+Ernst Wilhelm Moes	Amsterdam
+Frederik Pijper	Rotterdam
+W.A. Arriëns	
+F.A. van den Heuvel	
+J. Baart de la Faille	
+J.H.W. Leliman	
+W.W. van der Meulen	Lochem
+Is. van Dijk	Den Haag
+Hotse Brongersma	
+R.W.P. de Vries	
+L.J.J. Hageraats	
+J.C. Vollgraff	Utrecht?
+J.C.G. Jonker	
+A.P.Th. Eyssell	Den Haag
+P.J.F. du Bois	
+M.Th. Houtsma	
+H.J. Calkoen	
+Jacob Domela Nieuwenhuis	
+Y.H. Rogge	
+Daniel de Swaef	Middelburg
+L.J. Sicking	
+D.A. van Heyst	
+C.H. van Rhijn	
+Philip Christiaan Molhuyzen	Kampen
+J.C. Jansen	
+Alexander Frederik de Savornin Lohman	
+A.O. van Kerkwijk	
+Willem Draaijer	Leiden
+J.P. Lotsy	
+S. Cramer	Amsterdam?
+H. Rogaar	
+E.C. Godée Molsbergen	Den Haag
+J.H. Abendanon	Monaco
+Jan C. de Vos	
+F. van Gheel Gildemeester	
+Seerp Gratama	Den Haag
+G. Fuldauer	
+J. van Kuyk	
+S.P. Haak	
+A.F.O. Sasse van Ysselt	Interlaken
+D.A. van Waalwijk	
+Johanna Snellen	Utrecht
+G.E.W. van Hille	Wassenaar
+E.J. van der Brugh	
+G.D.A. Jonckbloet	Nijmegen
+R. van der Meulen Rz.	
+Th. Morren	Batavia
+Hendrik Blink	
+Charles René Bakhuizen van den Brink	Den Haag
+P. Albers S.J.	
+Marinus Willem de Visser	
+B.J.F. Varenhorst	
+H.J. Romeijn	
+Joseph van Wely, O.P.	
+F.J. Kruitwagen	Venray
+Martinus Beversluis	Dordrecht
+E.A.A. van Heekeren	
+E. Zuidema	
+H.H. Juynboll	
+Vincent Loosjes	Amersfoort
+Ant. Averkamp	Bussum
+Joh. A. Leopold	Groningen
+Reinier van der Meulen Rz.	
+Jos. Jacobson	
+Jan Kalff Jr.	
+Frederic Adolph Hoefer	Zeist
+Eppe Wiersum	Rotterdam
+M.G. Wildeman	
+Th.P.H. van Aalst	
+C.W.A. van Haersolte van den Doorn	
+H.M. van Nes	Leiden
+Willem Vogelsang	
+Klaas Uilkema	Groningen
+L.W.A.M. Lasonder	Den Haag
+E.T. Kuiper	
+Jan Leendert van Dalen	
+J.G.L. Nolst Trenité	
+G.F. de Bruyn Kops	Batavia
+E.M. Meijers	Leiden
+Adriaan Beets	Leiden
+A.C.S. de Koe	Noordwijk
+E.C. van Leersum	Leersum
+H. Colijn	Ilmenau
+A.J. Servaas van Rooijen	
+Maarten van Rhijn	Bilthoven
+Valentijn Hepp	
+J.J. van Hille	
+A.A. Kok	Amstelhoek
+H.D.H. Bosboom	
+W.J.M. Mulder	Amsterdam
+C.J.K. van Aalst	
+Johannes Henricus Scholten	Leiden
+W.J.J.C. Bijleveld	
+M.A. Evelein	
+J.C. van der Loos	
+J.W. Bierma	
+J.R. Callenbach	
+F. van Hoeck	
+J.C. Breen	Amsterdam
+W. van Schothorst	Den Haag
+Albert Eekhof	Oegstgeest
+Willem Gerard van der Tak	Den Haag
+J.H. Garms jr.	
+H.E. Knappert	
+Frans Drion	Den Haag
+Jacobus Heinsius	Wassenaar
+R.W. Zandvoort	Amersfoort
+Hendrik Bolkestein	
+G. van Hoorn	
+J.P. van Lonkhuijzen	
+M.H.A. van der Valk	
+Jo van Ham	Middelburg
+J.S. Bartstra	Haarlem
+Dirk Drijver	
+Pieter Rink	
+J.H. Kern	Leiden
+H.T. Damsté	Leiden
+A.A. van Rijnbach	Leiden
+Edward John Voûte	
+S. Sybenga	
+D. Plooij	
+J.E. Kroon	Leiden
+S.W.F. Margadant	Den Haag
+Gillis André de la Porte	Den Haag
+A. Goslinga	Amsterdam
+Johan Christoffel Ramaer	Den Haag
+J.C. van Oven	Leiden
+Dirk Herderschêe	
+L.H.J. Lamberts Hurrelbrinck	Maastricht
+J.P. van der Stok	
+G.A. Wumkes	Leeuwarden
+H.P. Berdenis van Berlekom	De Bilt
+P.L. Tack	
+A.S. de Blécourt	Den Haag
+F.W. Stapel	Den Haag
+J.E. Stokvis	Den Haag
+M.A. van Andel	Gorinchem
+Pieter Fijn van Draat	
+Johannes Rahder	
+Joh. F. Snelleman	
+P.J. de Kanter	Den Haag
+V.H. Rutgers	Bochum
+Jacobus Henneman	Haarlem
+G. Karsten	
+F.C. Wieder	Noordwijk
+M.E. Houck	Amersfoort
+P.J.M. van Gils	Roermond
+Caspert van Son	
+Augusta Peaux	
+J.H. Kuyper	
+Jacobus Funke	Den Haag
+Marie C. van Zeggelen	Huizen
+Adolph Staring	Deventer
+Th. van Rheineck Leyssius	Voorburg
+J.P. Kleiweg de Zwaan	
+J.E. van der Laan	
+Etsko Kruisinga	Schiedam
+Johannes Berg	
+J.J. de Gelder	
+Bastiaan Adriaan Pieter van Dam	
+J.H. van Lessen	Leiden
+A.L. van Beeck	Leiden
+Johanna Dorina Hintzen	Rotterdam
+Christine Mohrmann	Nijmegen
+H.F. Wijnman	
+Helbertine Anna Cornelia Beets-Damsté	Leiden
+Maria Hartgerink-Koomans	
+Henri C.J.A. Mosmans C.ss.R	
+Bruno B. Becker	Amsterdam
+J.H. Broekman	
+A. Brom	
+P.W. Kamphuisen	
+H.A. van Bakel	
+Jo M. Sterck-Proot	
+F.W. Grosheide	Amsterdam
+David Kouwenaar	Bergen
+D.E. Bosselaar	Utrecht
+A.T. Vos	Appingedam
+Louise Kaiser	Bussum
+Adriaan E.H. Swaen	Amsterdam
+W.J. Kooiman	
+W.E. Boerman	Rotterdam
+Cor van der Lugt Melsert	
+F.A. Le Poole	Leiden
+Jacob Clay	Bilthoven
+Henri Mayer	Den Haag
+F.J. du Toit Spies	
+F.B.J. Kuiper	Zeist
+Hendrik Wagenvoort	
+Abraham Rutgers van der Loeff	
+Gerhard Sevenster	Leiden
+M.P. Vrij	Den Haag
+Johannes de Zwaan	
+F.P. Huygens	
+H.J.E. Endepols	Maastricht
+J.L. Tadema	
+Brocardus Meyer	
+D.C. Tinbergen	Den Haag
+M.E. Kronenberg	Den Haag
+A.C. van Waveren	
+S.J. van der Molen	
+W.F.J.M. Krul	
+Gerard Ras	Haarlem
+J.J. Kalma	Leeuwarden
+J.J. van Bolhuis	
+P.J. Nienaber	Bloemfontein
+Arie Mout	Den Haag
+H. de Buck	Haren
+G.M. de Gelder	
+P.H.G. van Gilse	Haarlem
+J.W.J. Witsen Elias	Leeuwarden
+D.P.M. Graswinckel	Den Haag
+C.H. Lambermond	Venlo
+H.J.J. Scholtens	Maastricht
+J. Barten S.J.	
+Willem van der Pluym	Bussum
+C.J. Bleeker	Amsterdam
+H.E. Buiskool	Leiden
+K.J. Riemens	Amsterdam
+T.S. Jansma	Amsterdam
+P. Polman	Utrecht
+Rinske Visscher	Amersfoort
+W.R. Juynboll	Voorschoten
+A.J. Sormani	
+A. Wassenbergh	
+Gerrit Dekker	Pretoria
+F.W.N. Hugenholtz	
+R.A. Kern	
+Cunibertus Sloots	Venray
+Hendrik Smitskamp	
+M.A. Schwartz	Nijmegen
+L.L. Hammerich	Hørsholm
+Onno Damsté	
+S.J.R. de Monchy	Den Haag
+G.J. Sirks	
+W. Roukens	Maastricht
+J.S. Schippers	
+A.P. Grové	
+A.P. van Schilfgaarde	Arnhem
+R.R. Post	Nijmegen
+M.E. Kluit	Deventer
+H.G. Cannegieter	
+Frans Van Coetsem	
+Maria Elisabeth Houtzager	
+A.C. Bouman	Leiden
+Rudolf Mengelberg	Beausoleil (Monaco)
+Catharina Ypes	Arnhem
+K.H. Miskotte	Voorst
+J.M.A.F. Smits van Waesberghe	Amsterdam
+T.J. Haarhoff	Kaapstad
+G. Kazemier	Den Haag
+V.E. Korn	Den Haag
+L. Brummel	Den Haag
+M.J. Kloeke-van Lessen	
+Margrit de Sablonière	
+K.H.E. de Jong	Zeist
+J.F. Burger	
+P.S. du Toit	Stellenbosch
+B.A. Vermaseren	
+J.C. Winterink	Amsterdam
+A.J. Veenendaal sr.	
+A.H. van der Weel	Amsterdam
+Jan Tjittes Piebenga	Leeuwarden
+P.C. Boeren	
+F.L.W.M. Buisman-de Savornin Lohman	Zeist
+K. Smits	
+J.J. Buskes	Amsterdam
+Herman Gerrit Schulte Nordholt	
+H. Hardenberg	
+J.J. Poortman	Den Haag
+G.I. Lieftinck	
+Johan de Meester jr.	
+D.L. Daalder	Emmeloord
+S.P.E. Boshoff	Pretoria
+Frits Huël	Den Haag
+Jan Ploeger	
+G.P. van Itterzon	
+W.C. Braat	Oegstgeest
+G.W. Ovink	Amsterdam
+A.J.J. de Witte	Nijmegen
+E. Pelinck	
+C.E. Pothast-Gimberg	Sneek
+Willem Schrickx	
+G.S. Nienaber	Pretoria
+J.R. de Groot	Katwijk aan Zee
+J.H. van den Berg	Gorinchem
+H.A. Höweler	Laren
+J.C.P. Kats	
+Frits Lugt	
+P.J.J. Diermanse	Den Haag
+Willibrord Lampen	Den Haag
+F. van Lennep	
+R.L. Plancke	
+L.J.F. Wijsenbeek	
+M.A. Beek	Amsterdam
+Max B. Teipe	
+Hendrik Smilde	
+K.Ph. Bernet Kempers	Amsterdam
+J.J.M. Timmers	
+I.Q. van Regteren Altena	
+E. Schoenmaeckers	
+P. Julius O.F.M. Cap.	
+Dirk de Jong	Otterlo
+Hans Edinga	Joure
+Jo Daan	Deventer
+M.A.P. Meilink-Roelofsz	
+H.W. Meihuizen	Gorssel
+Jean-Marie Gantois	Holke
+A. Dirkzwager	
+J. Bosch	
+H. Draye	
+R. Feenstra	Oegstgeest
+H.Th. Oostendorp	
+Ina Willekes McDonald	Laren
+H.M. Mensonides	
+W.A. Nolet	Venlo
+Annie Versprille	Leiden
+D.A. Tamminga	Leeuwarden
+H. Entjes	Nieuwleusen
+Daam Fockema	Den Haag
+R.A.D. Renting	Zuid-Beijerland
+J.U. Terpstra	Roden
+Pieter Obbema	Leiden
+Isabella Henriëtte van Eeghen	Amsterdam
+Dina van Berlaer-Hellemans	
+Hilda van Assche	Wemmel
+G.W. Huygens	Den Haag
+L. Mosheuvel	
+H.T.J. Miedema	
+Herman Balthazar	
+J.F. Heijbroek	
+W.F. Lichtenauer	Rotterdam
+A.F. Mellink	Haren
+S.A. Louw	
+F.J. Snijman	Stellenbosch
+Renaat Merecy	Antwerpen
+H. Bonger	Amsterdam
+Johan van der Woude	Velp
+J.A. Bornewasser	Groesbeek
+Horst Gerson	Groningen
+Walter Thys	Gent
+G.A. van Riemsdijk	
+P. Scherft	Middelburg
+M.H. Schenkeveld	
+W.J. Formsma	Groningen
+Anna Jacoba Böeseken	Oranjezicht
+Ernst van Heerden	Johannesburg
+F.A. Holleman	Breda
+Clasina Isings	
+H.L.C. Jaffé	
+Jan Cartens	
+Tjaard W.R. de Haan	Oegstgeest
+Kamiel Cooremans	
+H.J. Prakke	Roden
+Adriaan Verhulst	
+B.A. Sijes	Amsterdam
+Bernard Kemp	Leuven
+B.H. Erné	
+Inez van Dullemen	
+D.W. Bloemena	Amsterdam
+J.Th. de Smidt	
+S.B.J. Zilverberg	Amstelveen
+T.T. Cloete	Potchefstroom
+D. Nauta	Zeist
+H. Berkhof	Leiderdorp
+Harm Tjalling Waterbolk	
+Gerda van Woudenberg	
+W.P. Blockmans	
+Frans van Isacker	Edegem
+F.R.J. Knetsch	Eelde
+R.L.J. Bromberg	
+Sjeng Tans	Maastricht
+R. Breugelmans	Leiden
+Margreet Bruijn	
+Lyckle de Vries	
+J.W. Oerlemans	Poortugaal
+Antonie Maria Luyendijk-Elshout	Warmond
+W.G. Noordegraaf	
+Jan den Tex	Leusden
+S.P. Wolfs	
+N. Cramer	
+W.A. Ornée	Brummen
+Helen A. van den Berg-Noë	Bilthoven
+H. Hoetink	
+José de Mûelenaere	
+Oscar de Wit	
+H.K. s' Jacob	
+Kåre Langvik-Johannessen	
+E.J. van den Broecke-de Man	Middelburg
+Annie Femmina Dekker	
+A. Gruijs	
+P.J. Koets	Oegstgeest
+Klaas de Vries	
+P.P.J. van Caspel	Groningen
+W.J. van Hoboken	Amsterdam
+Johan Ballegeer	Lissewege
+J.G. Bruggeman	Den Haag
+Elisabeth Keesing	Den Haag
+Caroline Rehorst-de Westenholz	
+A.Th. van Deursen	Oegstgeest
+Nop Maas	
+Bernt Luger	
+Rob Tempelaars	
+P. J. van Leeuwen	
+C. Pama	
+Klaas Iwema	
+Willem de Blécourt	
+C.C. de Bruin	Leiden
+Martin Ros	
+Ineke Bulte	
+S.L. Verheus	Haarlem
+F. van der Rhee	
+Hendrik van Dijk	
+F.C. Fensham	
+J.J. Huizinga	
+Gerrit Jan Zwier	
+Marita Mathijsen	
+Frank Ligtvoet	
+M. Stapert-Eggen	
+L. Strengholt	Apeldoorn
+Majorie Bottenheim	Amsterdam
+Ares Koopman	
+Dick E.H. de Boer	
+P.P.V. van Moorsel	
+Hans Werkman	
+Benno Barnard	
+Gerard J. Hooykaas	
+Jos Steegstra	
+A.E. Kersten	
+Ada Deprez	Zwijnaarde
+J.E. Bogaers	
+E.P. de Booy	
+Hans Reeser	Overveen
+Anne Wadman	Sneek
+Wim Vermeer	
+A. Leyns	
+Maxim P.A.M. Kerkhof	
+Rogi Wieg	Amsterdam
+F.P. van Oostrom	
+L.J. de Ruiter	
+R.H. Pheiffer	
+V.F. Vanacker	
+Gerrit Valk	
+F. van Elmbt	
+Jan Brokken	
+Willem Frijhoff	
+J. Roelevink	
+A.J.M. Linmans	
+F.A. Brekelmans	Tilburg
+Mart Janssonius	Groningen
+Willem Wilmink	Enschede
+Wim de Bie	
+Peter J.A. Nissen	
+J.J.M. van Gent	
+Hanna Blok	
+J.C. Bedaux	
+Willem G. van Maanen	
+Joke Linders	
+H. Duits	
+M.G. Buist	Groningen
+Johanna J.M. Meijers	
+W.R.H. Koops	
+Ph.H. Breuker	
+S.N. Bakker	
+M.C.A. van der Heijden	
+Joop van den Berg	
+Joost van der Vleuten	
+P.B.M. Blaas	
+Edwin Rabbie	
+Peter van Beek	
+Wilhelmina Christina Pieterse	
+S. Groenveld	
+Wolther Kassies	
+Ton Harmsen	
+Lieve Joris	
+N.F. Streekstra	
+Jaap de Moor	
+C.G. Santing	
+G.H.M. Posthumus Meyjes	Oegstgeest
+Ingrid Moerman	
+J. Gerritsen	Groningen
+Frans Claes	Heverlee
+H.J.M. Nellen	
+Kees de Bakker	
+Auke Jelsma	
+K.J. Bostoen	
+C. Augustijn	Den Haag
+A. de Groot	
+Marijke Meijer Drees	
+B.P.M. Dongelmans	
+Jan-Wouter Zwart	
+Ernestine van der Wall	
+G.R. Zondergeld	
+Willem Mooijman	
+A.E.M. Janssen	
+Diederik Grit	
+Hans Renders	
+Jeanne Roos	Nijverdal
+Wim J. Simons	Amsterdam
+Bart Jan Spruyt	
+E.P. Meijering	
+Frank Willaert	
+Theo Verbeek	
+A.M.L. van Wieringen	
+G.W.B. Borrie	Eindhoven
+R.C.J. van Maanen	
+Geert Mak	
+Otto S. Lankhorst	
+Rob van de Schoor	
+A.D.A. Monna	
+J. de Groot	
+Ann Van Sevenant	
+Eric M. Moormann	
+Joan Hemels	
+J.T. Bremer	
+Marten Toonder	Laren
+Robert Lemm	
+Arthur Japin	
+Siegfried Huigen	
+Arie-Jan Gelderblom	
+Cees Fasseur	Leiden
+C. Moeyaert	
+Marcus de Schepper	
+Th.M. van Leeuwen	
+A. Maljaars	
+Fred van Leeuwen	
+Robert van Amerongen	Bergen
+Els Stronks	
+Sal Tas	Neuilly
+Johan Valkhoff	Amsterdam
+J.P.B. Josselin de Jong	
+Joseph Campbell	
+Louk E. Roest Crollius-van Doorn	
+Tjoe-Som Tjan	Jakarta
+W. Cahn	
+E. Lopes Cardozo	
+S. Mok	
+R. Hoetink	
+A.J.W. Kaas	
+J.C. van Broekhuizen	
+M. Coutinho	
+Hannah van Wieringen	
+G.H. Slotemaker de Bruine	Den Haag
+Dirk Jorritsma	
+Arnold Jan Pieter Tammes	Amsterdam
+Max Dendermonde	Sarasota (Florida)
+Henri Francois Técoz	
+J. in 't Veld	
+H.J. Hellema	
+H. van Wieringen	
+Hans Redeker	
+Raden Mas Djojowirono Soenito	
+Gerard Reve	Zulte
+Henriëtte Mooy	
+A.C. Willink	Amsterdam
+Til Brugman	Gouda
+Emile Gobée	Voorschoten
+Joke Moeljono	
+Marijn van Dantzig	
+E.L. Levie	
+Montanus	
+S. Davids	
+Ramón Gómez de la Serna	
+Johannes de Graaf	
+A.S. de Leeuw	Auschwitz
+L. de Jong	
+Jan van Lumey	Den Haag
+J.C.M. Kruisinga	
+J.J. Poelhekke	Bloemendaal
+U. Huber Noodt	
+G.A. Watermeyer	
+M. Sybr. Koops	
+Lilo Linke	
+F.R.J. Verhoeven	
+Louise Moor	
+Harriët Freezer	Utrecht
+G. van den Bergh	Oegstgeest
+Sjoerd van der Schaaf	Oenkerk
+Gerrit Pleiter	
+Nicolaas Wilhelmus Posthumus	Bussum
+Paul Catz	
+J.F. Engers	
+H. Vos	
+Cornelia Brinkman	
+J.M.C. Bouvy	Wassenaar
+Fazil Bey	Istanbul
+Amr il Kaïs	
+N. Krusemeyer-van Iersel	
+Ph.C. van der Pant	
+Joseph Leftwich	Islington
+J.M.E.M.A. Zonnenberg	
+Noegroho	
+Thomas Mann	Zürich
+Norbert Loeser	Amsterdam
+Marcel Minnaert	Utrecht
+Bart Landheer	Wassenaar
+Luuc Kooijmans	
+Hieke de Jong	
+Pearl S. Buck	Danby, Vermont
+W.H. van Dobben	Wageningen
+Konstantínos Chatzópoulos	
+J.L. Snethlage	
+Hendrik de Waard	
+Max Brod	
+D.C. van der Poel	
+Margarita Nelken	Ciudad de México
+Libbe van der Wal	Laren
+P.J. Stolk	
+Pieter Minderhout	
+T.H. Thung	
+Bernard van Delfshaven	
+A. Lemair	
+Marten Brouwer	
+Matthijs Bokhorst	Kaapstad
+Joseph Ismael	
+R.J. Forbes	Haarlem
+Jan Slagter	Leiden
+B. Sluimers	
+J. Haak	
+Anthon van der Horst	
+J.M. van Veen	
+C.A. van Peursen	
+E. Meyer-Brouwer	
+Sk. Muljadi	
+Chairil Anwar	
+P. Sengodjo	
+J.H. Willems	
+Albert van Hoogenbemt	Mechelen
+H. Nijhoff	
+Strátis Myriwílis	
+Netty van Kempen	
+Hazil	
+Hermann Kesten	
+Marion Coulon	
+Rico Bulthuis	Zutphen
+G.M.S. Kranenburg Haan-Schmidt	
+J. Landsheer	
+Olaf J. de Landell	Hilversum
+Arthur Constandse	
+Damida Reynders	
+J. Buzeman	
+E.H.F. van der Lely	
+A.F. Coenen	
+R. Cointre	
+S. de Wolff	
+A. van Marle	
+Jac. de Graaf	
+Jean Leclercq	
+Willem Hussem	Den Haag
+Asrul Sani	
+L.A.J. Torfs	
+Coert Poort	
+Fr. de Jong Edz.	
+Klaas van der Geest	
+Andries Sörensen	
+Rogier van den Gouden	
+J.D.P. Warners	
+G.J. Renes	
+J. de Boer	
+Frits van Deventer	
+Johan de Vries	
+Rennie Elisabeth Veenstra	
+Jan van Zutphen	
+Georgette Swaenepoel	
+Willem de Geus	
+Renee	
+J.P. Mazure	Den Haag
+Johan Betzema	
+S. Kleerekoper	Amsterdam
+Pablo Picasso	Mougins
+P. Hoekstra	
+Jan Fekkes	
+F. van Sandwijk	
+Guus Vleugel	Amsterdam
+Bertien Buyl	
+Jórgos Theotokás	
+Basuki Gunawan	
+Jan Pedroli	
+Gila Dotan	
+Johan van der Bol	
+Cor Stutvoet	Den Haag
+Lorenz de Swaan	
+W.H.C. Tenhaeff	
+Dirk Jan van der Laan	Zwolle
+Henk Holtrop	
+Christine Meyling	Amstelveen
+Sietse van der Meulen	
+E. Brongersma	
+H. Meyers	
+Tone Brulin	
+P. Valkenburgh	
+Joris Vriamont	Brussel
+D.P. Blok	
+G. Mannoury	Amsterdam
+Ti Woe	
+Po Tsjü I	
+Dzjen Tse Loeng	
+Soendoro Tirtosiwojo	
+Anton Jonckbloet	
+Wim Kan	
+Soedjatmoko	Jogjakarta
+C.L. Kruithof	
+F. van der Kooy	
+Ichiro Ando	
+Jan Pluvier	
+E. Rijgersberg	
+Elizabeth van Stappen	
+Insider	
+L.F.A. Granberg	
+I.F.M. Salim	
+L. v.d. Land	
+W. Scheffer	
+H.A. Tolhoek	
+L. Sluimers	
+Sake Helder	
+A.K. Rottiers	Mortsel
+T. Noordenbos-de Klerk	
+Albert Kok	
+Frans De Bruyn	
+Apie Prins	Amsterdam
+Herman Uyttersprot	Gent
+Herman van Poland	
+J.C. Kamerbeek	
+Elisabeth Siriks	
+P.E.G. van Heyningen	
+Tine Leiker-Kooijmans	Bilthoven
+Joh. Betzema	
+Carlo Schmid	Bad Honnef
+Jaap Kruithof	
+Leo Peters	
+Gabriel Celaya	Madrid
+Garsiasol	
+U Win Tin	Rangoon
+Camille Huysmans	Antwerpen
+Luc van den Briele	
+Joke Pluvier-de Vries	
+T.W.L. Scheltema	
+Hugo Maron	
+J.A. van der Vlis	
+F.W. Michels	
+H.P. Plantenga	
+Helma Wolf-Catz	Naarden
+Hans Andreas Cornelius Roem	
+C. Houwaard	
+W.C. Feltkamp	
+E.F. Tijdens	Maastricht
+Loe Hsuun	
+Bergman	Den Haag
+J.C. van Leur	
+Johan van Os	
+Swan-Liat Kwee	
+Manja Croiset	
+J. Bronowski	
+Henk M. Beumer	
+Rudo Durant	
+John den Admirant	
+Hans Reddingius	
+Ronny van Cleef	Amsterdam
+Ellen Warmond	Den Haag
+Eugène James	
+Friederike Granberg	
+P. Hoogenboom	
+Henk van Maurik	
+A.J. Cnoop Koopmans	
+Pszisko Jacobs	Haarlem
+J.H.L. Laps	
+H. Furstner	
+A. Wildeman	
+Charles Meeking	
+Naoya Shiga	Tokyo
+Th. van Tijn	
+Maria van der Steen	
+C. de Groot	
+Germaine Tillion	
+Birage Diop	Dakar
+Léopold Sédar Senghor	
+A.H. Wertheim-Gijse Weenink	Wageningen
+Johan Achterhof	
+G. van Geffen	
+T. Haan	
+A.K. Datta	
+Paul Citroen	Wassenaar
+Gerrit Rietveld	Utrecht
+Willem Andriessen	Amsterdam
+Paul Groenendaal	
+Jacques Dewaele	
+Wim Gijsen	
+C. Ch. Mout	
+Katsumi Tanaka	
+Shigeharu Nakanó	
+José María de Semprún Gurrea	Rome
+Miguel Hernández	Alicante
+Blas de Otero	
+Ramón Lugris	Ciudad Real
+Luis Araquistain	Ginebra
+Prosper de Smet	Gent
+Emmy Kerkhoff	
+S.H. Meijler	
+Derk de Vries	
+Arnold Jan d' Ailly	Amsterdam
+Lieuwe Hornstra	
+Zbigniew Ogonowski	
+John Drager	
+Adri Laan	
+Leo Rikmenspoel	Laren
+Jan Knappert	Hilversum
+N.D. Lammers van Toorenburg	
+A. Prins	
+L.W.C. Keuchenius	
+F.G. Steck	
+L.A.J.W. Sloet	Arnhem
+Wanda Maya	
+Henriëtte Boas	Badhoevedorp
+L.C. Biegel	
+K.L. Roskam	
+L.O. Schuman	
+Cor de Groot	
+R.C. Winter	
+A. Wachter	
+D. Elema	Ezinge
+C.J. Huizinga	
+Cora Vreede - de Stuers	
+Jan Janze	
+Ingrid Jonker	Kaapstad
+Fred van Wijck	
+Ank Steenis	
+H. van der Ploeg	
+Leo Apostel	
+Wessel Scheffer	
+P. Glazema	
+L. Kolakowski	Groot-Brittannië
+S.H. Delhaas	
+Maria de Groot	
+H.G. Surie	
+F. Roels	
+G.J.P. Cammelbeeck	Vreeland
+A. de Roos	
+Ben Groeneveld	Amsterdam
+J.B. Bakema	
+Marcel van Matena	
+Oscar Mohr	
+B.C. van Houten	
+Paul van der Loeff	
+Jac. Wolsink-Schouten	
+E.J. Spliethoff	
+C.W. Rietdijk	
+Mark Braet	Brugge
+Pandelis Prewelakis	
+E.B. Mayer-Swart	
+P.M. Croiset	
+Eveline van Deth	
+Caroline F. Ware	
+J. Dhont	
+Gerard Heederik	
+S. Na'aman	
+Anna Muntjewerf	
+Margreet Koekebakker	
+Reinout Vreijling	Bergen
+Inne de Jong	Balk
+J.J.P. Oud	Wassenaar
+Roger Serras	Sint-Amandsberg
+Michele Ondei	
+Steven Membrecht	
+Heinz Neudecker	
+W. de Vries	
+Daniël van Ryssel	
+W.J. Jong	
+A.J. Vermeersch	
+D. van der Meulen	
+Rafael Alberti	El Puerto de Santa María
+Sippora Stibbe	
+Clem Schouwenaars	Lubbeek
+Marc Andries	
+Piet Sterckx	Weert
+Lieuwe H. Bouma	Leeuwarden
+R. Cordes	
+Jozef Eyckmans	
+G. Th. Ruttenberg	Utrecht
+J. ten Brink	
+Jan Vanhaelen	
+Ward Ruyslinck	Meise
+Nic van Bruggen	Antwerpen
+Carla Walschap	
+Roger Binnemans	
+J. Kreykamp	
+Maxim de Winter	
+Fedde Schurer	Heerenveen
+H. Wouters	
+Krine Boelens	
+Fem Rutke	Reeuwijk
+Inge Tielman	Den Haag
+Jeroen Brouwers	
+Georges Fukkink	
+R.V. Leembruggen	
+Clarissa Jacobi	Kaapstad
+Loek den Hoef	
+Hugo Raes	
+D.A.L. Schröder	
+G.J.M. van het Reve	Amsterdam
+Werner Cranshoff	
+Jerzy Holzer	Warschau
+Malgorzata Hillar	
+Jerzy Sito	Warschau
+Jan Balicki	
+Tadeusz Rózewicz	
+M. van Hulten	
+J. P. Schuyf	
+Mieczyslaw Jastrun	Warschau
+Kazimierz Gromski	
+Bob Carlier	
+H.Th. Chabot	
+J. van Wijk	
+Julien Vandiest	
+A.J. Koejemans	
+J. Dommisse	
+H.J. van der Mei	
+N. van Hees	
+Joop van Tijn	Amsterdam
+W. Langeveld	
+Roger van de Velde	Antwerpen
+N.C. Clegg-Bruinwold Riedel	
+Jan Noort	
+L.H. van der Tweel	Amsterdam
+Th.J. Hooning	
+Tsjou Li-po	
+J.H. de Haas-Posthuma	
+René Dekkers	Antwerpen
+Bruce Burton	
+Klaas Schipper	
+M.J. Broekmeyer	
+K. Kuiper	
+Bruno Walschap	
+Jos Vandeloo	
+M. Rácz	
+H.H. Kirchheiner	
+W. van der Marck	
+Alex Bolckmans	
+J. van Santen	
+Frank Liedel	Antwerpen
+G.G. Bauman	
+Maarten van Dullemen	
+Gérard van Kalmthout	
+Wouter Kotte	
+René Louis Gysen	Antwerpen
+Kazimir Malewitsj	St. Petersburg
+Ann Smith	
+H. Doedens	Utrecht
+A. Schuurman	
+S.J. Rutgers	
+B.E. Rutgers	
+E. Standaert	
+H. van Strien	
+Jan Messchert van Vollenhove	
+Albert Verwey	Noordwijk
+Roelof Schuiling	Deventer
+Jan Gerrit Talen	Breda
+Theo Thijssen	Amsterdam
+J.H. Swildens	Amsterdam
+K. Veenenbos	
+Antonie de Vletter	Haarlem
+Ph.J. Simons	
+J.J. Woltjer	
+J.L. Horsten	
+Klaas Poll	
+Jacob van der Valk	
+G. Engels	
+M.R. Dijkman	
+J.A. vor der Hake	Zeist
+J. Verboven	
+Lodewijk Makeblijde	Delft
+A.J. de Jong	
+J. van Boskoop	
+Ezechiël Slijper	Utrecht
+M.A. van Weel	
+H.A. Westrate	
+Enoch Krook	Amsterdam
+Gerrit ten Bruggencate Hermz.	Almelo
+Joh. Jac. Smith	Kaapstad
+E.J. Haslinghuis	
+F.P.H. Prick van Wely	Nijmegen
+Yvonne Koop	
+Aert Schouman	Den Haag
+E.J. van Sonsbeek	
+R. Wijkman	
+C.F. Krijs	
+B.M. Noach	
+Jos. Schrijnen	Nijmegen
+A. van Herk	
+D. Haagman	
+A.S. Bijl	
+E.G. Courrech Staal	
+M.H. van de Ven	
+Joannes van der Elst	Gent
+Th. de Jager	
+Jac Heeren	
+S.A. Krijn	
+W. Govaart	
+F. den Eerzamen	Wassenaar
+K. Kooiman	Middelburg
+Karel Lantermans	
+K. Blokhuis	
+J. Hoeksma	Amsterdam (?)
+P. Koster	
+J.J. le Roux	
+F.A. Stoett	Nijmegen
+K.W. de Groot	
+J. Kooistra	
+Wobbe de Vries	Groningen
+G.E. Opstelten	Haarlem
+R. Kaltofen	
+J.M. van der Hoogt	
+Abraham Kuyper	Den Haag
+J. van der Baan	
+Erik Wellander	
+P.H. Greiner	
+D.B. Bosman	Somerset-West
+Elisabeth Jongejan	Amsterdam
+H.H. Knippenberg	Helmond
+E.C. Pienaar	Stellenbosch
+L.P.H. Eykman	Den Haag
+K.H. de Raaf	
+Andries Borgeld	Amsterdam
+J.M.G. Evers	
+Maria Simon Thomas	Amsterdam
+Tj. Sterringa	
+G.A. Brands	
+G. Beumer	
+W. van den Ent	
+W.L. Bezema	
+Reind Kuitert	
+W. Kraak	
+Luc Salu	
+L. Koch	
+Th.B.F. Hoyer	
+L.J.J. Olivier	
+R. Pennink	
+J. van Rijckevorsel	
+J.C. van der Does	
+A. Kuiper	
+A.J. Schneiders	Obdam
+J. Hovy	
+René van Sint-Jan	Gent
+M. Buisman J. Fzn.	Heerde
+Jacob Hiegentlich	Amsterdam
+W.G.J.A. Jacob	
+G.J. Uitman	
+F.C. Driessen	Utrecht
+F. Jansonius	
+Dirk Gerhardus Muller	Den Haag
+Marie H. van der Zeyde	
+Ulfert Schults jr.	
+Roelof Schokker	
+Lodewijk Maerevoet	Muiden
+Franz Staude	Klosterneuburg
+Anton Reichling	Amsterdam
+Jan van Dam	Amsterdam
+H. van Wichert	
+C. Wilkeshuis	Deventer
+A.R. Hol	Ingen
+L.A. te Winkel	Leiden
+Th.H. d' Angremond	
+C.L. Thijssen-Schoute	Utrecht
+M. Mendel	
+D.H. Smit	
+Annick De Vylder	
+Eugène de Bock	Schoten
+T. Langeveld-Bakker	
+M.H. de Haan	
+G.G. Ellerbroek	
+M.M. Prinsen	
+P.C. Schoonees	Strand
+H. van de Graaf	
+J.H.J. Willems	
+J.J. Soons	
+A.C. de Jong	
+A.M. Korpershoek	
+C.G.L. Apeldoorn	
+Mirjam Ernestus	
+Paul van der Meulen	Den Haag
+J.A. Wartena	
+H. Bovenkerk	
+B.H. Kazemier	Wassenaar
+C.W. Schoonhoven	
+J. Karsemeijer	
+F.G.A. Stemvers	Arnhem
+Ch.A. Thomas-Bourgeois	
+U. Tuinstra	
+B.H. Peteri	
+H.B.A. Bockwinkel	
+G.A. Mesters	
+Luc. Boreel	Beverwijk
+W.H.N. van Wel	
+J.P. Prins	
+Helga Van Geertsom	
+F.N. Jansen	
+P. Stienstra	
+J.W.N Delteijk	
+Chr. Stapelkamp	Groningen
+J.M. Willeumier-Schalij	
+A.P. Kieft	
+D. van Unnik	
+H.L. Bezoen	Soest
+H.J.A. Hissink	
+G.M.J. Duyfhuizen	
+M.J. Jochems	
+Judi I.H. Mendels	
+G.A. Sybenga	
+F.G. Hesmerg	
+J.F. Hengeveld	
+C.N. Dubelaar	
+J. Naarding	Assen
+A. van Mourik	
+L.H.M. Muris	
+Honoratius Sengers	
+P. Maximilianus O.F.M. Cap.	Oosterhout
+G.W. Wolthuis	
+C. Kruyskamp	Leiden
+G. Jo Steenbergen	
+A.H. Kooyker	
+Hendricus Sparnaay	Utrecht
+A.G.J. Hermans	Antwerpen
+A.M.J. van Spaendonck	
+Reind J. Elema	
+P.A.F. van Veen	
+M.A.F. Ostendorf	
+J.W.F.X. de Rijk	
+J.H. van Waveren	
+D. Holzscherer	
+Johannes Steenmeijer	Arnhem
+Hugo Willem Bosscha	
+A.E. Meeussen	
+B.C. Damsteegt	Leiden
+A.H. Kan	
+J.G. Dijkstra	
+Marten Jan van der Meer	
+A. van Loey	Sint-Jans-Molenbeek
+M.A. Nauwelaerts	
+Jan Poortman	Meppel
+W.J. Buma	
+N. de Bresser	
+Johan de Brune (de Oude)	Middelburg
+J.H. Kramer	
+L.G. Oosten-Marwitz	
+A.P. Braakhuis	
+Lambartus Stoppendaal Pieters zoon	Nijmegen
+G.W. Jansen	
+A.G. van der Horst	
+J.C. van Holten	
+G.Th.M. Verhaak	
+S.P. Uri	Scheveningen
+H. Vogelsang	
+F.H. Jansen	
+Aletta Huijsinga	
+J. de Kruys	
+A.A.M. de Villiers	
+F.I.J. van Rensburg	
+G. Colmjon	Leeuwarden
+M.J. van Westenbrugge	
+C. Kostelijk	
+J.B. Drewes	Rijswijk
+F.J.P. Peeters	
+B.W.E. Veurman	
+A.P. de Bont	Deventer
+M. Zwaagdijk	Den Haag
+Hubert J. Michaël	Den Haag
+C.M. Geerars	Amersfoort
+A.G.F. van Holk	Glimmen
+F. van Vinckenroye	Hasselt
+Jan Frans Gratiaen	Galle, Ceylon
+Bert Japin	Haarlem
+A.I.M. van der Waag	
+A.P. Cornet	
+A.F. Manning	
+Q.W.J. Daas	
+W. van Beusekom	
+J. Vergote	
+John de Pool	
+R. Haeseryn	Oostakker
+Arnold J.T. Stakenburg	
+M.A. Kerckhove	
+C.J.H. Steketee	
+A.W.P. van Ree	
+B.M. Salman	
+H. Roose	
+W.H. Vroom	
+D.B. van Nisius	
+L. Peeters	
+J.C. Arens	
+J.A. Verhage	
+Theo Vindevogel	
+A.G. van Melle	
+Jan van Elsland	Haarlem
+J. Kwekkeboom	
+A.W. Krijgsman	
+Jan C. Villerius	
+F. Ketner	
+H. Weigert	Tinley Manor Beach
+W. Gobbers	
+Jaap Meijer	Heemstede
+J. van der Steen	
+B. de Ligt	
+Peter van Eeten	
+L. Koelmans	
+Marie van Kranendonk	Delft
+Johannes van der Schaar	Vlaardingen
+B.A. Mensink	
+Willem Sluiter	Zwolle
+J.M.H. Vossen	Roeselare
+Theo Oudkerk Pool	
+J.F. Couwenbergh	
+C. Bruins	
+B. Ouwerkerk	
+B.G.L. Overmaat	
+P.J. Vinken	Amsterdam
+Raymond Kaye	
+P.J. Merckens	
+J. Berits	
+Gerhard Worgt	
+T.J.M. Versteeg	
+Marcel Hoebeke	
+Jelle van der Meulen	
+J.L. Price	
+H.Th. Kok	
+A. Mankes-Zernike	Amersfoort
+R. Vos	
+Tibor Klaniczay	
+H. Schönbeck	
+G.C. de Waard	
+Paul Delsemme	
+R. Galderoux	
+F.K.M. Mars	
+Jules de Corte	Eindhoven
+P.E.L. Verkuyl	
+J. Hollestelle	Arnhem
+J. de Ligne van Arenberg	Heiligerlee
+F.M. Gelens	
+W.P. Gerritsen	
+H.M. Hermkens	
+A.J. Verschoor	
+I.D. du Plessis	Kaapstad
+Frank van Gestel	
+Norbert Morciniec	
+P. Gerbenzon	Luino
+Gerhard Kuipers	
+Nienke Bakker	Katwijk
+Hanneke van Buuren	
+H.J.J. Piket	
+Albert van Hogenbemt	
+S.C. Holleman-Stevens	
+C. van de Ketterij	
+E.F. Wijsman	
+A. Roels	
+A. Jacob-Bekaert	
+Dora van Velden	
+E. Nuijtens	
+N.J. Schuurmans	
+Michael van de heilige Augustinus	
+Henk Hollaar	
+Jaap de Rooij	
+S.A.E. van Puffelen	
+F. Revet	
+S.A.P.J.H. Iansen	
+Wilco H. thoe Schwartzenberg en Hohenlansberg	Rinsumageest
+B.W. Schippers	
+Claas W. de Kruyter	Den Haag
+H. van 't Veld	
+C. van Duijn jr.	
+H.B. de Groot	
+W. Martin	
+Abraham Maas	Alkmaar
+Ferdinand van Ingen	
+Berend Jager	
+Willem M. Visser	
+Jacques Zajicek	
+Adrianus van Selms	Pretoria
+R.C. Engelberts	
+Jacques Voisine	
+A.M.C. van Schaik-Verlee	
+H. Prudon	
+Yvette Stoops	
+G.H. Dijkstra	
+R.P. Botha	
+P.E.M. Boer	
+J. 't Hart	
+F.J. Koopmans-Van Beinum	
+J.P. Willems	
+G.J. Helmer	
+Paul C.H. van der Goor	
+G.C. Lijphart-Bezuidenhout	
+A.N. Paasman	
+Wim Hendriks	Hilversum
+J.D. Reeder	
+P.J.F.M. Eligh	Breda
+Piet Delen	
+Albert Schaalma	
+W.H. Morel-van Mourik	
+M.E. van Slooten	
+J.B. de Caluwé	
+C. Monster	
+G.A. van Es	Lage Mierde
+G.R.W. Dibbets	
+A.J. Welschen	
+J. IJsewijn	
+G.M. Mesland	
+E. Cramer-Peeters	
+J.J.M. Westenbroek	Arnhem
+Hans van Dijk	
+Fr. Daems	
+Maurits Gysseling	
+B. Rademaker-Helfferich	
+Arnold Evers	
+M.J.M. de Haan	
+Harry Scholten	
+Pim de Vroomen	
+R. Hamburger	
+J.M.F. Stalpers	
+Bert Hofman	
+René Jongen	
+Fons van Buuren	
+H.H. Grünhagen	
+T. Hagtingius	
+H.M. Eliassen-de Kat	Oslo
+R. Eeckhout	
+Jacobus Koelman	Utrecht
+A.W. ter Horst	
+Gysbert Koelstra	
+C.M. Verkroost	
+Coen Bersma	
+Anton Roothaert	Deurne
+G. Scherps	
+J.A. van Leuvensteijn	
+P.K. Niekerk	
+Eep Francken	
+Piet Kralt	
+W.J.M. van Calcar	
+Bert van Selm	Leiden
+G.J.P. van Hoek	
+C.B.M. Wingen	
+W.A. Wijnands	
+K.R. de Graaf	Groningen
+Herman Wekker	
+Jan Gijsel	
+Ph. van de Nieuwegiessen	
+Dick Springorum	
+Ruud A.J. Kraaijeveld	
+G.J. Dorleijn	
+A.A. Keersmaekers	Duffel
+G. De Schutter	
+P. van der Woude	
+J.F. Geerds	
+Evert de Jong	
+Nigel F. Palmer	
+P. Lammens-Pikhaus	
+Wil Sterenborg	Tilburg
+N. van der Blom	Rotterdam
+J.A. Verschoor	
+Reinhilde Haest	
+D.H. Lammers	
+M.F. Steehouder	
+G. Gunneweg	
+Leonard Forster	Cambridge
+Petrus de Jong	
+P. van Overbeeke	
+Edward Al. Th. Stam	
+Seymour L. Flaxman	
+P.W.J.L. Gerretsen	
+Domien ten Berge	
+Marie-José Desmet-Goethals	
+D. Gil-Günzburger	
+W.M.H. Hummelen	
+S.A.J. van Faassen	
+C.S.M. Rademaker	
+Leo van Maris	
+Th.H. van Doorn	
+Bert van den Broeck	
+Frederik Jacobus Brevet	Rotterdam
+H.J. de Roy van Zuydewijn	
+Ton Goeman	
+J. de Gier	
+H.J.A. Bolscher	
+N.C. van Velzen	
+C. Gussenhoven	
+Evert van den Berg	
+Alfred M.M. Dekker	
+R. Blok	
+H.W.J. Vekeman	Lechenich
+Dirk Coigneau	
+Hans den Haan	
+A.A. Monden	
+Willemien B. de Vries	Amsterdam
+H.Chr. van Bemmel	
+Johan van der Auwera	
+G.A. Bredero	
+Guido de Baere	
+R. Jansen-Sieben	
+Elie Nieuwborg	
+C. Rooker	
+Roland Willemyns	
+Odo Leys	
+Jos A.A.M. Biemans	
+A.H. Touber	
+Henry Hargreaves	
+J.C. van Aart	
+J.C. Trimp	
+Stanislaw Predota	
+A.G.M. Vermeulen	
+Hanna Stouten	
+J.C. Prins s'Jacob	
+J. Kreuzen	
+W. Waterschoot	
+Henk Meter	
+Hubert Meeus	
+Oskar Wellens	
+Roger Gilis	
+E.W.F. van den Elzen	Deventer
+F.R. Gilfillan	
+W.A.A.M. Merlijn	
+L.E. Wirth-van Wijk	
+Gerard Verhoeven	
+Jos Houtsma	
+Henk Koeman	
+R.W.W.M. van der Drift	
+J. de Merica	Mechelen
+J.H. Winkelman	
+Tom Hage	
+Ton Vallen	
+Joke van der Wiel	
+C.J.M. Jansen	
+Annemarie Kets	
+Dirk Geirnaert	
+L. Boves	
+W. Fagel	
+L. van Herpt	
+F.J. Lodder	
+Robert Hennebo	Amsterdam
+Gerrit van Olivier	
+J. A. Le Loux-Schuringa	
+P.N.G. Pesch	
+Jos Versteegen	
+Robert Jan van der Drift	
+Jacobus Jansonius	Leuven
+Didier L. Goyvaerts	
+Aafje Gijsen	
+Marlies Philippa	
+Lucie Huiskens	
+Jan Nuyts	
+Bart Besamusca	
+Irene Spijker	
+P. van Hees	
+G.P. van der Stroom	
+Egon Berendsen	
+T.M. Verhage-van den Berg	
+Astrid Joosse	
+Marijke Friesendorp	
+Jan Siemons	
+Gerben Wynia	
+Eveline Buchheim	
+Anneke de Lange	
+Johan Verhoeven	
+Marjan Birkenhäger	
+Baukje van Dam-Heringa	
+Hans Heinrich Meier	
+Hans Kienhorst	
+F.J.A. Jagtenberg	
+Frits Beukema	
+Thijs Pollmann	
+Jip Wester	
+Roger Henrard	
+G.J. Vroeijenstijn	
+Wilbert Spooren	
+Gunilla Dalberg	
+G. Gerritsen-Geywitz	
+Renaat J.G.A.A. Gaspar	
+W.C.E. Koksma-ten Cate	
+Sytske Sötemann	
+Pieter Nieuwint	
+Ans van Kemenade	
+J.H. Reitz	
+J.H. de Ridder	
+Marysa Demoor	
+Eberhard Nehlsen	
+Maaike Hogenhout-Mulder	
+Tini Booij	
+J. Reynaert	
+F.A.M. Riem Vis	
+Anja van Leusden	
+Fieny Pijls	
+J. Taeldeman	
+Frank van den Dungen	
+Wilbert Smulders	
+Jan Nijen Twilhaar	
+G. van Eemeren	
+Rik Smits	
+C. van Coll	
+F. Stuurman	
+Dieuwke E. van der Poel	
+Fabian R.W. Stolk	
+W.F.G. Breekveldt	
+J.P. Westgeest	
+T.H.J. Broekmans	
+A.H.M. de Graaf	
+Els den Os	
+Rita Harder	
+Paulien Smabers	
+Helen de Hoop	
+Tineke ter Meer	
+J.Ph. van Oostrom	
+Annejoke Smids	
+Frank Brandsma	
+Elly van Gelderen	
+Jeanette Koekman	
+G.C. de Vries	
+A.E. Jacobs	
+C.J. van Veen	
+Lia van Gemert	
+Meinardus Siderius Wal	Leeuwarden
+P.P. Schmidt	
+M. Everaert	
+Clara Strijbosch	
+Jan de Roder	
+Mieke B. Smits-Veldt	
+Ad Leerintveld	
+T.-M. Nischik	
+Rudi Hendrickx	
+Johan Rooryck	
+Jan Konst	
+Philippe Hiligsmann	
+Olf Praamstra	
+Jacqueline Frijn	
+Wim de Haas	
+Theodoor Rodenburg	Antwerpen
+Jan Don	
+Marijke Spies	Amsterdam
+Lisan van Beurden	
+Johan Th. Veenhof	
+Car Flanders	
+István Bejczy	
+P.R.F. Verhoeven	
+Jan Willem Klein	
+M.G.M. Elling	
+Frank van Lamoen	
+Marcel Bax	
+Geert Warnar	
+H.W.A. Nap	
+Gert-Jan Johannes	
+Theo Meder	
+Jan Oegema	
+Freddy Puts	
+Wolfgang Herrlitz	
+Mieke van Dalen	
+Leo Jansen	
+Jacqueline Hulst	
+Orlanda S.H. Lie	
+Ton van Strien	
+Elisabeth Paling Funk	
+Eric Hoekstra	
+Louis Herreboudt	
+Ton van der Wouden	
+H. Bonset	
+Jan Kuys	
+Freddy van Besien	Gent
+Josien Brink-Hendriks	
+Luuk Lagerwerf	
+P.G. de Bruijn	
+Jacqueline de Man	
+Michiel Leezenberg	
+Marjolein Hogenbirk	
+Thom Mertens	
+Petra Hendriks	
+Mark Kas	
+Liesbeth Laport	
+Renée van Bezooijen	
+Goudina van Weert	
+Bernadette Smelik	
+Annelies van Gijsen	
+Erwin Mantingh	
+Elisabeth Kappner	
+Pyter Wagenaar	
+René van Stipriaan	
+Olga van Marion	
+J.J.V.M. de Vet	
+Korrie Korevaart	
+Norbert Corver	
+Enny de Bruijn	
+Emmeken van der Heijden	
+Jozien Moerbeek	
+Dominique de Vet	
+Ben Peperkamp	Amsterdam
+Erica van Boven	
+Louis Cornelis	
+P.J.A. Franssen	
+Andrzej Dabrówka	
+W.R.D. van Oostrum	De Bilt
+V.E. de Gruiter	Delft
+Bertram Mourits	
+Nelleke Moser	
+Louis Peter Grijp	Driebergen-Rijsenburg
+Ruth Beijert	
+H.F. van de Velde	
+Hans Broekhuis	
+Dorthe Schipperheijn	
+Bernard Shaw	Ayot St Lawrence
+J. Haesaert	
+Gerard van Elden	
+Eugenie Boeye	Antwerpen
+Karl Renner	Wenen
+Tonny van der Horst	Amsterdam
+C. Heymans	Knokke
+Jos Coveliers	
+Frank de Langhe	
+Richard Declerck	Antwerpen
+J.F. Willems	Gent
+Guillaume Apollinaire	
+D.J. Opperman	
+Frank Gerdels	
+Henk van Otterloo	
+Louis Paul Boon	Erembodegem
+Frank Craeybeckx	Mauthausen
+Piet Heus	
+R. Miry	
+Joris Blondiau	
+Hugo Walschap	
+Peter van der Wildt	
+Eva Vlame	
+Herwig Hensen	Berchem, Antwerpen
+Josee van Dirickx	
+Hendrik Brehmen	
+Josephus Hendrikus Cornelis Creyghton	Nijmegen
+Marcel Demeulenaere	
+M. Kapteyn	
+N.P. van Wyk Louw	Johannesburg
+Lucien Brulez	
+Jan Bosquet	
+Rolande	
+Pliet van Lishout	Namen
+Stéphane Mallarmé	
+Marc Moonen	
+Valère Coopmans	
+Erik Thys	
+Clare Lennart	Utrecht
+Julius Valckenaere	Koksijde
+Constance Teichmann	
+Jan Verley	
+Rogier Marijnissen	
+Hugo Brutin	
+Fjodor Sologoeb	
+V.I. Lenin	Gorki Leninskiye
+P.M. van der Vrecken	Houthem
+[tijdschrift] Nieuw Vlaams Tijdschrift	
+Jean-Marie Maes	
+Tymen Trolsky	
+Raymond Vervliet	
+Rob Bartels	
+Johannes de Bruyn	
+Serge Govaert	
+Gertrude Stein	
+Michel Leclerc	
+Luc Pierre Maes	
+Philippe Cailliau	
+J. Uyttendaele	
+Marc Bruynseraede	
+Stephen Crane	
+Jaak van Schoor	
+Hubert	
+Jan Vanriet	
+Wim de Poorter	
+Jana Beranová	
+Mischa de Vreede	
+Eleonore Vigenon	
+Mark Verstockt	
+André Lefevere	
+Daniël van Hecke	
+Konstantínos Kaváfis	Alexandrië
+Eric Rinckhout	
+Gérard de Nerval	
+Franc Schuerewegen	
+Hugo von Hofmannsthal	
+Hans Turken	
+Lidy van Eijsselsteijn	Haren
+Anna Mertens	
+Anna de Noailles	Parijs
+Andries Dongera	
+Dieuw Schepel	
+J.A. Risseeuw	
+Inge Lievaart	Scheveningen
+D.I. Bouman-Eringa	
+M. 't Hooft	
+Jacoba M. Vreugdenhil	
+Arjen Miedema	
+Jan Elzo Niemeijer	
+P. Eringa	
+Hans Barendregt	
+[tijdschrift] Ontmoeting	
+H. Mulder	
+Neels Everards	
+Jo van Dorp-Ypma	Feerwerd
+Jan Dolfering	
+Peter v.d. Braken	
+Wilma	Blaricum
+Anthonie Stolk	Noordwijk
+L.H. Stronkhorst	
+Jaap Das	
+W.G. Scheeres	
+Johan West	
+C.J. Nobel	
+Gerda Meylink	
+Jo Kalmijn-Spierenburg	
+H.J. van Boekhoven	
+Henk Krijger	
+H.H. Wilmink	
+Gera Kraan-van den Burg	
+Rie Bauer	
+G.E. Woneman	
+Willem M. Kruseman	
+Pieter Korthuys	
+P.O. Eet	
+P.B. van Dalfsen	
+M.A. Rijnsburger	
+Johan van Hulzen	
+Gerrit Mulder	
+Margreeth Woltjes	
+Mischa S. van den Bosch	
+Frans Leonard	
+Jan D. Stipes	
+P.A. Hekstra	
+A. Wapenaar	
+S.P. Akkerman	
+B. Folkertsma	
+A. Middelhoek	
+A.H. Peters	
+J. Veerman	
+Else Wichers	
+Diet Kramer	
+Aart Romijn	
+Walter Raleigh	Londen
+Jac. Kort	
+Niek van der Heide	
+J.W. Bonda	
+Feitse Boerwinkel	Driebergen
+D. Hendrikse	
+Tjalling	
+C. Ouboter	
+K.J. Popma	
+Arthur Hugh Clough	
+Louise Imogen Guiney	
+Huib A.P. Eijkelenboom	
+Do van der Sloot	
+Ralph Degens	
+J.H. van der Starre	
+W. Ruiten	
+Jan G. van Straaten	
+Okke Jager	Kampen
+H. Boekenogen	
+J.G. Rikkert	
+G. Boogaard	
+Charles Marie René Leconte de Lisle	
+Franz Werfel	Beverly Hills
+H-K. Mulder	
+Ab van Eijk	
+A.M. Spanjer	
+Willem Mudde	
+Félix Lope de Vega	
+P.B. Shelley	zee bij La Spezia
+W.J. Schulte Nordholt	
+B. Nijenhuis	
+Etus Alons-Bernhardt	
+Endre Ady	Boedapest
+Aize de Visser	
+J.C. Schuller	
+Frieda van Felden	
+J. Overduin	
+John Donne	Londen
+G.E. Mulder	
+Lien Fokker	
+M.H. Rijnsburger	
+Aad Hollebeek	
+A.J. Rijnsburger	
+Herman Steggerda	
+Jan Das	
+Arie Nelemaat	
+M. Monsinga	
+Nora Petit	
+Constant Labruyère	
+Jan Rijnsdorp	
+Gré van der Laan	
+Marinus A. den Braber	
+H. Ravestein	
+Gerard van Hulst	
+Ev. Grolle	
+G.K. van Dongen	
+Jac. Lelsz	
+D. Kilinow	
+A. Sterveen	
+Harro Storm	
+J.W. Veerman	
+J. Kramer-Vreugdenhil	
+N. Sterveen	
+Frank Daen	Capelle aan den Ijssel
+Francine Schregel-Onstein	
+Marius Goedhart	
+Gert Overduin	
+Jacques Reugebrink	
+Jan Stolk	
+Johanna de Geus	
+M. Beinema	
+Fred van Viet	
+Ger Bendels	
+Freek de Leeuw	
+Dirk van der Ploeg	
+F. Springer	Den Haag
+Henk Kooijman	
+Stuart B. Jackman	
+Adriaan Donker	
+H. de Jongste	
+Elsa Sophia von Kamphoevener	Marquartstein
+M.C. v.d. Panne	
+Daan Mondgaas	
+Günter Eich	Salzburg
+Yvan Goll	Parijs
+Hans Arup	
+C yrus Ataban	
+Walter Toman	
+A. Mertens	
+Peter Berghe	
+Fred. van Zutphen	
+G. van Heerde	
+Arie Vermeer	
+Luitzen Visser	
+Ineke Sikkema	
+Jan Verhoef	
+Dick Steenkamp	
+Jarry Duclay	
+Luc von Seller	
+Ubbo-Derk Hakholt	
+Jan van Biezen	
+N.H. Ridderbos	
+Durk van der Ploeg	
+Nico Rigter	
+Bill Kroekow	
+J.G. van der Veen	
+Lode Bisschop	Amersfoort
+Frederice Kalmijn	
+Jean Brüll	
+Wim Pendrecht	
+L. Schultz	
+Heppe de Moor	
+Wim Brinkman	
+Jan Sleeboom	
+Eric Marloux	
+Theo van Roon	
+Marianne Colijn	
+G. Burger	
+S.J. Popma	
+P. Ruysch van Dugteren	
+Elisabeth Wolters	
+Hans de Boer	
+Anneke Geluk	
+L. de Liefde	
+Jaap Zijlstra	Amsterdam
+Govert A. den Hartogh	
+Gert Slings	
+William Wordsworth	
+Jan ter Horst	
+Tom Naastepad	Rotterdam
+Johan Schooneberg	
+Bert Jansma	
+Rob Scherjon	
+M.G.J. Teerink	
+Anton B. Lam	
+Tom Etty	
+S.H. Haan	
+Frans van der Linde	
+Gerd Segers	
+Jan C. Brouwer	
+R.G.K. Kraan	Oegstgeest
+Marijke Baars	
+W.N. Visserman	
+Murk A. J. Popma	
+Cees van Dop	
+Nelleke Groenewegen	
+Dick Zaal	
+Jan J. Abels	
+Mei Hwa Tan	
+Kees Ouboter	
+Jan van Royen	
+John Keats	Rome
+Marie-Sophie Nathusius	Haarlem
+Jan D. 't Lam	
+Sifra Hugorina	
+Jan Donia	
+Paul Wessel	
+Wim Bazuynen	
+Hans Dullaart	
+Eric Heidbuchel	
+Hans Bouma	
+Anno van Workum	
+Jan Sizoo	
+Frans Vanderlinde	
+Maja Burghout	
+Teije Brattinga	
+Roel van Heerde	
+Jo Datema	
+William Blake	Londen
+William Butler Yeats	
+G. Tuil	
+Arnold van Dijk	
+A. de Kool	
+P. van Amstel	
+Albert Nap	
+J.F.M.J. Jansen	
+D.J. Sikkens	
+A.J. van Dulst	
+Peter van Amstel	
+Pierre de Ronsard	Saint-Cosme-en-l'Isle
+Philippe Desportes	
+Alexander West	
+Frederice van Faassen	
+Bert Verm	
+Emiel Willekens	Antwerpen
+J. Noë	
+Cola Minis	
+D. Geeraerts	
+Karel Deleu	
+Lucie Roobrouck	
+Johann Damiaan Degreef	
+Maria-Augusta Jacobs	
+Hugo Dyserinck	Lanaken
+J. Donkers	
+Gilbert De Smet	
+Carlos Tindemans	
+Lieve Scheer	
+Nico de Vrede	
+Piet Thomas	
+I. Demarre	
+E. van der Heijden	Maastricht
+Colijn Caillieu	Brussel
+H. Vandermoere	Kortrijk
+Herman Servotte	Leuven
+A. van Branteghem	
+Prosper Arents	Mortsel
+F.H.M. Hertoghs	
+W.A.F. Janssen	Maastricht
+Koen Wauters	
+P.H. King	
+Jan Persyn	
+G. van Gorp	Rijsbergen
+Bert Kooijman	
+D. Kuijper Fzn.	
+Jef Barthels	
+P.S.N. Oost	
+Louis Gillet	
+P.Th. Elsinga	
+Gust Faes	
+J. Goffard	
+Louis Dieltjens	
+L. Macken	
+C.L. Hap	
+Henri Bossaert	
+Hugo De Schampheleire	
+F. Steyaert	
+Michel Dupuis	
+Jan de Piere	
+Jan Schoolmeesters	
+Amand Berteloot	
+Joannes Smeyers	
+Rolf Italiaander	
+Jozef D. Janssens	
+M.S.J. Cox-Andrau	
+Lieven D' Hulst	
+Paul Gillaerts	
+Dorian Cumps	
+Luc Libaut	
+Paul Schampaert	
+Ingrid van de Wijer	
+J. Huyghebaert	
+Pascal Tasiaux	
+Karel Hellemans	
+J. Delsing	
+Gisleine Peeters	
+Arie Zevenhuijzen	
+Viviane Geuffens	
+Martha Gerlo	
+N. Rowan	
+Ludo Verbeeck	
+Marc Van Vaeck	
+Luc Dirikx	
+Piet de Keyser	
+Theo Coun	
+Robert Vandeputte	Brussel
+Jos. Deckers	
+R. van Ooteghem	
+K. du Bois de Vroylande	
+R. Verschroeven	
+C. de Bievre	
+R. Goris	
+J. Hoet	
+Gaston Van Bulck	
+J. Verelst	
+K. van Baarle	
+A. Wuyts	
+Juliaan Vervoort	
+Albert Van den Daele	Antwerpen
+M. Dufraing	
+Ad. Jansen	
+Alb. Raignier	
+Alex Harlssen	
+F. De Raedemaeker	
+A.J. Michielsen	
+Peeters	
+M.F. Schurmans	Aalst
+Louis H.M. Monden	
+J. De Munter	
+H. Robbers	Nijmegen
+L. Arts	
+Jan van Gorp	
+J.M. Eylenbosch	
+E. Verstraelen	
+Fernand Van Goethem	Gent
+J. Nolf	
+H. Bruders	
+L. Elaut	Gent
+E.J. Vandenbussche	
+W. Matthijs	
+Angelo Brucculeri	
+H. Thielemans	
+K.M. Houtaar	
+Maria Gerarda	
+A. Seeldraeyers	
+Alb. Block	
+P. Lassalle	
+J. van Heugten	Amsterdam
+August Brunner	München
+Emiel van Coppenolle	
+W. Arts	
+Hub. Gesp	
+H.F. Koster	
+J. Donceel	
+F. Schröder	
+Maurice Claeys Bouuaert	
+R. Dellaert	
+J.I. Corrigan	
+E.A. Ryan	
+A. Grootjans	
+Jan Jozef van Laer	
+A. Seeldrayers	
+A. Snoeck	
+A. de Guchteneere	
+J. Volckaert	
+Yves de La Brière	
+Hugo Vandeperre	
+E. de Strycker	
+Constantinus	
+P. de Bruin	
+J.B. Poukens	
+L. Moereels	
+W. Cracco	
+Arthur Thomas	
+Ludwig Drees	
+H. Geerts	
+L. Vander Kerken	
+L. Moreels	
+C. Kock	
+Edouard Dhanis	
+de Caigny	
+L.G. Polspoel	
+R. van Lennep	
+J.E. Schulte	
+W. De Roy	
+Jozef Mertens	
+J. Theyskens	
+Otto Forst de Battaglia	
+Philippe Joseph Aimé van Isacker	Brussel
+P. Ellerbeek	
+Alb. Hernould	
+W. van Dingenen	
+G. De Wolf	
+Maurice De Tollenaere	
+Michiel Dierickx	Oostende
+W. Talloen	
+Louis Janssens	Leuven
+R. Leijs	
+Albert Dondeyne	Leuven
+Diotimos	
+J. Bogaerts	
+B. Spaapen	
+E. De Cooman	
+M. van den Daele	
+G. Neefs	
+Fr. van Baarle	
+Pieter Frans Fransen	
+A. Taymans	
+Louis Sourie	Brugge
+Jozef Marechal	
+Marcel Duchateau	
+L. Baudez	
+A. Poncelet	
+L. Vanderkerckhove	
+H. Walgrave	
+Emiel van der Donck	
+H. Peeters	
+Walter F. Smet	
+J. Köhlbrugge	
+J.M.L. Demeyere	
+L. van der Bossche	
+W. Luyten	
+J. Cuypers	
+Albert Kluyskens	Gent
+Karel van Isacker	Niel-bij-As
+P. Goedertier	
+B. De Wint	
+Antoon Fimmers	
+J. De Fraine	
+M.C. Arnemann	
+J.B. Goetstouwers	
+Nabor Devolder	Herent
+A. Verbist	
+G. Van Cutsem	
+A. Meeus	
+D. Merlevede	
+J. Nuttin	
+L.P. van den Bergh	
+H.L. van Breda	
+Louis van Haecht	Brugge
+I. De la Potterie	
+M. Mesotten	
+G. Homble	
+Jos Philippen	
+C. Pickery	
+W. de Weerdt	
+Rika De Backer-Van Ocken	
+J. Lebeer	
+Valentinus Morel	
+Gaston Eyskens	Leuven
+F.X. van der Straten-Waillet	
+Louis Bruyns	
+Monique Darge	
+Paul Maria Jozef de Meester	
+Jacques E. Mertens	
+A. de Meyer	
+Jacques Tremblay	
+Albert Deblaere	
+L. de Borman	
+J.A.F. Wils	
+Gaston de Jaegher	
+J. van Wing	
+A. van den Meersschaut	
+Victor Heylen	Herent
+Walter Couvreur	
+Silvain Douven	
+John Murray	
+Philippine vande Putte	
+G. Gilleman	
+Jérôme Parmentier	Brugge
+Ulpianus Lopez	
+A. Cauwe	
+J. Declercq	Roeselare
+Clément Mertens	
+H. van Straelen	
+R. Windey	
+Jozef Andriessen	Heverlee
+J.G.M. Willebrands	
+V. de Meyer	
+R. Pulinckx	
+Herman van Overbeke	Gent
+Wilhelm de Vries	Münster
+Raymond Jouve	
+Robert Druwé	
+Fl. Bertiau	
+Oger H. Bourdeaud'huy	
+Augustijn Lodewyckx	Melbourne
+Paul André	
+J. Boers	
+M. Duerinck	
+J. Masson	
+Cornelis van der Vijver	Amsterdam
+Pierre-Henri Simon	
+G. de Vocht	
+Marcel Cordemans	Liedekerke
+André Vandenbunder	
+G. Boss	
+G. Huyghe	
+J. Beyer	
+R. Caron	
+André Vlerick	Beernem
+Jan Engelman	Amsterdam
+Joep Nicolas	Steyl
+Albert Helman	Amsterdam
+Henk Kuitenbrouwer	Utrecht
+Albert Kuyle	Utrecht
+Marnix Gijsen	Leuven
+Sybold van Ravesteyn	Laren
+H. Marsman	Het Kanaal
+Menno ter Braak	Den Haag
+Anton van Duinkerken	Nijmegen
+N.A. Donkersloot	Amsterdam
+N. van Wijk	Leiden
+Theun de Vries	Amsterdam
+Gerrit Achterberg	Leusden
+A.J.D. van Oosten	Rotterdam
+W.P.J. Pompe	Utrecht
+Martinus Nijhoff	Den Haag
+August van Cauwelaert	Antwerpen
+F. Bordewijk	Den Haag
+Clara Eggink	Scheveningen
+W.H. Beuken	Helmond
+Dirk Coster	Delft
+Paul de Vree	Antwerpen
+Johan Winkler	Deventer
+Jef Last	Laren
+André Demedts	Oudenaarde
+Maurice Gilliams	Antwerpen
+Gabriëlle Demedts	Kortrijk
+Bernard Delfgaauw	Haren
+Victor E. van Vriesland	Amsterdam
+Karel Meeuwesse	Nijmegen
+P.J. Veth	Arnhem
+J. van Vloten	Haarlem
+George Willem Vreede	Utrecht
+Johannes Kneppelhout	Oosterbeek
+S. Vissering	Ellecom
+Martinus des Amorie van der Hoeven	Amsterdam
+Willem Jan Knoop	Den Haag
+Carel Adriaan Engelbregt	Den Haag
+Antonie Niermeyer	Leiden
+David Bierens de Haan	Leiden
+Jan Heemskerk Azn.	Den Haag
+J.T. Buys	Leiden
+Eugen Mehler	Zwolle
+Guillaume Henri Marie Delprat	Rotterdam
+Sytze Hoekstra Bzn.	Ellecom
+D.J. Coster	Amsterdam
+Carl A.X.G.F. Sicherer	Goes
+R.T.H.P.L.A. van Boneval Faure	Putten
+Pieter Nicolaas Muller	Amsterdam
+C.P. Tiele	Leiden
+Cd. Busken Huet	Parijs
+Allard Pierson	Almen
+Robert Fruin	Leiden
+B.W. Wttewaall van Wickenburgh	Utrecht
+W.N. du Rieu	Leiden
+T.J. Halbertsma	Antwerpen
+Nikolaas Gerard Pierson	Heemstede
+Eelco Verwijs	Arnhem
+L.R. Beynen	Den Haag
+Hieronymus van Alphen	Leiden
+Pieter Rutger Feith	Den Haag
+Tiberius Cornelius Winkler	Haarlem
+Michiel Johannes de Goeje	Leiden
+Piet van Os	München
+Joan Karel Hendrik de Roo van Alderwerelt	Den Haag
+Folkertinus Nicolaas Sickenga	Dordrecht
+W.A. Reiger	Groningen
+Simon Gorter	Rhenen
+H.C. Rogge	Haarlem
+Jérome Alexandre Sillem	Amsterdam
+H. Kern	Utrecht
+J.M. van Bemmelen	Leiden
+J.N. van Hall	Bilthoven
+Johan Hermann Christian Heyse	Middelburg
+Willem Kloos	Den Haag
+Pieter Lodewijk Muller	Gardone
+Pieter Antonie van der Lith	Leiden
+C.A. Crommelin	Leiden
+Marie Henriëtte Koorders-Boeke	Salatiga
+Johan Hendrik Gallée	Utrecht
+Carel van Nievelt	Wiesbaden
+Jacobus Craandijk	Haarlem
+Johannes de Koo	Luik
+Abraham Robert Arntzenius	Den Haag
+S.J. Fockema Andreae	Beetsterzwaag
+Hugo de Vries	Lunteren
+R.A. Kollewijn	Helmond
+Sybrandus Johannes Fockema Andreae	Leiden
+Frans Coenen	Amsterdam
+Ch.M. van Deventer	Amsterdam
+D.C. Hesseling	Leiden
+Frederik van Eeden	Bussum
+H.T. Colenbrander	Leiden
+Guido Gezelle	Brugge
+Johan de Meester	Utrecht
+Herman Teirlinck	Beersel-Lot
+Jan L. Walch	Amsterdam
+Jan Greshoff	Kaapstad
+D. van Blom	Leiden
+J.A.N. Knuttel	Leiden
+P.H. van Moerkerken jr.	Amsterdam
+C. van Vollenhoven	Leiden
+Karel van de Woestijne	Zwijnaarde
+Johan Huizinga	De Steeg
+Annie Salomons	Den Haag
+M.H. van Campen	Auschwitz
+G.P. Frets	Soest
+H.J. Kiewiet de Jonge	Nyon
+P. Geyl	Utrecht
+Willem Jan Mari van Eysinga	Leiden
+Jan Romein	Amsterdam
+Hendrik Cramer	Neuengamme
+E.J. Dijksterhuis	De Bilt
+Achilles Mussche	Gent
+Urbain van de Voorde	Leuven
+Elisabeth Zernike	Laren
+P.J. Meertens	Amstelveen
+A. Gildemeester	Den Haag
+A.A. van Schelven	Aerdenhout
+Arthur J.H. Cornette	Brugge
+W.A.P. Smit	Utrecht
+J.H. Plantenga	Wassenaar
+Th.J.G. Locher	Leiden
+Raymond Herreman	Elsene, Brussel
+Emmy van Lokhorst	Amsterdam
+A.W. Grauls	Antwerpen
+Raymond Brulez	Brussel
+Dirk Wiersma	Oegstgeest
+Gerrit Kamphuis	Den Haag
+Garmt Stuiveling	Hilversum
+Pieter Jan Bouman	Epe
+Gerlach Royen	Utrecht
+J.J. Gielen	Beneden leeuwen
+B.A. van Groningen	Leiderdorp
+Anton van der Boom	Haarlem
+Maurits Uyldert	Amsterdam
+Dirk Bartling	Doetinchem
+G.G. Kloeke	Leiden
+A.N. Molenaar	Den Haag
+Gerard Walschap	Antwerpen
+Edward Rombauts	Leuven
+William Shakespeare	Stratford-upon-Avon
+Miguel de Cervantes Saavedra	Madrid
+Ferdinand Langen	Laren
+Maurice Roelants	Sint-Martens-Lennik
+J.C.H. de Pater	Den Haag
+Anne de Vries	Zeist
+F.K.H. Kossmann	Rotterdam
+Marie Ramondt	Utrecht
+A.A. Verdenius	Arnhem
+O. Noordenbos	Amersfoort
+C.F.P. Stutterheim	Oegstgeest
+Hubert Lampo	Essen
+K.F. Proost	Blaricum
+Johan Daisne	Gent
+H.W. van Tricht	Velp
+L.M.Fr. Daniëls	Amsterdam
+P. Brommer	Velsen
+C.G.N. de Vooys	Utrecht
+Ernst van Raalte	Den Haag
+Hans Andreus	Putten
+Elisabeth Augustin	Amsterdam
+Bert Voeten	Amsterdam
+C. Buddingh'	Dordrecht
+Pierre H. Dubois	Den Haag
+Pieter G. Buckinx	Jette
+Silvio d' Amico	Rome
+W. Drees	Den Haag
+Gerben Colmjon	Deventer
+A.L. Sötemann	Utrecht
+Julien Jozef Kuypers	Vorst
+Harry Mulisch	Amsterdam
+Henri Wiessing	Amsterdam
+P. Minderaa	Leiden
+J.W. Schulte Nordholt	Wassenaar
+Cornelis Rijnsdorp	Rotterdam
+J. Presser	Amsterdam
+Hubert van Herreweghen	Dilbeek
+Jan Willem Hofstra	Amsterdam
+Rob Nieuwenhuys	Amsterdam
+Arie de Froe	Amsterdam
+Sybren Polet	Amsterdam
+J. Bernlef	Amsterdam
+Jan F. de Zanger	Denemarken
+Willem Brakman	Boekelo Gem. Enschede
+A.L. Constandse	Den Haag
+R.A. Cornets de Groot	Leiden
+Bernardo Ashetu	Den Haag
+W.J.C. Buitendijk	Doorn
+W.L. Brugsma	Bilthoven
+J.M.J. Sicking	Den Haag
+R.L.K. Fokkema	Utrecht
+G.A.C. Hubers	Amsterdam
+Eldert Willems	De Koog
+H.C. Rümke	Zürich
+Annie Romein-Verschoor	Amsterdam
+Frits Staal	Chiang Mai
+Rein Bloem	Amsterdam
+Peter Hoefnagels	Lochem
+D.W. Fokkema	Amstelveen
+Julio Cortázar	Parijs
+J. Pen	Haren
+Peter Nijmeijer	NA september 2016
+Maartje Draak	Amsterdam
+Boudewijn Büch	Amsterdam
+Huub Beurskens	NA;NA
+Ethel Portnoy	Den Haag
+N.G. van Kampen	Nieuwegein
+Jan van Luxemburg	Haarlem
+Kas Deprez	Kessel-Lo
+Th. Weevers	Bristol
+Jacq Firmin Vogelaar	Utrecht
+Geert van Beek	Veghel
+Anil Ramdas	Loenen a/d Vecht
+Em. Kummer	Leiden
+Rienk Visser	Amsterdam
+Anne Duden	NA;NA
+Gottfried Benn	NA;NA
+Les Murray	Taree
+Seamus Heaney	Dublin
+Wallace Stevens	NA NA
+W.H. Auden	Wenen
+M.E. Belpaire	Antwerpen
+Paul Alberdingk Thijm	Kessel
+Jaak Muyldermans	Mechelen
+Jan Emiel Vliebergh	Leuven
+A. Dupont	Ermelo
+Caesar Gezelle	Moorsele
+Jules Persyn	Broechem
+Louisa Duykers	Antwerpen
+J. Salsmans	Mechelen
+Lodewijk Dosfel	Dendermonde
+Joris Eeckhout	Gent
+Jozef van Mierlo	Brugge
+Floris Prims	Antwerpen
+Fernand Toussaint van Boelaere	Brussel
+M. Rutten	Luik
+Fritz Francken	Antwerpen
+Raphaël M.J. Kreemers	Hasselt
+J.A. Hallez	Antwerpen
+Léopold Levaux	Luik
+Leo Picard	Gent
+Franz de Backer	Ukkel
+Emiel Jan Janssen	Tienen
+Max Lamberty	Brussel
+Antoni Slonimski	Warschau
+Oscar Dambre	Gent
+Jan L. Broeckx	Sint-Martens-Latem
+Willy Peremans	Leuven
+W. Vanbeselaere	Antwerpen
+Lode Roose	Bonheiden
+Paul de Keyser	Gent
+J.J. Mak	Leiden
+J.J. de Rooij	Nijmegen
+Karel Leroux	Brussel
+F.W. van Heerikhuizen	Velp
+J. Kamerbeek jr.	Amsterdam
+W. Blok	Arnhem
+Karel Reijnders	Overasselt
+M.C. van den Toorn	Nijmegen
+H. Schultink	Bilthoven
+N.C.H. Wijngaards	Nijmegen
+F.L. Bastet	Oegstgeest
+D.M. Bakker	Heemstede
+B.Th. Tervoort	Hilversum
+J.G. Kooij	Amsterdam
+J.W. de Vries	Sassenheim
+Teun Hoekstra	Los Angeles, Californië
+S.J. Lenselink	Dordrecht
+M.F. Fresco	Leiden
+A. Sassen	Groningen
+J.J. Moerman	Den Haag
+Jan Koopmans	Dordrecht
+Hein Boeken	Amsterdam
+André de Ridder	Borgerhout
+Edgard Blancquaert	Mariakerke
+M. Schönfeld	Graveland
+Chr.P. van Eeghen	Amsterdam
+C.B. van Haeringen	Utrecht
+K. Fokkema	Amstelveen
+F.E.J. Malherbe	Stellenbosch
+F. Veenstra	Leeuwarden
+P.J. Risseeuw	Den Haag
+Willem Pée	Rosières
+A. Ampe	Drongen
+A. van Elslander	Heusden
+P. Spigt	Amstelveen
+H.A. Wage	Leiden
+Jan J. van Herpen	Hilversum
+N. de Paepe	Bonheiden
+P.J. Verkruijsse	Nieuwkoop
+Jef Suys	Amsterdam
+Jean Paul Sartre	Parijs
+Peter van Steen	Amsterdam
+Pramudya Ananta Tur	Bogor, West-Java
+Remy C. van de Kerckhove	Duffel
+Leopold Flam	Brussel
+Jan Schepens	Brugge
+Margaretha Ferguson	Vietnam
+L.M. van Dis	Naarden
+B. van den Berg	Driebergen
+Dirk Bax	Kaapstad
+W.E. Hegman	Gent
+R. Lievens	Leuven
+J.A. Huisman	Zeist
+J. Leenen	Sint-Truiden
+F.L. Zwaan	Alphen a/d Rijn
+Lieven Rens	Edegem
+K. Roelandts	Herent
+Isaac Dorislaus	Den Haag
+E. Oey-de Vita	Amsterdam
+Dingeman van der Stoep	Baarn
+J. van Doorne	Baarn
+J. Deschamps	Leuven
+J.A. van Houtte	Leuven

@@ -82,6 +82,7 @@ Albert Helman	Anton van Duinkerken	15	Albert Helman	7 november 1903
 Willem Nieuwenhuis	Anton van Duinkerken	7	Willem Nieuwenhuis	1886
 Charles Eyck	Anton van Duinkerken	14	Charles Eyck	24 maart 1897
 Gerard Brom	Anton van Duinkerken	22	Gerard Brom	17 april 1882
+H. van Loon	H.E.H. van Loon	26	H. van Loon	17de eeuw
 Sybold van Ravesteyn	Jan Engelman	5	Sybold van Ravesteyn	18 februari 1889
 Marnix Gijsen	H. Marsman	6	Marnix Gijsen	20 oktober 1899
 Leopold	Anton van Duinkerken	22	Leopold	7 september 1860
@@ -121,6 +122,7 @@ B.H. Molkenboer	Anton van Duinkerken	7	B.H. Molkenboer	1879
 Léon	Anton van Duinkerken	15	Léon	12 mei 1890
 H. Mol	Anton van Duinkerken	7	H. Mol	1917
 Jan Engelman	Anton van Duinkerken	32	Jan Engelman	7 juni 1900
+Hubert	Anton van Duinkerken	9	Hubert	20ste eeuw
 Jan Engelman	H. Marsman	9	Jan Engelman	7 juni 1900
 G. Kalff	Anton van Duinkerken	8	G. Kalff	30 januari 1856
 Albe	A. van Domburg	8	Albe	8 juni 1902
@@ -197,6 +199,7 @@ Frans Coenen	Anton van Duinkerken	7	Frans Coenen	24 april 1866
 Albe	A.G.W. Severijnen	5	Albe	8 juni 1902
 C.G.N. de Vooys	Anton van Duinkerken	6	C.G.N. de Vooys	26 mei 1873
 Pieter G. Buckinx	P.J.H. Vermeeren	5	Pieter G. Buckinx	6 februari 1903
+Hubert	P.J.H. Vermeeren	6	Hubert	20ste eeuw
 Anton van Duinkerken	P.J.H. Vermeeren	13	Anton van Duinkerken	2 januari 1903
 Dirk Coster	P.J.H. Vermeeren	6	Dirk Coster	7 juli 1887
 Leopold	P.J.H. Vermeeren	7	Leopold	7 september 1860
@@ -338,6 +341,7 @@ Marcellus Emants	J.N. van Hall	5	Marcellus Emants	12 augustus 1848
 A. Kluyver	A. Kluijver	24	A. Kluyver	1858
 A.G. van Hamel	J.N. van Hall	13	A.G. van Hamel	5 juli 1886
 Hélène Swarth	J.N. van Hall	5	Hélène Swarth	25 oktober 1859
+Hubert	J.N. van Hall	7	Hubert	20ste eeuw
 Multatuli	H.J. Polak	9	Multatuli	2 maart 1820
 Albe	G. Kalff	9	Albe	8 juni 1902
 Albe	Leo Simons	7	Albe	8 juni 1902
@@ -346,6 +350,7 @@ Leopold	J.N. van Hall	7	Leopold	7 september 1860
 Albe	R.P.J. Tutein Nolthenius	11	Albe	8 juni 1902
 Herman Heijermans	J.N. van Hall	14	Herman Heijermans	3 december 1864
 Léon	Henricus Anastasius Viotta	14	Léon	12 mei 1890
+Hubert	Henricus Anastasius Viotta	5	Hubert	20ste eeuw
 Multatuli	Willem Gerard van Nouhuys	20	Multatuli	2 maart 1820
 Albe	W.G.C. Byvanck	16	Albe	8 juni 1902
 Taco H. de Beer	J.N. van Hall	5	Taco H. de Beer	18 november 1838
@@ -359,6 +364,7 @@ Allard Pierson	L. Knappert	5	Allard Pierson	8 april 1831
 Allard Pierson	L. Knappert	5	Allard Pierson	1 november 1770
 Martinus Nijhoff	H.T. Colenbrander	17	Martinus Nijhoff	20 april 1894
 Martinus Nijhoff	H.T. Colenbrander	17	Martinus Nijhoff	26 december 1826
+Bruneau	Henricus Anastasius Viotta	5	Bruneau	20ste eeuw
 N.P. van den Berg	Conrad Th. van Deventer	5	N.P. van den Berg	1831
 Allard Pierson	J.N. van Hall	7	Allard Pierson	8 april 1831
 Allard Pierson	J.N. van Hall	7	Allard Pierson	1 november 1770
@@ -546,6 +552,7 @@ Maurits Sabbe	Arthur J.H. Cornette	6	Maurits Sabbe	9 februari 1873
 D.A.M. Binnendijk	Martinus Nijhoff	5	D.A.M. Binnendijk	12 oktober 1902
 Virginie Loveling	Arthur J.H. Cornette	8	Virginie Loveling	17 mei 1836
 Maurice Roelants	Arthur J.H. Cornette	6	Maurice Roelants	19 december 1895
+Herman Wolf	Hermann Wolf	12	Herman Wolf	20ste eeuw
 Dirk Coster	Arthur J.H. Cornette	5	Dirk Coster	7 juli 1887
 C.R. de Klerk	Johan Huizinga	6	C.R. de Klerk	1873
 André de Ridder	Arthur J.H. Cornette	6	André de Ridder	20 oktober 1888
@@ -623,12 +630,14 @@ P.C. Boutens	Homerus	14	P.C. Boutens	20 februari 1870
 Multatuli	E. du Perron	13	Multatuli	2 maart 1820
 Albe	J.H. Plantenga	10	Albe	8 juni 1902
 Thomas Mann	N.A. Donkersloot	8	Thomas Mann	6 juni 1875
+H. van Loon	H.T. Colenbrander	5	H. van Loon	17de eeuw
 Constantijn	J.H. Plantenga	6	Constantijn	3 mei 1834
 A.A.M. Stols	E.J. Dijksterhuis	23	A.A.M. Stols	28 januari 1900
 M. Stol	E.J. Dijksterhuis	23	M. Stol	1940
 S.J. Fockema Andreae	E.J. Dijksterhuis	11	S.J. Fockema Andreae	10 april 1904
 E.J. Dijksterhuis	H.T. Colenbrander	24	E.J. Dijksterhuis	28 oktober 1892
 E.J. Dijksterhuis	Anton van Duinkerken	8	E.J. Dijksterhuis	28 oktober 1892
+H. van Loon	E.J. Dijksterhuis	6	H. van Loon	17de eeuw
 Theun de Vries	E.J. Dijksterhuis	19	Theun de Vries	26 april 1907
 E.J. Dijksterhuis	H.E.H. van Loon	10	E.J. Dijksterhuis	28 oktober 1892
 Albe	Gerlach Royen	7	Albe	8 juni 1902
@@ -740,6 +749,7 @@ J.C.H. de Pater	Johannes Lindeboom	6	J.C.H. de Pater	26 november 1887
 Jan te Winkel	Gerard Brom	7	Jan te Winkel	16 november 1847
 Multatuli	Gerard Brom	21	Multatuli	2 maart 1820
 Albert Verwey	Gerard Brom	5	Albert Verwey	15 mei 1865
+W. van der Wielen	E.J. Dijksterhuis	6	W. van der Wielen	20ste eeuw
 J.E. de Haas	E.J. Dijksterhuis	6	J.E. de Haas	1903
 J.H. Plantenga	Anton van der Boom	7	J.H. Plantenga	15 januari 1891
 G.P. Frets	E.J. Dijksterhuis	23	G.P. Frets	8 november 1879
@@ -772,6 +782,7 @@ G. Révész	E.J. Dijksterhuis	5	G. Révész	9 december 1878
 Multatuli	W.A.P. Smit	13	Multatuli	2 maart 1820
 Albert Verwey	W.A.P. Smit	22	Albert Verwey	15 mei 1865
 Albert Verwey	Maurits Uyldert	5	Albert Verwey	15 mei 1865
+W. van der Wielen	A.N. Molenaar	5	W. van der Wielen	20ste eeuw
 E.J. Potgieter	W.A.P. Smit	6	E.J. Potgieter	27 juni 1808
 J. Keuning	E.J. Dijksterhuis	6	J. Keuning	1881
 Maurits Uyldert	W.A.P. Smit	6	Maurits Uyldert	16 februari 1881
@@ -785,6 +796,7 @@ Piet van Aken	Hubert Lampo	13	Piet van Aken	15 februari 1920
 Lode Zielens	Hubert Lampo	5	Lode Zielens	13 juni 1901
 Johan Daisne	Hubert Lampo	20	Johan Daisne	2 september 1912
 Raymond Herreman	Hubert Lampo	11	Raymond Herreman	21 augustus 1896
+Hubert	Hubert Lampo	15	Hubert	20ste eeuw
 August Vermeylen	Hubert Lampo	11	August Vermeylen	12 mei 1872
 I.J.M. van den Berg	A.N. Molenaar	5	I.J.M. van den Berg	16 juli 1890
 I.J.M. van den Berg	E.J. Dijksterhuis	10	I.J.M. van den Berg	16 juli 1890
@@ -834,6 +846,7 @@ P. Geyl	Martin Permys	6	P. Geyl	15 december 1887
 P. Geyl	Jan Barents	7	P. Geyl	15 december 1887
 C.J. de Vogel	A.N. Molenaar	5	C.J. de Vogel	1905
 Paul Rodenko	Simon Vestdijk	8	Paul Rodenko	26 november 1920
+W. de Vries	A.N. Molenaar	6	W. de Vries	20ste eeuw
 C.W. de Vries	A.N. Molenaar	6	C.W. de Vries	1882
 L. van den Ham	J.M. Kramer	6	L. van den Ham	1912
 J.M. Kramer	L. van den Ham	5	J.M. Kramer	1910
@@ -922,6 +935,7 @@ C.B. van Haeringen	C.G.N. de Vooys	115	C.B. van Haeringen	16 mei 1892
 C.B. van Haeringen	A.L. Sötemann	20	C.B. van Haeringen	16 mei 1892
 Jan van Nijlen	C.G.N. de Vooys	15	Jan van Nijlen	10 november 1884
 Augusta de Wit	C.G.N. de Vooys	17	Augusta de Wit	25 november 1864
+Hubert	Hubert van Herreweghen	64	Hubert	20ste eeuw
 Albert Verwey	J.C. Brandt Corstius	11	Albert Verwey	15 mei 1865
 W.A.P. Smit	J.C. Brandt Corstius	17	W.A.P. Smit	6 december 1903
 J. Slauerhoff	K. Lekkerkerker	6	J. Slauerhoff	14 september 1898
@@ -1086,6 +1100,7 @@ Gerard Walschap	Karel Jonckheere	30	Gerard Walschap	9 juli 1898
 Paul van 't Veer	Han Lammers	8	Paul van 't Veer	1922
 J.L. Heldring	Han Lammers	12	J.L. Heldring	21 december 1917
 A.L. Constandse	Han Lammers	59	A.L. Constandse	13 september 1899
+Hubert	Karel Jonckheere	9	Hubert	20ste eeuw
 Albe	P.J. Meertens	8	Albe	8 juni 1902
 Albe	H.W. van Tricht	5	Albe	8 juni 1902
 Frederik van Eeden	H.W. van Tricht	5	Frederik van Eeden	3 april 1860
@@ -1208,6 +1223,7 @@ Wallace Stevens	J. Bernlef	7	Wallace Stevens	1879
 Wallace Stevens	J. Bernlef	7	Wallace Stevens	 1879
 Jan Campert	J. Bernlef	5	Jan Campert	15 augustus 1902
 Jan Campert	K. Schippers	5	Jan Campert	15 augustus 1902
+William Carlos Williams	J. Bernlef	10	William Carlos Williams	20ste eeuw
 Leo Vroman	Hans Keller	6	Leo Vroman	10 april 1915
 Leo Vroman	A.L. Constandse	6	Leo Vroman	10 april 1915
 Leo Vroman	Han Lammers	5	Leo Vroman	10 april 1915
@@ -1434,6 +1450,9 @@ Wilbert Bank	Han Lammers	20	Wilbert Bank	25 juni 1942
 Peter Brook	Wilbert Bank	6	Peter Brook	21 maart 1925
 A.L. Constandse	Garmt Stuiveling	7	A.L. Constandse	13 september 1899
 A.L. Constandse	Wilbert Bank	26	A.L. Constandse	13 september 1899
+William Carlos Williams	A.L. Constandse	6	William Carlos Williams	20ste eeuw
+William Carlos Williams	Hans Keller	5	William Carlos Williams	20ste eeuw
+William Carlos Williams	Rudi Fuchs	6	William Carlos Williams	20ste eeuw
 Theun de Vries	A.L. Constandse	5	Theun de Vries	26 april 1907
 Herman Gorter	A.L. Constandse	6	Herman Gorter	26 november 1864
 Leopold	Martien J.G. de Jong	12	Leopold	7 september 1860
@@ -1569,6 +1588,7 @@ A.L. Constandse	Rein Bloem	8	A.L. Constandse	13 september 1899
 Guus Dijkhuizen	Rein Bloem	9	Guus Dijkhuizen	11 januari 1937
 Lucebert	Rein Bloem	5	Lucebert	15 september 1924
 Rein Bloem	Guus Dijkhuizen	8	Rein Bloem	20 april 1932
+Rob van der Veer	Derek Phillips	6	Rob van der Veer	20ste eeuw
 J. Bernlef	Wiel Kusters	5	J. Bernlef	14 januari 1937
 Willem Kloos	Wiel Kusters	8	Willem Kloos	6 mei 1859
 Jan Hanlo	Wiel Kusters	10	Jan Hanlo	29 mei 1912
@@ -1625,6 +1645,7 @@ Hugo Claus	A.L. Sötemann	5	Hugo Claus	5 april 1929
 Lucebert	Remco Ekkers	6	Lucebert	15 september 1924
 Wiel Kusters	Remco Ekkers	6	Wiel Kusters	1 juni 1947
 Albe	Jan van Luxemburg	5	Albe	8 juni 1902
+Hubert	Hubert Smeets	9	Hubert	20ste eeuw
 Cyriel Buysse	Marc Galle	7	Cyriel Buysse	20 september 1859
 Herman Teirlinck	Marc Galle	5	Herman Teirlinck	24 februari 1879
 Louis Couperus	Marc Galle	5	Louis Couperus	10 juni 1863
@@ -1644,7 +1665,9 @@ Albe	Harry G.M. Prick	18	Albe	8 juni 1902
 A. Agnes Sneller	Agnes Verbiest	8	A. Agnes Sneller	19 januari 1940
 Agnes Verbiest	A. Agnes Sneller	8	Agnes Verbiest	1934
 Rainer Maria Rilke	Huub Beurskens	6	Rainer Maria Rilke	4 december 1875
+R.M. van Goens	P.J. Buijnsters	6	R.M. van Goens	12 mei 1748
 Hieronymus van Alphen	P.J. Buijnsters	8	Hieronymus van Alphen	29 januari 1801
+Hieronymus van Alphen	P.J. Buijnsters	8	Hieronymus van Alphen	8 augustus 1746
 Paul Valéry	Huub Beurskens	5	Paul Valéry	 1871
 Paul Valéry	Huub Beurskens	5	Paul Valéry	1871
 Guido Gezelle	Martien J.G. de Jong	6	Guido Gezelle	1 mei 1830
@@ -1653,6 +1676,7 @@ Rudi Fuchs	G. van Benthem van den Bergh	6	Rudi Fuchs	28 april 1942
 Mieke Bal	Jan van Luxemburg	9	Mieke Bal	14 maart 1946
 Clarín	Maarten Steenmeijer	5	Clarín	25 april 1852
 Mieke Bal	Agnes Verbiest	5	Mieke Bal	14 maart 1946
+Peeters	Ernst van Alphen	5	Peeters	20ste eeuw
 Kees Fens	W.J. van den Akker	5	Kees Fens	18 oktober 1929
 A. Roland Holst	W.J. van den Akker	8	A. Roland Holst	23 mei 1888
 D.W. Fokkema	W.J. van den Akker	5	D.W. Fokkema	4 mei 1931
@@ -1675,11 +1699,13 @@ Lucebert	Hugo Brems	34	Lucebert	15 september 1924
 Huub Beurskens	Anne Duden	8	Huub Beurskens	18 februari 1950
 Anne Duden	Huub Beurskens	10	Anne Duden	1 januari 1942
 Else Lasker-Schüler	Huub Beurskens	5	Else Lasker-Schüler	1869
+Peeters	Koen Peeters	20	Peeters	20ste eeuw
 Karel van de Woestijne	Maurice Gilliams	6	Karel van de Woestijne	10 maart 1878
 Huub Beurskens	Hugo Bousset	11	Huub Beurskens	18 februari 1950
 James Joyce	Hugo Bousset	5	James Joyce	2 februari 1882
 Peter Verhelst	Hugo Bousset	21	Peter Verhelst	28 januari 1962
 Harry Mulisch	Hugo Bousset	8	Harry Mulisch	29 juli 1927
+Peeters	Hugo Bousset	17	Peeters	20ste eeuw
 Eric de Kuyper	Hugo Bousset	6	Eric de Kuyper	2 september 1942
 Multatuli	Hugo Bousset	14	Multatuli	2 maart 1820
 Paul Claes	Hugo Bousset	6	Paul Claes	30 oktober 1943
@@ -1713,6 +1739,7 @@ Fr. Meeus	A. Dupont	9	Fr. Meeus	19de eeuw
 Fr. Meeus	A. Dupont	9	Fr. Meeus	 19de eeuw
 Albe	Jaak Muyldermans	6	Albe	8 juni 1902
 Albe	A. Dupont	19	Albe	8 juni 1902
+Peeters	A. Dupont	6	Peeters	20ste eeuw
 Guido Gezelle	A. Dupont	10	Guido Gezelle	1 mei 1830
 Peter Benoit	M.E. Belpaire	20	Peter Benoit	17 augustus 1834
 Constance Teichmann	M.E. Belpaire	26	Constance Teichmann	16 juni 1824
@@ -1786,9 +1813,11 @@ Albe	Jozef van Mierlo	11	Albe	8 juni 1902
 Albertine Steenhoff-Smulders	Jules Persyn	12	Albertine Steenhoff-Smulders	2 november 1871
 Annie Salomons	Jules Persyn	5	Annie Salomons	26 juni 1885
 Maria Viola	Jules Persyn	9	Maria Viola	1 december 1871
+Peeters	J. Salsmans	6	Peeters	20ste eeuw
 Antonio Fogazzaro	Jules Persyn	5	Antonio Fogazzaro	25 maart 1842
 Albe	Fernand Toussaint van Boelaere	10	Albe	8 juni 1902
 Leopold	Floris Prims	5	Leopold	7 september 1860
+Hubert	M.E. Belpaire	6	Hubert	20ste eeuw
 Jacob van Lennep	Jules Persyn	6	Jacob van Lennep	24 maart 1802
 Marie Koenen	Jules Persyn	16	Marie Koenen	19 januari 1879
 Carel Scharten	Jules Persyn	5	Carel Scharten	14 maart 1878
@@ -1797,6 +1826,7 @@ Jozef Simons	Jules Persyn	5	Jozef Simons	21 mei 1888
 J. Salsmans	Jules Persyn	12	J. Salsmans	2 september 1873
 J. Salsmans	E. Vliebergh	5	J. Salsmans	2 september 1873
 D.C. Tinbergen	Jules Persyn	6	D.C. Tinbergen	8 mei 1874
+Peeters	Jules Persyn	5	Peeters	20ste eeuw
 Johannes Jörgensen	Felix Rutten	6	Johannes Jörgensen	6 november 1866
 Pol de Mont	Jules Persyn	11	Pol de Mont	15 april 1857
 Felix Rutten	Jules Persyn	5	Felix Rutten	13 juli 1882
@@ -1811,6 +1841,7 @@ Albe	Joris Eeckhout	6	Albe	8 juni 1902
 Karel van de Woestijne	Joris Eeckhout	8	Karel van de Woestijne	10 maart 1878
 Albe	Louisa Duykers	45	Albe	8 juni 1902
 Cyriel Verschaeve	M.E. Belpaire	7	Cyriel Verschaeve	30 april 1874
+Peeters	M.E. Belpaire	5	Peeters	20ste eeuw
 Cyriel Verschaeve	Jules Persyn	6	Cyriel Verschaeve	30 april 1874
 Stijn Streuvels	Joris Eeckhout	5	Stijn Streuvels	3 oktober 1871
 Frederik van Eeden	Jules Persyn	5	Frederik van Eeden	3 april 1860
@@ -1828,6 +1859,7 @@ Gustaaf Segers	C.G.N. de Vooys	20	Gustaaf Segers	29 december 1848
 M.E. Belpaire	Jules Persyn	8	M.E. Belpaire	31 januari 1853
 Hugo Verriest	M.E. Belpaire	9	Hugo Verriest	25 november 1840
 Albe	Jozef Muls	7	Albe	8 juni 1902
+Hubert	Gery Helderenberg	6	Hubert	20ste eeuw
 Jozef Muls	Gerard Walschap	7	Jozef Muls	12 juli 1882
 Dirk Coster	Gerard Walschap	8	Dirk Coster	7 juli 1887
 Willem Kloos	Gerard Walschap	9	Willem Kloos	6 mei 1859
@@ -1854,6 +1886,8 @@ P. Geyl	Gerard Walschap	5	P. Geyl	15 december 1887
 Guido Gezelle	Gerard Walschap	14	Guido Gezelle	1 mei 1830
 Stijn Streuvels	Gerard Walschap	11	Stijn Streuvels	3 oktober 1871
 Cyriel Verschaeve	Gerard Walschap	12	Cyriel Verschaeve	30 april 1874
+Peeters	Gerard Walschap	15	Peeters	20ste eeuw
+Hubert	Gerard Walschap	9	Hubert	20ste eeuw
 Hilarion Thans	Gerard Walschap	5	Hilarion Thans	12 januari 1884
 Joris Eeckhout	Gerard Walschap	7	Joris Eeckhout	29 juli 1887
 Hélène Swarth	Gerard Walschap	5	Hélène Swarth	25 oktober 1859
@@ -1948,6 +1982,7 @@ Thomas Mann	Gerard Walschap	7	Thomas Mann	6 juni 1875
 Jean Cocteau	Raymond Brulez	5	Jean Cocteau	5 juli 1889
 Cyriel Buysse	Herman Teirlinck	5	Cyriel Buysse	20 september 1859
 Karel van de Woestijne	Herman Teirlinck	13	Karel van de Woestijne	10 maart 1878
+Peeters	August van Cauwelaert	5	Peeters	20ste eeuw
 Léon	Marcel Lobet	5	Léon	12 mei 1890
 Léon	Marnix Gijsen	5	Léon	12 mei 1890
 C.G.N. de Vooys	Louisa Duykers	7	C.G.N. de Vooys	26 mei 1873
@@ -1989,6 +2024,7 @@ André Demedts	P.J.H. Vermeeren	5	André Demedts	8 augustus 1906
 Jules Persyn	M.E. Belpaire	6	Jules Persyn	20 april 1878
 Marnix Gijsen	Albert Westerlinck	5	Marnix Gijsen	20 oktober 1899
 Raymond Herreman	Gerard Walschap	21	Raymond Herreman	21 augustus 1896
+Hubert	André Demedts	9	Hubert	20ste eeuw
 Juul Filliaert	M.E. Belpaire	5	Juul Filliaert	14 februari 1890
 August van Cauwelaert	M.E. Belpaire	6	August van Cauwelaert	31 december 1885
 Felix Timmermans	André Demedts	5	Felix Timmermans	5 juli 1886
@@ -2039,6 +2075,7 @@ Omer Wattez	C.G.N. de Vooys	8	Omer Wattez	9 februari 1857
 Jacob van Lennep	C.G.N. de Vooys	23	Jacob van Lennep	24 maart 1802
 Hugo Verriest	C.G.N. de Vooys	40	Hugo Verriest	25 november 1840
 Pol de Mont	C.G.N. de Vooys	32	Pol de Mont	15 april 1857
+Hubert	C.G.N. de Vooys	32	Hubert	20ste eeuw
 Albrecht Rodenbach	C.G.N. de Vooys	16	Albrecht Rodenbach	27 oktober 1856
 Max Rooses	C.G.N. de Vooys	7	Max Rooses	10 februari 1839
 Karel van de Woestijne	C.G.N. de Vooys	77	Karel van de Woestijne	10 maart 1878
@@ -2047,6 +2084,7 @@ Jan van Beers	C.G.N. de Vooys	13	Jan van Beers	22 februari 1821
 J.B. Schepers	C.G.N. de Vooys	52	J.B. Schepers	15 augustus 1865
 H. Kern	C.G.N. de Vooys	42	H. Kern	6 april 1833
 Paul Fredericq	C.G.N. de Vooys	6	Paul Fredericq	12 augustus 1850
+H. Mulder	C.G.N. de Vooys	5	H. Mulder	20ste eeuw
 André Demedts	Jozef van Mierlo	5	André Demedts	8 augustus 1906
 August Vermeylen	Max Lamberty	5	August Vermeylen	12 mei 1872
 J.C. Bloem	C. Bittremieux	6	J.C. Bloem	10 mei 1887
@@ -2060,6 +2098,7 @@ A. van Elslander	Lode Roose	8	A. van Elslander	10 september 1921
 Guido Gezelle	Emiel Jan Janssen	17	Guido Gezelle	1 mei 1830
 Gerard Wijdeveld	Tirso de Molina	12	Gerard Wijdeveld	1905
 Frederik van Eeden	Emiel Jan Janssen	9	Frederik van Eeden	3 april 1860
+Hubert	Lode Roose	6	Hubert	20ste eeuw
 André Demedts	Hubert van Herreweghen	5	André Demedts	8 augustus 1906
 André Demedts	Lode Roose	6	André Demedts	8 augustus 1906
 Herman Gorter	Martien J.G. de Jong	5	Herman Gorter	26 november 1864
@@ -2084,6 +2123,7 @@ Huub Oosterhuis	Hugo Brems	5	Huub Oosterhuis	1 november 1933
 Theun de Vries	Hugo Brems	6	Theun de Vries	26 april 1907
 Jan van der Vegt	Hugo Brems	11	Jan van der Vegt	4 oktober 1935
 Gerd Segers	Hugo Brems	5	Gerd Segers	1938
+Hubert	Hugo Brems	15	Hubert	20ste eeuw
 Ludo Abicht	Hugo Brems	7	Ludo Abicht	5 juni 1936
 Sybren Polet	Hugo Brems	12	Sybren Polet	19 juni 1924
 Harry Scholten	Hugo Brems	6	Harry Scholten	1936
@@ -2151,6 +2191,7 @@ L.H. Wiener	Hugo Brems	7	L.H. Wiener	16 februari 1945
 H. van Gorp	Hugo Brems	6	H. van Gorp	4 maart 1935
 Wim Hazeu	Hugo Brems	10	Wim Hazeu	28 april 1940
 Lieven Rens	Hugo Brems	9	Lieven Rens	15 januari 1925
+Peeters	Hugo Brems	16	Peeters	20ste eeuw
 Wilfried Adams	Hugo Brems	14	Wilfried Adams	23 november 1947
 Guido Gezelle	Hugo Brems	8	Guido Gezelle	1 mei 1830
 Paul van Ostaijen	Hugo Brems	10	Paul van Ostaijen	22 februari 1896
@@ -2300,6 +2341,7 @@ Jan Kuijper	Hugo Brems	5	Jan Kuijper	30 december 1947
 Marc Reynebeau	Hugo Brems	5	Marc Reynebeau	6 mei 1956
 Jan Schepens	Hugo Brems	6	Jan Schepens	28 mei 1909
 Lieve Scheer	Hugo Brems	6	Lieve Scheer	1936
+Hubert	Marnix Gijsen	6	Hubert	20ste eeuw
 Marcel Janssen	Marcel Janssens	8	Marcel Janssen	15 juni 1903
 R.F. Lissens	Lode Roose	6	R.F. Lissens	1912
 R.F. Lissens	Marcel Janssens	5	R.F. Lissens	1912
@@ -2321,6 +2363,7 @@ Raymond Brulez	Gerard Walschap	33	Raymond Brulez	18 oktober 1895
 Dirk van Bastelaere	Hugo Brems	5	Dirk van Bastelaere	23 oktober 1960
 Stefan Hertmans	Hugo Brems	8	Stefan Hertmans	31 maart 1951
 Stefaan Evenepoel	Hugo Brems	8	Stefaan Evenepoel	1958
+Peeters	G. Geerts	6	Peeters	20ste eeuw
 Lode Roose	Albert Westerlinck	5	Lode Roose	16 april 1920
 Benno Barnard	Hugo Brems	5	Benno Barnard	21 november 1954
 Erik Spinoy	Hugo Brems	5	Erik Spinoy	22 mei 1960
@@ -2347,6 +2390,8 @@ Erik Spinoy	Stefaan Evenepoel	41	Erik Spinoy	22 mei 1960
 Stefaan Evenepoel	Erik Spinoy	42	Stefaan Evenepoel	1958
 Benno Barnard	Erik Spinoy	5	Benno Barnard	21 november 1954
 Benno Barnard	Stefaan Evenepoel	5	Benno Barnard	21 november 1954
+Peeters	Erik Spinoy	10	Peeters	20ste eeuw
+Peeters	Stefaan Evenepoel	9	Peeters	20ste eeuw
 Gerrit Krol	Erik Spinoy	5	Gerrit Krol	1 augustus 1934
 Gerrit Krol	Stefaan Evenepoel	5	Gerrit Krol	1 augustus 1934
 K.L. Poll	Erik Spinoy	8	K.L. Poll	5 oktober 1927
@@ -2383,6 +2428,7 @@ Rudi Laermans	Hugo Bousset	5	Rudi Laermans	1957
 Gust Gils	Hugo Bousset	6	Gust Gils	20 augustus 1924
 Karel Porteman	M.A. Schenkeveld-van der Dussen	7	Karel Porteman	20 juni 1938
 Elma van Haren	Hugo Bousset	5	Elma van Haren	29 augustus 1954
+Peeters	Kamiel Vanhole	7	Peeters	20ste eeuw
 Kamiel Vanhole	Koen Peeters	20	Kamiel Vanhole	1954
 Kamiel Vanhole	Koen Peeters	20	Kamiel Vanhole	 1954
 Koen Peeters	Kamiel Vanhole	19	Koen Peeters	9 maart 1959
@@ -2437,13 +2483,16 @@ F.A. Stoett	C.F.P. Stutterheim	5	F.A. Stoett	5 mei 1863
 Ian	C.F.P. Stutterheim	5	Ian	1941
 J.J.A. Mooij	P.F. Schmitz	6	J.J.A. Mooij	18 februari 1929
 A. Mooij	P.F. Schmitz	5	A. Mooij	1944
+W. de Vries	J.W. de Vries	17	W. de Vries	20ste eeuw
 C.F.P. Stutterheim	M. Rutten	6	C.F.P. Stutterheim	21 mei 1903
+L. Pepplinkhuizen	J. F. P. de Smit	5	L. Pepplinkhuizen	20ste eeuw
 H. van Gorp	P.F. Schmitz	5	H. van Gorp	4 maart 1935
 Harry van der Hulst	Teun Hoekstra	5	Harry van der Hulst	1953
 Albert Verwey	S.J. Lenselink	5	Albert Verwey	15 mei 1865
 Albe	S.J. Lenselink	7	Albe	8 juni 1902
 W.A.P. Smit	S.J. Lenselink	7	W.A.P. Smit	6 december 1903
 G.J. de Haan	H.J. Verkuyl	5	G.J. de Haan	1944
+D. Geeraerts	Dirk Geeraerts	7	D. Geeraerts	20ste eeuw
 D.W. Fokkema	P.F. Schmitz	5	D.W. Fokkema	4 mei 1931
 J.J. Mak	C.F.P. Stutterheim	6	J.J. Mak	5 juli 1908
 Elrud Ibsch	D.W. Fokkema	5	Elrud Ibsch	1935
@@ -2456,6 +2505,7 @@ Simon Vestdijk	R.Th. van der Paardt	8	Simon Vestdijk	17 oktober 1898
 Martinus Nijhoff	C.F.P. Stutterheim	5	Martinus Nijhoff	20 april 1894
 Martinus Nijhoff	C.F.P. Stutterheim	5	Martinus Nijhoff	26 december 1826
 Jaap Goedegebuure	Eric Vos	5	Jaap Goedegebuure	1947
+Eric Vos	Jaap Goedegebuure	6	Eric Vos	20ste eeuw
 P.F. Schmitz	Rob Wolfs	9	P.F. Schmitz	10 augustus 1939
 P.F. Schmitz	Ernst van Alphen	5	P.F. Schmitz	10 augustus 1939
 Ernst van Alphen	P.F. Schmitz	7	Ernst van Alphen	1958
@@ -2759,6 +2809,7 @@ Martinus Nijhoff	Nop Maas	6	Martinus Nijhoff	26 december 1826
 Leo Herberghs	Peter J.A. Nissen	7	Leo Herberghs	21 juli 1924
 Wiel Kusters	Peter J.A. Nissen	8	Wiel Kusters	1 juni 1947
 J.C. Kannemeyer	W.F. Jonckheere	6	J.C. Kannemeyer	1939
+F.I.J. van Rensburg	W.F. Jonckheere	5	F.I.J. van Rensburg	20ste eeuw
 J. van Vloten	Nop Maas	5	J. van Vloten	18 januari 1818
 Martinus Nijhoff	Maarten Klein	5	Martinus Nijhoff	20 april 1894
 Martinus Nijhoff	Maarten Klein	5	Martinus Nijhoff	26 december 1826
@@ -2859,6 +2910,7 @@ Frans Mijnssen	C.G.N. de Vooys	9	Frans Mijnssen	28 februari 1872
 Cyriel Buysse	C.G.N. de Vooys	34	Cyriel Buysse	20 september 1859
 Top Naeff	C.G.N. de Vooys	43	Top Naeff	24 maart 1878
 Leo van Puyvelde	C.G.N. de Vooys	16	Leo van Puyvelde	30 juli 1882
+W. de Vries	C.G.N. de Vooys	62	W. de Vries	20ste eeuw
 G.J. Boekenoogen	C.G.N. de Vooys	33	G.J. Boekenoogen	18 april 1868
 Leopold	Jan Koopmans	7	Leopold	7 september 1860
 Carel Scharten	C.G.N. de Vooys	19	Carel Scharten	14 maart 1878
@@ -2921,6 +2973,7 @@ H.T. Colenbrander	C.G.N. de Vooys	5	H.T. Colenbrander	13 december 1871
 René de Clercq	C.G.N. de Vooys	14	René de Clercq	4 november 1877
 S. Bonn	C.G.N. de Vooys	6	S. Bonn	5 februari 1881
 J.D.C. van Dokkum	C.G.N. de Vooys	6	J.D.C. van Dokkum	1868
+H. van Loon	C.G.N. de Vooys	16	H. van Loon	17de eeuw
 Jan Prins	C.G.N. de Vooys	21	Jan Prins	5 februari 1876
 F.H. Fischer	C.G.N. de Vooys	6	F.H. Fischer	1876
 C.C. Uhlenbeck	C.G.N. de Vooys	5	C.C. Uhlenbeck	18 oktober 1866
@@ -2934,6 +2987,7 @@ J.L. Horsten	C.G.N. de Vooys	8	J.L. Horsten	5 september 1879
 D.A. Stracke	C.G.N. de Vooys	19	D.A. Stracke	 1875
 D.A. Stracke	C.G.N. de Vooys	19	D.A. Stracke	1875
 A. Stracke	C.G.N. de Vooys	20	A. Stracke	19de eeuw
+Peeters	C.G.N. de Vooys	38	Peeters	20ste eeuw
 M. Schönfeld	C.G.N. de Vooys	76	M. Schönfeld	9 februari 1880
 Aart van der Leeuw	C.G.N. de Vooys	46	Aart van der Leeuw	23 juni 1876
 Herman Poort	C.G.N. de Vooys	17	Herman Poort	18 juli 1886
@@ -2966,6 +3020,7 @@ J.H. Leopold	C.G.N. de Vooys	14	J.H. Leopold	11 mei 1865
 J.C. Bloem	C.G.N. de Vooys	39	J.C. Bloem	10 mei 1887
 J. van Vloten	C.G.N. de Vooys	7	J. van Vloten	18 januari 1818
 Henri van Booven	C.G.N. de Vooys	11	Henri van Booven	17 juli 1877
+V. de Meyer	C.G.N. de Vooys	10	V. de Meyer	20ste eeuw
 Herman Middendorp	C.G.N. de Vooys	14	Herman Middendorp	2 september 1888
 D.C. Hesseling	Ph.J. Simons	5	D.C. Hesseling	15 juli 1859
 Jacob Israël de Haan	C.G.N. de Vooys	14	Jacob Israël de Haan	31 december 1881
@@ -2998,6 +3053,7 @@ G.E. Opstelten	C.G.N. de Vooys	6	G.E. Opstelten	16 augustus 1889
 Henricus	C.G.N. de Vooys	7	Henricus	19de eeuw
 Pierre Kemp	C.G.N. de Vooys	7	Pierre Kemp	1 december 1886
 G.J. Geers	C.G.N. de Vooys	10	G.J. Geers	10 december 1891
+J. de Wit	C.G.N. de Vooys	11	J. de Wit	20ste eeuw
 Felix Rutten	C.G.N. de Vooys	6	Felix Rutten	13 juli 1882
 Mea Verwey	C.G.N. de Vooys	6	Mea Verwey	2 maart 1892
 K. Kooiman	C.G.N. de Vooys	7	K. Kooiman	26 december 1882
@@ -3018,10 +3074,12 @@ J.W. Muller	M. Schönfeld	6	J.W. Muller	14 juni 1858
 C.G.N. de Vooys	M. Schönfeld	31	C.G.N. de Vooys	26 mei 1873
 Albertine Steenhoff-Smulders	C.G.N. de Vooys	7	Albertine Steenhoff-Smulders	2 november 1871
 Willem de Mérode	C.G.N. de Vooys	14	Willem de Mérode	2 september 1887
+W. de Vries	Wobbe de Vries	14	W. de Vries	20ste eeuw
 Ernest Claes	C.G.N. de Vooys	10	Ernest Claes	24 oktober 1885
 Lode Monteyne	C.G.N. de Vooys	40	Lode Monteyne	21 juni 1886
 Joris Eeckhout	C.G.N. de Vooys	18	Joris Eeckhout	29 juli 1887
 Victor E. van Vriesland	C.G.N. de Vooys	18	Victor E. van Vriesland	27 oktober 1892
+Montanus	C.G.N. de Vooys	10	Montanus	20ste eeuw
 A. Goslinga	C.G.N. de Vooys	5	A. Goslinga	26 september 1884
 J.G.M. Moormann	C.G.N. de Vooys	8	J.G.M. Moormann	24 mei 1889
 J. Saks	C.G.N. de Vooys	25	J. Saks	27 februari 1867
@@ -3034,6 +3092,7 @@ G.W. Wolthuis	C.G.N. de Vooys	32	G.W. Wolthuis	1906
 Joannes Reddingius	C.G.N. de Vooys	8	Joannes Reddingius	19 juni 1873
 Antoon Thiry	C.G.N. de Vooys	6	Antoon Thiry	8 september 1888
 Gerlach Royen	C.G.N. de Vooys	128	Gerlach Royen	18 oktober 1880
+W. de Vries	G.G. Kloeke	5	W. de Vries	20ste eeuw
 Peter Benoit	C.G.N. de Vooys	6	Peter Benoit	17 augustus 1834
 J. Mansion	C.G.N. de Vooys	25	J. Mansion	1877
 Albe	C.B. van Haeringen	47	Albe	8 juni 1902
@@ -3051,6 +3110,7 @@ Willem van Eeghem	C.G.N. de Vooys	5	Willem van Eeghem	10 oktober 1888
 Kees Meekel	C.G.N. de Vooys	5	Kees Meekel	7 oktober 1883
 Fritz Francken	C.G.N. de Vooys	6	Fritz Francken	17 april 1893
 Hendrik de Vries	C.G.N. de Vooys	37	Hendrik de Vries	17 augustus 1896
+J. van de Velde	C.G.N. de Vooys	11	J. van de Velde	20ste eeuw
 J.A. Rispens	C.G.N. de Vooys	23	J.A. Rispens	5 december 1889
 Albe	Ph.J. Simons	6	Albe	8 juni 1902
 André Jolles	C.G.N. de Vooys	14	André Jolles	7 augustus 1874
@@ -3061,6 +3121,7 @@ Franz de Backer	C.G.N. de Vooys	12	Franz de Backer	22 juni 1891
 D.B. Bosman	C.G.N. de Vooys	10	D.B. Bosman	30 januari 1888
 J.A. van Praag	C.G.N. de Vooys	9	J.A. van Praag	26 februari 1895
 Paul de Keyser	C.G.N. de Vooys	25	Paul de Keyser	14 oktober 1891
+Montanus	L.P.H. Eykman	5	Montanus	20ste eeuw
 Frank Baur	C.G.N. de Vooys	25	Frank Baur	20 april 1887
 S.P.E. Boshoff	C.G.N. de Vooys	13	S.P.E. Boshoff	14 juli 1891
 P.C. Schoonees	C.G.N. de Vooys	21	P.C. Schoonees	23 december 1891
@@ -3073,6 +3134,7 @@ Albert Besnard	C.G.N. de Vooys	6	Albert Besnard	22 juni 1887
 Jan te Winkel	Ph.J. Simons	5	Jan te Winkel	16 november 1847
 Alice Nahon	C.G.N. de Vooys	7	Alice Nahon	16 augustus 1896
 Multatuli	C.B. van Haeringen	32	Multatuli	2 maart 1820
+W. de Vries	C.B. van Haeringen	16	W. de Vries	20ste eeuw
 Victor J. Brunclair	C.G.N. de Vooys	6	Victor J. Brunclair	18 oktober 1899
 Karel van de Woestijne	W. Kramer	5	Karel van de Woestijne	10 maart 1878
 L.P.H. Eykman	C.G.N. de Vooys	7	L.P.H. Eykman	27 november 1854
@@ -3208,6 +3270,7 @@ H.A. Höweler	C.G.N. de Vooys	7	H.A. Höweler	27 november 1899
 Antoon Coolen	Gerlach Royen	6	Antoon Coolen	17 april 1897
 J.H.J. Willems	C.G.N. de Vooys	5	J.H.J. Willems	1902
 G.S. Nienaber	C.G.N. de Vooys	5	G.S. Nienaber	12 november 1903
+W. de Vries	M. Schönfeld	8	W. de Vries	20ste eeuw
 J.D. Meerwaldt	C.G.N. de Vooys	6	J.D. Meerwaldt	16 maart 1888
 Johan van der Woude	C.G.N. de Vooys	12	Johan van der Woude	6 januari 1906
 H.W. van Tricht	C.G.N. de Vooys	14	H.W. van Tricht	19 november 1897
@@ -3277,7 +3340,9 @@ F. de Tollenaere	C.G.N. de Vooys	15	F. de Tollenaere	8 juli 1912
 B. van den Berg	K.H. Heeroma	5	B. van den Berg	14 februari 1911
 W. Roukens	C.G.N. de Vooys	5	W. Roukens	28 april 1896
 Gerard den Brabander	C.G.N. de Vooys	5	Gerard den Brabander	3 juli 1900
+A.P. Kieft	C.G.N. de Vooys	7	A.P. Kieft	20ste eeuw
 Albert Westerlinck	C.G.N. de Vooys	44	Albert Westerlinck	17 februari 1914
+W. de Vries	A.A. Verdenius	5	W. de Vries	20ste eeuw
 J. Karsemeijer	C.G.N. de Vooys	7	J. Karsemeijer	1897
 Annie Romein-Verschoor	C.G.N. de Vooys	9	Annie Romein-Verschoor	4 februari 1895
 J.W. Muller	C.C. de Bruin	5	J.W. Muller	14 juni 1858
@@ -3380,6 +3445,7 @@ Achilles Mussche	C.B. van Haeringen	5	Achilles Mussche	12 augustus 1896
 Guido Gezelle	C.B. van Haeringen	9	Guido Gezelle	1 mei 1830
 Karel van de Woestijne	C.B. van Haeringen	9	Karel van de Woestijne	10 maart 1878
 G.A. van Es	W.A.P. Smit	13	G.A. van Es	21 december 1904
+Hubert	W.A.P. Smit	5	Hubert	20ste eeuw
 J.J. Mak	W.A.P. Smit	18	J.J. Mak	5 juli 1908
 S.P. Uri	C.G.N. de Vooys	6	S.P. Uri	21 mei 1903
 H. de Vocht	C.G.N. de Vooys	7	H. de Vocht	 1878
@@ -3423,6 +3489,7 @@ Adriaan Morriën	C.G.N. de Vooys	5	Adriaan Morriën	5 juni 1912
 C.G.L. Apeldoorn	C.G.N. de Vooys	9	C.G.L. Apeldoorn	1910
 Ernst van Heerden	C.G.N. de Vooys	11	Ernst van Heerden	20 maart 1916
 Gilbert Degroote	W.A.P. Smit	11	Gilbert Degroote	28 januari 1914
+J. de Wit	W.A.P. Smit	7	J. de Wit	20ste eeuw
 Erik van Ruysbeek	C.G.N. de Vooys	9	Erik van Ruysbeek	25 april 1915
 C.B. van Haeringen	P.C. Paardekooper	5	C.B. van Haeringen	16 mei 1892
 A.W. de Groot	P.C. Paardekooper	6	A.W. de Groot	13 januari 1892
@@ -3466,6 +3533,7 @@ Multatuli	F. Jansonius	11	Multatuli	2 maart 1820
 Jos de Haes	C.G.N. de Vooys	5	Jos de Haes	22 april 1920
 Lodewijk van Deyssel	J. Kamerbeek jr.	7	Lodewijk van Deyssel	22 september 1864
 Hugo Claus	C.G.N. de Vooys	8	Hugo Claus	5 april 1929
+Peeters	C.B. van Haeringen	8	Peeters	20ste eeuw
 Gerard Walschap	W.A.P. Smit	8	Gerard Walschap	9 juli 1898
 B. van den Berg	Jo Daan	5	B. van den Berg	14 februari 1911
 W.J.C. Buitendijk	C.B. van Haeringen	6	W.J.C. Buitendijk	11 april 1906
@@ -3485,12 +3553,14 @@ N.P. van Wyk Louw	C.B. van Haeringen	8	N.P. van Wyk Louw	11 juni 1906
 N.P. van Wyk Louw	W.A.P. Smit	8	N.P. van Wyk Louw	11 juni 1906
 P.C. Paardekooper	C.B. van Haeringen	13	P.C. Paardekooper	6 november 1920
 P.C. Paardekooper	W.A.P. Smit	12	P.C. Paardekooper	6 november 1920
+J. de Wit	C.B. van Haeringen	6	J. de Wit	20ste eeuw
 A. Roland Holst	C.B. van Haeringen	9	A. Roland Holst	23 mei 1888
 A. Roland Holst	W.A.P. Smit	6	A. Roland Holst	23 mei 1888
 A. Sassen	C.B. van Haeringen	8	A. Sassen	25 juni 1921
 P.N. van Eyck	C.B. van Haeringen	8	P.N. van Eyck	1 oktober 1887
 Marnix Gijsen	C.B. van Haeringen	7	Marnix Gijsen	20 oktober 1899
 P. Minderaa	C.B. van Haeringen	13	P. Minderaa	3 december 1893
+L. Koelmans	C.B. van Haeringen	7	L. Koelmans	20ste eeuw
 G.I. Lieftinck	W.Gs Hellinga	8	G.I. Lieftinck	1902
 P.J.H. Vermeeren	W.Gs Hellinga	26	P.J.H. Vermeeren	11 oktober 1913
 J.A. Huisman	C.B. van Haeringen	10	J.A. Huisman	30 april 1919
@@ -3503,6 +3573,7 @@ Stefan George	W.A.P. Smit	8	Stefan George	1868
 B. Hunningher	W.A.P. Smit	5	B. Hunningher	1903
 Constantijn	C.B. van Haeringen	13	Constantijn	3 mei 1834
 Willem Pée	W.A.P. Smit	9	Willem Pée	9 april 1903
+Hubert	C.M. Geerars	8	Hubert	20ste eeuw
 C.M. Geerars	D.Th. Enklaar	6	C.M. Geerars	15 augustus 1921
 Lodewijk van Deyssel	C.B. van Haeringen	5	Lodewijk van Deyssel	22 september 1864
 A. Teeuw	C.B. van Haeringen	6	A. Teeuw	12 augustus 1921
@@ -3527,6 +3598,7 @@ W.A.P. Smit	L. Strengholt	10	W.A.P. Smit	6 december 1903
 J.J. Mak	M. Rutten	6	J.J. Mak	5 juli 1908
 A. van Elslander	F. van Vinckenroye	5	A. van Elslander	10 september 1921
 W.A.P. Smit	Karel Meeuwesse	7	W.A.P. Smit	6 december 1903
+F. Ketner	C.B. van Haeringen	8	F. Ketner	20ste eeuw
 M. Hanot	C.B. van Haeringen	5	M. Hanot	14 februari 1926
 C.B. van Haeringen	F. Ketner	6	C.B. van Haeringen	16 mei 1892
 Marcellus Emants	M.C. van den Toorn	6	Marcellus Emants	12 augustus 1848
@@ -3572,6 +3644,7 @@ C.B. van Haeringen	W.J.H. Caron	5	C.B. van Haeringen	16 mei 1892
 R. Lievens	C.B. van Haeringen	7	R. Lievens	2 januari 1924
 R. Lievens	W.A.P. Smit	5	R. Lievens	2 januari 1924
 J.J. Mak	L. Peeters	5	J.J. Mak	5 juli 1908
+Peeters	L. Peeters	6	Peeters	20ste eeuw
 Ian	C.B. van Haeringen	5	Ian	1941
 A. Sassen	W.A.P. Smit	5	A. Sassen	25 juni 1921
 Menno ter Braak	W.A.P. Smit	5	Menno ter Braak	26 januari 1902
@@ -3591,6 +3664,7 @@ C.B. van Haeringen	J. Naarding	5	C.B. van Haeringen	16 mei 1892
 C.B. van Haeringen	K.H. Heeroma	6	C.B. van Haeringen	16 mei 1892
 W.A.P. Smit	K. Fokkema	8	W.A.P. Smit	6 december 1903
 W.A.P. Smit	J.G.M. Moormann	7	W.A.P. Smit	6 december 1903
+F. Ketner	W.A.P. Smit	6	F. Ketner	20ste eeuw
 J. Deschamps	C.B. van Haeringen	9	J. Deschamps	1 januari 1917
 J. Deschamps	W.A.P. Smit	8	J. Deschamps	1 januari 1917
 Garmt Stuiveling	W.A.P. Smit	5	Garmt Stuiveling	21 december 1907
@@ -3608,9 +3682,11 @@ Ian	J.C. Arens	6	Ian	1941
 Jacob Israël de Haan	Jaap Meijer	5	Jacob Israël de Haan	31 december 1881
 Carry van Bruggen	C.B. van Haeringen	5	Carry van Bruggen	1 januari 1881
 W.A.P. Smit	J.C. Arens	6	W.A.P. Smit	6 december 1903
+L. Koelmans	B. van den Berg	18	L. Koelmans	20ste eeuw
 Hilda van Assche	C.B. van Haeringen	13	Hilda van Assche	5 september 1922
 Hilda van Assche	W.A.P. Smit	12	Hilda van Assche	5 september 1922
 W.A.P. Smit	B. van den Berg	46	W.A.P. Smit	6 december 1903
+L. Koelmans	W.A.P. Smit	7	L. Koelmans	20ste eeuw
 H.W. van Tricht	W.A.P. Smit	5	H.W. van Tricht	19 november 1897
 Ada Deprez	W.A.P. Smit	7	Ada Deprez	12 oktober 1928
 Ada Deprez	C.B. van Haeringen	11	Ada Deprez	12 oktober 1928
@@ -3628,6 +3704,7 @@ Hendrik Conscience	C.B. van Haeringen	5	Hendrik Conscience	3 december 1812
 Hendrik Conscience	W.A.P. Smit	5	Hendrik Conscience	3 december 1812
 Albert Verwey	Hubert J. Michaël	6	Albert Verwey	15 mei 1865
 Willem Kloos	Hubert J. Michaël	10	Willem Kloos	6 mei 1859
+Hubert	Hubert J. Michaël	9	Hubert	20ste eeuw
 Albe	Hubert J. Michaël	7	Albe	8 juni 1902
 P. Minderaa	B. van den Berg	6	P. Minderaa	3 december 1893
 P.N. van Eyck	B. van den Berg	7	P.N. van Eyck	1 oktober 1887
@@ -3637,12 +3714,16 @@ Maartje Draak	B. van den Berg	6	Maartje Draak	25 maart 1907
 P.J.H. Vermeeren	B. van den Berg	7	P.J.H. Vermeeren	11 oktober 1913
 P.J.H. Vermeeren	C.B. van Haeringen	8	P.J.H. Vermeeren	11 oktober 1913
 Frederik van Eeden	B. van den Berg	6	Frederik van Eeden	3 april 1860
+Peeters	B. van den Berg	13	Peeters	20ste eeuw
+Peeters	W.A.P. Smit	5	Peeters	20ste eeuw
 M.C.A. van der Heijden	C.B. van Haeringen	6	M.C.A. van der Heijden	1931
 C.B. van Haeringen	H.T.J. Miedema	6	C.B. van Haeringen	16 mei 1892
 E.M. Uhlenbeck	B. van den Berg	6	E.M. Uhlenbeck	1913
 L. Strengholt	J.C. Arens	5	L. Strengholt	31 december 1930
 W.A.P. Smit	N. de Paepe	6	W.A.P. Smit	6 december 1903
+Hubert	C.B. van Haeringen	6	Hubert	20ste eeuw
 Jan van Bakel	W.A.P. Smit	8	Jan van Bakel	11 december 1927
+J. de Wit	B. van den Berg	5	J. de Wit	20ste eeuw
 Constantijn	P.E.L. Verkuyl	17	Constantijn	3 mei 1834
 W.A.P. Smit	C.M. Geerars	9	W.A.P. Smit	6 december 1903
 Drs. P	W.A.P. Smit	5	Drs. P	24 augustus 1919
@@ -3675,6 +3756,7 @@ F.L. Zwaan	M.A. Schenkeveld-van der Dussen	8	F.L. Zwaan	8 oktober 1906
 F.A. Snellaert	M.A. Schenkeveld-van der Dussen	9	F.A. Snellaert	21 juli 1809
 Matthias de Vries	M.A. Schenkeveld-van der Dussen	5	Matthias de Vries	9 november 1820
 P.C. Paardekooper	M.A. Schenkeveld-van der Dussen	21	P.C. Paardekooper	6 november 1920
+Hubert	M.A. Schenkeveld-van der Dussen	14	Hubert	20ste eeuw
 G. Geerts	C.B. van Haeringen	5	G. Geerts	1935
 Kees Fens	C.B. van Haeringen	5	Kees Fens	18 oktober 1929
 M.C. van den Toorn	C.B. van Haeringen	9	M.C. van den Toorn	4 januari 1929
@@ -3696,6 +3778,7 @@ H. Entjes	B. van den Berg	6	H. Entjes	17 september 1919
 M. Rutten	B. van den Berg	11	M. Rutten	18 april 1906
 F.L. Zwaan	L. Koelmans	10	F.L. Zwaan	8 oktober 1906
 W.P. Gerritsen	L. Koelmans	16	W.P. Gerritsen	12 augustus 1935
+Hubert	L. Koelmans	5	Hubert	20ste eeuw
 Albe	L. Koelmans	9	Albe	8 juni 1902
 C.C. de Bruin	W.J.C. Buitendijk	5	C.C. de Bruin	15 mei 1905
 C.C. de Bruin	L. Koelmans	7	C.C. de Bruin	15 mei 1905
@@ -3750,6 +3833,7 @@ H.J.E. Endepols	R. Vos	7	H.J.E. Endepols	15 februari 1877
 Multatuli	W.J.C. Buitendijk	5	Multatuli	2 maart 1820
 J. Goossens	W.P. Gerritsen	20	J. Goossens	1944
 A. Ampe	W.P. Gerritsen	5	A. Ampe	17 april 1912
+Peeters	W.P. Gerritsen	16	Peeters	20ste eeuw
 L.C. Michels	J.C. Arens	6	L.C. Michels	23 oktober 1887
 Constantijn	Lode Roose	5	Constantijn	3 mei 1834
 P.C. Paardekooper	M.C. van den Toorn	30	P.C. Paardekooper	6 november 1920
@@ -3783,6 +3867,7 @@ S.J. Lenselink	B. van den Berg	5	S.J. Lenselink	28 juni 1912
 Paul van Ostaijen	B. van den Berg	9	Paul van Ostaijen	22 februari 1896
 G. Geerts	L. Koelmans	8	G. Geerts	1935
 G. Geerts	M.C. van den Toorn	22	G. Geerts	1935
+Hubert	M.C. van den Toorn	8	Hubert	20ste eeuw
 S.F. Witstein	M.C. van den Toorn	6	S.F. Witstein	22 mei 1920
 L. Elaut	B. van den Berg	5	L. Elaut	26 december 1897
 F.G. Droste	B. van den Berg	6	F.G. Droste	4 juli 1928
@@ -3863,6 +3948,8 @@ Multatuli	W.P. Gerritsen	14	Multatuli	2 maart 1820
 H.J. Verkuyl	B. van den Berg	7	H.J. Verkuyl	1938
 H.J. Verkuyl	A.L. Sötemann	6	H.J. Verkuyl	1938
 H.J. Verkuyl	W.P. Gerritsen	21	H.J. Verkuyl	1938
+A.M.J. van Buuren	A.L. Sötemann	6	A.M.J. van Buuren	20ste eeuw
+A.M.J. van Buuren	W.P. Gerritsen	14	A.M.J. van Buuren	20ste eeuw
 H.M. Hermkens	A.L. Sötemann	5	H.M. Hermkens	1922
 H.M. Hermkens	W.P. Gerritsen	6	H.M. Hermkens	1922
 J.B. Drewes	B. van den Berg	5	J.B. Drewes	20 december 1907
@@ -3908,6 +3995,7 @@ Kees Fens	W.P. Gerritsen	5	Kees Fens	18 oktober 1929
 L. Peeters	W.P. Gerritsen	6	L. Peeters	14 februari 1925
 M. Rutten	W.P. Gerritsen	5	M. Rutten	18 april 1906
 Karel van de Woestijne	W.P. Gerritsen	6	Karel van de Woestijne	10 maart 1878
+Peeters	A.L. Sötemann	8	Peeters	20ste eeuw
 R. Jansen-Sieben	W.P. Gerritsen	8	R. Jansen-Sieben	1930
 W.A. Ornée	W.P. Gerritsen	5	W.A. Ornée	26 mei 1921
 W.P. Gerritsen	Wim Vermeer	6	W.P. Gerritsen	12 augustus 1935
@@ -3954,6 +4042,8 @@ Louis Couperus	W.P. Gerritsen	5	Louis Couperus	10 juni 1863
 P.J. Buijnsters	W.P. Gerritsen	5	P.J. Buijnsters	18 oktober 1933
 W.A.P. Smit	W.P. Gerritsen	9	W.A.P. Smit	6 december 1903
 B. van den Berg	Wim Vermeer	8	B. van den Berg	14 februari 1911
+J. Griffioen	Piet Delen	5	J. Griffioen	20ste eeuw
+J. Griffioen	H.H. Grünhagen	5	J. Griffioen	20ste eeuw
 Martien J.G. de Jong	Piet Delen	10	Martien J.G. de Jong	20 mei 1929
 Martien J.G. de Jong	H.H. Grünhagen	8	Martien J.G. de Jong	20 mei 1929
 Jacques Kruithof	Piet Delen	6	Jacques Kruithof	29 augustus 1947
@@ -3979,6 +4069,8 @@ Leo Ross	Piet Delen	7	Leo Ross	15 juli 1934
 Harry Mulisch	Piet Delen	6	Harry Mulisch	29 juli 1927
 Harry Mulisch	H.H. Grünhagen	5	Harry Mulisch	29 juli 1927
 H.J. Verkuyl	Piet Delen	5	H.J. Verkuyl	1938
+Hubert	Piet Delen	7	Hubert	20ste eeuw
+Hubert	H.H. Grünhagen	5	Hubert	20ste eeuw
 Rudolf Geel	Piet Delen	8	Rudolf Geel	27 januari 1941
 Albe	Piet Delen	13	Albe	8 juni 1902
 Albe	H.H. Grünhagen	10	Albe	8 juni 1902
@@ -3990,19 +4082,28 @@ Constantijn	L. Koelmans	5	Constantijn	3 mei 1834
 D.M. Bakker	W.P. Gerritsen	8	D.M. Bakker	24 juni 1934
 Kees Fens	H.H. Grünhagen	6	Kees Fens	18 oktober 1929
 Kees Fens	Piet Delen	8	Kees Fens	18 oktober 1929
+Piet van Caldenborgh	H.H. Grünhagen	5	Piet van Caldenborgh	20ste eeuw
+Piet van Caldenborgh	Piet Delen	5	Piet van Caldenborgh	20ste eeuw
 F. de Tollenaere	Piet Delen	6	F. de Tollenaere	8 juli 1912
+Peeters	Piet Delen	6	Peeters	20ste eeuw
 M.C. van den Toorn	Piet Delen	5	M.C. van den Toorn	4 januari 1929
 Harry G.M. Prick	H.H. Grünhagen	5	Harry G.M. Prick	13 september 1925
 Harry G.M. Prick	Piet Delen	8	Harry G.M. Prick	13 september 1925
 A. Roland Holst	H.H. Grünhagen	5	A. Roland Holst	23 mei 1888
 A. Roland Holst	Piet Delen	6	A. Roland Holst	23 mei 1888
+Coen Bersma	H.H. Grünhagen	5	Coen Bersma	20ste eeuw
+Coen Bersma	Piet Delen	5	Coen Bersma	20ste eeuw
+Fritz Zondervan	Piet Delen	5	Fritz Zondervan	20ste eeuw
 Lodewijk van Deyssel	Piet Delen	6	Lodewijk van Deyssel	22 september 1864
 M.J.M. de Haan	B. van den Berg	10	M.J.M. de Haan	1942
 M.J.M. de Haan	W.P. Gerritsen	10	M.J.M. de Haan	1942
 J. Taeldeman	L. Koelmans	6	J. Taeldeman	23 december 1943
 J. Taeldeman	W.P. Gerritsen	9	J. Taeldeman	23 december 1943
+L. Koelmans	W.P. Gerritsen	21	L. Koelmans	20ste eeuw
+L. Koelmans	Wim Vermeer	5	L. Koelmans	20ste eeuw
 J.P. Gumbert	B. van den Berg	7	J.P. Gumbert	23 januari 1936
 J.P. Gumbert	W.P. Gerritsen	8	J.P. Gumbert	23 januari 1936
+Peeters	L. Koelmans	5	Peeters	20ste eeuw
 Frederik van Eeden	Piet Delen	5	Frederik van Eeden	3 april 1860
 Jan van der Vegt	H.H. Grünhagen	5	Jan van der Vegt	4 oktober 1935
 Jan van der Vegt	Piet Delen	9	Jan van der Vegt	4 oktober 1935
@@ -4015,6 +4116,7 @@ Frederik van Eeden	W.P. Gerritsen	10	Frederik van Eeden	3 april 1860
 Willem Pée	W.P. Gerritsen	6	Willem Pée	9 april 1903
 Eldert Willems	Piet Delen	5	Eldert Willems	16 mei 1923
 J.C. Bloem	W.P. Gerritsen	7	J.C. Bloem	10 mei 1887
+Montanus	M.A. Schenkeveld-van der Dussen	5	Montanus	20ste eeuw
 A. van Elslander	W.P. Gerritsen	13	A. van Elslander	10 september 1921
 W. Waterschoot	W.P. Gerritsen	6	W. Waterschoot	8 juli 1941
 Georges Wildemeersch	Piet Delen	5	Georges Wildemeersch	12 november 1947
@@ -4034,6 +4136,7 @@ J.B. Berns	M.C. van den Toorn	6	J.B. Berns	24 juni 1937
 J.J. Wesselo	Piet Delen	8	J.J. Wesselo	1940
 J.B. Berns	Piet Delen	5	J.B. Berns	24 juni 1937
 A.P. de Bont	Piet Delen	6	A.P. de Bont	20 januari 1889
+H.H. Grünhagen	Piet Delen	16	H.H. Grünhagen	20ste eeuw
 Léon	Emiel Jan Janssen	18	Léon	12 mei 1890
 Albe	Emiel Jan Janssen	57	Albe	8 juni 1902
 A.A. Weijnen	L. Koelmans	5	A.A. Weijnen	28 december 1909
@@ -4045,6 +4148,8 @@ J.B. Drewes	M.C. van den Toorn	8	J.B. Drewes	20 december 1907
 C.B. van Haeringen	M.C. van den Toorn	11	C.B. van Haeringen	16 mei 1892
 Enno Endt	M.C. van den Toorn	5	Enno Endt	3 december 1923
 A. van Elslander	M.C. van den Toorn	15	A. van Elslander	10 september 1921
+W. de Vries	M.C. van den Toorn	11	W. de Vries	20ste eeuw
+W. de Vries	W.P. Gerritsen	5	W. de Vries	20ste eeuw
 L. Mosheuvel	M.C. van den Toorn	7	L. Mosheuvel	9 maart 1922
 L. Mosheuvel	W.P. Gerritsen	10	L. Mosheuvel	9 maart 1922
 J.G. Kooij	B. van den Berg	8	J.G. Kooij	9 april 1940
@@ -4059,6 +4164,9 @@ W.P. Gerritsen	M.A. Schenkeveld-van der Dussen	62	W.P. Gerritsen	12 augustus 193
 H.M. Hermkens	M.C. van den Toorn	6	H.M. Hermkens	1922
 H.M. Hermkens	M.A. Schenkeveld-van der Dussen	5	H.M. Hermkens	1922
 Albe	M.A. Schenkeveld-van der Dussen	24	Albe	8 juni 1902
+L. Koelmans	A.L. Sötemann	10	L. Koelmans	20ste eeuw
+L. Koelmans	M.C. van den Toorn	25	L. Koelmans	20ste eeuw
+L. Koelmans	M.A. Schenkeveld-van der Dussen	19	L. Koelmans	20ste eeuw
 W.M.H. Hummelen	M.C. van den Toorn	9	W.M.H. Hummelen	9 oktober 1928
 W.M.H. Hummelen	M.A. Schenkeveld-van der Dussen	9	W.M.H. Hummelen	9 oktober 1928
 A. van Elslander	M.A. Schenkeveld-van der Dussen	10	A. van Elslander	10 september 1921
@@ -4082,11 +4190,15 @@ A. Roland Holst	M.C. van den Toorn	7	A. Roland Holst	23 mei 1888
 C. van de Ketterij	B. van den Berg	6	C. van de Ketterij	1932
 C. van de Ketterij	M.C. van den Toorn	7	C. van de Ketterij	1932
 C. van de Ketterij	W.P. Gerritsen	6	C. van de Ketterij	1932
+H. Vos	M.A. Schenkeveld-van der Dussen	5	H. Vos	20ste eeuw
 P.N. van Eyck	M.A. Schenkeveld-van der Dussen	6	P.N. van Eyck	1 oktober 1887
 W. Gobbers	M.C. van den Toorn	5	W. Gobbers	28 december 1926
 W. Gobbers	M.A. Schenkeveld-van der Dussen	5	W. Gobbers	28 december 1926
+Peeters	M.C. van den Toorn	16	Peeters	20ste eeuw
+Peeters	M.A. Schenkeveld-van der Dussen	13	Peeters	20ste eeuw
 H.J. Verkuyl	M.A. Schenkeveld-van der Dussen	26	H.J. Verkuyl	1938
 J. Deschamps	M.A. Schenkeveld-van der Dussen	9	J. Deschamps	1 januari 1917
+Hubert	W.P. Gerritsen	5	Hubert	20ste eeuw
 M.J.M. de Haan	M.C. van den Toorn	11	M.J.M. de Haan	1942
 L. Strengholt	W.P. Gerritsen	12	L. Strengholt	31 december 1930
 L. Strengholt	M.A. Schenkeveld-van der Dussen	21	L. Strengholt	31 december 1930
@@ -4110,6 +4222,7 @@ W. Waterschoot	M.C. van den Toorn	10	W. Waterschoot	8 juli 1941
 F. de Tollenaere	M.C. van den Toorn	12	F. de Tollenaere	8 juli 1912
 A. Sassen	G.J. Dorleijn	5	A. Sassen	25 juni 1921
 Marcel Janssen	G.J. Dorleijn	11	Marcel Janssen	15 juni 1903
+Peeters	G.J. Dorleijn	9	Peeters	20ste eeuw
 P.C. Paardekooper	G.J. Dorleijn	7	P.C. Paardekooper	6 november 1920
 W.P. Gerritsen	G.J. Dorleijn	11	W.P. Gerritsen	12 augustus 1935
 P.J. Buijnsters	G.J. Dorleijn	7	P.J. Buijnsters	18 oktober 1933
@@ -4126,6 +4239,7 @@ J.B. Berns	G.J. Dorleijn	7	J.B. Berns	24 juni 1937
 C. van de Ketterij	G.J. Dorleijn	5	C. van de Ketterij	1932
 André Demedts	G.J. Dorleijn	10	André Demedts	8 augustus 1906
 Frederik van Eeden	M.C. van den Toorn	8	Frederik van Eeden	3 april 1860
+A.M.J. van Buuren	M.C. van den Toorn	18	A.M.J. van Buuren	20ste eeuw
 G.R.W. Dibbets	W.P. Gerritsen	8	G.R.W. Dibbets	23 december 1938
 G.R.W. Dibbets	M.C. van den Toorn	10	G.R.W. Dibbets	23 december 1938
 Harry G.M. Prick	M.C. van den Toorn	9	Harry G.M. Prick	13 september 1925
@@ -4163,6 +4277,7 @@ A. Roland Holst	M.A. Schenkeveld-van der Dussen	6	A. Roland Holst	23 mei 1888
 Lieven Rens	A.G.M. Vermeulen	7	Lieven Rens	15 januari 1925
 Louis Couperus	A.G.M. Vermeulen	5	Louis Couperus	10 juni 1863
 Marcel Janssen	A.G.M. Vermeulen	20	Marcel Janssen	15 juni 1903
+Peeters	A.G.M. Vermeulen	12	Peeters	20ste eeuw
 H.J. Verkuyl	A.G.M. Vermeulen	10	H.J. Verkuyl	1938
 G. Geerts	A.G.M. Vermeulen	11	G. Geerts	1935
 Hedwig Speliers	A.G.M. Vermeulen	6	Hedwig Speliers	12 juni 1935
@@ -4186,6 +4301,7 @@ Hugo Bousset	A.G.M. Vermeulen	13	Hugo Bousset	1942
 Marnix Gijsen	G.J. Dorleijn	6	Marnix Gijsen	20 oktober 1899
 Marnix Gijsen	A.G.M. Vermeulen	8	Marnix Gijsen	20 oktober 1899
 G.J. Dorleijn	A.G.M. Vermeulen	14	G.J. Dorleijn	1951
+A.G.M. Vermeulen	G.J. Dorleijn	14	A.G.M. Vermeulen	20ste eeuw
 J.J. Wesselo	A.G.M. Vermeulen	7	J.J. Wesselo	1940
 J. de Jong	G.J. Dorleijn	5	J. de Jong	19de eeuw
 Jan Wolkers	A.G.M. Vermeulen	5	Jan Wolkers	26 oktober 1925
@@ -4206,6 +4322,7 @@ H. Entjes	A.G.M. Vermeulen	13	H. Entjes	17 september 1919
 A.L. Sötemann	A.G.M. Vermeulen	6	A.L. Sötemann	11 augustus 1920
 Martinus Nijhoff	A.G.M. Vermeulen	5	Martinus Nijhoff	20 april 1894
 Martinus Nijhoff	A.G.M. Vermeulen	5	Martinus Nijhoff	26 december 1826
+W. de Vries	A.G.M. Vermeulen	5	W. de Vries	20ste eeuw
 Jo Daan	A.G.M. Vermeulen	8	Jo Daan	12 mei 1910
 J.W. de Vries	A.G.M. Vermeulen	5	J.W. de Vries	14 december 1937
 Gerrit Kouwenaar	A.L. Sötemann	5	Gerrit Kouwenaar	9 augustus 1923
@@ -4268,6 +4385,7 @@ E.K. Grootes	G.J. Dorleijn	6	E.K. Grootes	22 maart 1936
 C. van de Ketterij	A.G.M. Vermeulen	5	C. van de Ketterij	1932
 M.C. van den Toorn	Maarten Klein	9	M.C. van den Toorn	4 januari 1929
 Albe	Fons van Buuren	7	Albe	8 juni 1902
+Peeters	Fons van Buuren	7	Peeters	20ste eeuw
 J. Bosch	M.C. van den Toorn	5	J. Bosch	1910
 H. Entjes	M.C. van den Toorn	5	H. Entjes	17 september 1919
 W.A. Ornée	M.C. van den Toorn	6	W.A. Ornée	26 mei 1921
@@ -4300,6 +4418,7 @@ Louis Ferron	A.G.M. Vermeulen	5	Louis Ferron	4 februari 1942
 J. Molemans	A.G.M. Vermeulen	5	J. Molemans	1938
 J.M.J. Sicking	W.P. Gerritsen	7	J.M.J. Sicking	1 maart 1936
 J.W. de Vries	M.A. Schenkeveld-van der Dussen	7	J.W. de Vries	14 december 1937
+W. de Vries	M.A. Schenkeveld-van der Dussen	8	W. de Vries	20ste eeuw
 Mieke Trommelen	M.A. Schenkeveld-van der Dussen	7	Mieke Trommelen	1951
 Constantijn	G.J. Dorleijn	5	Constantijn	3 mei 1834
 Jan van Bakel	A.G.M. Vermeulen	7	Jan van Bakel	11 december 1927
@@ -4322,6 +4441,7 @@ A. Sturm	M.C. van den Toorn	5	A. Sturm	1948
 Johan Kerstens	H.J. Verkuyl	7	Johan Kerstens	1946
 A. Sassen	M.A. Schenkeveld-van der Dussen	6	A. Sassen	25 juni 1921
 A.N. Paasman	M.A. Schenkeveld-van der Dussen	5	A.N. Paasman	26 februari 1939
+A.M.J. van Buuren	M.A. Schenkeveld-van der Dussen	18	A.M.J. van Buuren	20ste eeuw
 G.R.W. Dibbets	M.A. Schenkeveld-van der Dussen	8	G.R.W. Dibbets	23 december 1938
 P.G.J. van Sterkenburg	M.A. Schenkeveld-van der Dussen	6	P.G.J. van Sterkenburg	1942
 D.M. Bakker	M.A. Schenkeveld-van der Dussen	7	D.M. Bakker	24 juni 1934
@@ -4365,9 +4485,11 @@ Karel van de Woestijne	W.J. van den Akker	5	Karel van de Woestijne	10 maart 1878
 H.T.J. Miedema	W.J. van den Akker	5	H.T.J. Miedema	8 juni 1922
 Jaap Goedegebuure	W.J. van den Akker	5	Jaap Goedegebuure	1947
 Jeroen Brouwers	W.J. van den Akker	7	Jeroen Brouwers	30 april 1940
+Saskia Daalder	M.C. van den Toorn	7	Saskia Daalder	20ste eeuw
 Dirk Coigneau	W.P. Gerritsen	5	Dirk Coigneau	1948
 Dirk Coigneau	M.C. van den Toorn	6	Dirk Coigneau	1948
 A.M. Hagen	M.C. van den Toorn	5	A.M. Hagen	1936
+Peeters	W.J. van den Akker	8	Peeters	20ste eeuw
 Carel Peeters	W.J. van den Akker	5	Carel Peeters	5 juni 1944
 Rudolf van de Perre	W.J. van den Akker	6	Rudolf van de Perre	27 juli 1934
 Harry G.M. Prick	W.J. van den Akker	7	Harry G.M. Prick	13 september 1925
@@ -4427,6 +4549,7 @@ Herman Gorter	M.C. van den Toorn	6	Herman Gorter	26 november 1864
 A.M. Duinhoven	Evert van den Berg	5	A.M. Duinhoven	1938
 Wim Zonneveld	Fons van Buuren	6	Wim Zonneveld	1950
 Jacob van Lennep	M.A. Schenkeveld-van der Dussen	6	Jacob van Lennep	24 maart 1802
+Peeters	Arie-Jan Gelderblom	5	Peeters	20ste eeuw
 Multatuli	M.A. Schenkeveld-van der Dussen	15	Multatuli	2 maart 1820
 H.J. Verkuyl	L. Koelmans	7	H.J. Verkuyl	1938
 H.J. Verkuyl	Arie-Jan Gelderblom	11	H.J. Verkuyl	1938
@@ -4442,6 +4565,7 @@ Louis Couperus	W.A.A.M. Merlijn	19	Louis Couperus	10 juni 1863
 K. Roelandts	W.A.A.M. Merlijn	9	K. Roelandts	6 mei 1919
 Marcel Janssen	W.A.A.M. Merlijn	44	Marcel Janssen	15 juni 1903
 Carel Peeters	W.A.A.M. Merlijn	8	Carel Peeters	5 juni 1944
+Peeters	W.A.A.M. Merlijn	20	Peeters	20ste eeuw
 Hugo Brems	W.A.A.M. Merlijn	25	Hugo Brems	1944
 Hugo Claus	W.A.A.M. Merlijn	23	Hugo Claus	5 april 1929
 Albert Westerlinck	W.A.A.M. Merlijn	15	Albert Westerlinck	17 februari 1914
@@ -4478,6 +4602,9 @@ A.L. Sötemann	M.A. Schenkeveld-van der Dussen	28	A.L. Sötemann	11 augustus 192
 Martinus Nijhoff	H.J. Verkuyl	11	Martinus Nijhoff	20 april 1894
 Martinus Nijhoff	H.J. Verkuyl	11	Martinus Nijhoff	26 december 1826
 J.C. Bloem	M.A. Schenkeveld-van der Dussen	5	J.C. Bloem	10 mei 1887
+M.F. Steehouder	M.C. van den Toorn	5	M.F. Steehouder	20ste eeuw
+M.F. Steehouder	M.A. Schenkeveld-van der Dussen	5	M.F. Steehouder	20ste eeuw
+M.F. Steehouder	W.P. Gerritsen	5	M.F. Steehouder	20ste eeuw
 J. Taeldeman	H.J. Verkuyl	5	J. Taeldeman	23 december 1943
 J. Taeldeman	M.A. Schenkeveld-van der Dussen	11	J. Taeldeman	23 december 1943
 H.T.J. Miedema	M.A. Schenkeveld-van der Dussen	5	H.T.J. Miedema	8 juni 1922
@@ -4498,11 +4625,13 @@ L. Strengholt	W.A.A.M. Merlijn	20	L. Strengholt	31 december 1930
 Louis Paul Boon	W.A.A.M. Merlijn	9	Louis Paul Boon	15 maart 1912
 M.C. van den Toorn	W.A.A.M. Merlijn	19	M.C. van den Toorn	4 januari 1929
 D.H. Lammers	W.A.A.M. Merlijn	6	D.H. Lammers	1946
+T. Kruiger	W.A.A.M. Merlijn	8	T. Kruiger	20ste eeuw
 W.P. Gerritsen	W.A.A.M. Merlijn	6	W.P. Gerritsen	12 augustus 1935
 Rudolf Geel	W.A.A.M. Merlijn	16	Rudolf Geel	27 januari 1941
 P.J. Buijnsters	W.A.A.M. Merlijn	18	P.J. Buijnsters	18 oktober 1933
 T.T. Cloete	W.A.A.M. Merlijn	7	T.T. Cloete	31 mei 1924
 Karel Porteman	W.A.A.M. Merlijn	7	Karel Porteman	20 juni 1938
+W.K.B. Koning	W.A.A.M. Merlijn	6	W.K.B. Koning	20ste eeuw
 N.P. van Wyk Louw	W.A.A.M. Merlijn	5	N.P. van Wyk Louw	11 juni 1906
 Jan Schoolmeesters	W.A.A.M. Merlijn	5	Jan Schoolmeesters	1951
 W. Drop	W.A.A.M. Merlijn	6	W. Drop	6 juni 1929
@@ -4541,6 +4670,7 @@ G.F.H. Raat	W.A.A.M. Merlijn	8	G.F.H. Raat	1946
 Ida Gerhardt	W.A.A.M. Merlijn	7	Ida Gerhardt	11 mei 1905
 Rob Delvigne	W.A.A.M. Merlijn	10	Rob Delvigne	17 augustus 1948
 Jacob Israël de Haan	W.A.A.M. Merlijn	9	Jacob Israël de Haan	31 december 1881
+Dédé Brouwer	W.A.A.M. Merlijn	5	Dédé Brouwer	20ste eeuw
 Lucebert	W.A.A.M. Merlijn	14	Lucebert	15 september 1924
 C.W. van de Watering	W.A.A.M. Merlijn	6	C.W. van de Watering	1935
 H.J. Verkuyl	Johan Kerstens	9	H.J. Verkuyl	1938
@@ -4548,6 +4678,7 @@ H. Marsman	W.A.A.M. Merlijn	5	H. Marsman	30 september 1899
 Rutger Kopland	W.A.A.M. Merlijn	14	Rutger Kopland	4 augustus 1934
 Sies de Haan	W.A.A.M. Merlijn	6	Sies de Haan	1946
 Wim Zonneveld	W.A.A.M. Merlijn	14	Wim Zonneveld	1950
+W. de Vries	W.A.A.M. Merlijn	10	W. de Vries	20ste eeuw
 Elrud Ibsch	W.A.A.M. Merlijn	5	Elrud Ibsch	1935
 Marnix Gijsen	W.A.A.M. Merlijn	7	Marnix Gijsen	20 oktober 1899
 Marinel Gerritsen	W.A.A.M. Merlijn	6	Marinel Gerritsen	1949
@@ -4570,8 +4701,10 @@ J.W. de Vries	W.A.A.M. Merlijn	10	J.W. de Vries	14 december 1937
 Guido Gezelle	W.A.A.M. Merlijn	17	Guido Gezelle	1 mei 1830
 C.A. Zaalberg	W.A.A.M. Merlijn	10	C.A. Zaalberg	27 november 1909
 Hans Faverey	W.A.A.M. Merlijn	9	Hans Faverey	14 september 1933
+D. Geeraerts	W.A.A.M. Merlijn	11	D. Geeraerts	20ste eeuw
 J. van Marle	W.A.A.M. Merlijn	7	J. van Marle	1950
 R.F. Lissens	W.A.A.M. Merlijn	5	R.F. Lissens	1912
+Hubert	W.A.A.M. Merlijn	17	Hubert	20ste eeuw
 Albert Verwey	W.A.A.M. Merlijn	11	Albert Verwey	15 mei 1865
 Koen Vermeiren	W.A.A.M. Merlijn	32	Koen Vermeiren	18 december 1953
 Wim Rutgers	W.A.A.M. Merlijn	7	Wim Rutgers	19 december 1941
@@ -4621,6 +4754,7 @@ J. Goossens	R.W.W.M. van der Drift	9	J. Goossens	1944
 M.K. van Dort-Slijper	R.W.W.M. van der Drift	6	M.K. van Dort-Slijper	1939
 R.A. Cornets de Groot	R.W.W.M. van der Drift	5	R.A. Cornets de Groot	3 februari 1929
 Ida Gerhardt	R.W.W.M. van der Drift	7	Ida Gerhardt	11 mei 1905
+W. de Vries	R.W.W.M. van der Drift	10	W. de Vries	20ste eeuw
 Elrud Ibsch	R.W.W.M. van der Drift	5	Elrud Ibsch	1935
 Marinel Gerritsen	R.W.W.M. van der Drift	6	Marinel Gerritsen	1949
 Anne de Vries	R.W.W.M. van der Drift	9	Anne de Vries	22 mei 1904
@@ -4637,6 +4771,8 @@ D.J. Opperman	R.W.W.M. van der Drift	8	D.J. Opperman	1914
 Mieke Trommelen	R.W.W.M. van der Drift	9	Mieke Trommelen	1951
 B.C. Damsteegt	R.W.W.M. van der Drift	13	B.C. Damsteegt	5 juli 1915
 P.C. Paardekooper	H.J. Verkuyl	11	P.C. Paardekooper	6 november 1920
+Hubert	H.J. Verkuyl	5	Hubert	20ste eeuw
+L. Koelmans	H.J. Verkuyl	5	L. Koelmans	20ste eeuw
 R. Jansen-Sieben	M.A. Schenkeveld-van der Dussen	6	R. Jansen-Sieben	1930
 H. Schultink	M.A. Schenkeveld-van der Dussen	5	H. Schultink	3 april 1924
 Martien J.G. de Jong	R.W.W.M. van der Drift	12	Martien J.G. de Jong	20 mei 1929
@@ -4644,10 +4780,12 @@ Guus Extra	R.W.W.M. van der Drift	7	Guus Extra	1946
 H. van Gorp	R.W.W.M. van der Drift	9	H. van Gorp	4 maart 1935
 Frank Jansen	R.W.W.M. van der Drift	13	Frank Jansen	1952
 Multatuli	R.W.W.M. van der Drift	30	Multatuli	2 maart 1820
+T. Kruiger	R.W.W.M. van der Drift	8	T. Kruiger	20ste eeuw
 René Appel	R.W.W.M. van der Drift	14	René Appel	19 september 1945
 Hugo Brems	R.W.W.M. van der Drift	24	Hugo Brems	1944
 Willem Brakman	R.W.W.M. van der Drift	19	Willem Brakman	13 juni 1922
 H. Entjes	R.W.W.M. van der Drift	7	H. Entjes	17 september 1919
+W.K.B. Koning	R.W.W.M. van der Drift	5	W.K.B. Koning	20ste eeuw
 J.M. van der Horst	R.W.W.M. van der Drift	16	J.M. van der Horst	5 augustus 1949
 Garmt Stuiveling	R.W.W.M. van der Drift	7	Garmt Stuiveling	21 december 1907
 Leopold	R.W.W.M. van der Drift	18	Leopold	7 september 1860
@@ -4670,6 +4808,7 @@ M.C. van den Toorn	R.W.W.M. van der Drift	20	M.C. van den Toorn	4 januari 1929
 G. Geerts	R.W.W.M. van der Drift	13	G. Geerts	1935
 N. van der Blom	R.W.W.M. van der Drift	7	N. van der Blom	7 april 1917
 Sies de Haan	R.W.W.M. van der Drift	6	Sies de Haan	1946
+A.M.J. van Buuren	R.W.W.M. van der Drift	8	A.M.J. van Buuren	20ste eeuw
 H.M. Hermkens	R.W.W.M. van der Drift	8	H.M. Hermkens	1922
 W.G. Klooster	R.W.W.M. van der Drift	5	W.G. Klooster	1935
 Dirk Kroon	R.W.W.M. van der Drift	11	Dirk Kroon	9 mei 1946
@@ -4792,6 +4931,7 @@ Paul de Wispelaere	R.W.W.M. van der Drift	14	Paul de Wispelaere	4 juli 1928
 Clem Schouwenaars	R.W.W.M. van der Drift	5	Clem Schouwenaars	28 december 1932
 Hans van den Bergh	R.W.W.M. van der Drift	7	Hans van den Bergh	3 december 1932
 André Demedts	R.W.W.M. van der Drift	20	André Demedts	8 augustus 1906
+Saskia Daalder	M.A. Schenkeveld-van der Dussen	7	Saskia Daalder	20ste eeuw
 L. Strengholt	Arie-Jan Gelderblom	5	L. Strengholt	31 december 1930
 M.C. van den Toorn	Arie-Jan Gelderblom	12	M.C. van den Toorn	4 januari 1929
 Mieke B. Smits-Veldt	M.C. van den Toorn	6	Mieke B. Smits-Veldt	1936
@@ -4915,6 +5055,7 @@ Frank Jansen	W.A.A.M. Merlijn	13	Frank Jansen	1952
 Frederik van Eeden	W.A.A.M. Merlijn	11	Frederik van Eeden	3 april 1860
 J.J. Kloek	W.A.A.M. Merlijn	14	J.J. Kloek	1 augustus 1943
 Dirk Kroon	W.A.A.M. Merlijn	11	Dirk Kroon	9 mei 1946
+Hubert	R.W.W.M. van der Drift	17	Hubert	20ste eeuw
 J. Reynaert	W.A.A.M. Merlijn	9	J. Reynaert	23 juni 1945
 Kitty M. van Leuven-Zwart	R.W.W.M. van der Drift	5	Kitty M. van Leuven-Zwart	1943
 Karel Porteman	R.W.W.M. van der Drift	6	Karel Porteman	20 juni 1938
@@ -4924,9 +5065,11 @@ M. Vasalis	R.W.W.M. van der Drift	6	M. Vasalis	13 februari 1909
 M. Vasalis	W.A.A.M. Merlijn	6	M. Vasalis	13 februari 1909
 Johan Kerstens	R.W.W.M. van der Drift	8	Johan Kerstens	1946
 Johan Kerstens	W.A.A.M. Merlijn	8	Johan Kerstens	1946
+Peeters	R.W.W.M. van der Drift	17	Peeters	20ste eeuw
 Ward Ruyslinck	W.A.A.M. Merlijn	6	Ward Ruyslinck	17 juni 1929
 W.S. Huberts	R.W.W.M. van der Drift	6	W.S. Huberts	13 augustus 1953
 W.S. Huberts	W.A.A.M. Merlijn	5	W.S. Huberts	13 augustus 1953
+Peeters	H.J. Verkuyl	5	Peeters	20ste eeuw
 W.P. Gerritsen	Jozef D. Janssens	7	W.P. Gerritsen	12 augustus 1935
 A.M. Duinhoven	H.J. Verkuyl	5	A.M. Duinhoven	1938
 Ad Zuiderent	M.C. van den Toorn	8	Ad Zuiderent	28 mei 1944
@@ -4982,6 +5125,8 @@ W.F.G. Breekveldt	W.P. Gerritsen	5	W.F.G. Breekveldt	1935
 Cyriel Buysse	R.W.W.M. van der Drift	5	Cyriel Buysse	20 september 1859
 Cyriel Buysse	W.A.A.M. Merlijn	5	Cyriel Buysse	20 september 1859
 René Appel	W.A.A.M. Merlijn	13	René Appel	19 september 1945
+Montanus	R.W.W.M. van der Drift	5	Montanus	20ste eeuw
+Montanus	W.A.A.M. Merlijn	5	Montanus	20ste eeuw
 Gust Gils	W.A.A.M. Merlijn	6	Gust Gils	20 augustus 1924
 Mieke B. Smits-Veldt	W.A.A.M. Merlijn	18	Mieke B. Smits-Veldt	1936
 V.F. Vanacker	R.W.W.M. van der Drift	6	V.F. Vanacker	1921
@@ -5067,6 +5212,7 @@ Armand van Assche	R.W.W.M. van der Drift	6	Armand van Assche	17 september 1940
 Armand van Assche	W.A.A.M. Merlijn	6	Armand van Assche	17 september 1940
 Hans Vanacker	M.A. Schenkeveld-van der Dussen	5	Hans Vanacker	1960
 F.W.N. Hugenholtz	M.A. Schenkeveld-van der Dussen	5	F.W.N. Hugenholtz	1922
+D. Geeraerts	R.W.W.M. van der Drift	11	D. Geeraerts	20ste eeuw
 Kees Fens	W.A.A.M. Merlijn	6	Kees Fens	18 oktober 1929
 Guus Extra	W.A.A.M. Merlijn	6	Guus Extra	1946
 G.R.W. Dibbets	W.A.A.M. Merlijn	13	G.R.W. Dibbets	23 december 1938
@@ -5097,6 +5243,9 @@ Hanneke Houtkoop-Steenstra	W.A.A.M. Merlijn	6	Hanneke Houtkoop-Steenstra	5 mei 1
 Hans Bennis	R.W.W.M. van der Drift	6	Hans Bennis	1951
 Hans van den Bergh	W.A.A.M. Merlijn	5	Hans van den Bergh	3 december 1932
 H.J. Verkuyl	Hans Anten	7	H.J. Verkuyl	1938
+A.M.J. van Buuren	H.J. Verkuyl	5	A.M.J. van Buuren	20ste eeuw
+A.M.J. van Buuren	Arie-Jan Gelderblom	6	A.M.J. van Buuren	20ste eeuw
+A.M.J. van Buuren	Hans Anten	5	A.M.J. van Buuren	20ste eeuw
 Toon Tellegen	R.W.W.M. van der Drift	6	Toon Tellegen	18 november 1941
 W.W. Mijnhardt	R.W.W.M. van der Drift	6	W.W. Mijnhardt	1950
 W.W. Mijnhardt	W.A.A.M. Merlijn	6	W.W. Mijnhardt	1950
@@ -5104,6 +5253,7 @@ F. Bordewijk	R.W.W.M. van der Drift	7	F. Bordewijk	10 oktober 1884
 F. Bordewijk	W.A.A.M. Merlijn	7	F. Bordewijk	10 oktober 1884
 Karel van het Reve	R.W.W.M. van der Drift	5	Karel van het Reve	19 mei 1921
 Karel van het Reve	W.A.A.M. Merlijn	5	Karel van het Reve	19 mei 1921
+A.M.J. van Buuren	Fons van Buuren	15	A.M.J. van Buuren	20ste eeuw
 Frank Willaert	M.C. van den Toorn	7	Frank Willaert	24 mei 1952
 Frank Willaert	M.A. Schenkeveld-van der Dussen	7	Frank Willaert	24 mei 1952
 W.P. Gerritsen	Hans Anten	12	W.P. Gerritsen	12 augustus 1935
@@ -5115,6 +5265,8 @@ B.P.M. Dongelmans	W.A.A.M. Merlijn	7	B.P.M. Dongelmans	1952
 Roger Henrard	M. Rutten	5	Roger Henrard	1921
 Albe	Roger Henrard	6	Albe	8 juni 1902
 Wim Zonneveld	Mieke Trommelen	5	Wim Zonneveld	1950
+Maaike Hogenhout-Mulder	R.W.W.M. van der Drift	5	Maaike Hogenhout-Mulder	20ste eeuw
+Maaike Hogenhout-Mulder	W.A.A.M. Merlijn	5	Maaike Hogenhout-Mulder	20ste eeuw
 Ron Elshout	R.W.W.M. van der Drift	6	Ron Elshout	1956
 Ron Elshout	W.A.A.M. Merlijn	6	Ron Elshout	1956
 Theo A.J.M. Janssen	R.W.W.M. van der Drift	6	Theo A.J.M. Janssen	1944
@@ -5131,6 +5283,7 @@ Gerard Walschap	W.A.A.M. Merlijn	9	Gerard Walschap	9 juli 1898
 J.P. Guépin	R.W.W.M. van der Drift	6	J.P. Guépin	25 april 1929
 J.P. Guépin	W.A.A.M. Merlijn	6	J.P. Guépin	25 april 1929
 W.P. Gerritsen	R.W.W.M. van der Drift	5	W.P. Gerritsen	12 augustus 1935
+A.M.J. van Buuren	W.A.A.M. Merlijn	7	A.M.J. van Buuren	20ste eeuw
 W.P. Gerritsen	Arie-Jan Gelderblom	8	W.P. Gerritsen	12 augustus 1935
 Jan Kuijper	R.W.W.M. van der Drift	8	Jan Kuijper	30 december 1947
 Jan Kuijper	W.A.A.M. Merlijn	8	Jan Kuijper	30 december 1947
@@ -5145,7 +5298,9 @@ M.K. van Dort-Slijper	W.A.A.M. Merlijn	5	M.K. van Dort-Slijper	1939
 W.J. van den Akker	R.W.W.M. van der Drift	7	W.J. van den Akker	22 december 1954
 W.J. van den Akker	W.A.A.M. Merlijn	10	W.J. van den Akker	22 december 1954
 Leopold	W.J. van den Akker	7	Leopold	7 september 1860
+G. Gerritsen-Geywitz	M.A. Schenkeveld-van der Dussen	8	G. Gerritsen-Geywitz	20ste eeuw
 G. Gerritsen-Geywitz	M.A. Schenkeveld-van der Dussen	8	G. Gerritsen-Geywitz	
+G. Gerritsen-Geywitz	W.P. Gerritsen	7	G. Gerritsen-Geywitz	20ste eeuw
 G. Gerritsen-Geywitz	W.P. Gerritsen	7	G. Gerritsen-Geywitz	
 Tanja Janssen	R.W.W.M. van der Drift	5	Tanja Janssen	1958
 Piet Visser	R.W.W.M. van der Drift	5	Piet Visser	1898
@@ -5186,8 +5341,12 @@ Gé Vaartjes	R.W.W.M. van der Drift	5	Gé Vaartjes	22 november 1954
 F.P. van Oostrom	Bart Besamusca	5	F.P. van Oostrom	15 mei 1953
 Nop Maas	M.A. Schenkeveld-van der Dussen	5	Nop Maas	1 december 1949
 Nop Maas	M.C. van den Toorn	6	Nop Maas	1 december 1949
+Ton Hendrix	W.A.A.M. Merlijn	9	Ton Hendrix	20ste eeuw
+Ton Hendrix	R.W.W.M. van der Drift	9	Ton Hendrix	20ste eeuw
 J.G. Kooij	R.W.W.M. van der Drift	6	J.G. Kooij	9 april 1940
 H. van Gorp	W.A.A.M. Merlijn	7	H. van Gorp	4 maart 1935
+Kees-Jan Backhuys	W.A.A.M. Merlijn	5	Kees-Jan Backhuys	20ste eeuw
+Kees-Jan Backhuys	R.W.W.M. van der Drift	5	Kees-Jan Backhuys	20ste eeuw
 P.N.G. Pesch	M.C. van den Toorn	6	P.N.G. Pesch	1953
 P.N.G. Pesch	M.A. Schenkeveld-van der Dussen	6	P.N.G. Pesch	1953
 Marnix Gijsen	R.W.W.M. van der Drift	5	Marnix Gijsen	20 oktober 1899
@@ -5209,6 +5368,8 @@ Marijke Meijer Drees	M.C. van den Toorn	48	Marijke Meijer Drees	1954
 Marijke Meijer Drees	H.J. Verkuyl	11	Marijke Meijer Drees	1954
 Arie-Jan Gelderblom	H.J. Verkuyl	10	Arie-Jan Gelderblom	30 december 1946
 Arie-Jan Gelderblom	Marieke M. van Oostrom	5	Arie-Jan Gelderblom	30 december 1946
+Marieke M. van Oostrom	Arie-Jan Gelderblom	5	Marieke M. van Oostrom	20ste eeuw
+Marieke M. van Oostrom	M.C. van den Toorn	6	Marieke M. van Oostrom	20ste eeuw
 Hans Renders	R.W.W.M. van der Drift	7	Hans Renders	1957
 Hans Renders	W.A.A.M. Merlijn	7	Hans Renders	1957
 Carel Peeters	R.W.W.M. van der Drift	6	Carel Peeters	5 juni 1944
@@ -5266,13 +5427,18 @@ Irene Spijker	Marijke Meijer Drees	10	Irene Spijker	1956
 L. Strengholt	Marijke Meijer Drees	6	L. Strengholt	31 december 1930
 J.J. Kloek	Irene Spijker	5	J.J. Kloek	1 augustus 1943
 J.J. Kloek	Marijke Meijer Drees	8	J.J. Kloek	1 augustus 1943
+Peeters	Marijke Meijer Drees	10	Peeters	20ste eeuw
 Marijke Meijer Drees	Irene Spijker	10	Marijke Meijer Drees	1954
+R.W.W.M. van der Drift	W.A.A.M. Merlijn	75	R.W.W.M. van der Drift	20ste eeuw
 Frank van Gestel	Jan Nijen Twilhaar	6	Frank van Gestel	1939
 P.J. Meertens	Marijke Meijer Drees	7	P.J. Meertens	6 september 1899
 W.J. van den Akker	Marijke Meijer Drees	10	W.J. van den Akker	22 december 1954
 Mieke B. Smits-Veldt	Marijke Meijer Drees	5	Mieke B. Smits-Veldt	1936
 F.P. van Oostrom	Marijke Meijer Drees	6	F.P. van Oostrom	15 mei 1953
 M.A. Schenkeveld-van der Dussen	Irene Spijker	7	M.A. Schenkeveld-van der Dussen	10 oktober 1937
+H.F. Schatz	W.A.A.M. Merlijn	5	H.F. Schatz	20ste eeuw
+H.F. Schatz	R.W.W.M. van der Drift	5	H.F. Schatz	20ste eeuw
+W.A.A.M. Merlijn	R.W.W.M. van der Drift	79	W.A.A.M. Merlijn	20ste eeuw
 P.C. Paardekooper	A. Sturm	5	P.C. Paardekooper	6 november 1920
 Multatuli	Jan Nijen Twilhaar	16	Multatuli	2 maart 1820
 Cor van Bree	Jan Nijen Twilhaar	7	Cor van Bree	1932
@@ -5284,6 +5450,8 @@ Marijke Meijer Drees	Marc Van Vaeck	6	Marijke Meijer Drees	1954
 Ernst van Alphen	Marijke Meijer Drees	5	Ernst van Alphen	1958
 Kees Fens	Marijke Meijer Drees	5	Kees Fens	18 oktober 1929
 Peter van Zonneveld	Marijke Meijer Drees	7	Peter van Zonneveld	1948
+A.M.J. van Buuren	Marijke Meijer Drees	11	A.M.J. van Buuren	20ste eeuw
+A.M.J. van Buuren	P.C. Paardekooper	5	A.M.J. van Buuren	20ste eeuw
 Albe	Marijke Meijer Drees	10	Albe	8 juni 1902
 Marijke Meijer Drees	W.J. van den Akker	10	Marijke Meijer Drees	1954
 Marijke Meijer Drees	Fons van Buuren	13	Marijke Meijer Drees	1954
@@ -5329,6 +5497,7 @@ G. Geerts	Jan Nijen Twilhaar	5	G. Geerts	1935
 Jan Nijen Twilhaar	Wim Zonneveld	7	Jan Nijen Twilhaar	1955
 Wim Zonneveld	Arie-Jan Gelderblom	5	Wim Zonneveld	1950
 J.M. van der Horst	Jan Nijen Twilhaar	7	J.M. van der Horst	5 augustus 1949
+W. de Vries	Jan Nijen Twilhaar	5	W. de Vries	20ste eeuw
 Marijke Spies	Jan Nijen Twilhaar	10	Marijke Spies	5 augustus 1934
 Leopold	Jan Nijen Twilhaar	9	Leopold	7 september 1860
 Theo A.J.M. Janssen	Jan Nijen Twilhaar	5	Theo A.J.M. Janssen	1944
@@ -5363,6 +5532,7 @@ Bart Besamusca	H.J. Verkuyl	5	Bart Besamusca	1955
 Bart Besamusca	P.C. Paardekooper	6	Bart Besamusca	1955
 Bart Besamusca	Marijke Meijer Drees	6	Bart Besamusca	1955
 Wim Zonneveld	Hans Anten	6	Wim Zonneveld	1950
+Lisan van Beurden	Wim Zonneveld	5	Lisan van Beurden	20ste eeuw
 Jan Noordegraaf	Marijke Meijer Drees	5	Jan Noordegraaf	1948
 Ton van der Wouden	W.A.A.M. Merlijn	6	Ton van der Wouden	20 september 1958
 Ton van der Wouden	R.W.W.M. van der Drift	6	Ton van der Wouden	20 september 1958
@@ -5390,6 +5560,8 @@ Thomas Vaessens	R.W.W.M. van der Drift	6	Thomas Vaessens	17 november 1967
 Leo Vroman	Jan Nijen Twilhaar	5	Leo Vroman	10 april 1915
 Maarten 't Hart	Jan Nijen Twilhaar	5	Maarten 't Hart	25 november 1944
 P.C. Paardekooper	Jan Nijen Twilhaar	9	P.C. Paardekooper	6 november 1920
+A.M.J. van Buuren	Jan Nijen Twilhaar	12	A.M.J. van Buuren	20ste eeuw
+Hubert	Jan Nijen Twilhaar	12	Hubert	20ste eeuw
 P.J. Buijnsters	Jan Nijen Twilhaar	10	P.J. Buijnsters	18 oktober 1933
 J. Goossens	Jan Nijen Twilhaar	9	J. Goossens	1944
 J.A. van Leuvensteijn	Jan Nijen Twilhaar	8	J.A. van Leuvensteijn	20 april 1942
@@ -5397,10 +5569,12 @@ G.J. Dorleijn	Jan Nijen Twilhaar	15	G.J. Dorleijn	1951
 F.P. van Oostrom	Jan Nijen Twilhaar	6	F.P. van Oostrom	15 mei 1953
 Dieuwke E. van der Poel	M.C. van den Toorn	13	Dieuwke E. van der Poel	1958
 Dieuwke E. van der Poel	Marijke Meijer Drees	15	Dieuwke E. van der Poel	1958
+A.M.J. van Buuren	Dieuwke E. van der Poel	6	A.M.J. van Buuren	20ste eeuw
 Marijke Meijer Drees	Dieuwke E. van der Poel	16	Marijke Meijer Drees	1954
 Ben Salemans	M.C. van den Toorn	5	Ben Salemans	10 december 1955
 Wilbert Smulders	Jan Nijen Twilhaar	10	Wilbert Smulders	1950
 Frederik van Eeden	Jan Nijen Twilhaar	11	Frederik van Eeden	3 april 1860
+Peeters	Jan Nijen Twilhaar	13	Peeters	20ste eeuw
 Dieuwke E. van der Poel	G.J. Dorleijn	7	Dieuwke E. van der Poel	1958
 Dieuwke E. van der Poel	M.A. Schenkeveld-van der Dussen	12	Dieuwke E. van der Poel	1958
 Marijke Meijer Drees	G.J. Dorleijn	21	Marijke Meijer Drees	1954
@@ -5470,6 +5644,7 @@ Marcel Janssens	Jan Nijen Twilhaar	7	Marcel Janssens	28 februari 1932
 Hugo Bousset	Jan Nijen Twilhaar	13	Hugo Bousset	1942
 Evert van den Berg	Jan Nijen Twilhaar	8	Evert van den Berg	1942
 Willy Spillebeen	Jan Nijen Twilhaar	5	Willy Spillebeen	30 december 1932
+Montanus	Jan Nijen Twilhaar	5	Montanus	20ste eeuw
 Jos Joosten	Jan Nijen Twilhaar	5	Jos Joosten	15 november 1964
 A. Agnes Sneller	Jan Nijen Twilhaar	6	A. Agnes Sneller	19 januari 1940
 Jaap de Jong	Jan Nijen Twilhaar	10	Jaap de Jong	1961
@@ -5564,6 +5739,7 @@ Karel Jonckheere	Julien Jozef Kuypers	10	Karel Jonckheere	9 april 1906
 Karel Jonckheere	Raymond Brulez	22	Karel Jonckheere	9 april 1906
 Karel Jonckheere	Johan Daisne	10	Karel Jonckheere	9 april 1906
 Karel Jonckheere	Fernand Toussaint van Boelaere	11	Karel Jonckheere	9 april 1906
+Peeters	Karel Jonckheere	5	Peeters	20ste eeuw
 Raymond Brulez	Hubert Lampo	21	Raymond Brulez	18 oktober 1895
 Raymond Brulez	Herman Teirlinck	11	Raymond Brulez	18 oktober 1895
 Raymond Brulez	Raymond Herreman	8	Raymond Brulez	18 oktober 1895
@@ -5605,6 +5781,8 @@ Marnix Gijsen	Achilles Mussche	11	Marnix Gijsen	20 oktober 1899
 Albe	Bert Decorte	6	Albe	8 juni 1902
 Albe	Achilles Mussche	5	Albe	8 juni 1902
 Maurice Roelants	Hubert Lampo	11	Maurice Roelants	19 december 1895
+Hubert	Raymond Brulez	5	Hubert	20ste eeuw
+Hubert	Johan Daisne	6	Hubert	20ste eeuw
 Gerard Walschap	Albert van Hoogenbemt	8	Gerard Walschap	9 juli 1898
 Hubert Lampo	Gerard Walschap	13	Hubert Lampo	1 september 1920
 Hubert Lampo	Marnix Gijsen	7	Hubert Lampo	1 september 1920
@@ -5680,6 +5858,7 @@ Karel Jonckheere	Albert van Hoogenbemt	5	Karel Jonckheere	9 april 1906
 Marnix Gijsen	Paul Van Keymeulen	6	Marnix Gijsen	20 oktober 1899
 Paul Van Keymeulen	Gerard Walschap	9	Paul Van Keymeulen	3 februari 1920
 Paul Van Keymeulen	Marnix Gijsen	6	Paul Van Keymeulen	3 februari 1920
+Marcel Demeulenaere	Gerard Walschap	6	Marcel Demeulenaere	20ste eeuw
 Ivo Michiels	Hubert Lampo	14	Ivo Michiels	8 januari 1923
 Maurice Roelants	Achilles Mussche	5	Maurice Roelants	19 december 1895
 Paul Van Keymeulen	Raymond Brulez	7	Paul Van Keymeulen	3 februari 1920
@@ -5691,6 +5870,8 @@ Hugo Claus	Hubert Lampo	10	Hugo Claus	5 april 1929
 Paul van Ostaijen	Karel Jonckheere	8	Paul van Ostaijen	22 februari 1896
 Hugo Claus	Herman Teirlinck	6	Hugo Claus	5 april 1929
 Hubert Lampo	Piet van Aken	12	Hubert Lampo	1 september 1920
+Hubert	Piet van Aken	7	Hubert	20ste eeuw
+Guy Voets	Leopold Flam	6	Guy Voets	20ste eeuw
 Bergman	Piet van Aken	5	Bergman	11 september 1921
 R.F. Lissens	Karel Jonckheere	6	R.F. Lissens	1912
 Albe	Leopold Flam	7	Albe	8 juni 1902
@@ -5724,6 +5905,10 @@ A.A.M. Stols	P.J. Risseeuw	8	A.A.M. Stols	28 januari 1900
 A.A.M. Stols	C. Ouboter	7	A.A.M. Stols	28 januari 1900
 M. Stol	P.J. Risseeuw	8	M. Stol	1940
 M. Stol	C. Ouboter	7	M. Stol	1940
+Anna Mertens	P.J. Risseeuw	8	Anna Mertens	20ste eeuw
+Anna Mertens	Dingeman van der Stoep	5	Anna Mertens	20ste eeuw
+Anna Mertens	M. Siesling	5	Anna Mertens	20ste eeuw
+Anna Mertens	J.C. Schuller	5	Anna Mertens	20ste eeuw
 Jacoba M. Vreugdenhil	Koos van Doorne	6	Jacoba M. Vreugdenhil	1913
 Jacoba M. Vreugdenhil	P.J. Risseeuw	20	Jacoba M. Vreugdenhil	1913
 Jacoba M. Vreugdenhil	Dingeman van der Stoep	5	Jacoba M. Vreugdenhil	1913
@@ -5740,6 +5925,8 @@ M. Stol	Jacoba M. Vreugdenhil	7	M. Stol	1940
 M. Stol	Cornelis Rijnsdorp	5	M. Stol	1940
 Albe	Jacoba M. Vreugdenhil	8	Albe	8 juni 1902
 Albe	Cornelis Rijnsdorp	7	Albe	8 juni 1902
+P.A. Hekstra	Jacoba M. Vreugdenhil	9	P.A. Hekstra	20ste eeuw
+P.A. Hekstra	Koos van Doorne	5	P.A. Hekstra	20ste eeuw
 Albe	Jaap Das	6	Albe	8 juni 1902
 Leopold	C. Vermeer	9	Leopold	7 september 1860
 P.J. Risseeuw	C. Ouboter	9	P.J. Risseeuw	16 mei 1901
@@ -5747,6 +5934,9 @@ P.J. Risseeuw	Jaap Das	5	P.J. Risseeuw	16 mei 1901
 Leopold	P.J. Risseeuw	18	Leopold	7 september 1860
 Leopold	Jacoba M. Vreugdenhil	15	Leopold	7 september 1860
 Henk Krijger	Jacoba M. Vreugdenhil	7	Henk Krijger	1914
+C. Vermeer	Cornelis Rijnsdorp	6	C. Vermeer	20ste eeuw
+C. Vermeer	P.J. Risseeuw	12	C. Vermeer	20ste eeuw
+C. Vermeer	Jacoba M. Vreugdenhil	9	C. Vermeer	20ste eeuw
 Anna Blaman	C. Ouboter	5	Anna Blaman	31 januari 1905
 Willem de Mérode	Cornelis Rijnsdorp	5	Willem de Mérode	2 september 1887
 Leopold	C. Ouboter	11	Leopold	7 september 1860
@@ -5771,6 +5961,9 @@ J. van Doorne	Koos van Doorne	10	J. van Doorne	16 februari 1908
 Leopold	J.C. Schuller	6	Leopold	7 september 1860
 Jacoba M. Vreugdenhil	P.A. Hekstra	10	Jacoba M. Vreugdenhil	1913
 Jacoba M. Vreugdenhil	A. Wapenaar	5	Jacoba M. Vreugdenhil	1913
+C. Vermeer	C. Ouboter	7	C. Vermeer	20ste eeuw
+C. Vermeer	P.A. Hekstra	6	C. Vermeer	20ste eeuw
+C. Vermeer	J. van Doorne	6	C. Vermeer	20ste eeuw
 Jacoba M. Vreugdenhil	S.J. Popma	6	Jacoba M. Vreugdenhil	1913
 Arjen Miedema	P.J. Risseeuw	5	Arjen Miedema	1902
 Arjen Miedema	Jacoba M. Vreugdenhil	5	Arjen Miedema	1902
@@ -5779,7 +5972,10 @@ Leopold	Jan Elzo Niemeijer	17	Leopold	7 september 1860
 K.J. Popma	Jan Elzo Niemeijer	5	K.J. Popma	1903
 Multatuli	Cornelis Rijnsdorp	5	Multatuli	2 maart 1820
 Albe	Jan Elzo Niemeijer	11	Albe	8 juni 1902
+Anna Mertens	Jan Elzo Niemeijer	7	Anna Mertens	20ste eeuw
+Anna Mertens	C. Vermeer	5	Anna Mertens	20ste eeuw
 J.C.H. de Pater	Jacoba M. Vreugdenhil	5	J.C.H. de Pater	26 november 1887
+Anna Mertens	Jacoba M. Vreugdenhil	5	Anna Mertens	20ste eeuw
 Aart Romijn	J.C. Schuller	5	Aart Romijn	4 januari 1907
 Multatuli	P.J. Risseeuw	6	Multatuli	2 maart 1820
 Multatuli	Jan Elzo Niemeijer	6	Multatuli	2 maart 1820
@@ -5793,9 +5989,11 @@ P.J. Risseeuw	J.H. Schouten	5	P.J. Risseeuw	16 mei 1901
 Albe	J.H. Schouten	5	Albe	8 juni 1902
 P.J. Risseeuw	Jan Elzo Niemeijer	17	P.J. Risseeuw	16 mei 1901
 P.J. Risseeuw	Johan van Hulzen	8	P.J. Risseeuw	16 mei 1901
+P.A. Hekstra	C. Vermeer	6	P.A. Hekstra	20ste eeuw
 P.J. Risseeuw	C. Vermeer	11	P.J. Risseeuw	16 mei 1901
 Bert Bakker	P.J. Risseeuw	5	Bert Bakker	3 april 1912
 Bert Bakker	Jacoba M. Vreugdenhil	5	Bert Bakker	3 april 1912
+Anna Mertens	A. Mertens	9	Anna Mertens	20ste eeuw
 Guillaume van der Graft	C. Ouboter	7	Guillaume van der Graft	15 augustus 1920
 T.S. Eliot	C. Ouboter	9	T.S. Eliot	26 september 1888
 Ad den Besten	C. Ouboter	5	Ad den Besten	11 maart 1923
@@ -5804,6 +6002,7 @@ Bert Bakker	C. Ouboter	6	Bert Bakker	3 april 1912
 Dylan Thomas	C. Ouboter	5	Dylan Thomas	27 oktober 1914
 Jacoba M. Vreugdenhil	Jan Elzo Niemeijer	18	Jacoba M. Vreugdenhil	1913
 William Blake	F.W. van Heerikhuizen	5	William Blake	28 november 1757
+Kees Ouboter	C. Ouboter	9	Kees Ouboter	20ste eeuw
 Jaap Das	C. Ouboter	7	Jaap Das	1911
 Albert Verwey	M. Rutten	7	Albert Verwey	15 mei 1865
 August Vermeylen	Emiel Willekens	5	August Vermeylen	12 mei 1872
@@ -5859,6 +6058,7 @@ C.A. Zaalberg	Emiel Willekens	7	C.A. Zaalberg	27 november 1909
 Lodewijk van Deyssel	Emiel Willekens	8	Lodewijk van Deyssel	22 september 1864
 J.C. Brandt Corstius	Emiel Willekens	7	J.C. Brandt Corstius	31 december 1908
 M. Rutten	Emiel Willekens	5	M. Rutten	18 april 1906
+Hubert	Emiel Willekens	6	Hubert	20ste eeuw
 Simon Vestdijk	Emiel Willekens	6	Simon Vestdijk	17 oktober 1898
 C.C. de Bruin	R. Lievens	5	C.C. de Bruin	15 mei 1905
 Ian	W.E. Hegman	5	Ian	1941
@@ -5884,6 +6084,7 @@ M. Rutten	N. de Paepe	6	M. Rutten	18 april 1906
 W.J.C. Buitendijk	Oscar Dambre	5	W.J.C. Buitendijk	11 april 1906
 Multatuli	Lode Roose	5	Multatuli	2 maart 1820
 C.M. Geerars	Lode Roose	6	C.M. Geerars	15 augustus 1921
+Peeters	Emiel Willekens	5	Peeters	20ste eeuw
 Anton van Duinkerken	M. Rutten	6	Anton van Duinkerken	2 januari 1903
 W.A.P. Smit	Oscar Dambre	6	W.A.P. Smit	6 december 1903
 W.Gs Hellinga	P.J.H. Vermeeren	24	W.Gs Hellinga	20 december 1908
@@ -5929,6 +6130,8 @@ R.F. Lissens	Lieven Rens	8	R.F. Lissens	1912
 J.A. Worp	Lieven Rens	5	J.A. Worp	21 januari 1851
 R.F. Lissens	W.E. Hegman	6	R.F. Lissens	1912
 W.A.P. Smit	W.E. Hegman	5	W.A.P. Smit	6 december 1903
+Hubert	Karel Porteman	7	Hubert	20ste eeuw
+Hubert	Lieven Rens	6	Hubert	20ste eeuw
 Albe	Karel Porteman	17	Albe	8 juni 1902
 P.J. Buijnsters	Lieven Rens	9	P.J. Buijnsters	18 oktober 1933
 W. Gobbers	Lode Roose	5	W. Gobbers	28 december 1926
@@ -6038,6 +6241,13 @@ F. De Raedemaeker	Gaston Van Bulck	6	F. De Raedemaeker	1894
 J. Donceel	F. De Raedemaeker	9	J. Donceel	19de eeuw
 J. Donceel	Emiel Jan Janssen	9	J. Donceel	19de eeuw
 J. Donceel	K. du Bois de Vroylande	10	J. Donceel	19de eeuw
+G. De Wolf	F. De Raedemaeker	17	G. De Wolf	20ste eeuw
+G. De Wolf	J.A. van Houtte	5	G. De Wolf	20ste eeuw
+G. De Wolf	Emiel Jan Janssen	33	G. De Wolf	20ste eeuw
+G. De Wolf	K. du Bois de Vroylande	29	G. De Wolf	20ste eeuw
+Fr. van Baarle	F. De Raedemaeker	8	Fr. van Baarle	20ste eeuw
+Fr. van Baarle	Emiel Jan Janssen	11	Fr. van Baarle	20ste eeuw
+Fr. van Baarle	K. du Bois de Vroylande	8	Fr. van Baarle	20ste eeuw
 L. Elaut	F. De Raedemaeker	10	L. Elaut	26 december 1897
 L. Elaut	J.A. van Houtte	6	L. Elaut	26 december 1897
 L. Elaut	K. du Bois de Vroylande	11	L. Elaut	26 december 1897
@@ -6046,6 +6256,12 @@ J. Salsmans	J.A. van Houtte	14	J. Salsmans	2 september 1873
 J. Salsmans	K. du Bois de Vroylande	29	J. Salsmans	2 september 1873
 Dirk Coster	Emiel Jan Janssen	7	Dirk Coster	7 juli 1887
 Marie Koenen	L. Arts	5	Marie Koenen	19 januari 1879
+G. De Wolf	Edgard de Bruyne	6	G. De Wolf	20ste eeuw
+G. De Wolf	L. Arts	20	G. De Wolf	20ste eeuw
+Peeters	Emiel Jan Janssen	17	Peeters	20ste eeuw
+Peeters	K. du Bois de Vroylande	14	Peeters	20ste eeuw
+Peeters	L. Arts	9	Peeters	20ste eeuw
+Peeters	G. De Wolf	5	Peeters	20ste eeuw
 Anne de Vries	Emiel Jan Janssen	5	Anne de Vries	22 mei 1904
 Anne de Vries	Emiel Jan Janssen	5	Anne de Vries	19 augustus 1944
 Anne de Vries	K. du Bois de Vroylande	5	Anne de Vries	22 mei 1904
@@ -6081,6 +6297,8 @@ L.G. Polspoel	F. De Raedemaeker	10	L.G. Polspoel	19de eeuw
 L.G. Polspoel	Jan Jozef van Laer	5	L.G. Polspoel	19de eeuw
 A.A.M. Stols	Emiel Jan Janssen	5	A.A.M. Stols	28 januari 1900
 A.A.M. Stols	F. De Raedemaeker	5	A.A.M. Stols	28 januari 1900
+W. Koch	Emiel Jan Janssen	5	W. Koch	20ste eeuw
+W. Koch	K. du Bois de Vroylande	5	W. Koch	20ste eeuw
 Wies Moens	Emiel Jan Janssen	9	Wies Moens	28 januari 1898
 Wies Moens	K. du Bois de Vroylande	7	Wies Moens	28 januari 1898
 Wies Moens	F. De Raedemaeker	8	Wies Moens	28 januari 1898
@@ -6092,6 +6310,10 @@ Albe	J. Donceel	5	Albe	8 juni 1902
 Albe	Louis H.M. Monden	15	Albe	8 juni 1902
 W. De Roy	Emiel Jan Janssen	5	W. De Roy	19de eeuw
 W. De Roy	K. du Bois de Vroylande	5	W. De Roy	19de eeuw
+A. Snoeck	Emiel Jan Janssen	15	A. Snoeck	20ste eeuw
+A. Snoeck	K. du Bois de Vroylande	13	A. Snoeck	20ste eeuw
+A. Snoeck	F. De Raedemaeker	14	A. Snoeck	20ste eeuw
+A. Snoeck	Louis H.M. Monden	6	A. Snoeck	20ste eeuw
 F. De Raedemaeker	Jan Jozef van Laer	6	F. De Raedemaeker	1894
 F. De Raedemaeker	L.G. Polspoel	10	F. De Raedemaeker	1894
 Marcel Matthijs	Emiel Jan Janssen	5	Marcel Matthijs	11 januari 1899
@@ -6130,6 +6352,11 @@ Jozef Simons	Emiel Jan Janssen	10	Jozef Simons	21 mei 1888
 Hugo Verriest	Emiel Jan Janssen	6	Hugo Verriest	25 november 1840
 Bergman	L. Vander Kerken	5	Bergman	11 september 1921
 Bergman	Louis H.M. Monden	9	Bergman	11 september 1921
+Peeters	L. Vander Kerken	7	Peeters	20ste eeuw
+Peeters	Louis H.M. Monden	5	Peeters	20ste eeuw
+Peeters	F. De Raedemaeker	9	Peeters	20ste eeuw
+Peeters	R. van Ooteghem	5	Peeters	20ste eeuw
+Peeters	A. Darquennes	6	Peeters	20ste eeuw
 Multatuli	K. du Bois de Vroylande	5	Multatuli	2 maart 1820
 Multatuli	F. De Raedemaeker	5	Multatuli	2 maart 1820
 Hilarion Thans	L. Vander Kerken	6	Hilarion Thans	12 januari 1884
@@ -6142,6 +6369,14 @@ Guido Gezelle	R. van Ooteghem	5	Guido Gezelle	1 mei 1830
 Léon	L. Vander Kerken	6	Léon	12 mei 1890
 Léon	A. Darquennes	5	Léon	12 mei 1890
 J. Donceel	L. Arts	6	J. Donceel	19de eeuw
+J. De Jaegher	F. De Raedemaeker	6	J. De Jaegher	20ste eeuw
+J. De Jaegher	L. Arts	8	J. De Jaegher	20ste eeuw
+J. De Jaegher	Eugenius Druwé	5	J. De Jaegher	20ste eeuw
+J. De Jaegher	L. Vander Kerken	6	J. De Jaegher	20ste eeuw
+J. De Jaegher	Emiel Jan Janssen	8	J. De Jaegher	20ste eeuw
+J. De Jaegher	K. du Bois de Vroylande	8	J. De Jaegher	20ste eeuw
+J. De Jaegher	Hugo Vandeperre	7	J. De Jaegher	20ste eeuw
+J. De Jaegher	J.A. van Houtte	6	J. De Jaegher	20ste eeuw
 L. Vander Kerken	Edouard Dhanis	21	L. Vander Kerken	1910
 L. Vander Kerken	F. De Raedemaeker	44	L. Vander Kerken	1910
 L. Vander Kerken	L. Arts	28	L. Vander Kerken	1910
@@ -6163,6 +6398,11 @@ L. Arts	E.J. Vandenbussche	19	L. Arts	1901
 L. Arts	Hugo Vandeperre	19	L. Arts	1901
 L. Arts	J. De Jaegher	9	L. Arts	1901
 Albe	Edouard Dhanis	18	Albe	8 juni 1902
+A. Snoeck	Edouard Dhanis	6	A. Snoeck	20ste eeuw
+A. Snoeck	L. Arts	9	A. Snoeck	20ste eeuw
+A. Snoeck	Eugenius Druwé	8	A. Snoeck	20ste eeuw
+A. Snoeck	L. Vander Kerken	9	A. Snoeck	20ste eeuw
+A. Snoeck	J.A. van Houtte	6	A. Snoeck	20ste eeuw
 F. De Raedemaeker	Edouard Dhanis	19	F. De Raedemaeker	1894
 F. De Raedemaeker	L. Vander Kerken	45	F. De Raedemaeker	1894
 F. De Raedemaeker	E.J. Vandenbussche	12	F. De Raedemaeker	1894
@@ -6183,6 +6423,15 @@ L. Arts	P. Ellerbeek	12	L. Arts	1901
 L. Arts	Jan Jozef van Laer	6	L. Arts	1901
 F. De Raedemaeker	Leo Simoens	6	F. De Raedemaeker	1894
 F. De Raedemaeker	P. Ellerbeek	8	F. De Raedemaeker	1894
+P. Ellerbeek	L. Arts	9	P. Ellerbeek	20ste eeuw
+P. Ellerbeek	Eugenius Druwé	7	P. Ellerbeek	20ste eeuw
+P. Ellerbeek	Hugo Vandeperre	6	P. Ellerbeek	20ste eeuw
+P. Ellerbeek	Emiel Jan Janssen	9	P. Ellerbeek	20ste eeuw
+P. Ellerbeek	Louis H.M. Monden	5	P. Ellerbeek	20ste eeuw
+P. Ellerbeek	L. Vander Kerken	8	P. Ellerbeek	20ste eeuw
+P. Ellerbeek	F. De Raedemaeker	7	P. Ellerbeek	20ste eeuw
+P. Ellerbeek	J. Salsmans	9	P. Ellerbeek	20ste eeuw
+P. Ellerbeek	J.A. van Houtte	7	P. Ellerbeek	20ste eeuw
 J. Salsmans	L. Arts	23	J. Salsmans	2 september 1873
 J. Salsmans	Eugenius Druwé	13	J. Salsmans	2 september 1873
 J. Salsmans	Hugo Vandeperre	13	J. Salsmans	2 september 1873
@@ -6204,6 +6453,11 @@ M. Schurmans	Eugenius Druwé	6	M. Schurmans	1901
 M. Schurmans	Emiel Jan Janssen	6	M. Schurmans	1901
 M. Schurmans	J. Salsmans	6	M. Schurmans	1901
 M. Schurmans	J.A. van Houtte	6	M. Schurmans	1901
+Peeters	Eugenius Druwé	6	Peeters	20ste eeuw
+Peeters	Michiel Dierickx	10	Peeters	20ste eeuw
+P. Ellerbeek	Michiel Dierickx	5	P. Ellerbeek	20ste eeuw
+P. Ellerbeek	E.J. Vandenbussche	5	P. Ellerbeek	20ste eeuw
+P. Ellerbeek	K. du Bois de Vroylande	7	P. Ellerbeek	20ste eeuw
 L. Vander Kerken	Michiel Dierickx	38	L. Vander Kerken	1910
 L. Vander Kerken	Ad. Jansen	12	L. Vander Kerken	1910
 L. Vander Kerken	Karel van Isacker	8	L. Vander Kerken	1910
@@ -6225,6 +6479,16 @@ F. De Raedemaeker	Michiel Dierickx	38	F. De Raedemaeker	1894
 F. De Raedemaeker	Ad. Jansen	11	F. De Raedemaeker	1894
 F. De Raedemaeker	Karel van Isacker	10	F. De Raedemaeker	1894
 F. De Raedemaeker	L. Baudez	14	F. De Raedemaeker	1894
+L. Baudez	Eugenius Druwé	12	L. Baudez	20ste eeuw
+L. Baudez	L. Arts	12	L. Baudez	20ste eeuw
+L. Baudez	F. De Raedemaeker	12	L. Baudez	20ste eeuw
+L. Baudez	Michiel Dierickx	15	L. Baudez	20ste eeuw
+L. Baudez	Emiel Jan Janssen	20	L. Baudez	20ste eeuw
+L. Baudez	L. Vander Kerken	17	L. Baudez	20ste eeuw
+L. Baudez	E.J. Vandenbussche	8	L. Baudez	20ste eeuw
+L. Baudez	Karel van Isacker	5	L. Baudez	20ste eeuw
+L. Baudez	Arthur Thomas	5	L. Baudez	20ste eeuw
+L. Baudez	K. du Bois de Vroylande	22	L. Baudez	20ste eeuw
 L.G. Polspoel	L. Arts	6	L.G. Polspoel	19de eeuw
 L.G. Polspoel	L. Vander Kerken	6	L.G. Polspoel	19de eeuw
 L.G. Polspoel	J.A. van Houtte	7	L.G. Polspoel	19de eeuw
@@ -6233,17 +6497,36 @@ L. Vander Kerken	L. Verelst	5	L. Vander Kerken	1910
 J. Salsmans	Ad. Jansen	8	J. Salsmans	2 september 1873
 L. Arts	L.G. Polspoel	6	L. Arts	1901
 L. Arts	L. Verelst	7	L. Arts	1901
+L. Verelst	L. Arts	7	L. Verelst	20ste eeuw
+L. Verelst	F. De Raedemaeker	5	L. Verelst	20ste eeuw
+L. Verelst	K. du Bois de Vroylande	7	L. Verelst	20ste eeuw
+L. Verelst	Emiel Jan Janssen	7	L. Verelst	20ste eeuw
+L. Verelst	L. Vander Kerken	5	L. Verelst	20ste eeuw
+L. Verelst	Ad. Jansen	5	L. Verelst	20ste eeuw
 F. De Raedemaeker	L. Verelst	5	F. De Raedemaeker	1894
 L. Elaut	Emiel Jan Janssen	8	L. Elaut	26 december 1897
 L. Arts	Walter F. Smet	12	L. Arts	1901
 L. Arts	H. Bruders	6	L. Arts	1901
 F. De Raedemaeker	Walter F. Smet	14	F. De Raedemaeker	1894
 F. De Raedemaeker	L. Elaut	9	F. De Raedemaeker	1894
+L. Baudez	Walter F. Smet	10	L. Baudez	20ste eeuw
 J. Salsmans	Edouard Dhanis	8	J. Salsmans	2 september 1873
 J. Salsmans	G. De Wolf	6	J. Salsmans	2 september 1873
 J. Salsmans	E.J. Vandenbussche	10	J. Salsmans	2 september 1873
 J. Salsmans	Alb. Raignier	5	J. Salsmans	2 september 1873
 J. Salsmans	P. Goedertier	6	J. Salsmans	2 september 1873
+G. De Wolf	Edouard Dhanis	18	G. De Wolf	20ste eeuw
+G. De Wolf	Eugenius Druwé	14	G. De Wolf	20ste eeuw
+G. De Wolf	J. Salsmans	6	G. De Wolf	20ste eeuw
+G. De Wolf	Albert Deblaere	20	G. De Wolf	20ste eeuw
+G. Neefs	Eugenius Druwé	5	G. Neefs	20ste eeuw
+G. Neefs	Emiel Jan Janssen	6	G. Neefs	20ste eeuw
+G. Neefs	K. du Bois de Vroylande	5	G. Neefs	20ste eeuw
+H. Peeters	Eugenius Druwé	6	H. Peeters	20ste eeuw
+H. Peeters	Emiel Jan Janssen	12	H. Peeters	20ste eeuw
+H. Peeters	L. Arts	7	H. Peeters	20ste eeuw
+H. Peeters	E.J. Vandenbussche	5	H. Peeters	20ste eeuw
+H. Peeters	K. du Bois de Vroylande	11	H. Peeters	20ste eeuw
 L. Arts	Albert Deblaere	18	L. Arts	1901
 L. Arts	G. De Wolf	18	L. Arts	1901
 L. Arts	Alb. Raignier	10	L. Arts	1901
@@ -6253,6 +6536,7 @@ Albe	G. De Wolf	13	Albe	8 juni 1902
 Albe	P. Goedertier	5	Albe	8 juni 1902
 Leopold	Edouard Dhanis	7	Leopold	7 september 1860
 Leopold	Albert Deblaere	14	Leopold	7 september 1860
+Peeters	Edouard Dhanis	5	Peeters	20ste eeuw
 L. Vander Kerken	B. De Wint	10	L. Vander Kerken	1910
 L. Vander Kerken	Walter F. Smet	16	L. Vander Kerken	1910
 B. De Wint	Eugenius Druwé	7	B. De Wint	19de eeuw
@@ -6262,16 +6546,44 @@ B. De Wint	Walter F. Smet	6	B. De Wint	19de eeuw
 L. Arts	B. De Wint	5	L. Arts	1901
 Albe	B. De Wint	5	Albe	8 juni 1902
 Albe	Walter F. Smet	11	Albe	8 juni 1902
+P. Goedertier	Emiel Jan Janssen	9	P. Goedertier	20ste eeuw
+P. Goedertier	J. Salsmans	5	P. Goedertier	20ste eeuw
+P. Goedertier	E.J. Vandenbussche	5	P. Goedertier	20ste eeuw
+P. Goedertier	L. Arts	7	P. Goedertier	20ste eeuw
+P. Goedertier	K. du Bois de Vroylande	9	P. Goedertier	20ste eeuw
+P. Goedertier	Hugo Vandeperre	5	P. Goedertier	20ste eeuw
+P. Goedertier	Walter F. Smet	6	P. Goedertier	20ste eeuw
+G. De Wolf	L. Vander Kerken	18	G. De Wolf	20ste eeuw
 J. Salsmans	Michiel Dierickx	10	J. Salsmans	2 september 1873
+O. Praem	Eugenius Druwé	5	O. Praem	20ste eeuw
+O. Praem	L. Arts	5	O. Praem	20ste eeuw
+O. Praem	F. De Raedemaeker	7	O. Praem	20ste eeuw
+O. Praem	Michiel Dierickx	9	O. Praem	20ste eeuw
+O. Praem	Emiel Jan Janssen	11	O. Praem	20ste eeuw
+O. Praem	Louis H.M. Monden	5	O. Praem	20ste eeuw
+O. Praem	K. du Bois de Vroylande	9	O. Praem	20ste eeuw
 Leopold	Michiel Dierickx	16	Leopold	7 september 1860
 L. Arts	Clemens Maria Beukers	5	L. Arts	1901
+H. Peeters	Michiel Dierickx	10	H. Peeters	20ste eeuw
 F. De Raedemaeker	Clemens Maria Beukers	8	F. De Raedemaeker	1894
 L. Vander Kerken	E. de Strycker	10	L. Vander Kerken	1910
 J. Salsmans	E. de Strycker	6	J. Salsmans	2 september 1873
 L. Arts	E. de Strycker	12	L. Arts	1901
 Albe	E. de Strycker	7	Albe	8 juni 1902
+E. de Strycker	L. Arts	11	E. de Strycker	20ste eeuw
+E. de Strycker	J. Salsmans	5	E. de Strycker	20ste eeuw
+E. de Strycker	F. De Raedemaeker	9	E. de Strycker	20ste eeuw
+E. de Strycker	L. Vander Kerken	9	E. de Strycker	20ste eeuw
+E. de Strycker	K. du Bois de Vroylande	13	E. de Strycker	20ste eeuw
+E. de Strycker	Emiel Jan Janssen	13	E. de Strycker	20ste eeuw
 F. De Raedemaeker	E. de Strycker	10	F. De Raedemaeker	1894
 G. Kurth	Michiel Dierickx	6	G. Kurth	1847
+R. Leijs	L. Arts	6	R. Leijs	20ste eeuw
+R. Leijs	Albert Deblaere	10	R. Leijs	20ste eeuw
+R. Leijs	K. du Bois de Vroylande	16	R. Leijs	20ste eeuw
+R. Leijs	F. De Raedemaeker	10	R. Leijs	20ste eeuw
+R. Leijs	Karel van Isacker	6	R. Leijs	20ste eeuw
+R. Leijs	Walter F. Smet	10	R. Leijs	20ste eeuw
 J. Salsmans	Alb. Block	5	J. Salsmans	2 september 1873
 Jozef Simons	Albert Deblaere	6	Jozef Simons	21 mei 1888
 L. Arts	R. Leijs	5	L. Arts	1901
@@ -6283,12 +6595,34 @@ F. De Raedemaeker	Alb. Block	7	F. De Raedemaeker	1894
 L. Vander Kerken	E. De Cooman	8	L. Vander Kerken	1910
 L. Vander Kerken	Fr. van Baarle	16	L. Vander Kerken	1910
 L. Vander Kerken	M. van Stratum	6	L. Vander Kerken	1910
+J. Smets	F. De Raedemaeker	7	J. Smets	20ste eeuw
+J. Smets	Emiel Jan Janssen	9	J. Smets	20ste eeuw
+J. Smets	L. Vander Kerken	5	J. Smets	20ste eeuw
+J. Smets	K. du Bois de Vroylande	7	J. Smets	20ste eeuw
 B. De Wint	E. De Cooman	5	B. De Wint	19de eeuw
+E. De Cooman	Fr. van Baarle	8	E. De Cooman	20ste eeuw
+E. De Cooman	F. De Raedemaeker	9	E. De Cooman	20ste eeuw
+E. De Cooman	Eugenius Druwé	6	E. De Cooman	20ste eeuw
+E. De Cooman	B. De Wint	6	E. De Cooman	20ste eeuw
+E. De Cooman	Emiel Jan Janssen	11	E. De Cooman	20ste eeuw
+E. De Cooman	L. Vander Kerken	8	E. De Cooman	20ste eeuw
+E. De Cooman	K. du Bois de Vroylande	5	E. De Cooman	20ste eeuw
+Hubert	F. De Raedemaeker	7	Hubert	20ste eeuw
+Hubert	Emiel Jan Janssen	13	Hubert	20ste eeuw
+Hubert	L. Vander Kerken	8	Hubert	20ste eeuw
+Hubert	K. du Bois de Vroylande	12	Hubert	20ste eeuw
+M. van Stratum	Fr. van Baarle	6	M. van Stratum	20ste eeuw
+M. van Stratum	Eugenius Druwé	6	M. van Stratum	20ste eeuw
+M. van Stratum	B. De Wint	5	M. van Stratum	20ste eeuw
+M. van Stratum	Emiel Jan Janssen	7	M. van Stratum	20ste eeuw
+M. van Stratum	L. Vander Kerken	6	M. van Stratum	20ste eeuw
+M. van Stratum	K. du Bois de Vroylande	5	M. van Stratum	20ste eeuw
 F. De Raedemaeker	E. De Cooman	8	F. De Raedemaeker	1894
 F. De Raedemaeker	J. Smets	5	F. De Raedemaeker	1894
 F. De Raedemaeker	Fr. van Baarle	12	F. De Raedemaeker	1894
 L. Vander Kerken	Alb. Raignier	7	L. Vander Kerken	1910
 L. Vander Kerken	Jozef van Mierlo	5	L. Vander Kerken	1910
+J. Smets	Michiel Dierickx	7	J. Smets	20ste eeuw
 L. Elaut	Alb. Raignier	6	L. Elaut	26 december 1897
 Wies Moens	Michiel Dierickx	5	Wies Moens	28 januari 1898
 F. De Raedemaeker	Jozef van Mierlo	5	F. De Raedemaeker	1894
@@ -6297,7 +6631,16 @@ B. De Wint	Michiel Dierickx	6	B. De Wint	19de eeuw
 Jozef Simons	Michiel Dierickx	6	Jozef Simons	21 mei 1888
 Albe	Fr. van Baarle	5	Albe	8 juni 1902
 Albe	Pieter Frans Fransen	5	Albe	8 juni 1902
+J. De Fraine	L. Arts	6	J. De Fraine	20ste eeuw
+J. De Fraine	Emiel Jan Janssen	6	J. De Fraine	20ste eeuw
+J. De Fraine	K. du Bois de Vroylande	6	J. De Fraine	20ste eeuw
+J. De Fraine	Michiel Dierickx	6	J. De Fraine	20ste eeuw
 F. De Raedemaeker	Pieter Frans Fransen	7	F. De Raedemaeker	1894
+E. De Cooman	Michiel Dierickx	9	E. De Cooman	20ste eeuw
+G. Van Cutsem	Emiel Jan Janssen	6	G. Van Cutsem	20ste eeuw
+G. Van Cutsem	Michiel Dierickx	6	G. Van Cutsem	20ste eeuw
+G. Van Cutsem	K. du Bois de Vroylande	6	G. Van Cutsem	20ste eeuw
+G. Van Cutsem	L. Arts	6	G. Van Cutsem	20ste eeuw
 A. Darquennes	A. Snoeck	5	A. Darquennes	14 september 1909
 A. Darquennes	J. Salsmans	5	A. Darquennes	14 september 1909
 A. Darquennes	Alb. Block	7	A. Darquennes	14 september 1909
@@ -6317,27 +6660,57 @@ A. Darquennes	Fr. van Baarle	12	A. Darquennes	14 september 1909
 L. Vander Kerken	Alb. Block	9	L. Vander Kerken	1910
 L. Vander Kerken	G. De Wolf	16	L. Vander Kerken	1910
 L. Vander Kerken	A. Darquennes	18	L. Vander Kerken	1910
+O. Praem	L. Vander Kerken	6	O. Praem	20ste eeuw
+O. Praem	A. Darquennes	5	O. Praem	20ste eeuw
+Hubert	Michiel Dierickx	10	Hubert	20ste eeuw
+Hubert	G. De Wolf	5	Hubert	20ste eeuw
+Hubert	L. Arts	6	Hubert	20ste eeuw
+Hubert	Edouard Dhanis	6	Hubert	20ste eeuw
 L. Arts	Fr. van Baarle	6	L. Arts	1901
 L. Arts	G. Van Cutsem	6	L. Arts	1901
 L. Arts	A. Darquennes	12	L. Arts	1901
 F. De Raedemaeker	Em. Peeters	5	F. De Raedemaeker	1894
 F. De Raedemaeker	A. Darquennes	19	F. De Raedemaeker	1894
+G. De Wolf	Michiel Dierickx	14	G. De Wolf	20ste eeuw
+G. De Wolf	Louis H.M. Monden	16	G. De Wolf	20ste eeuw
+G. De Wolf	E. de Strycker	8	G. De Wolf	20ste eeuw
+G. De Wolf	A. Darquennes	10	G. De Wolf	20ste eeuw
 Léon	Eugenius Druwé	6	Léon	12 mei 1890
 Léon	Michiel Dierickx	8	Léon	12 mei 1890
+A. Snoeck	Alb. Block	5	A. Snoeck	20ste eeuw
+A. Snoeck	Michiel Dierickx	6	A. Snoeck	20ste eeuw
 W. Talloen	Edouard Dhanis	5	W. Talloen	19de eeuw
 W. Talloen	E.J. Vandenbussche	5	W. Talloen	19de eeuw
 W. Talloen	K. du Bois de Vroylande	7	W. Talloen	19de eeuw
+L. Baudez	Louis H.M. Monden	9	L. Baudez	20ste eeuw
+L. Baudez	Edouard Dhanis	5	L. Baudez	20ste eeuw
 L. Arts	Pieter Frans Fransen	6	L. Arts	1901
+A. Boone	Louis H.M. Monden	5	A. Boone	20ste eeuw
+A. Boone	Alb. Raignier	5	A. Boone	20ste eeuw
+A. Boone	Emiel Jan Janssen	13	A. Boone	20ste eeuw
+A. Boone	K. du Bois de Vroylande	9	A. Boone	20ste eeuw
 A. Darquennes	H. Peeters	5	A. Darquennes	14 september 1909
 A. Darquennes	Walter F. Smet	12	A. Darquennes	14 september 1909
 A. Darquennes	E.J. Vandenbussche	5	A. Darquennes	14 september 1909
 A. Darquennes	Marcel Brauns	12	A. Darquennes	14 september 1909
 A. Darquennes	R. Leijs	12	A. Darquennes	14 september 1909
+Peeters	Walter F. Smet	6	Peeters	20ste eeuw
 L. Vander Kerken	Marcel Brauns	14	L. Vander Kerken	1910
 L. Vander Kerken	R. Leijs	10	L. Vander Kerken	1910
 Albe	Marcel Brauns	12	Albe	8 juni 1902
 Marnix Gijsen	Marcel Brauns	5	Marnix Gijsen	20 oktober 1899
+H. Peeters	Walter F. Smet	8	H. Peeters	20ste eeuw
+H. Peeters	L. Vander Kerken	5	H. Peeters	20ste eeuw
+H. Peeters	Marcel Brauns	7	H. Peeters	20ste eeuw
+R. Leijs	A. Darquennes	10	R. Leijs	20ste eeuw
+R. Leijs	Fr. van Baarle	6	R. Leijs	20ste eeuw
+R. Leijs	Michiel Dierickx	10	R. Leijs	20ste eeuw
+R. Leijs	L. Vander Kerken	10	R. Leijs	20ste eeuw
+R. Leijs	Emiel Jan Janssen	16	R. Leijs	20ste eeuw
+R. Leijs	Marcel Brauns	6	R. Leijs	20ste eeuw
+R. Leijs	Eugenius Druwé	10	R. Leijs	20ste eeuw
 L. Vander Kerken	Louis Sterkens	11	L. Vander Kerken	1910
+E. De Cooman	A. Darquennes	6	E. De Cooman	20ste eeuw
 A. Darquennes	E. De Cooman	6	A. Darquennes	14 september 1909
 A. Darquennes	Louis Sterkens	9	A. Darquennes	14 september 1909
 A. Darquennes	Alb. Raignier	5	A. Darquennes	14 september 1909
@@ -6348,6 +6721,13 @@ A. Darquennes	B. De Wint	5	A. Darquennes	14 september 1909
 A. Darquennes	A. Ampe	15	A. Darquennes	14 september 1909
 A. Darquennes	R. van Ooteghem	17	A. Darquennes	14 september 1909
 L. Vander Kerken	A. Ampe	14	L. Vander Kerken	1910
+E. De Cooman	A. Ampe	5	E. De Cooman	20ste eeuw
+C. Pickery	Emiel Jan Janssen	6	C. Pickery	20ste eeuw
+W. Luyten	Emiel Jan Janssen	14	W. Luyten	20ste eeuw
+W. Luyten	L. Vander Kerken	6	W. Luyten	20ste eeuw
+W. Luyten	A. Ampe	7	W. Luyten	20ste eeuw
+W. Luyten	Michiel Dierickx	12	W. Luyten	20ste eeuw
+W. Luyten	R. van Ooteghem	8	W. Luyten	20ste eeuw
 A. Ampe	Emiel Jan Janssen	22	A. Ampe	17 april 1912
 A. Ampe	A. Darquennes	14	A. Ampe	17 april 1912
 A. Ampe	B. De Wint	6	A. Ampe	17 april 1912
@@ -6360,11 +6740,33 @@ A. Ampe	Louis Sterkens	6	A. Ampe	17 april 1912
 A. Ampe	R. van Ooteghem	16	A. Ampe	17 april 1912
 Leopold	R. Leijs	5	Leopold	7 september 1860
 Leopold	A. Ampe	7	Leopold	7 september 1860
+R. Leijs	A. Ampe	6	R. Leijs	20ste eeuw
+R. Leijs	Louis Sterkens	8	R. Leijs	20ste eeuw
+R. Leijs	R. van Ooteghem	8	R. Leijs	20ste eeuw
 Guido Gezelle	Michiel Dierickx	5	Guido Gezelle	1 mei 1830
 A. Darquennes	L. Baudez	10	A. Darquennes	14 september 1909
 Bergman	Eugenius Druwé	7	Bergman	11 september 1921
 Bergman	G. De Wolf	5	Bergman	11 september 1921
+A. Boone	Eugenius Druwé	5	A. Boone	20ste eeuw
+A. Boone	F. De Raedemaeker	10	A. Boone	20ste eeuw
+A. Boone	L. Vander Kerken	5	A. Boone	20ste eeuw
+A. Boone	G. De Wolf	5	A. Boone	20ste eeuw
+L. Baudez	A. Darquennes	8	L. Baudez	20ste eeuw
+L. Baudez	R. Leijs	5	L. Baudez	20ste eeuw
+L. Baudez	G. De Wolf	7	L. Baudez	20ste eeuw
+L. Baudez	R. van Ooteghem	9	L. Baudez	20ste eeuw
+W. Luyten	L. Arts	9	W. Luyten	20ste eeuw
+W. Luyten	F. De Raedemaeker	5	W. Luyten	20ste eeuw
+W. Luyten	K. du Bois de Vroylande	13	W. Luyten	20ste eeuw
+G. De Wolf	R. van Ooteghem	10	G. De Wolf	20ste eeuw
+G. De Wolf	L. Baudez	8	G. De Wolf	20ste eeuw
+R. Leijs	L. Baudez	6	R. Leijs	20ste eeuw
+Peeters	Jos. Burvenich	6	Peeters	20ste eeuw
 L. Vander Kerken	Jos. Burvenich	20	L. Vander Kerken	1910
+Hubert	Marcel Brauns	5	Hubert	20ste eeuw
+Hubert	A. Ampe	5	Hubert	20ste eeuw
+Hubert	R. van Ooteghem	5	Hubert	20ste eeuw
+Hubert	Jos. Burvenich	10	Hubert	20ste eeuw
 L. Arts	Marcel Brauns	12	L. Arts	1901
 L. Arts	A. Ampe	10	L. Arts	1901
 L. Arts	Jos. Burvenich	22	L. Arts	1901
@@ -6383,6 +6785,17 @@ A. Ampe	Marcel Brauns	12	A. Ampe	17 april 1912
 A. Ampe	G. De Wolf	6	A. Ampe	17 april 1912
 A. Ampe	K. du Bois de Vroylande	20	A. Ampe	17 april 1912
 A. Ampe	Jos. Burvenich	20	A. Ampe	17 april 1912
+G. De Wolf	Marcel Brauns	6	G. De Wolf	20ste eeuw
+G. De Wolf	A. Ampe	6	G. De Wolf	20ste eeuw
+G. De Wolf	Jos. Burvenich	14	G. De Wolf	20ste eeuw
+H. Peeters	R. van Ooteghem	5	H. Peeters	20ste eeuw
+H. Peeters	Jos. Burvenich	7	H. Peeters	20ste eeuw
+E. de Strycker	Edouard Dhanis	5	E. de Strycker	20ste eeuw
+E. de Strycker	A. Ampe	6	E. de Strycker	20ste eeuw
+E. de Strycker	G. De Wolf	7	E. de Strycker	20ste eeuw
+E. de Strycker	Michiel Dierickx	9	E. de Strycker	20ste eeuw
+E. de Strycker	R. van Ooteghem	6	E. de Strycker	20ste eeuw
+E. de Strycker	Jos. Burvenich	10	E. de Strycker	20ste eeuw
 A. Darquennes	Antoon Fimmers	6	A. Darquennes	14 september 1909
 A. Darquennes	Jos. Burvenich	17	A. Darquennes	14 september 1909
 A. Darquennes	J. Talloen	6	A. Darquennes	14 september 1909
@@ -6396,10 +6809,24 @@ A. Darquennes	I. De la Potterie	7	A. Darquennes	14 september 1909
 L. Vander Kerken	J. Noë	8	L. Vander Kerken	1910
 L. Vander Kerken	Louis Bruyns	8	L. Vander Kerken	1910
 L. Vander Kerken	I. De la Potterie	12	L. Vander Kerken	1910
+O. Praem	Jos. Burvenich	6	O. Praem	20ste eeuw
 Albe	Louis Bruyns	6	Albe	8 juni 1902
 Albe	I. De la Potterie	9	Albe	8 juni 1902
+J. Talloen	Antoon Fimmers	5	J. Talloen	20ste eeuw
+J. Talloen	A. Darquennes	6	J. Talloen	20ste eeuw
+J. Talloen	Emiel Jan Janssen	6	J. Talloen	20ste eeuw
+J. Talloen	A. Ampe	6	J. Talloen	20ste eeuw
+J. Talloen	Michiel Dierickx	5	J. Talloen	20ste eeuw
+J. Talloen	Karel van Isacker	5	J. Talloen	20ste eeuw
+J. Talloen	K. du Bois de Vroylande	6	J. Talloen	20ste eeuw
+J. Talloen	R. van Ooteghem	6	J. Talloen	20ste eeuw
+J. Talloen	Jos. Burvenich	6	J. Talloen	20ste eeuw
 F. De Raedemaeker	J. Noë	14	F. De Raedemaeker	1894
 F. De Raedemaeker	I. De la Potterie	10	F. De Raedemaeker	1894
+L. Baudez	A. Ampe	5	L. Baudez	20ste eeuw
+L. Baudez	J. Noë	7	L. Baudez	20ste eeuw
+L. Baudez	Jos. Burvenich	10	L. Baudez	20ste eeuw
+L. Baudez	I. De la Potterie	9	L. Baudez	20ste eeuw
 B. De Wint	A. Ampe	5	B. De Wint	19de eeuw
 A. Ampe	Louis H.M. Monden	6	A. Ampe	17 april 1912
 A. Ampe	J. Noë	6	A. Ampe	17 april 1912
@@ -6427,15 +6854,33 @@ J. Noë	K. du Bois de Vroylande	22	J. Noë	1913
 J. Noë	R. van Ooteghem	8	J. Noë	1913
 J. Noë	Jos. Burvenich	18	J. Noë	1913
 J. Noë	I. De la Potterie	8	J. Noë	1913
+Hubert	Walter F. Smet	5	Hubert	20ste eeuw
 L. Arts	W. Luyten	8	L. Arts	1901
+W. Luyten	Karel van Isacker	6	W. Luyten	20ste eeuw
+W. Luyten	Walter F. Smet	6	W. Luyten	20ste eeuw
+W. Luyten	Jos. Burvenich	10	W. Luyten	20ste eeuw
 A. Ampe	W. Luyten	6	A. Ampe	17 april 1912
 A. Ampe	Walter F. Smet	8	A. Ampe	17 april 1912
 Johan Daisne	Emiel Jan Janssen	5	Johan Daisne	2 september 1912
 Anton Van de Velde	Jos. Burvenich	5	Anton Van de Velde	8 juli 1895
 L. Arts	J. Noë	8	L. Arts	1901
+M. Deckers	Emiel Jan Janssen	6	M. Deckers	20ste eeuw
+M. Deckers	Albert Deblaere	6	M. Deckers	20ste eeuw
+M. Deckers	Michiel Dierickx	6	M. Deckers	20ste eeuw
+M. Deckers	K. du Bois de Vroylande	6	M. Deckers	20ste eeuw
+M. Deckers	Jos. Burvenich	6	M. Deckers	20ste eeuw
+M. Deckers	G. De Wolf	6	M. Deckers	20ste eeuw
+W. Luyten	Albert Deblaere	8	W. Luyten	20ste eeuw
+G. De Wolf	J. Noë	8	G. De Wolf	20ste eeuw
+G. De Wolf	M. Deckers	6	G. De Wolf	20ste eeuw
 J. Noë	L. Arts	8	J. Noë	1913
 J. Noë	Albert Deblaere	12	J. Noë	1913
 J. Noë	G. De Wolf	8	J. Noë	1913
+E. de Strycker	Louis H.M. Monden	7	E. de Strycker	20ste eeuw
+E. de Strycker	Albert Deblaere	6	E. de Strycker	20ste eeuw
+E. de Strycker	Karel van Isacker	6	E. de Strycker	20ste eeuw
+O. Praem	Albert Deblaere	6	O. Praem	20ste eeuw
+Hubert	Albert Deblaere	6	Hubert	20ste eeuw
 A. Ampe	Albert Deblaere	14	A. Ampe	17 april 1912
 J.B. Poukens	Emiel Jan Janssen	5	J.B. Poukens	1882
 W. Talloen	Jos. Burvenich	5	W. Talloen	19de eeuw
@@ -6444,6 +6889,7 @@ L. Vander Kerken	Albert Deblaere	21	L. Vander Kerken	1910
 A. Darquennes	Albert Deblaere	12	A. Darquennes	14 september 1909
 Leopold	Marcel Brauns	8	Leopold	7 september 1860
 Leopold	Walter F. Smet	6	Leopold	7 september 1860
+W. Luyten	I. De la Potterie	6	W. Luyten	20ste eeuw
 A. Darquennes	B. Boeyckens	8	A. Darquennes	14 september 1909
 G. Huyghe	Edouard Dhanis	5	G. Huyghe	30 juni 1920
 G. Huyghe	Marcel Brauns	5	G. Huyghe	30 juni 1920
@@ -6451,6 +6897,18 @@ G. Huyghe	A. Ampe	5	G. Huyghe	30 juni 1920
 G. Huyghe	Albert Deblaere	5	G. Huyghe	30 juni 1920
 G. Huyghe	Jos. Burvenich	5	G. Huyghe	30 juni 1920
 G. Huyghe	K. du Bois de Vroylande	6	G. Huyghe	30 juni 1920
+B. Boeyckens	Edouard Dhanis	12	B. Boeyckens	20ste eeuw
+B. Boeyckens	A. Darquennes	8	B. Boeyckens	20ste eeuw
+B. Boeyckens	Marcel Brauns	10	B. Boeyckens	20ste eeuw
+B. Boeyckens	Emiel Jan Janssen	18	B. Boeyckens	20ste eeuw
+B. Boeyckens	Albert Deblaere	8	B. Boeyckens	20ste eeuw
+B. Boeyckens	J. Noë	10	B. Boeyckens	20ste eeuw
+B. Boeyckens	Jos. Burvenich	16	B. Boeyckens	20ste eeuw
+B. Boeyckens	W. Talloen	6	B. Boeyckens	20ste eeuw
+B. Boeyckens	Karel van Isacker	6	B. Boeyckens	20ste eeuw
+B. Boeyckens	Marc Dykmans	6	B. Boeyckens	20ste eeuw
+B. Boeyckens	K. du Bois de Vroylande	20	B. Boeyckens	20ste eeuw
+Hubert	J. Noë	5	Hubert	20ste eeuw
 Albe	B. Boeyckens	10	Albe	8 juni 1902
 A. Ampe	G. Huyghe	6	A. Ampe	17 april 1912
 J. Noë	Edouard Dhanis	6	J. Noë	1913
@@ -6458,6 +6916,9 @@ J. Noë	Marcel Brauns	8	J. Noë	1913
 J. Noë	B. Boeyckens	10	J. Noë	1913
 J. Noë	Walter F. Smet	12	J. Noë	1913
 J. Noë	Louis Sterkens	8	J. Noë	1913
+R. Leijs	Jos. Burvenich	6	R. Leijs	20ste eeuw
+L. Baudez	Marcel Brauns	6	L. Baudez	20ste eeuw
+L. Baudez	Albert Deblaere	9	L. Baudez	20ste eeuw
 J. Noë	E.J. Vandenbussche	6	J. Noë	1913
 J. Noë	Fl. Bertiau	6	J. Noë	1913
 Albe	Jozef Andriessen	6	Albe	8 juni 1902
@@ -6466,6 +6927,9 @@ F. De Raedemaeker	Jozef Andriessen	8	F. De Raedemaeker	1894
 F. De Raedemaeker	Louis Sterkens	5	F. De Raedemaeker	1894
 L. Vander Kerken	G. Garmijn	6	L. Vander Kerken	1910
 L. Vander Kerken	Paul Maria Jozef de Meester	6	L. Vander Kerken	1910
+G. De Wolf	Louis Sterkens	6	G. De Wolf	20ste eeuw
+G. De Wolf	Paul Maria Jozef de Meester	6	G. De Wolf	20ste eeuw
+G. De Wolf	Louis Bruyns	6	G. De Wolf	20ste eeuw
 Albe	Paul Maria Jozef de Meester	6	Albe	8 juni 1902
 F. De Raedemaeker	Paul Maria Jozef de Meester	8	F. De Raedemaeker	1894
 L. Mestdagh	L. Vander Kerken	10	L. Mestdagh	1 september 1916
@@ -6484,20 +6948,45 @@ L. Vander Kerken	L. Mestdagh	9	L. Vander Kerken	1910
 L. Arts	J. De Fraine	5	L. Arts	1901
 L. Arts	I. De la Potterie	6	L. Arts	1901
 Albe	L. Mestdagh	7	Albe	8 juni 1902
+L. Baudez	L. Mestdagh	5	L. Baudez	20ste eeuw
 J. Noë	L. Mestdagh	6	J. Noë	1913
 L. Mestdagh	Edouard Dhanis	6	L. Mestdagh	1 september 1916
 L. Mestdagh	F. De Raedemaeker	8	L. Mestdagh	1 september 1916
 L. Mestdagh	B. Boeyckens	8	L. Mestdagh	1 september 1916
 Leo Simoens	K. du Bois de Vroylande	5	Leo Simoens	11 april 1915
+B. Boeyckens	I. De la Potterie	8	B. Boeyckens	20ste eeuw
+B. Boeyckens	F. De Raedemaeker	12	B. Boeyckens	20ste eeuw
+B. Boeyckens	Alb. Raignier	8	B. Boeyckens	20ste eeuw
+B. Boeyckens	Michiel Dierickx	6	B. Boeyckens	20ste eeuw
+B. Boeyckens	L. Mestdagh	8	B. Boeyckens	20ste eeuw
 F. De Raedemaeker	B. Boeyckens	12	F. De Raedemaeker	1894
 F. De Raedemaeker	L. Mestdagh	8	F. De Raedemaeker	1894
 L. Mestdagh	G. De Wolf	10	L. Mestdagh	1 september 1916
+G. De Wolf	B. Boeyckens	6	G. De Wolf	20ste eeuw
+G. De Wolf	L. Mestdagh	10	G. De Wolf	20ste eeuw
 L. Arts	B. Boeyckens	8	L. Arts	1901
+B. Boeyckens	G. De Wolf	6	B. Boeyckens	20ste eeuw
+B. Boeyckens	L. Arts	8	B. Boeyckens	20ste eeuw
+P.W. Smet	Edouard Dhanis	5	P.W. Smet	20ste eeuw
+P.W. Smet	Emiel Jan Janssen	5	P.W. Smet	20ste eeuw
 Bergman	B. Boeyckens	5	Bergman	11 september 1921
+B. Boeyckens	E.J. Vandenbussche	6	B. Boeyckens	20ste eeuw
+B. Boeyckens	Louis H.M. Monden	8	B. Boeyckens	20ste eeuw
+B. Boeyckens	Jozef Andriessen	7	B. Boeyckens	20ste eeuw
+B. Boeyckens	G. Gilleman	6	B. Boeyckens	20ste eeuw
+G. Gilleman	Emiel Jan Janssen	6	G. Gilleman	20ste eeuw
+G. Gilleman	B. Boeyckens	6	G. Gilleman	20ste eeuw
+G. Gilleman	F. De Raedemaeker	6	G. Gilleman	20ste eeuw
+G. Gilleman	J. Noë	6	G. Gilleman	20ste eeuw
+G. Gilleman	K. du Bois de Vroylande	6	G. Gilleman	20ste eeuw
 F. De Raedemaeker	G. Gilleman	6	F. De Raedemaeker	1894
+G. De Wolf	Walter F. Smet	6	G. De Wolf	20ste eeuw
 J. Noë	G. Gilleman	6	J. Noë	1913
 L. Elaut	B. Boeyckens	5	L. Elaut	26 december 1897
 Bergman	Albert Deblaere	5	Bergman	11 september 1921
+M. Huybens	Emiel Jan Janssen	6	M. Huybens	20ste eeuw
+M. Huybens	Eugenius Druwé	6	M. Huybens	20ste eeuw
+M. Huybens	Albert Deblaere	6	M. Huybens	20ste eeuw
 J. Noë	A. Boone	6	J. Noë	1913
 J.A. van Houtte	E.J. Vandenbussche	5	J.A. van Houtte	10 maart 1913
 J.A. van Houtte	F. De Raedemaeker	17	J.A. van Houtte	10 maart 1913
@@ -6506,7 +6995,12 @@ J.A. van Houtte	Michiel Dierickx	6	J.A. van Houtte	10 maart 1913
 J.A. van Houtte	K. du Bois de Vroylande	15	J.A. van Houtte	10 maart 1913
 L. Mestdagh	A. Boone	6	L. Mestdagh	1 september 1916
 Albe	A. Boone	5	Albe	8 juni 1902
+B. Boeyckens	A. Boone	6	B. Boeyckens	20ste eeuw
 F. De Raedemaeker	A. Boone	10	F. De Raedemaeker	1894
+A. Boone	L. Mestdagh	5	A. Boone	20ste eeuw
+A. Boone	Albert Deblaere	6	A. Boone	20ste eeuw
+A. Boone	B. Boeyckens	5	A. Boone	20ste eeuw
+A. Boone	J. Noë	5	A. Boone	20ste eeuw
 Henk Kuitenbrouwer	Jan Bruna	8	Henk Kuitenbrouwer	20 november 1903
 Jan Engelman	Jan Bruna	7	Jan Engelman	7 juni 1900
 Jan Bruna	Henk Kuitenbrouwer	8	Jan Bruna	17 augustus 1876
@@ -6648,9 +7142,12 @@ J.A. Hallez	August van Cauwelaert	9	J.A. Hallez	4 juni 1881
 August van Cauwelaert	L. de Smet	11	August van Cauwelaert	31 december 1885
 August van Cauwelaert	Jules Persyn	11	August van Cauwelaert	31 december 1885
 August van Cauwelaert	Louisa Duykers	32	August van Cauwelaert	31 december 1885
+L. de Smet	Jules Persyn	15	L. de Smet	20ste eeuw
+L. de Smet	Louisa Duykers	18	L. de Smet	20ste eeuw
 August van Cauwelaert	Jozef Uytterhoeven	7	August van Cauwelaert	31 december 1885
 J.A. Hallez	Louisa Duykers	15	J.A. Hallez	4 juni 1881
 M.E. Belpaire	Louisa Duykers	9	M.E. Belpaire	31 januari 1853
+L. de Smet	August van Cauwelaert	11	L. de Smet	20ste eeuw
 Jules Persyn	L. de Smet	15	Jules Persyn	20 april 1878
 Louisa Duykers	L. de Smet	18	Louisa Duykers	13 maart 1869
 Raphaël M.J. Kreemers	Louisa Duykers	18	Raphaël M.J. Kreemers	13 januari 1894
@@ -6668,10 +7165,13 @@ Mea Verwey	Frans Coenen	5	Mea Verwey	2 maart 1892
 Jan L. Walch	Frans Coenen	40	Jan L. Walch	2 januari 1879
 O. Noordenbos	J.B. Charles	5	O. Noordenbos	5 juli 1896
 W.F. Wertheim	Fr. de Jong Edz.	5	W.F. Wertheim	16 november 1907
+Wim Vermeer	B. van den Berg	6	Wim Vermeer	20ste eeuw
+Piet Delen	H.H. Grünhagen	11	Piet Delen	20ste eeuw
 W.P. Gerritsen	L. Mosheuvel	8	W.P. Gerritsen	12 augustus 1935
 W.J. van den Akker	A.G.M. Vermeulen	10	W.J. van den Akker	22 december 1954
 Fons van Buuren	W.P. Gerritsen	7	Fons van Buuren	1932
 M.C. van den Toorn	Fons van Buuren	9	M.C. van den Toorn	4 januari 1929
+G. Gerritsen-Geywitz	M.C. van den Toorn	5	G. Gerritsen-Geywitz	20ste eeuw
 G. Gerritsen-Geywitz	M.C. van den Toorn	5	G. Gerritsen-Geywitz	
 Fons van Buuren	H.J. Verkuyl	6	Fons van Buuren	1932
 Kees Singeling	Marijke Meijer Drees	6	Kees Singeling	1960
@@ -6694,6 +7194,8 @@ Fernand Toussaint van Boelaere	Marnix Gijsen	11	Fernand Toussaint van Boelaere	1
 Julien Jozef Kuypers	Piet van Aken	5	Julien Jozef Kuypers	14 augustus 1892
 Raymond Brulez	Paul Van Keymeulen	5	Raymond Brulez	18 oktober 1895
 Julien Jozef Kuypers	Gerard Walschap	10	Julien Jozef Kuypers	14 augustus 1892
+Anna Mertens	Pieter Korthuys	5	Anna Mertens	20ste eeuw
+Anna Mertens	Cornelis Rijnsdorp	5	Anna Mertens	20ste eeuw
 Pieter Korthuys	Cornelis Rijnsdorp	5	Pieter Korthuys	11 september 1898
 P.J. Risseeuw	M. Siesling	5	P.J. Risseeuw	16 mei 1901
 P.J. Risseeuw	J.C. Schuller	6	P.J. Risseeuw	16 mei 1901
@@ -6714,12 +7216,19 @@ C. Ouboter	Jacoba M. Vreugdenhil	9	C. Ouboter	1914
 C. Ouboter	C. Vermeer	6	C. Ouboter	1914
 P.J. Risseeuw	P.A. Hekstra	5	P.J. Risseeuw	16 mei 1901
 C. Ouboter	Dingeman van der Stoep	5	C. Ouboter	1914
+M. Siesling	P.J. Risseeuw	5	M. Siesling	20ste eeuw
+P.A. Hekstra	P.J. Risseeuw	5	P.A. Hekstra	20ste eeuw
+C. Vermeer	Johan van Hulzen	5	C. Vermeer	20ste eeuw
 Jaap Das	J. van Doorne	6	Jaap Das	1911
 Johan van Hulzen	P.J. Risseeuw	7	Johan van Hulzen	1 juli 1891
 Johan van Hulzen	C. Vermeer	5	Johan van Hulzen	1 juli 1891
 C. Ouboter	J. van Doorne	6	C. Ouboter	1914
+J.C. Schuller	C. Ouboter	5	J.C. Schuller	20ste eeuw
+P.A. Hekstra	J. van Doorne	5	P.A. Hekstra	20ste eeuw
 Johan van Hulzen	Jan Elzo Niemeijer	6	Johan van Hulzen	1 juli 1891
+P.A. Hekstra	C. Ouboter	6	P.A. Hekstra	20ste eeuw
 Jan Elzo Niemeijer	C. Ouboter	6	Jan Elzo Niemeijer	1922
+C. Vermeer	Jan Elzo Niemeijer	5	C. Vermeer	20ste eeuw
 Jan Elzo Niemeijer	Cornelis Rijnsdorp	6	Jan Elzo Niemeijer	1922
 Jaap Das	Dingeman van der Stoep	5	Jaap Das	1911
 J. van Doorne	Jaap Das	6	J. van Doorne	16 februari 1908
@@ -6729,6 +7238,9 @@ C. Ouboter	Jan Elzo Niemeijer	6	C. Ouboter	1914
 Jan Elzo Niemeijer	J.C. Schuller	6	Jan Elzo Niemeijer	1922
 Jan Elzo Niemeijer	Jacoba M. Vreugdenhil	17	Jan Elzo Niemeijer	1922
 Jan Elzo Niemeijer	P.J. Risseeuw	16	Jan Elzo Niemeijer	1922
+J.C. Schuller	Jan Elzo Niemeijer	6	J.C. Schuller	20ste eeuw
+G.E. Mulder	Jan Elzo Niemeijer	7	G.E. Mulder	20ste eeuw
+J.C. Schuller	P.J. Risseeuw	6	J.C. Schuller	20ste eeuw
 Jan Elzo Niemeijer	Anna Mertens	5	Jan Elzo Niemeijer	1922
 Lode Roose	Lieven Rens	5	Lode Roose	16 april 1920
 Lieven Rens	Marcel Janssens	6	Lieven Rens	15 januari 1925
@@ -6742,6 +7254,8 @@ P.J. Buijnsters	Karel Porteman	5	P.J. Buijnsters	18 oktober 1933
 Karel Porteman	P.E.L. Verkuyl	5	Karel Porteman	20 juni 1938
 Piet Couttenier	Lieven Rens	7	Piet Couttenier	1947
 Jan Schoolmeesters	Lieven Rens	5	Jan Schoolmeesters	1951
+Hugo Vandeperre	F. De Raedemaeker	10	Hugo Vandeperre	20ste eeuw
+Hugo Vandeperre	Ad. Jansen	6	Hugo Vandeperre	20ste eeuw
 Eugenius Druwé	F. De Raedemaeker	17	Eugenius Druwé	19de eeuw
 Edw. De Schaepdrijver	K. du Bois de Vroylande	5	Edw. De Schaepdrijver	19de eeuw
 Edw. De Schaepdrijver	L. Arts	6	Edw. De Schaepdrijver	19de eeuw
@@ -6809,6 +7323,9 @@ Ad. Jansen	Hugo Vandeperre	6	Ad. Jansen	19de eeuw
 R. van Ooteghem	A. Darquennes	9	R. van Ooteghem	19de eeuw
 K. du Bois de Vroylande	J. De Jaegher	5	K. du Bois de Vroylande	19de eeuw
 Emiel Jan Janssen	J. De Jaegher	5	Emiel Jan Janssen	23 april 1897
+Hugo Vandeperre	K. du Bois de Vroylande	10	Hugo Vandeperre	20ste eeuw
+Hugo Vandeperre	Emiel Jan Janssen	11	Hugo Vandeperre	20ste eeuw
+Hugo Vandeperre	L. Vander Kerken	10	Hugo Vandeperre	20ste eeuw
 Emiel Jan Janssen	L. Vander Kerken	34	Emiel Jan Janssen	23 april 1897
 Edouard Dhanis	F. De Raedemaeker	10	Edouard Dhanis	1902
 Edouard Dhanis	L. Arts	9	Edouard Dhanis	1902
@@ -6829,8 +7346,10 @@ Edw. De Schaepdrijver	Emiel Jan Janssen	5	Edw. De Schaepdrijver	19de eeuw
 Emiel Jan Janssen	E.J. Vandenbussche	13	Emiel Jan Janssen	23 april 1897
 E.J. Vandenbussche	K. du Bois de Vroylande	14	E.J. Vandenbussche	19de eeuw
 E.J. Vandenbussche	Hugo Vandeperre	5	E.J. Vandenbussche	19de eeuw
+Hugo Vandeperre	J.A. van Houtte	6	Hugo Vandeperre	20ste eeuw
 Eugenius Druwé	Louis H.M. Monden	10	Eugenius Druwé	19de eeuw
 Eugenius Druwé	J. Salsmans	7	Eugenius Druwé	19de eeuw
+Hugo Vandeperre	J. Salsmans	8	Hugo Vandeperre	20ste eeuw
 Emiel Jan Janssen	W. Talloen	5	Emiel Jan Janssen	23 april 1897
 Emiel Jan Janssen	P. Ellerbeek	6	Emiel Jan Janssen	23 april 1897
 Louis H.M. Monden	L. Vander Kerken	8	Louis H.M. Monden	1911
@@ -6845,6 +7364,7 @@ Michiel Dierickx	Karel van Isacker	6	Michiel Dierickx	25 juni 1909
 Michiel Dierickx	K. du Bois de Vroylande	26	Michiel Dierickx	25 juni 1909
 Michiel Dierickx	L. Baudez	8	Michiel Dierickx	25 juni 1909
 Michiel Dierickx	J.A. van Houtte	5	Michiel Dierickx	25 juni 1909
+Hugo Vandeperre	E.J. Vandenbussche	5	Hugo Vandeperre	20ste eeuw
 Emiel Jan Janssen	Karel van Isacker	8	Emiel Jan Janssen	23 april 1897
 Emiel Jan Janssen	L. Baudez	11	Emiel Jan Janssen	23 april 1897
 Karel van Isacker	K. du Bois de Vroylande	9	Karel van Isacker	26 juni 1913
@@ -6876,6 +7396,12 @@ Michiel Dierickx	Louis H.M. Monden	8	Michiel Dierickx	25 juni 1909
 Albert Deblaere	F. De Raedemaeker	9	Albert Deblaere	1916
 Albert Deblaere	Walter F. Smet	8	Albert Deblaere	1916
 K. du Bois de Vroylande	Karel van Isacker	9	K. du Bois de Vroylande	19de eeuw
+Fr. van Baarle	Eugenius Druwé	6	Fr. van Baarle	20ste eeuw
+Fr. van Baarle	L. Vander Kerken	8	Fr. van Baarle	20ste eeuw
+Alb. Raignier	F. De Raedemaeker	9	Alb. Raignier	20ste eeuw
+Alb. Raignier	Michiel Dierickx	5	Alb. Raignier	20ste eeuw
+Alb. Raignier	Emiel Jan Janssen	11	Alb. Raignier	20ste eeuw
+Alb. Raignier	K. du Bois de Vroylande	11	Alb. Raignier	20ste eeuw
 J.A. van Houtte	L. Vander Kerken	10	J.A. van Houtte	10 maart 1913
 Emiel Jan Janssen	Michiel Dierickx	30	Emiel Jan Janssen	23 april 1897
 Emiel Jan Janssen	Edouard Dhanis	18	Emiel Jan Janssen	23 april 1897
@@ -6902,6 +7428,8 @@ Louis H.M. Monden	Edouard Dhanis	6	Louis H.M. Monden	1911
 Ad. Jansen	L. Arts	6	Ad. Jansen	19de eeuw
 K. du Bois de Vroylande	E. de Strycker	7	K. du Bois de Vroylande	19de eeuw
 Edouard Dhanis	A. Darquennes	6	Edouard Dhanis	1902
+Fr. van Baarle	A. Darquennes	6	Fr. van Baarle	20ste eeuw
+Fr. van Baarle	Michiel Dierickx	9	Fr. van Baarle	20ste eeuw
 Walter F. Smet	Michiel Dierickx	8	Walter F. Smet	1915
 Emiel Jan Janssen	Alb. Block	5	Emiel Jan Janssen	23 april 1897
 Louis H.M. Monden	E.J. Vandenbussche	5	Louis H.M. Monden	1911
@@ -7057,6 +7585,7 @@ Jos. Burvenich	B. Boeyckens	8	Jos. Burvenich	18 augustus 1914
 Albert Deblaere	I. De la Potterie	5	Albert Deblaere	1916
 K. du Bois de Vroylande	B. Boeyckens	10	K. du Bois de Vroylande	19de eeuw
 E.J. Vandenbussche	F. De Raedemaeker	6	E.J. Vandenbussche	19de eeuw
+Alb. Raignier	L. Arts	6	Alb. Raignier	20ste eeuw
 Emiel Jan Janssen	A. Boone	6	Emiel Jan Janssen	23 april 1897
 Emiel Jan Janssen	Paul Maria Jozef de Meester	5	Emiel Jan Janssen	23 april 1897
 Albert Deblaere	R. Leijs	5	Albert Deblaere	1916
@@ -7080,6 +7609,8 @@ Jac. Weil	Frederik van Eeden	5	Jac. Weil	1869
 Jan L. Walch	Mea Verwey	5	Jan L. Walch	2 januari 1879
 Frans Coenen	Mea Verwey	5	Frans Coenen	24 april 1866
 Fr. de Jong Edz.	W.F. Wertheim	5	Fr. de Jong Edz.	1919
+Wim Vermeer	M.C. van den Toorn	6	Wim Vermeer	20ste eeuw
+A.G.M. Vermeulen	W.J. van den Akker	10	A.G.M. Vermeulen	20ste eeuw
 L. Mosheuvel	M.A. Schenkeveld-van der Dussen	7	L. Mosheuvel	9 maart 1922
 Hans Anten	W.P. Gerritsen	7	Hans Anten	1947
 Fernand Toussaint van Boelaere	Piet van Aken	6	Fernand Toussaint van Boelaere	18 februari 1875
@@ -7102,8 +7633,10 @@ H. Bruders	L. Arts	5	H. Bruders	19de eeuw
 E.J. Vandenbussche	J. Salsmans	6	E.J. Vandenbussche	19de eeuw
 R. van Ooteghem	L. Vander Kerken	9	R. van Ooteghem	19de eeuw
 R. van Ooteghem	Emiel Jan Janssen	13	R. van Ooteghem	19de eeuw
+Hugo Vandeperre	L. Arts	10	Hugo Vandeperre	20ste eeuw
 R. van Ooteghem	Edouard Dhanis	5	R. van Ooteghem	19de eeuw
 R. van Ooteghem	Eugenius Druwé	6	R. van Ooteghem	19de eeuw
+Hugo Vandeperre	Eugenius Druwé	6	Hugo Vandeperre	20ste eeuw
 Louis H.M. Monden	Eugenius Druwé	10	Louis H.M. Monden	1911
 Karel van Isacker	F. De Raedemaeker	5	Karel van Isacker	26 juni 1913
 Walter F. Smet	L. Arts	6	Walter F. Smet	1915

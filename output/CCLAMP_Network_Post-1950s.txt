@@ -1,0 +1,385 @@
+Target	Source	Weight	Author	DOB
+E.J. Dijksterhuis	Jan Sebastian Rabie	10.0	E.J. Dijksterhuis	28 oktober 1892
+E.J. Dijksterhuis	B.A. van Groningen	15.0	E.J. Dijksterhuis	28 oktober 1892
+E.J. Dijksterhuis	Emmy van Lokhorst	28.0	E.J. Dijksterhuis	28 oktober 1892
+B.A. van Groningen	Emmy van Lokhorst	10.0	B.A. van Groningen	20 mei 1894
+Jan Sebastian Rabie	E.J. Dijksterhuis	10.0	Jan Sebastian Rabie	1920
+E.J. Dijksterhuis	A.N. Molenaar	5.0	E.J. Dijksterhuis	28 oktober 1892
+A.N. Molenaar	E.J. Dijksterhuis	5.0	A.N. Molenaar	20 april 1888
+E.J. Dijksterhuis	K. Strijd	6.0	E.J. Dijksterhuis	28 oktober 1892
+P. Geyl	E.J. Dijksterhuis	5.0	P. Geyl	15 december 1887
+K. Strijd	E.J. Dijksterhuis	6.0	K. Strijd	1909
+E.J. Dijksterhuis	J.C. Brandt Corstius	8.0	E.J. Dijksterhuis	28 oktober 1892
+Emmy van Lokhorst	E.J. Dijksterhuis	28.0	Emmy van Lokhorst	26 augustus 1891
+Emmy van Lokhorst	B.A. van Groningen	10.0	Emmy van Lokhorst	26 augustus 1891
+Emmy van Lokhorst	Bert Voeten	5.0	Emmy van Lokhorst	26 augustus 1891
+J.C. Brandt Corstius	E.J. Dijksterhuis	8.0	J.C. Brandt Corstius	31 december 1908
+Bert Voeten	Emmy van Lokhorst	5.0	Bert Voeten	6 juli 1918
+C.B. van Haeringen	J.C. Brandt Corstius	8.0	C.B. van Haeringen	16 mei 1892
+B.A. van Groningen	E.J. Dijksterhuis	15.0	B.A. van Groningen	20 mei 1894
+W.A. Braasem	Ed. Hoornik	8.0	W.A. Braasem	23 november 1918
+E.J. Dijksterhuis	P. Geyl	5.0	E.J. Dijksterhuis	28 oktober 1892
+J. Bernlef	K. Schippers	17.0	J. Bernlef	14 januari 1937
+Bert Voeten	Leo Vroman	5.0	Bert Voeten	6 juli 1918
+Hans Andreus	Reinbert de Leeuw	11.0	Hans Andreus	21 februari 1926
+Hans Andreus	A.L. Constandse	12.0	Hans Andreus	21 februari 1926
+Hans Andreus	Han Lammers	10.0	Hans Andreus	21 februari 1926
+Reinbert de Leeuw	A.L. Constandse	22.0	Reinbert de Leeuw	1938
+Reinbert de Leeuw	Han Lammers	20.0	Reinbert de Leeuw	1938
+A.L. Constandse	Han Lammers	29.0	A.L. Constandse	13 september 1899
+Han Lammers	A.L. Constandse	29.0	Han Lammers	1931
+Leo Vroman	Bert Voeten	5.0	Leo Vroman	10 april 1915
+Hans Andreus	Hans Keller	9.0	Hans Andreus	21 februari 1926
+Reinbert de Leeuw	Hans Keller	19.0	Reinbert de Leeuw	1938
+Hans Keller	A.L. Constandse	27.0	Hans Keller	2 februari 1937
+Hans Keller	Han Lammers	21.0	Hans Keller	2 februari 1937
+A.L. Constandse	Arie de Froe	5.0	A.L. Constandse	13 september 1899
+J. Bernlef	S.R. de Groot	6.0	J. Bernlef	14 januari 1937
+Paul de Wispelaere	Hans Keller	11.0	Paul de Wispelaere	4 juli 1928
+Paul de Wispelaere	A.L. Constandse	12.0	Paul de Wispelaere	4 juli 1928
+Paul de Wispelaere	Reinbert de Leeuw	11.0	Paul de Wispelaere	4 juli 1928
+Paul de Wispelaere	Han Lammers	11.0	Paul de Wispelaere	4 juli 1928
+Paul de Wispelaere	David Koning	5.0	Paul de Wispelaere	4 juli 1928
+Reinbert de Leeuw	David Koning	5.0	Reinbert de Leeuw	1938
+Hans Keller	David Koning	5.0	Hans Keller	2 februari 1937
+A.L. Constandse	David Koning	5.0	A.L. Constandse	13 september 1899
+Han Lammers	David Koning	5.0	Han Lammers	1931
+Paul de Wispelaere	Rudi Fuchs	9.0	Paul de Wispelaere	4 juli 1928
+Reinbert de Leeuw	Rudi Fuchs	12.0	Reinbert de Leeuw	1938
+Hans Keller	Rudi Fuchs	18.0	Hans Keller	2 februari 1937
+Rudi Fuchs	A.L. Constandse	30.0	Rudi Fuchs	28 april 1942
+Rudi Fuchs	Han Lammers	16.0	Rudi Fuchs	28 april 1942
+J. Bernlef	Paul de Wispelaere	8.0	J. Bernlef	14 januari 1937
+J. Bernlef	Reinbert de Leeuw	11.0	J. Bernlef	14 januari 1937
+J. Bernlef	Rudi Fuchs	26.0	J. Bernlef	14 januari 1937
+J. Bernlef	A.L. Constandse	30.0	J. Bernlef	14 januari 1937
+J. Bernlef	Han Lammers	15.0	J. Bernlef	14 januari 1937
+J. Bernlef	Hans Keller	17.0	J. Bernlef	14 januari 1937
+Rudi Fuchs	Hans Keller	18.0	Rudi Fuchs	28 april 1942
+A.L. Constandse	Hans Keller	27.0	A.L. Constandse	13 september 1899
+Han Lammers	Hans Keller	21.0	Han Lammers	1931
+Hans Keller	Reinbert de Leeuw	19.0	Hans Keller	2 februari 1937
+Hans Keller	J. Bernlef	17.0	Hans Keller	2 februari 1937
+Hans Keller	Paul de Wispelaere	11.0	Hans Keller	2 februari 1937
+Reinbert de Leeuw	J. Bernlef	11.0	Reinbert de Leeuw	1938
+Reinbert de Leeuw	Paul de Wispelaere	11.0	Reinbert de Leeuw	1938
+J. Bernlef	Aad van der Mijn	5.0	J. Bernlef	14 januari 1937
+Hans Keller	Aad van der Mijn	5.0	Hans Keller	2 februari 1937
+Rudi Fuchs	Aad van der Mijn	5.0	Rudi Fuchs	28 april 1942
+A.L. Constandse	Aad van der Mijn	5.0	A.L. Constandse	13 september 1899
+Aad van der Mijn	J. Bernlef	5.0	Aad van der Mijn	1928
+Aad van der Mijn	Hans Keller	5.0	Aad van der Mijn	1928
+Aad van der Mijn	Rudi Fuchs	5.0	Aad van der Mijn	1928
+Aad van der Mijn	A.L. Constandse	5.0	Aad van der Mijn	1928
+J. Bernlef	Louis Andriessen	5.0	J. Bernlef	14 januari 1937
+Louis Andriessen	Rudi Fuchs	5.0	Louis Andriessen	6 juni 1939
+Louis Andriessen	A.L. Constandse	5.0	Louis Andriessen	6 juni 1939
+J. Bernlef	Wilbert Bank	13.0	J. Bernlef	14 januari 1937
+Reinbert de Leeuw	Wilbert Bank	6.0	Reinbert de Leeuw	1938
+Hans Keller	Wilbert Bank	9.0	Hans Keller	2 februari 1937
+Rudi Fuchs	Wilbert Bank	12.0	Rudi Fuchs	28 april 1942
+A.L. Constandse	Wilbert Bank	13.0	A.L. Constandse	13 september 1899
+Han Lammers	Wilbert Bank	9.0	Han Lammers	1931
+Han Lammers	Reinbert de Leeuw	20.0	Han Lammers	1931
+Han Lammers	Rudi Fuchs	16.0	Han Lammers	1931
+A.L. Constandse	Reinbert de Leeuw	22.0	A.L. Constandse	13 september 1899
+A.L. Constandse	Rudi Fuchs	30.0	A.L. Constandse	13 september 1899
+Rudi Fuchs	G. van Benthem van den Bergh	5.0	Rudi Fuchs	28 april 1942
+Rudi Fuchs	Loden Vogel	5.0	Rudi Fuchs	28 april 1942
+Loden Vogel	A.L. Constandse	5.0	Loden Vogel	25 december 1920
+A.L. Constandse	Loden Vogel	5.0	A.L. Constandse	13 september 1899
+J. Bernlef	R.A. Cornets de Groot	9.0	J. Bernlef	14 januari 1937
+R.A. Cornets de Groot	Rudi Fuchs	9.0	R.A. Cornets de Groot	3 februari 1929
+R.A. Cornets de Groot	A.L. Constandse	10.0	R.A. Cornets de Groot	3 februari 1929
+Rudi Fuchs	Bastiaan Willink	5.0	Rudi Fuchs	28 april 1942
+Rudolf Geel	Rudi Fuchs	7.0	Rudolf Geel	27 januari 1941
+A.L. Constandse	Rudolf Geel	8.0	A.L. Constandse	13 september 1899
+R.A. Cornets de Groot	J. Bernlef	9.0	R.A. Cornets de Groot	3 februari 1929
+Rudi Fuchs	Rudolf Geel	7.0	Rudi Fuchs	28 april 1942
+Rudi Fuchs	J. Bernlef	26.0	Rudi Fuchs	28 april 1942
+Rudolf Geel	A.L. Constandse	8.0	Rudolf Geel	27 januari 1941
+Rudi Fuchs	R.A. Cornets de Groot	9.0	Rudi Fuchs	28 april 1942
+G. van Benthem van den Bergh	Rudi Fuchs	5.0	G. van Benthem van den Bergh	27 januari 1933
+Bastiaan Willink	Rudi Fuchs	5.0	Bastiaan Willink	1945
+A.L. Constandse	Bram van der Lek	7.0	A.L. Constandse	13 september 1899
+Guus Dijkhuizen	A.L. Constandse	7.0	Guus Dijkhuizen	11 januari 1937
+Rudolf Geel	Guus Dijkhuizen	5.0	Rudolf Geel	27 januari 1941
+Guus Dijkhuizen	Rudolf Geel	5.0	Guus Dijkhuizen	11 januari 1937
+Wim Hazeu	Guus Dijkhuizen	6.0	Wim Hazeu	28 april 1940
+A.L. Constandse	Guus Dijkhuizen	7.0	A.L. Constandse	13 september 1899
+Guus Dijkhuizen	Wim Hazeu	6.0	Guus Dijkhuizen	11 januari 1937
+Norbert Elias	G. van Benthem van den Bergh	5.0	Norbert Elias	22 juni 1897
+Rein Bloem	A.L. Constandse	5.0	Rein Bloem	20 april 1932
+Bram van der Lek	A.L. Constandse	7.0	Bram van der Lek	1931
+Emma Brunt	Lodewijk Brunt	5.0	Emma Brunt	1943
+Lode Roose	Marcel Janssens	11.0	Lode Roose	16 april 1920
+Erik Spinoy	Stefaan Evenepoel	21.0	Erik Spinoy	22 mei 1960
+Koen Peeters	Kamiel Vanhole	15.0	Koen Peeters	9 maart 1959
+Kamiel Vanhole	Koen Peeters	15.0	Kamiel Vanhole	1954
+Kamiel Vanhole	Koen Peeters	15.0	Kamiel Vanhole	 1954
+P.F. Schmitz	Rob Wolfs	5.0	P.F. Schmitz	10 augustus 1939
+Rob Wolfs	P.F. Schmitz	5.0	Rob Wolfs	22 juli 1951
+O. Noordenbos	Jan Romein	19.0	O. Noordenbos	5 juli 1896
+Jan Romein	W.F. Wertheim	12.0	Jan Romein	30 oktober 1893
+O. Noordenbos	W.F. Wertheim	13.0	O. Noordenbos	5 juli 1896
+W.F. Wertheim	O. Noordenbos	13.0	W.F. Wertheim	16 november 1907
+Jan Romein	O. Noordenbos	19.0	Jan Romein	30 oktober 1893
+N.A. Donkersloot	O. Noordenbos	14.0	N.A. Donkersloot	8 september 1902
+N.A. Donkersloot	W.F. Wertheim	5.0	N.A. Donkersloot	8 september 1902
+W.F. Wertheim	Jan Romein	12.0	W.F. Wertheim	16 november 1907
+N.A. Donkersloot	Jan Romein	7.0	N.A. Donkersloot	8 september 1902
+O. Noordenbos	N.A. Donkersloot	14.0	O. Noordenbos	5 juli 1896
+O. Noordenbos	J.B. Charles	5.0	O. Noordenbos	5 juli 1896
+J.B. Charles	O. Noordenbos	5.0	J.B. Charles	25 augustus 1910
+Jan Romein	N.A. Donkersloot	7.0	Jan Romein	30 oktober 1893
+W.F. Wertheim	N.A. Donkersloot	5.0	W.F. Wertheim	16 november 1907
+W.F. Wertheim	Fr. de Jong Edz.	5.0	W.F. Wertheim	16 november 1907
+C.G.N. de Vooys	C.B. van Haeringen	14.0	C.G.N. de Vooys	26 mei 1873
+C.B. van Haeringen	C.G.N. de Vooys	14.0	C.B. van Haeringen	16 mei 1892
+C.G.N. de Vooys	W.A.P. Smit	5.0	C.G.N. de Vooys	26 mei 1873
+C.B. van Haeringen	W.A.P. Smit	79.0	C.B. van Haeringen	16 mei 1892
+W.A.P. Smit	J.C. Brandt Corstius	5.0	W.A.P. Smit	6 december 1903
+C.B. van Haeringen	C.C. de Bruin	10.0	C.B. van Haeringen	16 mei 1892
+M. Rutten	C.B. van Haeringen	5.0	M. Rutten	18 april 1906
+W.A.P. Smit	C.B. van Haeringen	79.0	W.A.P. Smit	6 december 1903
+J.C. Brandt Corstius	C.B. van Haeringen	8.0	J.C. Brandt Corstius	31 december 1908
+W.A.P. Smit	C.C. de Bruin	5.0	W.A.P. Smit	6 december 1903
+C.C. de Bruin	C.B. van Haeringen	10.0	C.C. de Bruin	15 mei 1905
+W.A.P. Smit	B. van den Berg	28.0	W.A.P. Smit	6 december 1903
+B. van den Berg	W.A.P. Smit	28.0	B. van den Berg	14 februari 1911
+B. van den Berg	C.B. van Haeringen	38.0	B. van den Berg	14 februari 1911
+C.C. de Bruin	W.A.P. Smit	5.0	C.C. de Bruin	15 mei 1905
+C.B. van Haeringen	B. van den Berg	38.0	C.B. van Haeringen	16 mei 1892
+B. van den Berg	L. Koelmans	7.0	B. van den Berg	14 februari 1911
+W.P. Gerritsen	C.B. van Haeringen	5.0	W.P. Gerritsen	12 augustus 1935
+C.B. van Haeringen	A.L. Sötemann	11.0	C.B. van Haeringen	16 mei 1892
+B. van den Berg	A.L. Sötemann	37.0	B. van den Berg	14 februari 1911
+C.B. van Haeringen	M. Rutten	5.0	C.B. van Haeringen	16 mei 1892
+B. van den Berg	W.P. Gerritsen	41.0	B. van den Berg	14 februari 1911
+L. Koelmans	M.C. van den Toorn	14.0	L. Koelmans	20ste eeuw
+L. Koelmans	B. van den Berg	7.0	L. Koelmans	20ste eeuw
+B. van den Berg	M.C. van den Toorn	31.0	B. van den Berg	14 februari 1911
+A.L. Sötemann	M.C. van den Toorn	28.0	A.L. Sötemann	11 augustus 1920
+A.L. Sötemann	C.B. van Haeringen	11.0	A.L. Sötemann	11 augustus 1920
+A.L. Sötemann	W.P. Gerritsen	34.0	A.L. Sötemann	11 augustus 1920
+Wim Vermeer	B. van den Berg	6.0	Wim Vermeer	20ste eeuw
+W.P. Gerritsen	A.L. Sötemann	34.0	W.P. Gerritsen	12 augustus 1935
+W.P. Gerritsen	B. van den Berg	41.0	W.P. Gerritsen	12 augustus 1935
+A.L. Sötemann	B. van den Berg	37.0	A.L. Sötemann	11 augustus 1920
+B. van den Berg	Wim Vermeer	6.0	B. van den Berg	14 februari 1911
+W.P. Gerritsen	M.C. van den Toorn	51.0	W.P. Gerritsen	12 augustus 1935
+W.P. Gerritsen	L. Koelmans	12.0	W.P. Gerritsen	12 augustus 1935
+M.A. Schenkeveld-van der Dussen	L. Koelmans	14.0	M.A. Schenkeveld-van der Dussen	10 oktober 1937
+Piet Delen	H.H. Grünhagen	11.0	Piet Delen	20ste eeuw
+H.H. Grünhagen	Piet Delen	11.0	H.H. Grünhagen	20ste eeuw
+L. Koelmans	W.P. Gerritsen	12.0	L. Koelmans	20ste eeuw
+M.C. van den Toorn	A.L. Sötemann	28.0	M.C. van den Toorn	4 januari 1929
+M.C. van den Toorn	W.P. Gerritsen	51.0	M.C. van den Toorn	4 januari 1929
+C.B. van Haeringen	W.P. Gerritsen	5.0	C.B. van Haeringen	16 mei 1892
+A.L. Sötemann	M.A. Schenkeveld-van der Dussen	10.0	A.L. Sötemann	11 augustus 1920
+L. Koelmans	M.A. Schenkeveld-van der Dussen	14.0	L. Koelmans	20ste eeuw
+M.C. van den Toorn	M.A. Schenkeveld-van der Dussen	60.0	M.C. van den Toorn	4 januari 1929
+M.A. Schenkeveld-van der Dussen	W.P. Gerritsen	37.0	M.A. Schenkeveld-van der Dussen	10 oktober 1937
+B. van den Berg	M.A. Schenkeveld-van der Dussen	8.0	B. van den Berg	14 februari 1911
+W.P. Gerritsen	M.A. Schenkeveld-van der Dussen	37.0	W.P. Gerritsen	12 augustus 1935
+M.C. van den Toorn	B. van den Berg	31.0	M.C. van den Toorn	4 januari 1929
+G.J. Dorleijn	A.G.M. Vermeulen	11.0	G.J. Dorleijn	1951
+M.A. Schenkeveld-van der Dussen	M.C. van den Toorn	60.0	M.A. Schenkeveld-van der Dussen	10 oktober 1937
+M.A. Schenkeveld-van der Dussen	B. van den Berg	8.0	M.A. Schenkeveld-van der Dussen	10 oktober 1937
+M.C. van den Toorn	Wim Vermeer	6.0	M.C. van den Toorn	4 januari 1929
+Wim Zonneveld	M.A. Schenkeveld-van der Dussen	6.0	Wim Zonneveld	1950
+W.P. Gerritsen	L. Mosheuvel	8.0	W.P. Gerritsen	12 augustus 1935
+M.C. van den Toorn	L. Koelmans	14.0	M.C. van den Toorn	4 januari 1929
+W.J. van den Akker	A.G.M. Vermeulen	10.0	W.J. van den Akker	22 december 1954
+Fons van Buuren	W.P. Gerritsen	7.0	Fons van Buuren	1932
+Fons van Buuren	M.A. Schenkeveld-van der Dussen	7.0	Fons van Buuren	1932
+Fons van Buuren	M.C. van den Toorn	9.0	Fons van Buuren	1932
+M.C. van den Toorn	Fons van Buuren	9.0	M.C. van den Toorn	4 januari 1929
+M.A. Schenkeveld-van der Dussen	A.L. Sötemann	10.0	M.A. Schenkeveld-van der Dussen	10 oktober 1937
+Arie-Jan Gelderblom	M.A. Schenkeveld-van der Dussen	12.0	Arie-Jan Gelderblom	30 december 1946
+M.A. Schenkeveld-van der Dussen	G. Gerritsen-Geywitz	7.0	M.A. Schenkeveld-van der Dussen	10 oktober 1937
+M.C. van den Toorn	Arie-Jan Gelderblom	9.0	M.C. van den Toorn	4 januari 1929
+M.A. Schenkeveld-van der Dussen	Arie-Jan Gelderblom	12.0	M.A. Schenkeveld-van der Dussen	10 oktober 1937
+M.C. van den Toorn	H.J. Verkuyl	15.0	M.C. van den Toorn	4 januari 1929
+H.J. Verkuyl	M.A. Schenkeveld-van der Dussen	17.0	H.J. Verkuyl	1938
+H.J. Verkuyl	W.P. Gerritsen	10.0	H.J. Verkuyl	1938
+W.P. Gerritsen	Fons van Buuren	7.0	W.P. Gerritsen	12 augustus 1935
+M.A. Schenkeveld-van der Dussen	L. Mosheuvel	7.0	M.A. Schenkeveld-van der Dussen	10 oktober 1937
+M.A. Schenkeveld-van der Dussen	Fons van Buuren	7.0	M.A. Schenkeveld-van der Dussen	10 oktober 1937
+L. Mosheuvel	M.C. van den Toorn	6.0	L. Mosheuvel	9 maart 1922
+M.C. van den Toorn	Hans Anten	15.0	M.C. van den Toorn	4 januari 1929
+H.J. Verkuyl	Hans Anten	6.0	H.J. Verkuyl	1938
+M.A. Schenkeveld-van der Dussen	Hans Anten	16.0	M.A. Schenkeveld-van der Dussen	10 oktober 1937
+W.P. Gerritsen	Hans Anten	7.0	W.P. Gerritsen	12 augustus 1935
+W.P. Gerritsen	H.J. Verkuyl	10.0	W.P. Gerritsen	12 augustus 1935
+M.A. Schenkeveld-van der Dussen	H.J. Verkuyl	17.0	M.A. Schenkeveld-van der Dussen	10 oktober 1937
+Hans Anten	M.A. Schenkeveld-van der Dussen	16.0	Hans Anten	1947
+R.W.W.M. van der Drift	W.A.A.M. Merlijn	56.0	R.W.W.M. van der Drift	20ste eeuw
+W.P. Gerritsen	G. Gerritsen-Geywitz	6.0	W.P. Gerritsen	12 augustus 1935
+G. Gerritsen-Geywitz	M.A. Schenkeveld-van der Dussen	7.0	G. Gerritsen-Geywitz	20ste eeuw
+G. Gerritsen-Geywitz	M.A. Schenkeveld-van der Dussen	7.0	G. Gerritsen-Geywitz	
+G. Gerritsen-Geywitz	M.C. van den Toorn	5.0	G. Gerritsen-Geywitz	20ste eeuw
+G. Gerritsen-Geywitz	M.C. van den Toorn	5.0	G. Gerritsen-Geywitz	
+Arie-Jan Gelderblom	H.J. Verkuyl	6.0	Arie-Jan Gelderblom	30 december 1946
+Arie-Jan Gelderblom	M.C. van den Toorn	9.0	Arie-Jan Gelderblom	30 december 1946
+H.J. Verkuyl	M.C. van den Toorn	15.0	H.J. Verkuyl	1938
+Fons van Buuren	H.J. Verkuyl	6.0	Fons van Buuren	1932
+M.A. Schenkeveld-van der Dussen	Wim Zonneveld	6.0	M.A. Schenkeveld-van der Dussen	10 oktober 1937
+Hans Anten	H.J. Verkuyl	6.0	Hans Anten	1947
+M.C. van den Toorn	L. Mosheuvel	6.0	M.C. van den Toorn	4 januari 1929
+Hans Anten	M.C. van den Toorn	15.0	Hans Anten	1947
+M.C. van den Toorn	G. Gerritsen-Geywitz	5.0	M.C. van den Toorn	4 januari 1929
+H.J. Verkuyl	Arie-Jan Gelderblom	6.0	H.J. Verkuyl	1938
+G. Gerritsen-Geywitz	W.P. Gerritsen	6.0	G. Gerritsen-Geywitz	20ste eeuw
+G. Gerritsen-Geywitz	W.P. Gerritsen	6.0	G. Gerritsen-Geywitz	
+M.A. Schenkeveld-van der Dussen	Irene Spijker	6.0	M.A. Schenkeveld-van der Dussen	10 oktober 1937
+M.A. Schenkeveld-van der Dussen	W.J. van den Akker	6.0	M.A. Schenkeveld-van der Dussen	10 oktober 1937
+W.A.A.M. Merlijn	R.W.W.M. van der Drift	56.0	W.A.A.M. Merlijn	20ste eeuw
+H.J. Verkuyl	Fons van Buuren	6.0	H.J. Verkuyl	1938
+M.A. Schenkeveld-van der Dussen	G.J. Dorleijn	8.0	M.A. Schenkeveld-van der Dussen	10 oktober 1937
+G.J. Dorleijn	M.C. van den Toorn	11.0	G.J. Dorleijn	1951
+M.C. van den Toorn	G.J. Dorleijn	11.0	M.C. van den Toorn	4 januari 1929
+G.J. Dorleijn	M.A. Schenkeveld-van der Dussen	8.0	G.J. Dorleijn	1951
+Irene Spijker	M.A. Schenkeveld-van der Dussen	6.0	Irene Spijker	1956
+M.A. Schenkeveld-van der Dussen	Jan Nijen Twilhaar	15.0	M.A. Schenkeveld-van der Dussen	10 oktober 1937
+Arie-Jan Gelderblom	Jan Nijen Twilhaar	7.0	Arie-Jan Gelderblom	30 december 1946
+M.C. van den Toorn	P.C. Paardekooper	9.0	M.C. van den Toorn	4 januari 1929
+M.C. van den Toorn	Wim Zonneveld	6.0	M.C. van den Toorn	4 januari 1929
+P.C. Paardekooper	M.A. Schenkeveld-van der Dussen	8.0	P.C. Paardekooper	6 november 1920
+M.A. Schenkeveld-van der Dussen	Marijke Meijer Drees	20.0	M.A. Schenkeveld-van der Dussen	10 oktober 1937
+M.A. Schenkeveld-van der Dussen	P.C. Paardekooper	8.0	M.A. Schenkeveld-van der Dussen	10 oktober 1937
+Marijke Meijer Drees	M.C. van den Toorn	23.0	Marijke Meijer Drees	1954
+Marijke Meijer Drees	P.C. Paardekooper	7.0	Marijke Meijer Drees	1954
+Irene Spijker	Marijke Meijer Drees	5.0	Irene Spijker	1956
+M.C. van den Toorn	Marijke Meijer Drees	23.0	M.C. van den Toorn	4 januari 1929
+Jan Nijen Twilhaar	Kees Singeling	5.0	Jan Nijen Twilhaar	1955
+W.J. van den Akker	M.A. Schenkeveld-van der Dussen	6.0	W.J. van den Akker	22 december 1954
+W.J. van den Akker	Marijke Meijer Drees	5.0	W.J. van den Akker	22 december 1954
+Marijke Meijer Drees	Fons van Buuren	6.0	Marijke Meijer Drees	1954
+Marijke Meijer Drees	Kees Singeling	6.0	Marijke Meijer Drees	1954
+Jan Nijen Twilhaar	M.A. Schenkeveld-van der Dussen	15.0	Jan Nijen Twilhaar	1955
+Jan Nijen Twilhaar	M.C. van den Toorn	16.0	Jan Nijen Twilhaar	1955
+Jan Nijen Twilhaar	Hans Anten	7.0	Jan Nijen Twilhaar	1955
+Jan Nijen Twilhaar	Marijke Meijer Drees	15.0	Jan Nijen Twilhaar	1955
+Kees Singeling	Marijke Meijer Drees	6.0	Kees Singeling	1960
+Hans Anten	Marijke Meijer Drees	5.0	Hans Anten	1947
+Lia van Gemert	M.C. van den Toorn	7.0	Lia van Gemert	1958
+Hans Anten	Jan Nijen Twilhaar	7.0	Hans Anten	1947
+H.J. Verkuyl	Marijke Meijer Drees	5.0	H.J. Verkuyl	1938
+P.C. Paardekooper	Marijke Meijer Drees	7.0	P.C. Paardekooper	6 november 1920
+Lia van Gemert	Jan Nijen Twilhaar	7.0	Lia van Gemert	1958
+Marijke Meijer Drees	Irene Spijker	5.0	Marijke Meijer Drees	1954
+M.C. van den Toorn	Jan Nijen Twilhaar	16.0	M.C. van den Toorn	4 januari 1929
+M.C. van den Toorn	Dieuwke E. van der Poel	7.0	M.C. van den Toorn	4 januari 1929
+Fons van Buuren	Marijke Meijer Drees	6.0	Fons van Buuren	1932
+Dieuwke E. van der Poel	Marijke Meijer Drees	8.0	Dieuwke E. van der Poel	1958
+G.J. Dorleijn	Marijke Meijer Drees	10.0	G.J. Dorleijn	1951
+M.A. Schenkeveld-van der Dussen	Dieuwke E. van der Poel	6.0	M.A. Schenkeveld-van der Dussen	10 oktober 1937
+Marijke Meijer Drees	Jan Nijen Twilhaar	15.0	Marijke Meijer Drees	1954
+M.C. van den Toorn	Lia van Gemert	7.0	M.C. van den Toorn	4 januari 1929
+G.J. Dorleijn	Jan Nijen Twilhaar	8.0	G.J. Dorleijn	1951
+Marijke Meijer Drees	Dieuwke E. van der Poel	8.0	Marijke Meijer Drees	1954
+Lia van Gemert	Marijke Meijer Drees	5.0	Lia van Gemert	1958
+Marijke Meijer Drees	Hans Anten	5.0	Marijke Meijer Drees	1954
+Jan Nijen Twilhaar	Arie-Jan Gelderblom	7.0	Jan Nijen Twilhaar	1955
+Marijke Meijer Drees	Lia van Gemert	5.0	Marijke Meijer Drees	1954
+Jan Nijen Twilhaar	Lia van Gemert	7.0	Jan Nijen Twilhaar	1955
+Marijke Meijer Drees	H.J. Verkuyl	5.0	Marijke Meijer Drees	1954
+Jacoba M. Vreugdenhil	Jan Elzo Niemeijer	12.0	Jacoba M. Vreugdenhil	1913
+G.E. Mulder	Jan Elzo Niemeijer	7.0	G.E. Mulder	20ste eeuw
+P.J. Risseeuw	Jan Elzo Niemeijer	13.0	P.J. Risseeuw	16 mei 1901
+P.J. Risseeuw	Jacoba M. Vreugdenhil	9.0	P.J. Risseeuw	16 mei 1901
+Jacoba M. Vreugdenhil	P.J. Risseeuw	9.0	Jacoba M. Vreugdenhil	1913
+Jan Elzo Niemeijer	P.J. Risseeuw	13.0	Jan Elzo Niemeijer	1922
+Jan Elzo Niemeijer	Jacoba M. Vreugdenhil	12.0	Jan Elzo Niemeijer	1922
+W.Gs Hellinga	P.J.H. Vermeeren	14.0	W.Gs Hellinga	20 december 1908
+Marcel Janssens	Lode Roose	11.0	Marcel Janssens	28 februari 1932
+P.J.H. Vermeeren	W.Gs Hellinga	14.0	P.J.H. Vermeeren	11 oktober 1913
+N. de Paepe	Lode Roose	5.0	N. de Paepe	21 mei 1930
+Lode Roose	Lieven Rens	5.0	Lode Roose	16 april 1920
+Lieven Rens	Marcel Janssens	6.0	Lieven Rens	15 januari 1925
+Lieven Rens	Karel Porteman	17.0	Lieven Rens	15 januari 1925
+Lieven Rens	P.J. Buijnsters	7.0	Lieven Rens	15 januari 1925
+Lieven Rens	Lode Roose	5.0	Lieven Rens	15 januari 1925
+Lieven Rens	Carlos Tindemans	8.0	Lieven Rens	15 januari 1925
+R. Lievens	Lieven Rens	5.0	R. Lievens	2 januari 1924
+Carlos Tindemans	Lieven Rens	8.0	Carlos Tindemans	1931
+Karel Porteman	Lieven Rens	17.0	Karel Porteman	20 juni 1938
+Karel Porteman	Carlos Tindemans	5.0	Karel Porteman	20 juni 1938
+W.E. Hegman	Karel Porteman	6.0	W.E. Hegman	24 juni 1924
+Karel Porteman	P.J. Buijnsters	5.0	Karel Porteman	20 juni 1938
+Lieven Rens	Piet Couttenier	7.0	Lieven Rens	15 januari 1925
+P.J. Buijnsters	Karel Porteman	5.0	P.J. Buijnsters	18 oktober 1933
+Lieven Rens	Jan Schoolmeesters	5.0	Lieven Rens	15 januari 1925
+Lieven Rens	P.E.L. Verkuyl	5.0	Lieven Rens	15 januari 1925
+P.E.L. Verkuyl	Karel Porteman	5.0	P.E.L. Verkuyl	1929
+Karel Porteman	P.E.L. Verkuyl	5.0	Karel Porteman	20 juni 1938
+Karel Porteman	Jan Schoolmeesters	6.0	Karel Porteman	20 juni 1938
+P.E.L. Verkuyl	Lieven Rens	5.0	P.E.L. Verkuyl	1929
+P.J. Buijnsters	Lieven Rens	7.0	P.J. Buijnsters	18 oktober 1933
+R. Lievens	Karel Porteman	5.0	R. Lievens	2 januari 1924
+Piet Couttenier	Lieven Rens	7.0	Piet Couttenier	1947
+Jan Schoolmeesters	Karel Porteman	6.0	Jan Schoolmeesters	1951
+Jan Schoolmeesters	Lieven Rens	5.0	Jan Schoolmeesters	1951
+Ed. Hoornik	W.A. Braasem	8.0	Ed. Hoornik	9 maart 1910
+K. Schippers	J. Bernlef	17.0	K. Schippers	6 november 1936
+Reinbert de Leeuw	Hans Andreus	11.0	Reinbert de Leeuw	1938
+A.L. Constandse	Hans Andreus	12.0	A.L. Constandse	13 september 1899
+Han Lammers	Hans Andreus	10.0	Han Lammers	1931
+Hans Keller	Hans Andreus	9.0	Hans Keller	2 februari 1937
+Arie de Froe	A.L. Constandse	5.0	Arie de Froe	7 januari 1907
+Arie de Froe	A.L. Constandse	5.0	Arie de Froe	16 april 1874
+S.R. de Groot	J. Bernlef	6.0	S.R. de Groot	1916
+A.L. Constandse	Paul de Wispelaere	12.0	A.L. Constandse	13 september 1899
+Han Lammers	Paul de Wispelaere	11.0	Han Lammers	1931
+David Koning	Paul de Wispelaere	5.0	David Koning	13 oktober 1920
+David Koning	Reinbert de Leeuw	5.0	David Koning	13 oktober 1920
+David Koning	Hans Keller	5.0	David Koning	13 oktober 1920
+David Koning	A.L. Constandse	5.0	David Koning	13 oktober 1920
+David Koning	Han Lammers	5.0	David Koning	13 oktober 1920
+Rudi Fuchs	Paul de Wispelaere	9.0	Rudi Fuchs	28 april 1942
+Rudi Fuchs	Reinbert de Leeuw	12.0	Rudi Fuchs	28 april 1942
+Paul de Wispelaere	J. Bernlef	8.0	Paul de Wispelaere	4 juli 1928
+A.L. Constandse	J. Bernlef	30.0	A.L. Constandse	13 september 1899
+Han Lammers	J. Bernlef	15.0	Han Lammers	1931
+Louis Andriessen	J. Bernlef	5.0	Louis Andriessen	6 juni 1939
+Rudi Fuchs	Louis Andriessen	5.0	Rudi Fuchs	28 april 1942
+A.L. Constandse	Louis Andriessen	5.0	A.L. Constandse	13 september 1899
+Wilbert Bank	J. Bernlef	13.0	Wilbert Bank	25 juni 1942
+Wilbert Bank	Reinbert de Leeuw	6.0	Wilbert Bank	25 juni 1942
+Wilbert Bank	Hans Keller	9.0	Wilbert Bank	25 juni 1942
+Wilbert Bank	Rudi Fuchs	12.0	Wilbert Bank	25 juni 1942
+Wilbert Bank	A.L. Constandse	13.0	Wilbert Bank	25 juni 1942
+Wilbert Bank	Han Lammers	9.0	Wilbert Bank	25 juni 1942
+Loden Vogel	Rudi Fuchs	5.0	Loden Vogel	25 december 1920
+A.L. Constandse	R.A. Cornets de Groot	10.0	A.L. Constandse	13 september 1899
+G. van Benthem van den Bergh	Norbert Elias	5.0	G. van Benthem van den Bergh	27 januari 1933
+A.L. Constandse	Rein Bloem	5.0	A.L. Constandse	13 september 1899
+Lodewijk Brunt	Emma Brunt	5.0	Lodewijk Brunt	1942
+Gerard Wijdeveld	Tirso de Molina	6.0	Gerard Wijdeveld	1905
+Stefaan Evenepoel	Erik Spinoy	21.0	Stefaan Evenepoel	1958
+Fr. de Jong Edz.	W.F. Wertheim	5.0	Fr. de Jong Edz.	1919
+W.A.P. Smit	C.G.N. de Vooys	5.0	W.A.P. Smit	6 december 1903
+J.C. Brandt Corstius	W.A.P. Smit	5.0	J.C. Brandt Corstius	31 december 1908
+A.G.M. Vermeulen	G.J. Dorleijn	11.0	A.G.M. Vermeulen	20ste eeuw
+Wim Vermeer	M.C. van den Toorn	6.0	Wim Vermeer	20ste eeuw
+L. Mosheuvel	W.P. Gerritsen	8.0	L. Mosheuvel	9 maart 1922
+A.G.M. Vermeulen	W.J. van den Akker	10.0	A.G.M. Vermeulen	20ste eeuw
+L. Mosheuvel	M.A. Schenkeveld-van der Dussen	7.0	L. Mosheuvel	9 maart 1922
+Hans Anten	W.P. Gerritsen	7.0	Hans Anten	1947
+P.C. Paardekooper	M.C. van den Toorn	9.0	P.C. Paardekooper	6 november 1920
+Wim Zonneveld	M.C. van den Toorn	6.0	Wim Zonneveld	1950
+Marijke Meijer Drees	M.A. Schenkeveld-van der Dussen	20.0	Marijke Meijer Drees	1954
+Kees Singeling	Jan Nijen Twilhaar	5.0	Kees Singeling	1960
+Marijke Meijer Drees	W.J. van den Akker	5.0	Marijke Meijer Drees	1954
+Dieuwke E. van der Poel	M.C. van den Toorn	7.0	Dieuwke E. van der Poel	1958
+Marijke Meijer Drees	G.J. Dorleijn	10.0	Marijke Meijer Drees	1954
+Dieuwke E. van der Poel	M.A. Schenkeveld-van der Dussen	6.0	Dieuwke E. van der Poel	1958
+Jan Nijen Twilhaar	G.J. Dorleijn	8.0	Jan Nijen Twilhaar	1955
+Jan Elzo Niemeijer	G.E. Mulder	7.0	Jan Elzo Niemeijer	1922
+Lode Roose	N. de Paepe	5.0	Lode Roose	16 april 1920
+Marcel Janssens	Lieven Rens	6.0	Marcel Janssens	28 februari 1932
+Lieven Rens	R. Lievens	5.0	Lieven Rens	15 januari 1925
+Carlos Tindemans	Karel Porteman	5.0	Carlos Tindemans	1931
+Karel Porteman	W.E. Hegman	6.0	Karel Porteman	20 juni 1938
+Karel Porteman	R. Lievens	5.0	Karel Porteman	20 juni 1938
