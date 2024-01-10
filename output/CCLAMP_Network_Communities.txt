@@ -1,1571 +1,1630 @@
-	Author	Community	DOB	POB	POD
-0	Henk Kuitenbrouwer	1	20 november 1903	Utrecht	Utrecht
-1	Henri Bruning	1	10 juli 1900	Amsterdam	Nijmegen
-2	Albert Kuyle	1	17 februari 1904	Utrecht	Utrecht
-3	Albe	1	8 juni 1902	Mechelen	Brussel
-4	Dirk Coster	1	7 juli 1887	Delft	Delft
-5	Jan Engelman	1	7 juni 1900	Utrecht	Amsterdam
-6	Erich Wichman	1	11 augustus 1890	Utrecht	Amsterdam
-7	Willem Pijper	1	8 september 1894	Zeist	Leidschendam
-8	Just Havelaar	1	12 februari 1880	Rotterdam	Amersfoort
-9	Gerard Bruning	1	18 februari 1898	Amsterdam	Nijmegen
-10	Joep Nicolas	1	6 oktober 1897		Steyl
-11	Gerard Brom	1	17 april 1882	Utrecht	Wijchen
-12	Bernard Verhoeven	1	29 april 1897	Arnhem	Arnhem
-13	Leopold	2	7 september 1860	Leiden	Haarlem
-14	Johan de Meester	3	6 februari 1860	Harderwijk	Utrecht
-15	Karel van den Oever	1	19 november 1879	Antwerpen	Antwerpen
-16	Huib Luns	1	6 juni 1881	Parijs	
-17	Wies Moens	4	28 januari 1898	Sint-Gillis-Bij-Dendermonde	Geleen
-18	Marnix Gijsen	1	20 oktober 1899	Antwerpen	Leuven
-19	Herman Teirlinck	1	24 februari 1879	Sint-Jans-Molenbeek	Beersel-Lot
-20	Richard Minne	1	30 november 1891	Gent	Sint-Martens-Latem
-21	J.C. Bloem	5	10 mei 1887	Oudshoorn	Kalenberg
-22	Albert Helman	1	7 november 1903	Paramaribo	Amsterdam
-23	G.P.M. Knuvelder	1	25 januari 1902	Arnhem	Eindhoven
-24	Frederik van Eeden	5	3 april 1860	Haarlem	Bussum
-25	Menno ter Braak	1	26 januari 1902	Eibergen	Den Haag
-26	Willem Nieuwenhuis	1	1886		
-27	Herman de Man	1	11 juli 1898	Woerden	Schiphol
-28	Henriette Roland Holst-van der Schalk	1	24 december 1869	Noordwijk	Amsterdam
-29	Charles Eyck	1	24 maart 1897	Meerssen	Schimmert
-30	H. Marsman	1	30 september 1899	Zeist	Het Kanaal
-31	A. den Doolaard	1	7 februari 1901	Zwolle	Hoenderloo
-32	Anton van Duinkerken	1	2 januari 1903	Bergen op Zoom	Nijmegen
-33	A.A.M. Stols	2	28 januari 1900	Maastricht	Tarragona
-34	M. Stol	2	1940		
-35	Herman Gorter	5	26 november 1864	Wormerveer	St-Joost-Ten-Noode, Brussel
-36	A. Roland Holst	1	23 mei 1888	Amsterdam	Bergen
-37	Ernest Michel	1	25 november 1899	Eindhoven	Nijmegen
-38	A.M. de Jong	1	23 december 1893	Oostburg	Amsterdam
-39	Willem Maas	1	28 april 1897	Utrecht	Utrecht
-40	Hendrik de Vries	1	17 augustus 1896	Groningen	Haren
-41	Novalis	1	2 mei 1772	Wiederstedt	Weissenfels
-42	Albert Verwey	5	15 mei 1865	Amsterdam	Noordwijk
-43	Antoon Coolen	1	17 april 1897	Wijlre	Eindhoven
-44	Stijn Streuvels	1	3 oktober 1871	Heule	Ingooigem (Anzegem)
-45	H.E.H. van Loon	3	1885	Rotterdam	
-46	H. van Loon	3	17de eeuw		
-47	Sybold van Ravesteyn	1	18 februari 1889		Laren
-48	Karel van de Woestijne	1	10 maart 1878	Gent	Zwijnaarde
-49	Prosper van Langendonck	1	15 maart 1862	Brussel	Brussel
-50	Constantijn	5	3 mei 1834	Semarang	Hertogenbosch
-51	Willem Kloos	1	6 mei 1859	Amsterdam	Den Haag
-52	Guido Gezelle	1	1 mei 1830	Brugge	Brugge
-53	J.F.M. Sterck	3	3 januari 1859	Amsterdam	Amsterdam
-54	Frans Erens	3	23 juli 1857	Schaesberg	Houthem-Sint Gerlach
-55	Wouter Lutkie	1	23 februari 1887	Hertogenbosch	Nuland
-56	Gerard Wijdeveld	1	1905		
-57	Stefan George	5	1868		
-58	P.N. van Eyck	5	1 oktober 1887	Breukelen	Wassenaar
-59	Nicolaas Beets	3	13 september 1814	Haarlem	Utrecht
-60	Abraham Kuyper	1	29 oktober 1837	Maassluis	Den Haag
-61	J.J. van Geuns	6	25 februari 1893	Zierikzee	Amsterdam
-62	J. van Geuns	6	5 juli 1808	Amsterdam	Amsterdam
-63	Halbo C. Kool	1	25 januari 1907	Groningen	Kortenhoef
-64	D.A.M. Binnendijk	1	12 oktober 1902	Leiden	Amsterdam
-65	Jan H. Eekhout	1	10 januari 1900	Sluis	Amsterdam
-66	A.J.D. van Oosten	1	12 november 1898	Delft	Rotterdam
-67	B.H. Molkenboer	1	1879		
-68	H. Mol	5	1917		
-69	Hubert	4	20ste eeuw		
-70	G. Kalff	3	30 januari 1856	Zwolle	Sassnitz
-71	A. van Domburg	1	9 januari 1895	Oud Gastel	Eindhoven
-72	Ellen Russe	7	4 mei 1889	Zoeterwoude	
-73	Giovanni Papini	7	1881		
-74	Roel Houwink	1	17 januari 1899	Breda	Zeist
-75	J.H. Leopold	5	11 mei 1865	's-Hertogenbosch	Rotterdam
-76	Chris de Graaff	1	13 september 1890	Hertogenbosch	Amsterdam
-77	Multatuli	3	2 maart 1820	Amsterdam	Nieder-Ingelheim
-78	Ad. Sassen	1	1906		
-79	Geerten Gossaert	3	9 februari 1884	Kralingen	Utrecht
-80	Ernest Claes	1	24 oktober 1885	Zichem	Brussel
-81	Jacob van Lennep	3	24 maart 1802	Amsterdam	Oosterbeek
-82	Felix Timmermans	1	5 juli 1886	Lier	Lier
-83	E.J. Potgieter	3	27 juni 1808	Zwolle	Amsterdam
-84	Gerard Walschap	1	9 juli 1898	Londerzeel (Sint-Jozef)	Antwerpen
-85	Louis de Bourbon	1	27 december 1908	Renkum	Arnhem
-86	E. du Perron	1	2 november 1899	Jatinegara	Bergen
-87	Jan Greshoff	1	15 december 1888	Nieuw Helvoet	Kaapstad
-88	W.A.P. Smit	5	6 december 1903	Heumen	Utrecht
-89	Paul Vlemminx	1	1907	Schijndel	Hertogenbosch
-90	Henri Borel	1	23 november 1869	Dordrecht	Den Haag
-91	Constant van Wessem	1	25 april 1891	Den Haag	Wassenaar
-92	Theun de Vries	2	26 april 1907	Veenwouden	Amsterdam
-93	Alfred de Vigny	1	1797		
-94	Arthur van Schendel	2	5 maart 1874	Batavia	Amsterdam
-95	Pieter van der Meer de Walcheren	1	10 september 1880	Utrecht	Breda
-96	J.W.F. Werumeus Buning	1	4 mei 1891	Velp	Amsterdam
-97	Aart van der Leeuw	3	23 juni 1876	Delft	Voorburg
-98	C.R. de Klerk	1	1873	Woubrugge	
-99	Lodewijk van Deyssel	5	22 september 1864	Amsterdam	Haarlem
-100	Maria Viola	1	1 december 1871	Rotterdam	Ouderkerk a/d Amstel
-101	Alphons Diepenbrock	1	2 september 1862	Amsterdam	Amsterdam
-102	Jan Vercammen	1	7 november 1906	Temse	Brugge
-103	Pierre Kemp	9	1 december 1886	Maastricht	Maastricht
-104	Frans Coenen	3	24 april 1866	Amsterdam	Amsterdam
-105	A.G.W. Severijnen	1	19de eeuw		
-106	C.G.N. de Vooys	3	26 mei 1873	Gouda	Utrecht
-107	P.J.H. Vermeeren	1	11 oktober 1913	Maastricht	Keulen
-108	Pieter G. Buckinx	1	6 februari 1903	Kortessem	Jette
-109	Jan Romein	2	30 oktober 1893	Rotterdam	Amsterdam
-110	Garmt Stuiveling	5	21 december 1907	Stroobos	Hilversum
-111	Ed. Hoornik	10	9 maart 1910	Den Haag	Amsterdam
-112	Willem Bilderdijk	1	7 september 1756	Amsterdam	Haarlem
-113	Martin Leopold	2	1908		
-114	André Demedts	1	8 augustus 1906	Sint Baafs Vijve	Oudenaarde
-115	Jan Prins	3	5 februari 1876	Rotterdam	Naarden
-116	Willem de Mérode	3	2 september 1887	Spijk	Eerbeek
-117	P.C. Boutens	1	20 februari 1870	Middelburg	Den Haag
-118	M. Rutten	5	18 april 1906	Lanaken	Luik
-119	H.W.E. Moller	1	8 november 1869	Amsterdam	Tilburg
-120	J. Slauerhoff	1	14 september 1898	Leeuwarden	Hilversum
-121	P.J. Veth	3	2 december 1814	Dordrecht	Arnhem
-122	W.R. van Hoëvell	3	14 juli 1812	Deventer	Den Haag
-123	Willem Richard Boer	1	4 april 1818	Rotterdam	Utrecht
-124	Salomon Müller	3	1864		
-125	Jan Heemskerk Bzn.	3	16 februari 1811	Amsterdam	Den Haag
-126	S.J. van den Bergh	3	10 januari 1814	Den Haag	Den Haag
-127	Alfred de Musset	3	11 december 1810	Parijs	Parijs
-128	S. Vissering	3	23 juni 1818	Amsterdam	Ellecom
-129	H.J. Schimmel	3	30 juni 1823	's-Graveland	Bussum
-130	W.J. Hofdijk	3	27 juni 1816	Alkmaar	Arnhem
-131	Carel Adriaan Engelbregt	1	10 juni 1816	Breda	Den Haag
-132	Willem Jan Knoop	1	2 mei 1811	Deventer	Den Haag
-133	J.J.L. ten Kate	3	23 december 1819	Den Haag	Amsterdam
-134	Johan Carl Zimmerman	3	18 maart 1828	Batavia	
-135	Pieter Nicolaas Muller	3	23 september 1821	Amsterdam	Amsterdam
-136	Johan Adam Wijnne	1	4 december 1822	Hoogeveen	Utrecht
-137	Samuel Adrianus Naber	3	16 juli 1828	Den Haag	
-138	Cd. Busken Huet	3	28 december 1826	Den Haag	Parijs
-139	Robert Fruin	3	14 november 1823	Rotterdam	Leiden
-140	Martinus Nijhoff	5	20 april 1894	Den Haag	Den Haag
-141	Martinus Nijhoff	5	26 december 1826	Den Haag	Den Haag
-142	W.N. du Rieu	5	23 oktober 1829	Leiden	Leiden
-143	H.P.G. Quack	3	2 juli 1834	Zetten	Amsterdam
-144	Nikolaas Gerard Pierson	3	7 februari 1839	Amsterdam	Heemstede
-145	J.A. Alberdingk Thijm	3	13 augustus 1820	Amsterdam	Amsterdam
-146	Pieter Rutger Feith	11	20 december 1837	Amsterdam	Den Haag
-147	Pieter Rutger Feith	11	8 september 1773	Amsterdam	Den Haag
-148	R. Feith	11	13 januari 1822	Appingedam	Groningen
-149	Tiberius Cornelius Winkler	12	28 mei 1822	Leeuwarden	Haarlem
-150	C. Winkler	12	1855		
-151	Carel Vosmaer	3	20 maart 1826	Den Haag	Montreux
-152	J. van Vloten	3	18 januari 1818	Kampen	Haarlem
-153	Henricus Oort	13	27 december 1836	Eemnes	
-154	H. Oort	13	24 februari 1778		Rotterdam
-155	H.C. Rogge	3	16 februari 1831	Amsterdam	Haarlem
-156	Jérome Alexandre Sillem	1	24 oktober 1840	Amsterdam	Amsterdam
-157	Charles Boissevain	1	28 oktober 1842	Amsterdam	Naarden
-158	George Eliot	1	22 november 1819	Warwickshire	Londen
-159	D.E.W. Wolff	1	18 mei 1823	Zwolle	
-160	David Jacob van Lennep	3	28 december 1896	Flims	Utrecht
-161	Henri Ernest Moltzer	3	20 mei 1836	Wassenaar	Utrecht
-162	H. Kern	3	6 april 1833	Poerworedjo	Utrecht
-163	Abraham Seyne Kok	1	10 juni 1831	Amsterdam	
-164	Cornelis Bellaar Spruyt	3	5 juni 1842	Kockengen	Hilversum
-165	J.N. van Hall	3	15 januari 1840	Amsterdam	Bilthoven
-166	Johan Hermann Christian Heyse	3	23 maart 1839	Amsterdam	Middelburg
-167	Allard Pierson	3	8 april 1831	Amsterdam	Almen
-168	Allard Pierson	3	1 november 1770	Amsterdam	Almen
-169	Willem de Clercq	3	15 januari 1795	Amsterdam	Amsterdam
-170	Johan Hendrik Gallée	3	9 september 1847	Vorden	Utrecht
-171	J. Verdam	3	22 januari 1845	Amsterdam	
-172	Marie Henriëtte Koorders-Boeke	3	29 mei 1837	Amsterdam	Salatiga
-173	H. van Cappelle jr.	14	2 oktober 1857	Amsterdam	Voorburg
-174	H. van Cappelle	14	25 september 1825	Amsterdam	Haarlem
-175	J. van Loenen Martinet	3	22 juni 1840	Nijmegen	
-176	Hendrik Hooyer	15	27 maart 1844	Zaltbommel	Arnhem
-177	J.H. Hooijer	15	27 maart 1844	Zaltbommel	Arnhem
-178	Anton Gerard van Hamel	3	17 januari 1842	Haarlem	Amsterdam
-179	Jan ten Brink	3	15 juni 1834	Appingedam	Leiden
-180	A.G. van Hamel	3	5 juli 1886	Hilversum	Utrecht
-181	Robert Macalester Loup	4	16 november 1854	Elst	
-182	Max Rooses	1	10 februari 1839	Antwerpen	Antwerpen
-183	Willem Hendrik de Beaufort	2	19 maart 1845	Leusden	Den Haag
-184	Gerard Valette	2	1853		
-185	Pol de Mont	1	15 april 1857	Wambeek	Berlijn
-186	Joh. Dyserinck	1	12 maart 1835	Haarlem	Baarn
-187	Louis Couperus	5	10 juni 1863	Den Haag	De Steeg
-188	Jan C. de Vos	3	8 juli 1855	Den Haag	
-189	Willem van der Vlugt	1	12 maart 1853	Haarlem	Tongeren
-190	Henricus Anastasius Viotta	4	16 juli 1848	Amsterdam	
-191	Marcellus Emants	3	12 augustus 1848	Voorburg	Baden
-192	A. Kluijver	3	4 december 1858	Koog a/d Zaan	
-193	A. Kluyver	3	1858		
-194	Hélène Swarth	3	25 oktober 1859	Amsterdam	Velp
-195	H.J. Polak	3	1 september 1844	Leiden	Groningen
-196	Leo Simons	1	1 augustus 1862	Den Haag	
-197	R.A. Kollewijn	3	30 maart 1857	Amersfoort	Helmond
-198	R.P.J. Tutein Nolthenius	3	6 juni 1851	Abcoude	La Tour de Peilz
-199	Herman Heijermans	1	3 december 1864	Rotterdam	Zandvoort
-200	Willem Gerard van Nouhuys	1	22 juni 1854	Zaltbommel	Den Haag
-201	W.G.C. Byvanck	1	10 november 1848	Amsterdam	Den Haag
-202	Taco H. de Beer	3	18 november 1838	Maarsseveen (Maarssen)	Den Haag
-203	Jan Veth	3	18 mei 1864	Dordrecht	Amsterdam
-204	Jan Six	3	2 februari 1857		
-205	L. Knappert	3	7 juli 1863	Harlingen	Leiden
-206	H.T. Colenbrander	3	13 december 1871	Drachten	Leiden
-207	Conrad Th. van Deventer	3	29 september 1857	Dordrecht	Den Haag
-208	N.P. van den Berg	3	1831		
-209	A.A.W. Hubrecht	16	1853		
-210	Hugo de Vries	16	16 februari 1848	Haarlem	Lunteren
-211	Antoon Derkinderen	3	20 december 1859	Hertogenbosch	Amsterdam
-212	Margo Scharten-Antink	3	7 september 1869	Zutphen	Florence
-213	Carel Scharten	3	14 maart 1878	Middelburg	Florence
-214	Herman Robbers	3	4 september 1868	Rotterdam	Amsterdam
-215	Top Naeff	3	24 maart 1878	Dordrecht	Dordrecht
-216	Edward B. Koster	3	14 september 1861	Londen	Den Haag
-217	Frans Mijnssen	3	28 februari 1872	Amsterdam	
-218	Nico van Suchtelen	1	25 oktober 1878	Amsterdam	Ermelo
-219	Jozef Israëls	3	27 januari 1824	Groningen	Den Haag
-220	M.H. van Campen	3	1 juli 1874	Amsterdam	Auschwitz
-221	Caesar Gezelle	1	23 oktober 1875	Brugge	Moorsele
-222	Joannes Reddingius	3	19 juni 1873	Deurne	Bennekom
-223	Ina Boudier-Bakker	3	15 april 1875	Amsterdam	Utrecht
-224	W.L. Penning	3	10 november 1840	Schiedam	Den Haag
-225	Anna van Gogh-Kaulbach	3	31 december 1869	Velsen	Haarlem
-226	Marie Metz-Koning	3	12 mei 1864	Amsterdam	Ascona
-227	W.J.C. van Hasselt	3	9 januari 1795	Amsterdam	Amsterdam
-228	Bernard Shaw	1	26 juli 1856	Dublin	Ayot St Lawrence
-229	Adriaan van Oordt	3	19 februari 1865	Dresden	Bussum
-230	Eduard Verkade	3	15 juni 1878	Amsterdam	Breukelen
-231	Maurits Sabbe	1	9 februari 1873	Brugge	Antwerpen
-232	S. Bonn	3	5 februari 1881	Amsterdam	Amsterdam
-233	Jan van Nijlen	3	10 november 1884	Antwerpen	Ukkel
-234	Maurits Uyldert	2	16 februari 1881	Amsterdam	Amsterdam
-235	René de Clercq	3	4 november 1877	Deerlijk	Sint-Maartensdijk
-236	Augusta de Wit	3	25 november 1864	Sibolga (Sumatra)	Baarn
-237	Pieter Valkhoff	1	26 december 1875	Heerenveen	Hilversum
-238	Albrecht Rodenbach	3	27 oktober 1856	Roeselare	Roeselare
-239	D. van Blom	3	19 december 1877	Leeuwarden	Leiden
-240	Carry van Bruggen	5	1 januari 1881	Smilde	Laren
-241	Herman Poort	3	18 juli 1886	Stadskanaal	Groningen
-242	J. Prinsen J.Lzn	3	9 maart 1866	Hertogenbosch	
-243	J. Prins	3	1903		
-244	C.A. Verrijn Stuart	3	22 oktober 1865	Weesp	Zeist
-245	C. van Vollenhoven	3	8 mei 1874	Dordrecht	Leiden
-246	C. van Vollenhoven	3	16 september (gedoopt) 1753	Dordrecht	Leiden
-247	C. van Vollenhoven	3	1 juli 1809	Dordrecht	Leiden
-248	R.C. Bakhuizen van den Brink	3	28 februari 1810	Amsterdam	Den Haag
-249	Johan Huizinga	1	7 december 1872	Groningen	De Steeg
-250	André Jolles	1	7 augustus 1874	Den Helder	Leipzig
-251	P. Geyl	2	15 december 1887	Dordrecht	Utrecht
-252	P.J. Meertens	5	6 september 1899	Middelburg	Amstelveen
-253	Arthur J.H. Cornette	1	4 maart 1880	Antwerpen	Brugge
-254	Lode Baekelmans	1	26 januari 1879	Antwerpen	Antwerpen
-255	Joris Eeckhout	1	29 juli 1887	Deinze	Gent
-256	Virginie Loveling	1	17 mei 1836	Nevele	Gent
-257	Maurice Roelants	1	19 december 1895	Gent	Sint-Martens-Lennik
-258	Hermann Wolf	17	1 mei 1893	Keulen	Amsterdam
-259	Herman Wolf	17	20ste eeuw		
-260	André de Ridder	3	20 oktober 1888	Antwerpen	Borgerhout
-261	N.A. Donkersloot	2	8 september 1902	Rotterdam	Amsterdam
-262	W. Kramer	3	10 november 1885	Westmaas	Bussum
-263	J.H. Plantenga	2	15 januari 1891	Rotterdam	Wassenaar
-264	Emmanuel de Bom	3	9 november 1868	Antwerpen	Kalmthout
-265	Cornelia Serrurier	3	1879		
-266	E.J. Dijksterhuis	2	28 oktober 1892	Tilburg	De Bilt
-267	Lode Zielens	1	13 juni 1901	Antwerpen	Antwerpen
-268	Sybrandus Johannes Fockema Andreae	2	4 juni 1844	Beetsterzwaag	Leiden
-269	S.J. Fockema Andreae	2	10 april 1904	Leeuwarden	Beetsterzwaag
-270	Paul Valéry	1	 1871		
-271	Paul Valéry	1	1871		
-272	Jozef Muls	1	12 juli 1882	Antwerpen	Kapellenbos
-273	R.F. Beerling	2	7 april 1905	Gorinchem	Leiden
-274	D.C. Hesseling	3	15 juli 1859	Amsterdam	Leiden
-275	Anton Koolhaas	10	16 november 1912	Utrecht	Amsterdam
-276	Homerus	1	ca. 800 v.Chr.		
-277	Thomas Mann	2	6 juni 1875	Lübeck	Zürich
-278	Gerlach Royen	3	18 oktober 1880	Valkenburg	Utrecht
-279	J.C. Brandt Corstius	5	31 december 1908	Rotterdam	Odijk
-280	Hein Boeken	1	2 december 1861	Amsterdam	Amsterdam
-281	Yge Foppema	2	6 september 1901	Dedemsvaart	Oegstgeest
-282	F. Bordewijk	2	10 oktober 1884	Amsterdam	Den Haag
-283	O. Noordenbos	2	5 juli 1896	Bozum	Amersfoort
-284	M.J. Langeveld	2	30 oktober 1905	Haarlem	Bussum
-285	J.J. Vriend	2	4 juli 1896	Gorinchem	
-286	E.W. Beth	2	7 juli 1908	Almelo	Amsterdam
-287	L.H. Grondijs	2	25 september 1878	Pamekasan	Den Haag
-288	J.D. Meerwaldt	2	16 maart 1888	Amsterdam	Amsterdam
-289	J.J.L. Duyvendak	2	28 juni 1889	Harlingen	Leiden
-290	Wouter Paap	10	7 mei 1908	Utrecht	Lage Vuursche
-291	B.M. Telders	2	19 maart 1903	Den Haag	Bergen-Belsen
-292	D. Loenen	2	14 februari 1890	Nieuw-Loosdrecht	
-293	J.D. Bierens de Haan	2	14 oktober 1866	Amsterdam	Haarlem
-294	G.S. Overdiep	5	13 november 1885	Vries	Groningen
-295	Jan Campert	10	15 augustus 1902	Spijkenisse	Neuengamme
-296	Eduard Reeser	1	23 maart 1908	Rotterdam	Utrecht
-297	Emmy van Lokhorst	2	26 augustus 1891	Den Haag	Amsterdam
-298	J.N. Bakhuizen van den Brink	2	25 mei 1896	Joure	Leiden
-299	G.W. Wolthuis	2	1906		
-300	J.S. Bartstra	2	30 juni 1887	Westerbork	Haarlem
-301	G.G. Kloeke	5	10 juli 1887	Schagen	Leiden
-302	Jaap Kunst	2	12 augustus 1891	Groningen	Amsterdam
-303	K.F. Proost	2	1883	Geervliet	Blaricum
-304	W. Banning	2	21 februari 1888	Makkum	Driebergen
-305	H.J. Pos	2	11 juli 1898	Amsterdam	Haarlem
-306	Anton van der Boom	2	28 januari 1895	Haarlem	Haarlem
-307	M.J. Sirks	2	13 oktober 1889	Rotterdam	Groningen
-308	A.N. Molenaar	2	20 april 1888	Waddinxveen	Den Haag
-309	C.F.A. van Dam	1	6 maart 1899	Amsterdam	Utrecht
-310	Miguel de Cervantes Saavedra	1	29 september 1547	Alcal de Henares	Madrid
-311	H. Wagenvoort	2	1860		
-312	B.A. van Groningen	2	20 mei 1894	Twello	Leiderdorp
-313	J.C.H. de Pater	2	26 november 1887	Bleiswijk	Den Haag
-314	S.M. Noach	3	1879		
-315	J.C.A. Fetter	2	12 oktober 1885	Stadskanaal	
-316	Willem Jan Mari van Eysinga	2	31 januari 1878	Noordwijkerhout	Leiden
-317	K. Strijd	2	1909		
-318	C.J. de Vogel	2	1905		
-319	G. van der Leeuw	2	18 maart 1890	Den Haag	Groningen
-320	Johan van der Woude	2	6 januari 1906	Groningen	Velp
-321	Simon Vestdijk	1	17 oktober 1898	Harlingen	Utrecht
-322	N.E.H. van Esveld	2	20 juli 1915		
-323	Johannes Lindeboom	2	26 augustus 1882	Deventer	Groningen
-324	C.J. Kelk	2	28 augustus 1901	Amsterdam	Doorwerth
-325	A.G.M. van Melsen	2	1912		
-326	Jan te Winkel	3	16 november 1847	Winkel	Amsterdam
-327	G.P. Frets	2	8 november 1879	Boskoop	Soest
-328	H.J. Prakke	2	26 april 1900	Alphen a/d Rijn	Roden
-329	Ferdinand Langen	2	29 juli 1918	Westernieland	Laren
-330	Marie Ramondt	2	22 maart 1878	Soekowono	Utrecht
-331	Gerard van Eckeren	2	29 november 1876	Haarlem	Wassenaar
-332	W.Ph. Coolhaas	2	2 mei 1899	Brielle	Bilthoven
-333	Guus Dijkhuizen	10	11 januari 1937	Amsterdam	
-334	Johanna K. Oudendijk	2	1906		
-335	Henricus	5	19de eeuw		
-336	Gabriël Smit	2	25 februari 1910	Utrecht	Laren (N.H.)
-337	H. Engel	2	20 februari 1898	Koog a/d Zaan	Almen
-338	G. Révész	2	9 december 1878	Síofok	Amsterdam
-339	Jan Barents	2	8 december 1916	Den Haag	
-340	Hubert Lampo	1	1 september 1920	Antwerpen	Essen
-341	Piet van Aken	1	15 februari 1920	Terhagen	Antwerpen
-342	Johan Daisne	1	2 september 1912	Gent	Gent
-343	Raymond Herreman	1	21 augustus 1896	Menen	Elsene, Brussel
-344	August Vermeylen	1	12 mei 1872	Brussel	Brussel
-345	I.J.M. van den Berg	2	16 juli 1890	Groningen	
-346	Karel Jonckheere	1	9 april 1906	Oostende	
-347	Raymond Brulez	1	18 oktober 1895	Blankenberge	Brussel
-348	Martin Permys	2	25 januari 1896	Amsterdam	Amsterdam
-349	W.J. Verdenius	2	3 april 1913	Den Haag	Zeist
-350	L. van den Ham	2	1912		
-351	C.W. Roldanus	2	16 juni 1899	Den Haag	Haren
-352	Willem van Maanen	2	22 november 1890	Amsterdam	Utrecht
-353	Francis Bacon	2	28 oktober 1909	Dublin	Madrid
-354	C.F.P. Stutterheim	5	21 mei 1903	Amsterdam	Oegstgeest
-355	Paul Rodenko	1	26 november 1920	Den Haag	Warnsveld
-356	W. de Vries	5	20ste eeuw		
-357	C.W. de Vries	2	1882		
-358	J.M. Kramer	2	1910		
-359	B. Hunningher	3	1903	Vlissingen	
-360	Bert Voeten	10	6 juli 1918	Breda	Amsterdam
-361	Jaap Romijn	2	29 maart 1912	Utrecht	Ellewoutsdijk
-362	René Verbeeck	1	18 april 1904	Wilsele	Mortsel
-363	Urbain van de Voorde	1	27 oktober 1893	Blankenberge	Leuven
-364	Wim Vesseur	2			
-365	Mea Verwey	3	2 maart 1892	Noordwijk aan Zee	Santpoort-Noord
-366	W.H. Staverman	3	3 december 1881	Twello	Deventer
-367	Max Croiset	2	13 augustus 1912	Blaricum	Den Haag
-368	Ton Lutz	2	1919		
-369	Anna Blaman	2	31 januari 1905	Rotterdam	Rotterdam
-370	Luisa Treves	2	15 november 1919	Amsterdam	
-371	Jan Sebastian Rabie	2	1920		
-372	Hugo Claus	10	5 april 1929	Brugge	Antwerpen
-373	Luc Lutz	2	17 november 1924	Delft	Rotterdam
-374	Karel Meeuwesse	2	11 juli 1914	Heer	Nijmegen
-375	Frank van der Goes	1	13 februari 1859	Amsterdam	Laren
-376	Paul van Ostaijen	5	22 februari 1896	Antwerpen	Miavoye-Anthée
-377	A.L. Sötemann	5	11 augustus 1920	Warmenhuizen	Utrecht
-378	Julien Jozef Kuypers	1	14 augustus 1892	Pepingen	Vorst
-379	K.H.R. de Josselin de Jong	18	9 juli 1903	Den Haag	Warnsveld
-380	R. de Josselin de Jong	18	1868		
-381	H.H.J. de Leeuwe	5	15 januari 1916	Essen	Amersfoort
-382	R.J. Forbes	2	21 april 1900	Breda	Haarlem
-383	Henri Wiessing	3	27 juni 1878	Vlissingen	Amsterdam
-384	David Koning	10	13 oktober 1920	Amsterdam	Laren
-385	P. Minderaa	5	3 december 1893	Amsterdam	Leiden
-386	A. Alberts	1	23 augustus 1911	Haarlem	Amsterdam
-387	C.B. van Haeringen	5	16 mei 1892	Werkendam	Utrecht
-388	Hubert van Herreweghen	9	16 februari 1920	Pamel-Roosdaal	Dilbeek
-389	K. Lekkerkerker	1	15 november 1910	Willeskop	Amsterdam
-390	D.A. de Graaf	3	1906	Utrecht	
-391	Gerben Colmjon	3	16 augustus 1899	Leeuwarden	Deventer
-392	C. Bittremieux	5	11 januari 1920	Nieuwpoort	Herent
-393	Victor E. van Vriesland	1	27 oktober 1892	Haarlem	Amsterdam
-394	Leo Vroman	10	10 april 1915	Gouda	Fort Worth
-395	W.J.H. Caron	5	19 juli 1901	Epe	Driebergen
-396	H.W. van Tricht	5	19 november 1897	Arnhem	Velp
-397	Ben Stroman	1	21 april 1902	Rotterdam	Haarlem
-398	Herman van den Bergh	1	30 januari 1897	Amsterdam	Rome
-399	Lucebert	10	15 september 1924	Amsterdam	Alkmaar
-400	Bert Bakker	2	3 april 1912	Huizem	Ilpendam
-401	Willem Elsschot	1	7 mei 1882	Antwerpen	Antwerpen
-402	C.A. Zaalberg	5	27 november 1909	Arnhem	Oegstgeest
-403	José-Maria de Heredia	9	22 november 1842	La Fortuna	
-404	Elisabeth Eybers	9	16 februari 1915	Klerksdorp	Amsterdam
-405	Sybren Polet	9	19 juni 1924	Kampen	Amsterdam
-406	Amy van Marken	9	21 juni 1912	Hilversum	Amsterdam
-407	Attila József	19	1905		
-408	A. Kibédi Varga	19	1930		
-409	Sándor Weöres	19	22 juni 1913		
-410	David Rokeah	10	1916		
-411	W.A. Braasem	10	23 november 1918	Soerabaja	Hoorn
-412	Alfred Kossmann	2	31 januari 1922	Leiden	Amsterdam
-413	Gerrit Achterberg	1	20 mei 1905	Langbroek	Leusden
-414	Hans Andreus	10	21 februari 1926	Amsterdam	Putten
-415	Martien J.G. de Jong	1	20 mei 1929	Steenbergen	
-416	Piet Calis	1	6 juni 1936	Laren	
-417	Theo van Baaren	2	13 mei 1912	Utrecht	Groningen
-418	Paul de Wispelaere	10	4 juli 1928	Brugge	
-419	Ivo Michiels	1	8 januari 1923	Mortsel	Le Barroux
-420	G.J. Resink	3	11 oktober 1911	Yogyakarta	Jakarta
-421	A.L. Constandse	10	13 september 1899	Brouwershaven	Den Haag
-422	J.B. Charles	2	25 augustus 1910	Zwolle	Oegstgeest
-423	Karel De Clerck	1	10 mei 1934	Etterbeek	
-424	G.J. Geers	2	10 december 1891	Delft	Groningen
-425	Blas de Otero	2	15 maart 1916	Bilbao	
-426	R.A. Cornets de Groot	10	3 februari 1929	Bandoeng	Leiden
-427	J. Bernlef	10	14 januari 1937	Sint Pancras	Amsterdam
-428	Hans Verhagen	10	3 maart 1939	Vlissingen	
-429	Jan Hanlo	9	29 mei 1912	Bandoeng	Maastricht
-430	Gerrit Kouwenaar	10	9 augustus 1923	Amsterdam	Amsterdam
-431	Paul Snoek	9	17 december 1933	Sint-Niklaas	Tielt
-432	Ezra Pound	10	1885	Verenigde Staten	
-433	Ezra Pound	10	 1885	Verenigde Staten	
-434	Ad den Besten	10	11 maart 1923	Utrecht	Amstelveen
-435	Jan G. Elburg	9	30 november 1919	Wemeldinge	Amsterdam
-436	Cyriel Buysse	1	20 september 1859	Nevele	Afsnee
-437	Han Lammers	10	1931		
-438	Paul van 't Veer	10	1922		
-439	J.L. Heldring	10	21 december 1917	Amsterdam	
-440	Ger Harmsen	2	1922		
-441	W.J.C. Buitendijk	5	11 april 1906	Amsterdam	Doorn
-442	K. Schippers	10	6 november 1936	Amsterdam	
-443	Albert Besnard	1	22 juni 1887	Den Haag	Bloemendaal
-444	Harry Mulisch	10	29 juli 1927	Haarlem	Amsterdam
-445	Dylan Thomas	10	27 oktober 1914	Swansea	New York
-446	Remco Campert	10	28 juli 1929	Den Haag	
-447	Armando	10	18 september 1929	Amsterdam	Potsdam
-448	C. Buddingh'	10	7 augustus 1918	Dordrecht	Dordrecht
-449	Bertus Aafjes	9	12 mei 1914	Amsterdam	Swolgen
-450	H.A. Gomperts	10	26 december 1915	Amsterdam	Draguignan
-451	Chris van der Weye	1	23 april 1888	Amsterdam	Muiden
-452	Peter Schat	10	1935		
-453	Coenraad van Emde Boas	10	17 juni 1904	Rotterdam	Amsterdam
-454	W.L. Brugsma	10	18 juli 1922	Aerdenhout	Bilthoven
-455	J.C. van Schagen	9	11 december 1891	Vlissingen	Deventer
-456	Cees Nooteboom	9	31 juli 1933	Den Haag	
-457	Frits Kief	5	1908		
-458	Reinbert de Leeuw	10	1938		
-459	Louis Paul Boon	10	15 maart 1912	Aalst	Erembodegem
-460	Hans Henkemans	10	23 december 1913	Den Haag	Nieuwegein
-461	Heere Heeresma	10	9 maart 1932	Amsterdam	Laren
-462	Arie de Froe	10	7 januari 1907	Arnhem	Amsterdam
-463	Arie de Froe	10	16 april 1874	Arnhem	Amsterdam
-464	J. Sperna Weiland	10	30 mei 1925	Zwollerkerspel	Rotterdam
-465	Simon Vinkenoog	3	18 juli 1928	Amsterdam	Amsterdam
-466	Koos Schuur	3	4 oktober 1915	Veendam	Almere Stad
-467	F.B. Löhnis	10	24 januari 1851	Rotterdam	Baden-Baden
-468	H.M. van Randwijk	10	9 november 1909	Gorinchem	Purmerend
-469	L. de Jong	10	24 april 1914	Amsterdam	
-470	Bert Schierbeek	10	28 juni 1918	Glanerbrug	Amsterdam
-471	Wallace Stevens	10	1879		NA NA
-472	Wallace Stevens	10	 1879		NA NA
-473	William Carlos Williams	10	20ste eeuw		
-474	Hans Keller	10	2 februari 1937	Haarlem	
-475	Jac. van Hattum	10	10 februari 1900	Wommels	Amstelveen
-476	Maurits Mok	10	7 november 1907	Haarlem	Bergen
-477	Louis Andriessen	10	6 juni 1939		
-478	Jan Blokker	10	27 mei 1927	Amsterdam	Amsterdam
-479	Matthijs Vermeulen	10	8 februari 1888	Helmond	Laren
-480	S.R. de Groot	10	1916		
-481	S. Dresden	9	5 augustus 1914	Amsterdam	Leiden
-482	Victor J. Brunclair	10	18 oktober 1899	Antwerpen	Lagelund (Sleeswijk-Holstein)
-483	Roel van Duyn	10	20 januari 1943	Den Haag	
-484	Judith Herzberg	10	4 november 1934	Amsterdam	
-485	Maurice Gilliams	1	20 juli 1900	Antwerpen	Antwerpen
-486	Willem Frederik Hermans	9	1 september 1921	Amsterdam	Utrecht
-487	Rudi Fuchs	10	28 april 1942	Eindhoven	
-488	J. Bosch	5	1910		
-489	T.S. Eliot	10	26 september 1888	Missouri	Londen
-490	Joris Ivens	10	18 november 1898	Nijmegen	Parijs
-491	Joris Iven	10	25 januari 1954	Diepenbeek	
-492	Annie Romein-Verschoor	2	4 februari 1895	Hatert	Amsterdam
-493	Peter Brook	10	21 maart 1925		
-494	Aad van der Mijn	10	1928		
-495	Rein Bloem	10	20 april 1932	Amsterdam	Amsterdam
-496	Frits Staal	10	3 november 1930	Amsterdam	Chiang Mai
-497	Noam Chomsky	10	7 december 1928	Philadelphia	
-498	Rudolf Geel	10	27 januari 1941	Amsterdam	
-499	J.W. Holsbergen	10	3 februari 1915	Rotterdam	Amsterdam
-500	G. van Benthem van den Bergh	10	27 januari 1933	Den Haag	
-501	Loden Vogel	10	25 december 1920	Amsterdam	
-502	Günter Grass	10	16 oktober 1927		
-503	Bastiaan Willink	10	1945		
-504	Sigmund Freud	10	6 mei 1856	Freiberg	Londen
-505	Miguel de Unamuno	10	1864	Spanje	
-506	Abram de Swaan	10	1942		
-507	Norbert Elias	10	22 juni 1897	Wroclaw	Amsterdam
-508	Leo Ross	9	15 juli 1934	Zwartsluis	
-509	Jacob Israël de Haan	9	31 december 1881	Smilde	Jeruzalem
-510	Ton Anbeek	9	18 september 1944	Ede	
-511	W.F. Wertheim	2	16 november 1907	Sint-Petersburg	
-512	H. de Lange	10	19de eeuw		
-513	Herman de Lange	10	1941		
-514	T.A. van Dijk	9	7 mei 1943	Naaldwijk	
-515	Bram van der Lek	10	1931		
-516	H.J. Verkuyl	5	1938		
-517	W.G. Klooster	5	1935		
-518	Lien Heyting	10	1948		
-519	Wim Hazeu	10	28 april 1940	Delft	
-520	J.J.A. Mooij	5	18 februari 1929	Gramsbergen	
-521	A. Mooij	5	1944		
-522	Bert Vanheste	10	6 november 1937	Pervijze	Nijmegen
-523	David Kettler	10	1930		
-524	James Joyce	9	2 februari 1882	Dublin	
-525	Rien T. Segers	1	22 oktober 1947	Helmond	
-526	Anton Blok	10	15 februari 1935	Amsterdam	
-527	Johan Goudsblom	10	11 oktober 1932	Bergen	
-528	Derek Phillips	20	1934		
-529	Wiel Kusters	9	1 juni 1947	Kerkrade	
-530	Emma Brunt	10	1943		
-531	Lodewijk Brunt	10	1942		
-532	Huub Beurskens	9	18 februari 1950	Tegelen	NA;NA
-533	R.B. Kitaj	9	1932		
-534	W.A.M. de Moor	3	28 april 1936	Zevenaar	Groesbeek
-535	Frans W. Saris	21	1942		
-536	Frans W. Saris	21	 1942		
-537	N.G. van Kampen	21	22 juni 1921	Leiden	Nieuwegein
-538	Enno Endt	9	3 december 1923	Enschede	Edam
-539	Rainer Maria Rilke	9	4 december 1875	Praag	Montreux
-540	Christel van Boheemen-Saaf	9	6 januari 1943	Arnhem	
-541	D.H. Lawrence	9	11 september 1885	Eastwood (Nottinghamshire)	Vence
-542	Peter van Zonneveld	5	1948	Leiden	
-543	Kees Fens	5	18 oktober 1929	Amsterdam	Amsterdam
-544	Jaap Goedegebuure	9	1947	Sint Annaland	
-545	Gottfried Benn	9	2 mei 1886	Mansfeld	NA;NA
-546	Maarten Steenmeijer	22	1954		
-547	Octavio Paz	22	1914		
-548	Nico Wilterdink	10	1946		
-549	Hans Faverey	9	14 september 1933	Paramaribo	Amsterdam
-550	J. Weisgerber	10	14 mei 1924	Brussel	
-551	Juan Carlos Onetti	22	1909		
-552	Mario Vargas Llosa	22	1936		
-553	Mario Molegraaf	9	1960		
-554	Hans Warren	9	20 oktober 1921	Borssele	Goes
-555	Ton Naaijkens	9	1953		
-556	Paul Celan	9	23 november 1920	Czernowitz	Parijs
-557	Remco Ekkers	9	1 juli 1941	Bergen	
-558	Jan van Luxemburg	9	15 september 1936	Haarlem	Haarlem
-559	Hubert Smeets	4	1956		
-560	Marc Galle	1	11 november 1930	Denderleeuw	Gent
-561	Kas Deprez	5	3 januari 1945	Lauwe	Kessel-Lo
-562	G. Geerts	5	1935		
-563	Anne Marie Musschoot	9	1944	Gent	
-564	Paul Claes	5	30 oktober 1943	Leuven	
-565	W.P. Gerritsen	5	12 augustus 1935	Utrecht	
-566	Graa Boomsma	9	15 februari 1953	Nieuwe Niedorp	
-567	Harry G.M. Prick	5	13 september 1925	Roermond	Maastricht
-568	F. Jansonius	2	1902		
-569	Agnes Verbiest	9	1934		
-570	A. Agnes Sneller	9	19 januari 1940		
-571	P.J. Buijnsters	5	18 oktober 1933	Breda	
-572	R.M. van Goens	5	12 mei 1748	Utrecht	Werningerode
-573	Hieronymus van Alphen	5	29 januari 1801	Samarang	Leiden
-574	Hieronymus van Alphen	5	8 augustus 1746	Samarang	Leiden
-575	Mieke Bal	9	14 maart 1946	Heemstede	
-576	Clarín	22	25 april 1852		
-577	Ernst van Alphen	9	1958		
-578	Peeters	4	20ste eeuw		
-579	W.J. van den Akker	9	22 december 1954	Oss	
-580	D.W. Fokkema	9	4 mei 1931	Utrecht	Amstelveen
-581	G.J. Dorleijn	5	1951	Amersfoort	
-582	W.H. Auden	9	21 februari 1907	York	Wenen
-583	Jos Joosten	9	15 november 1964	Rotterdam	
-584	Hugo Brems	9	1944	Heverlee	
-585	Anne Duden	9	1 januari 1942	Oldenburg	NA;NA
-586	Else Lasker-Schüler	9	1869		
-587	Koen Peeters	4	9 maart 1959	Turnhout	
-588	Hugo Bousset	9	1942	Brussel	
-589	Peter Verhelst	9	28 januari 1962	Brugge	
-590	Eric de Kuyper	9	2 september 1942	Brussel	
-591	Patricia de Martelaere	9	16 april 1957	Zottegem	Wezemaal
-592	M. Februari	9	23 februari 1963	Coevorden	
-593	Charlotte Mutsaers	9	2 november 1942	Utrecht	
-594	Dirk van Bastelaere	9	23 oktober 1960	Sint-Niklaas	
-595	Leo Pleysier	9	28 mei 1945	Rijkevorsel	
-596	Pol Hoste	9	25 maart 1947	Lokeren	
-597	Walter van den Broeck	9	28 maart 1941	Olen	
-598	Atte Jongstra	9	13 augustus 1956	Terwispel	
-599	Anneke Brassinga	9	20 augustus 1948	Schaarsbergen	
-600	Stefan Hertmans	9	31 maart 1951	Gent	
-601	M.E. Belpaire	1	31 januari 1853	Antwerpen	Antwerpen
-602	Johannes Jörgensen	1	6 november 1866	Svendborg	
-603	Paul Alberdingk Thijm	1	21 oktober 1827	Amsterdam	Kessel
-604	Jan Emiel Vliebergh	1	24 januari 1872	Zoutleeuw	Leuven
-605	E. Vliebergh	1	19de eeuw		
-606	A. Dupont	1	13 juli 1868	Amsterdam	Ermelo
-607	Jaak Muyldermans	1	8 september 1855	Kapelle op den Bos	Mechelen
-608	Jozef Jacobs	1	1873		
-609	Fr. Meeus	1	19de eeuw	19de eeuw	
-610	Fr. Meeus	1	 19de eeuw	19de eeuw	
-611	Peter Benoit	3	17 augustus 1834	Harelbeke	Antwerpen
-612	Constance Teichmann	1	16 juni 1824	Antwerpen	
-613	Jules Persyn	1	20 april 1878	Wachtbeke	Broechem
-614	Frans Drijvers	1	1858	Rotselaar	Willebroek
-615	Frans Drijvers	1	 1858	Rotselaar	Willebroek
-616	Hugo Verriest	1	25 november 1840	Deerlijk	Ingooigem
-617	August Cuppens	1	22 mei 1862	Beringen	Loksbergen
-618	J. Salsmans	4	2 september 1873	Antwerpen	Mechelen
-619	O. Cornet	1	19de eeuw	19de eeuw	
-620	O. Cornet	1	 19de eeuw	19de eeuw	
-621	Bergman	4	11 september 1921		Den Haag
-622	Aloïs Walgrave	1	9 februari 1876	Gent	Brugge
-623	Lodewijk Ontrop	3	14 december 1875	Antwerpen	Antwerpen
-624	A.W. Sanders van Loo	3	1860		
-625	Floris Prims	1	3 maart 1882	Antwerpen	Antwerpen
-626	Selma Lagerlöf	1	28 november 1858	Sunne	Sunne
-627	Louisa Duykers	1	13 maart 1869	Antwerpen	Antwerpen
-628	G. van Poppel	1	 19de eeuw	19de eeuw	
-629	G. van Poppel	1	19de eeuw	19de eeuw	
-630	Alfons Fierens	4	 1881		
-631	Alfons Fierens	4	1881		
-632	Hilda Ram	1	31 oktober 1858	Antwerpen	Antwerpen
-633	Lodewijk Dosfel	1	25 maart 1881	Dendermonde	Dendermonde
-634	Frans van Cauwelaert	1	10 januari 1880	Onze-Lieve-Vrouwe-Lombeek	Antwerpen
-635	Jacob Smit	3	1908	Lekkerkerk	
-636	Constant Eeckels	1	5 september 1879	Antwerpen	Elsene
-637	Jozef van Mierlo	4	27 december 1858	Turnhout	Brugge
-638	Jozef van Mierlo	4	28 november 1878	Turnhout	Brugge
-639	Albertine Steenhoff-Smulders	1	2 november 1871	Rotterdam	Baarn
-640	Annie Salomons	1	26 juni 1885	Rotterdam	Den Haag
-641	Antonio Fogazzaro	1	25 maart 1842	Vicenza	Vicenza
-642	Fernand Toussaint van Boelaere	1	18 februari 1875	Anderlecht	Brussel
-643	Marie Koenen	4	19 januari 1879	's-Hertogenbosch	Maastricht
-644	Jozef Simons	4	21 mei 1888	Oelegem	Turnhout
-645	D.C. Tinbergen	1	8 mei 1874	Den Haag	Den Haag
-646	Felix Rutten	1	13 juli 1882	Sittard	Rome
-647	Jan Hammenecker	1	2 oktober 1878	Mariekerke (aan-de-Schelde?)	Westrode-Wolvertem
-648	Cyriel Verschaeve	4	30 april 1874	Ardooie	Solbad Hall
-649	J.W. Muller	5	14 juni 1858	Amsterdam	Leiden
-650	Marie Schmitz	1	30 november 1883	Haarlem	Dordrecht
-651	August van Cauwelaert	1	31 december 1885	O.L. Vrouw-Lombeek	Antwerpen
-652	Gustaaf Segers	3	29 december 1848	Hoogstraten	
-653	Gery Helderenberg	4	18 januari 1891	Nieuwkerken-Waas	Lede
-654	Achilles Mussche	1	12 augustus 1896	Gent	Gent
-655	Lambrecht Lambrechts	3	24 september 1865	Hoeselt	Gent
-656	Hilarion Thans	4	12 januari 1884	Maastricht	Smeermaas-Laken
-657	Dirk Vansina	1	25 mei 1894	Antwerpen	Leuven
-658	J.A. Hallez	1	4 juni 1881	Sint-Amands-Puurs	Antwerpen
-659	Jean Cocteau	1	5 juli 1889	Maisons-Laffitte	Milly-la-Forêt
-660	Jozef Uytterhoeven	1	15 oktober 1890	Aarschot	Mortsel
-661	Paul Claudel	1	6 augustus 1868	Villeneuve-sur-Fère	Parijs
-662	Léopold Levaux	2	9 februari 1892	Luik	Luik
-663	Sigrid Undset	1	20 mei 1882		Lillehammer
-664	L. de Smet	1	20ste eeuw		
-665	J.A. Goris	1	1899		
-666	Ruth Schaumann	1	1899		
-667	Pertinax	1	18 oktober 1882	Saint-Louis-de-Montferrand	Brive-la-Gaillarde
-668	Raphaël M.J. Kreemers	1	13 januari 1894	Sint Huibrechts Lille	Hasselt
-669	Ilja Ehrenburg	1	27 januari 1891	Kiev	Moskou
-670	Marcel Lobet	1	28 juni 1907	Braine-le-Comte	Rixensart
-671	Edward Rombauts	1	18 november 1902	Hever bij Mechelen	Leuven
-672	Max Lamberty	1	31 december 1893	Sint-Gillis	Brussel
-673	Albert Westerlinck	1	17 februari 1914	Geel	
-674	Fernand Deschamps	1	13 juli 1868	Châtelineau	Brussel
-675	Bert Decorte	1	2 juli 1915	Retie	
-676	Paul de Vree	1	13 november 1909	Antwerpen	Antwerpen
-677	J.J. Gielen	1	26 september 1898	Rucphen	Beneden leeuwen
-678	Marcel Coole	1	21 augustus 1913	Kortrijk	Brussel
-679	Juul Filliaert	1	14 februari 1890	Nieuwpoort	Nieuwpoort
-680	I.K. Illakowicz	1	6 augustus 1892	Vilnius	Poznan
-681	Anton van Wilderode	1	28 juni 1918	Moerbeke-Waas	Sint-Niklaas
-682	Pierre H. Dubois	3	2 juli 1917	Amsterdam	Den Haag
-683	Lode Roose	5	16 april 1920	Mechelen	Bonheiden
-684	Gabriela Mistral	1	7 april 1889	Vicuña	
-685	Albert van Hoogenbemt	1	1 maart 1900	Mechelen	Mechelen
-686	R.F. Lissens	5	1912	Leuven	
-687	J.A. van Houtte	4	10 maart 1913	Brugge	Leuven
-688	Joos Florquin	9	24 maart 1916	Kessel-Lo	
-689	Omer Wattez	3	9 februari 1857	Schorisse	Sint-Lambrechts-Woluwe
-690	Jan van Beers	3	22 februari 1821	Antwerpen	Antwerpen
-691	J.B. Schepers	3	15 augustus 1865	Heerenveen	Haarlem
-692	Paul Fredericq	3	12 augustus 1850	Gent	Gent
-693	H. Mulder	3	20ste eeuw		
-694	Christine D'haen	9	25 oktober 1923	Sint-Amandsberg, Gent	Brugge
-695	A. van Elslander	5	10 september 1921	Gent	Heusden
-696	Emiel Jan Janssen	4	23 april 1897	Vlimmeren	Tienen
-697	Tirso de Molina	1	24 maart 1579		
-698	Herwig Hensen	3	22 januari 1917	Antwerpen	Berchem, Antwerpen
-699	J.A. Worp	5	21 januari 1851	Almelo	
-700	Fernand Auwera	9	26 november 1929	Antwerpen	
-701	Willem M. Roggeman	9	9 juli 1935	Brussel	
-702	W. Ruys	9	1 april 1809	Ouderkerk aan de Amstel	Den Haag
-703	Patricia Lasoen	9	25 september 1948	Brugge	
-704	Marko Fondse	9	9 juni 1932	Haarlem	Amsterdam
-705	Eddy van Vliet	9	11 september 1942	Antwerpen	Roeselare
-706	Daniël van Ryssel	9	3 maart 1940	Evergem	
-707	Herman de Coninck	9	21 februari 1944	Mechelen	Lissabon
-708	Jacques Kruithof	9	29 augustus 1947	Rotterdam	Amsterdam
-709	Stefaan van den Bremt	9	12 oktober 1941	Aalst	
-710	Huub Oosterhuis	9	1 november 1933	Amsterdam	
-711	Jan van der Vegt	9	4 oktober 1935	Scheveningen	
-712	Gerd Segers	9	1938		
-713	Ludo Abicht	9	5 juni 1936	Oostende	
-714	Harry Scholten	9	1936	Voorschoten	
-715	Lionel Deflo	9	31 januari 1940	Menen	
-716	Wim Zaal	9	1935		
-717	Paul Vanderschaeghe	9	28 november 1930		
-718	Julia Tulkens	9	6 oktober 1902	Tienen	
-719	Willy Spillebeen	9	30 december 1932	Westrozebeke	
-720	J.J. Wesselo	9	1940		
-721	Roland Jooris	9	22 juli 1936	Wetteren	
-722	Charles B. Timmer	9	17 februari 1907	Amsterdam	
-723	H.C. ten Berge	9	24 december 1938	Alkmaar	
-724	Peter Berger	9	15 augustus 1936	Abcoude	
-725	Hans Vlek	9	2 juli 1947	Amsterdam	Hertogenbosch
-726	Julien Vangansbeke	9	5 februari 1936	Drongen	
-727	Jan Vanriet	9	1948	Antwerpen	
-728	Clem Schouwenaars	9	28 december 1932	Mortsel	Lubbeek
-729	Willem Wilmink	9	25 oktober 1936	Enschede	Enschede
-730	Roger Pieters	9	14 oktober 1922	Halle	
-731	Alstein	9	18 maart 1947	Wilrijk, Antwerpen	
-732	Mark Insingel	9	3 mei 1935	Lier	
-733	Gerrit Krol	9	1 augustus 1934	Groningen	Groningen
-734	Erik van Ruysbeek	9	25 april 1915	Brussel	Etterbeek
-735	Gerrit Komrij	5	30 maart 1944	Winterswijk	Amsterdam
-736	Robin Hannelore	9	21 maart 1937	Pulle	
-737	Frans Depeuter	9	4 april 1937	Lichtaart	
-738	Jacques Hamelink	9	12 januari 1939	Driewegen (bij Terneuzen)	
-739	Bernard Kemp	9	22 augustus 1926	Hamont	Leuven
-740	Jeroen Brouwers	9	30 april 1940	Jakarta	
-741	Martin Ros	9	1937		
-742	Geert van Beek	9	13 maart 1920	Gennep	Veghel
-743	Jaap Harten	9	22 september 1930	Blaricum	Den Haag
-744	Anton Korteweg	9	31 januari 1944	Zevenbergen	
-745	Ad Zuiderent	5	28 mei 1944	's-Gravendeel	
-746	C.O. Jellema	9	9 september 1936	Groningen	Leens
-747	Jo Gisekin	9	14 mei 1942	Gent	
-748	Freddy de Vree	9	3 oktober 1939	Antwerpen	Antwerpen
-749	Jozef Deleu	9	20 april 1937	Roeselare	
-750	L.H. Wiener	9	16 februari 1945	Amsterdam	
-751	H. van Gorp	5	4 maart 1935	Herentals	
-752	Lieven Rens	5	15 januari 1925	Roeselare	Edegem
-753	Wilfried Adams	9	23 november 1947	Leuven	Antwerpen
-754	Karel van het Reve	9	19 mei 1921	Amsterdam	Amsterdam
-755	Frans Boenders	9	28 september 1942	Antwerpen	
-756	Hugues C. Pernath	9	15 augustus 1931	Borgerhout	Borgerhout
-757	J.J. Oversteegen	5	2 januari 1926	Blaricum	
-758	Sjoerd Kuyper	9	6 maart 1952	Amsterdam	
-759	J. van Tooren	9	1900		
-760	Jan Wolkers	9	26 oktober 1925	Oegstgeest	Den Burg
-761	José Boyens	9	1931		
-762	Georges Wildemeersch	9	12 november 1947	Brugge	
-763	Monika van Paemel	9	4 mei 1945	Poesele	
-764	Maarten 't Hart	5	25 november 1944	Maassluis	
-765	Anton Haakman	9	7 september 1933	Bussum	
-766	Marcel Janssens	5	28 februari 1932	Grembergen	
-767	Miel Vanstreels	9	14 maart 1951	Godsheide (Hasselt)	
-768	J. Uyttendaele	9	11 november 1949	Grembergen	
-769	Tymen Trolsky	9	3 juni 1948	Oerle	
-770	Luuk Gruwez	9	9 augustus 1953	Kortrijk	
-771	Hans van de Waarsenburg	9	21 juli 1943	Helmond	Maastricht
-772	Herman Sabbe	9	24 augustus 1937	Brugge	
-773	Rutger Kopland	9	4 augustus 1934	Goor	Glimmen
-774	Hedwig Speliers	9	12 juni 1935	Diksmuide	
-775	Jan van der Hoeven	9	9 februari 1801	Rotterdam	Leiden
-776	Nic van Bruggen	9	17 maart 1938	Merksem	Antwerpen
-777	Bob den Uyl	9	27 maart 1930	Rotterdam	Rotterdam
-778	Michel Bartosik	9	21 maart 1948	Antwerpen	Antwerpen
-779	Georges Adé	9	14 november 1936	Antwerpen	Edegem
-780	Jef van Gool	9	15 november 1950	Horendonk (bij Essen)	
-781	Rob Delvigne	9	17 augustus 1948	Amsterdam	
-782	Tom van Deel	9	21 februari 1945	Apeldoorn	
-783	Pszisko Jacobs	9	24 juli 1917	Haarlem	Haarlem
-784	Cola Debrot	9	4 mei 1902	Kralendijk	Amsterdam
-785	Hugo Raes	9	26 mei 1929	Antwerpen	
-786	J.P. Guépin	9	25 april 1929	Amsterdam	Amsterdam
-787	Joris Denoo	9	6 juli 1953	Torhout	
-788	Lucienne Stassaert	9	10 februari 1936	Antwerpen	
-789	Herman Pleij	5	1943	Hilversum	
-790	J.M.A. Biesheuvel	9	23 mei 1939	Schiedam	
-791	K.L. Poll	9	5 oktober 1927	Dordrecht	Rotterdam
-792	Frans van Dooren	9	2 november 1934	Ravenstein	Oss
-793	R.A. Basart	9	2 september 1946	Amsterdam	Loosdrecht
-794	Albert de Longie	9	10 juli 1916	Kruishoutem	Ooike
-795	Oek de Jong	9	4 oktober 1952	Breda	
-796	Bert Kooijman	9	1932		
-797	Car Flanders	9	10 november 1947	Zottegem	
-798	Gust Gils	9	20 augustus 1924	Antwerpen	Antwerpen
-799	Dirk Kroon	9	9 mei 1946	Schiedam	
-800	F.B. Hotz	9	1 februari 1922	Leiden	Leiden
-801	Hanneke van Buuren	9	24 juni 1938	Breda	
-802	Willy Lauwens	9	1929		
-803	Jos de Haes	9	22 april 1920	Leuven	Brussel (Jette)
-804	Johanna Kruit	9	14 december 1940	Zoutelande	
-805	Marc Bruynseraede	9	1943		
-806	Henk Romijn Meijer	9	9 augustus 1929	Zwolle	Souillac
-807	Kees Winkler	9	22 mei 1927	Hoorn	Amsterdam
-808	Claude van de Berge	9	30 april 1945	Assenede	
-809	Charles Vergeer	9	1947		
-810	Eugène van Itterbeek	9	21 januari 1934	Kessel-Lo	Sibiu
-811	Elly de Waard	9	8 september 1940	Bergen	
-812	Jan Siebelink	9	13 februari 1938	Velp	
-813	J.J. Mak	5	5 juli 1908	Rotterdam	Leiden
-814	Gerard Reve	9	14 december 1923	Amsterdam	Zulte
-815	Hendrik Carette	9	17 december 1946	Brugge	
-816	Karel Hellemans	9	1944	Borgerhout	
-817	Armand van Assche	9	17 september 1940	Aartselaar	Waasmunster
-818	Willem Brakman	9	13 juni 1922	Den Haag	Boekelo Gem. Enschede
-819	Rob Schouten	9	22 februari 1954	Hilversum	
-820	W. Waterschoot	5	8 juli 1941	Grembergen	
-821	Wouter Kotte	9	1933		
-822	Doeschka Meijsing	9	21 oktober 1947	Eindhoven	Amsterdam
-823	H.H. ter Balkt	9	17 september 1938	Enschede	Nijmegen
-824	Koen Vermeiren	9	18 december 1953		
-825	Willem van Toorn	9	4 november 1935	Amsterdam	
-826	Eva Gerlach	9	9 april 1948	Amsterdam	
-827	F.L. Bastet	9	20 september 1926	Haarlem	Oegstgeest
-828	Hans Lodeizen	9	20 juli 1924	Naarden	Lausanne
-829	Jan Kuijper	9	30 december 1947	Amsterdam	
-830	Marc Reynebeau	9	6 mei 1956	Kalemie	
-831	Jan Schepens	1	28 mei 1909	Gent	Brugge
-832	Lieve Scheer	9	1936		
-833	Frans Kuipers	9	1942		
-834	Dirk Verbruggen	9	16 januari 1951	Mechelen	Mechelen
-835	Boudewijn Büch	9	14 december 1948	Den Haag	Amsterdam
-836	Philip Vermoortel	3	27 december 1955	Assebroek/Brugge	
-837	Ida Gerhardt	9	11 mei 1905	Gorinchem	Warnsveld
-838	Ed Leeflang	9	21 juni 1929	Amsterdam	Amsterdam
-839	Dirk de Geest	9	1957	Oostende	
-840	Stefaan Evenepoel	9	1958	Strijtem	
-841	Benno Barnard	9	21 november 1954	Amsterdam	
-842	Erik Spinoy	9	22 mei 1960	Sint-Niklaas	
-843	Karel Porteman	5	20 juni 1938	Gullegem	
-844	E.K. Grootes	5	22 maart 1936	Anna Paulowna	
-845	H.J.A. Hofland	9	20 juli 1927	Rotterdam	Amsterdam
-846	Kristien Hemmerechts	9	27 augustus 1955	Brussel	
-847	Anne van Herreweghen	9	1948	Ninove	
-848	Bart Vervaeck	9	1958	Mortsel	
-849	Bart Vervaeck	9	 1958	Mortsel	
-850	Bert Ranke	3	1914		
-851	Jan Walravens	1	7 augustus 1920	Anderlecht	Ukkel
-852	Marcel de Smedt	5	1948		
-853	Leen Huet	9	1966	Hoogstraten	
-854	Frank Willaert	5	24 mei 1952	Veurne	
-855	Rudi Laermans	9	1957		
-856	M.A. Schenkeveld-van der Dussen	5	10 oktober 1937	Rotterdam	
-857	Elma van Haren	9	29 augustus 1954	Roosendaal	
-858	Kamiel Vanhole	4	1954	Etterbeek	
-859	Kamiel Vanhole	4	 1954	Etterbeek	
-860	Eric Vos	9	20ste eeuw		
-861	Jan Baetens	9	1957		
-862	Jef Last	1	2 mei 1898	Den Haag	Laren
-863	Jacques Gans	1	7 december 1907	Hilversum	Amsterdam
-864	Karel Reijnders	5	7 mei 1920	Heerlen	Overasselt
-865	M.C. van den Toorn	5	4 januari 1929	Rotterdam	Nijmegen
-866	W. Blok	5	24 november 1922	Oegstgeest	Arnhem
-867	H. Schultink	5	3 april 1924	Amsterdam	Bilthoven
-868	E.M. Uhlenbeck	5	1913		Voorhout
-869	A.W. de Groot	5	13 januari 1892	Groningen	Laren
-870	C. Kruyskamp	5	31 mei 1911	Rotterdam	Leiden
-871	J. Kamerbeek jr.	5	11 november 1905	Rotterdam	Amsterdam
-872	J.C. Kamerbeek	5	1907		
-873	P.C. Paardekooper	5	6 november 1920	Zoeterwoude	
-874	N. van Wijk	3	4 oktober 1880	Delden	Leiden
-875	C.H. den Hertog	5	27 december 1846	Den Haag	Amsterdam
-876	A.A. Prins	23	20ste eeuw		
-877	F.A. Stoett	5	5 mei 1863	Leeuwarden	Nijmegen
-878	P.F. Schmitz	9	10 augustus 1939	Apeldoorn	
-879	J.W. de Vries	5	14 december 1937	Amsterdam	Sassenheim
-880	J. F. P. de Smit	24	20ste eeuw		
-881	L. Pepplinkhuizen	24	20ste eeuw		
-882	Teun Hoekstra	9	24 januari 1953		Los Angeles, Californië
-883	Harry van der Hulst	9	1953		
-884	S.J. Lenselink	5	28 juni 1912	Rijsoord	Dordrecht
-885	G.J. de Haan	5	1944		
-886	Dirk Geeraerts	9	1955		
-887	D. Geeraerts	9	20ste eeuw		
-888	Elrud Ibsch	9	1935		
-889	Arie Verhagen	9	1951		
-890	Wim Zonneveld	5	1950		
-891	Mieke Trommelen	5	1951		
-892	R.Th. van der Paardt	1	1943		
-893	Rob Wolfs	9	22 juli 1951		
-894	Lo van Driel	3	1944		
-895	Taco Roorda	3	19 juli 1801	Britsum	Leiden
-896	Johan Kerstens	9	1946		
-897	Peter van Bart	9	1958		
-898	Will van Peer	9	3 augustus 1947	Sint Lenaarts	
-899	Anneke Neijt	9	1951		
-900	A.M. Duinhoven	5	1938		
-901	Odile Heynders	9	1961		
-902	J.J. Kloek	5	1 augustus 1943	Den Haag	
-903	W.W. Mijnhardt	9	1950		
-904	Fred Weerman	9	1957		
-905	Frank Jansen	9	1952	Zaandam	
-906	Hans Anten	5	1947		
-907	P.G.J. van Sterkenburg	5	1942		
-908	Wardy Poelstra	9	20ste eeuw		
-909	J.M. van der Horst	5	5 augustus 1949	Leiden	
-910	A. van Loey	5	14 juli 1905	Elsene	Sint-Jans-Molenbeek
-911	H. Duits	5	1938		
-912	Jan Koopmans	3	26 maart 1860	Holwerd	Dordrecht
-913	Jan L. Walch	3	2 januari 1879	Den Haag	Amsterdam
-914	Adriaan Loosjes	3	4 augustus 1828	Haarlem	Bloemendaal
-915	Hendrik van der Wal	3	1880		
-916	Edmond van Offel	3	14 april 1871	Antwerpen	Gravenwezel
-917	Frits Hopman	3	14 juli 1877	Amsterdam	Leiden
-918	Jan J. Zeldenthuis	3	9 januari 1894	Westervoort	
-919	Johann Wolfgang von Goethe	1	28 augustus 1749	Frankfurt am Main	Weimar
-920	F.H. Fischer	3	1876	Amsterdam	
-921	J. van Oudshoorn	3	20 december 1876	Den Haag	Den Haag
-922	Jo de Wit	3	21 mei 1894	Rotterdam	Den Haag
-923	J. Saks	3	27 februari 1867	Grootschermer	Amsterdam
-924	Karel Wasch	3	1886	Middelburg	
-925	Jan van Lumey	25	31 oktober 1889	Batavia	Den Haag
-926	Heinrich von Kleist	25	1777		
-927	Alie Smeding	3	17 juli 1890	Enkhuizen	Utrecht
-928	Nico Rost	3	21 juni 1896	Groningen	Amsterdam
-929	Max Brod	3	1884	Tsjechië	
-930	Horatius	0	8 december 65 v.Chr.		
-931	Jaap van Gelderen	0	1887		
-932	Elisabeth Zernike	3	8 juli 1891	Amsterdam	Laren
-933	S.G. de Vries	3	16 juni 1861	Leiden	Leiden
-934	G.J.W. Koolemans Beijnen	3	22 mei 1848	Den Haag	
-935	P.J. Blok	3	10 januari 1855	Den Helder	Leiden
-936	Louis D. Petit	3	21 maart 1847	Amsterdam	
-937	G.M. Boissevain	3	15 juli 1837	Amsterdam	Bloemendaal
-938	J.H. Groenewegen	3	1859		
-939	P.H. van der Kemp	3	1845		
-940	L. Scharpé	3	24 oktober 1869	Tielt	Betekom
-941	J. Herderscheê	3	18 maart 1850	Kamperveen	Amsterdam
-942	G.J. Boekenoogen	3	18 april 1868	Wormerveer	Leiden
-943	P.C. Molhuysen	3	20 augustus 1870	Almelo	Den Haag
-944	J.E. Heeres	3	30 mei 1858	Zuidhorn	
-945	R.W.P. de Vries	3	1 mei 1841		
-946	J.C. Breen	3	10 november 1865	Amsterdam	Amsterdam
-947	J.J. Salverda de Grave	3	19 maart 1863	Noordwijk	Den Haag
-948	J.S. van Veen	3	1858		
-949	H.L. Drucker	3	11 augustus 1857	Amsterdam	Den Haag
-950	J.H. van den Bosch	3	26 januari 1862	Zwolle	Wageningen
-951	J.H. Abendanon	3	14 oktober 1852	Paramaribo	Monaco
-952	C.P. Burger	3	10 april 1858	Gouda	Amsterdam
-953	M.A. Perk	3	23 april 1834	Delft	Amsterdam
-954	J.A.N. Knuttel	3	14 mei 1878	Delft	Leiden
-955	J.H. Holwerda	3	1873		
-956	A.A. Verdenius	3	7 maart 1876	Drachten	Arnhem
-957	G.A. Nauta	3	19de eeuw		
-958	H. van Strien	3	19de eeuw		
-959	N. van der Laan	3	17 oktober 1890	Rijsoord	Heelsum
-960	A. Jager	3	19de eeuw		
-961	A.L.G. Bosboom-Toussaint	3	16 september 1812	Alkmaar	Den Haag
-962	C.C. van de Graft	3	4 mei 1874	Tholen	Utrecht
-963	G.J. Nieuwenhuis	3	1877		
-964	H.T. Damsté	5	28 januari 1874	Huisduinen	Leiden
-965	A.A. van Rijnbach	3	3 april 1879	Delft	Leiden
-966	S.W.F. Margadant	3	22 november 1887	Den Haag	Den Haag
-967	M.E. Kronenberg	3	12 juli 1881	Deventer	Den Haag
-968	F.W. Stapel	3	3 april 1879	Den Haag	Den Haag
-969	F. Oudschans Dentz	3	3 september 1876	Leeuwarden	Claremont
-970	J. Aleida Nijland	3	1870	Hoorn	
-971	K.H. Heeroma	5	13 september 1909	Hoorn op Terschelling	Groningen
-972	F.P. Huygens	2	20ste eeuw		
-973	J. Leenen	3	18 mei 1891	Opgrimbie	Sint-Truiden
-974	L. Grootaers	5	9 augustus 1885	Tongeren	Leuven
-975	Frank Baur	5	20 april 1887	Vilvoorde	Waasmunster
-976	C.C. de Bruin	5	15 mei 1905	Nijkerk	Leiden
-977	W.H. Beuken	5	10 augustus 1898	Valkenburg	Helmond
-978	A.C. Bouman	3	30 augustus 1892	Sommelsdijk	Leiden
-979	M. Schönfeld	5	9 februari 1880	Groningen	Graveland
-980	Jan Ploeger	3	18 februari 1913	Noordbroek	
-981	A.P. Grové	3	10 juni 1918	Potchefstroom	
-982	P.C. Schoonees	3	23 december 1891	Uniondale	Strand
-983	S.P.E. Boshoff	3	14 juli 1891	Vaalbank	Pretoria
-984	P.J. Nienaber	3	1 oktober 1910	Fauresmith (Prieska)	Bloemfontein
-985	Ernst van Heerden	3	20 maart 1916	Pearston (Oos-Kaap)	Johannesburg
-986	D.J. Opperman	3	1914		
-987	G.S. Nienaber	3	12 november 1903	Distrik Fauresmith	Pretoria
-988	Th. Weevers	5	3 juni 1904	Amersfoort	Bristol
-989	L.C. Michels	5	23 oktober 1887	Schijndel	Ubbergen
-990	Jo Daan	5	12 mei 1910	Krommenie	Deventer
-991	K. Fokkema	5	5 maart 1898	Leeuwarden	Amstelveen
-992	Cornelis Rijnsdorp	2	19 september 1894	Delfshaven	Rotterdam
-993	Jacoba M. Vreugdenhil	2	1913		
-994	Dingeman van der Stoep	2	17 september 1906	Berkel en Rodenrijs	Baarn
-995	P.J. Risseeuw	2	16 mei 1901	Den Haag	Den Haag
-996	H.T.J. Miedema	5	8 juni 1922	Heusden	
-997	J.H. Brouwer	5	23 augustus 1900	Beetsterzwaag	Leeuwarden
-998	A. Ampe	4	17 april 1912	Woesten	Drongen
-999	B. van den Berg	5	14 februari 1911	Kornhorn	Driebergen
-1000	Marinel Gerritsen	5	1949		
-1001	G.A. van Es	5	21 december 1904	Leeuwarden	Lage Mierde
-1002	Nop Maas	3	1 december 1949	Hoensbroek	
-1003	L. Strengholt	5	31 december 1930	Dordrecht	Apeldoorn
-1004	Wim Vermeer	5	20ste eeuw		
-1005	M.F. Fresco	1	9 juli 1925	Düsseldorf	Leiden
-1006	F. van Elmbt	1	1942		
-1007	Peter J.A. Nissen	9	9 oktober 1957	Swalmen	
-1008	Leo Herberghs	9	21 juli 1924	Heerlen	Heerlen
-1009	W.F. Jonckheere	9	1938		
-1010	J.C. Kannemeyer	9	1939	Robertson (Kaapland)	Stellenbosch
-1011	F.I.J. van Rensburg	9	20ste eeuw		
-1012	Maarten Klein	5	1947		
-1013	F.P. van Oostrom	5	15 mei 1953	Utrecht	
-1014	Arie-Jan Gelderblom	5	30 december 1946	Oosterbeek	
-1015	J.A. Rispens	3	5 december 1889	Noordwijk aan Zee	Deventer
-1016	Jef Suys	2	5 januari 1897	Groningen	Amsterdam
-1017	Hendrik Conscience	5	3 december 1812	Antwerpen	Brussel
-1018	P. Spigt	2	20 oktober 1919	Amsterdam	Amstelveen
-1019	Tadeusz Rózewicz	9	9 oktober 1921	Radomsko	
-1020	Marc Andries	2	11 februari 1939	Duffel	
-1021	T. Haan	2	1934		
-1022	G.J.M. van het Reve	5	11 april 1892	Enschede	Amsterdam
-1023	Frans Bastiaanse	3	14 mei 1868	Utrecht	Amsterdam
-1024	Nine van der Schaaf	3	29 april 1882	Terhorne	Bloemendaal
-1025	H. Robbers	3	13 december 1894		Nijmegen
-1026	B.H. Peteri	3	19de eeuw		
-1027	H.H.J. Maas	3	24 februari 1877	Oostrum	Eindhoven
-1028	Jacob Geel	3	12 november 1789	Amsterdam	Den Haag
-1029	Leo Goemans	3	1869	Leuven	
-1030	Leo van Puyvelde	3	30 juli 1882	Sint-Niklaas	Ukkel
-1031	Chr. Stapelkamp	3	2 maart 1879	Loosdrecht	Groningen
-1032	W. van Schothorst	3	18 augustus 1877	Lunteren	Den Haag
-1033	Daan van der Zee	3	1880	Schiedam	
-1034	B. Faddegon	3	9 juli 1874	Amsterdam	Ede
-1035	J.A. vor der Hake	3	14 maart 1880	Loenen	Zeist
-1036	F.P.H. Prick van Wely	3	30 januari 1867	Oud-Vroenhoven (bij Maastricht)	Nijmegen
-1037	Simon Gorter	3	11 december 1838	Warns	Rhenen
-1038	H. Logeman	3	26 februari 1862	Haarlem	Sleidinge
-1039	K.H. de Raaf	3	1871		
-1040	L.J.M. Feber	3	24 april 1885	Bergen op Zoom	Den Haag
-1041	L.A. te Winkel	3	13 september 1809	Arnhem	Leiden
-1042	Frans Verschoren	3	5 maart 1874	Sint Katelijne Waver	Westmalle
-1043	G.F. Haspels	3	7 april 1864	Nijmegen	Arnhem
-1044	H.J.E. Endepols	3	15 februari 1877	Maastricht	Maastricht
-1045	A.S.C. Wallis	3	21 juli 1857	Utrecht	Rotterdam
-1046	William Davids	3	19de eeuw		
-1047	J. Mathijs Acket	3	14 december 1862	Hertogenbosch	
-1048	G.J. Hoogewerff	3	20 juni 1884	Amersfoort	Florence
-1049	K. ter Laan	5	8 juli 1871	Slochteren	Utrecht
-1050	J.J.A.A. Frantzen	3	18 juli 1853		
-1051	J.H. Kern	3	24 januari 1867	Leiden	Leiden
-1052	Ary Delen	3	10 maart 1883	Leuven	Antwerpen
-1053	G. Engels	3	19de eeuw		
-1054	J.D.C. van Dokkum	3	1868		
-1055	C.C. Uhlenbeck	3	18 oktober 1866		
-1056	J.L. Horsten	3	5 september 1879	Tilburg	
-1057	D.A. Stracke	3	 1875	Antwerpen	
-1058	D.A. Stracke	3	1875	Antwerpen	
-1059	Adolf Herckenrath	3	2 juni 1879	Aalst	Gent
-1060	A.C.S. de Koe	3	23 maart 1883	Utrecht	Noordwijk
-1061	E.F. Kossmann	3	1861	St. Petersburg	
-1062	Laurens van der Waals	3	21 april 1885	Utrecht	Herwijnen
-1063	Alfons de Cock	3	12 januari 1850	Herdersem	Antwerpen
-1064	François Pauwels	3	25 oktober 1888	Amsterdam	Amstelveen
-1065	G. Bolkestein	3	9 oktober 1871	Amsterdam	Den Haag
-1066	Ph.J. Simons	3	19de eeuw		
-1067	J. Petri	3	19de eeuw		
-1068	H.W.J. Kroes	3	21 augustus 1883	Zwolle	Den Haag
-1069	Henri van Booven	3	17 juli 1877	Haarlem	Den Haag
-1070	V. de Meyer	3	20ste eeuw		
-1071	Herman Middendorp	3	2 september 1888	Wolvega	Den Haag
-1072	Arnold Sauwen	3	22 maart 1857	Stockhein	Brasschaat (Vriesdonk)
-1073	H.H. Knippenberg	3	12 september 1879	Maastricht	Helmond
-1074	J. Wille	3	8 april 1881	Koudekerk a/d Rijn	Oosterbeek
-1075	R. Foncke	3	1 juli 1889	Mechelen	Gent
-1076	Daan Boens	3	4 juni 1893	Oostende	Gent
-1077	Firmin van Hecke	3	21 november 1884	Ertvelde	Gent
-1078	Jo van Ammers-Küller	3	13 augustus 1884	Noordeloos	Bakel
-1079	A. Wapenaar	2	1883	Vlaardingen	
-1080	Rinke Tolman	3	25 mei 1891	Oosterzee	Amersfoort
-1081	J. de Jong	5	19de eeuw		
-1082	G.E. Opstelten	3	16 augustus 1889	Amsterdam	Haarlem
-1083	J. de Wit	5	20ste eeuw		
-1084	K. Kooiman	3	26 december 1882	Oudshoorn	Middelburg
-1085	Wilma	9	14 mei 1873	Zetten	Blaricum
-1086	E.C. Pienaar	3	13 december 1882	Hoëkraal (district Potchefstroom)	Stellenbosch
-1087	Willem van Doorn	3	1875	Arnhem	
-1088	A. van Collem	3	13 oktober 1858	Rotterdam	Heemstede
-1089	J.F. Willems	5	11 maart 1793	Boechout	Gent
-1090	Ernst Groenevelt	3	29 juli 1887	Amsterdam	Den Haag
-1091	Wobbe de Vries	5	11 maart 1863	Noordhorn	Groningen
-1092	Lode Monteyne	3	21 juni 1886	Antwerpen	Berchem
-1093	Montanus	9	20ste eeuw		
-1094	A. Goslinga	3	26 september 1884	Bolsward	Amsterdam
-1095	J.G.M. Moormann	3	24 mei 1889	Goor	Lent
-1096	Israël Querido	3	1 oktober 1872	Amsterdam	Amsterdam
-1097	Antoon Thiry	3	8 september 1888	Leuven	Antwerpen
-1098	J. Mansion	3	1877		
-1099	A.W.C. Zuidema	3	19de eeuw		
-1100	Maurits de Meyer	3	2 maart 1895	Elversele	Wilrijk
-1101	J.J. le Roux	3	1888		
-1102	H.W.J.M. Keuls	3	19 mei 1883	Obdam	Ede
-1103	G.A. Brands	3	1883	Zutphen	
-1104	Kees Meekel	3	7 oktober 1883	Amstelveen	Bachellerie
-1105	Fritz Francken	3	17 april 1893	Antwerpen	Antwerpen
-1106	Martien Beversluis	3	28 maart 1894	Barendrecht	Vrouwenpolder
-1107	A. Carnoy	5	7 november 1878	Leuven	
-1108	Franz de Backer	3	22 juni 1891	Aalst	Ukkel
-1109	D.B. Bosman	3	30 januari 1888	Boshof	Somerset-West
-1110	J.A. van Praag	3	26 februari 1895	Amsterdam	Amsterdam
-1111	Paul de Keyser	3	14 oktober 1891	Gent	Gent
-1112	L.P.H. Eykman	9	27 november 1854	Nijkerk	Den Haag
-1113	A.W. Grauls	3	17 november 1889	Antwerpen	Antwerpen
-1114	P.H. Greiner	3	1900		
-1115	Alice Nahon	3	16 augustus 1896	Antwerpen	Antwerpen
-1116	J.H. Scholte	3	1874		
-1117	Jan Gessler	3	8 januari 1878	Maaseik	Heverlee
-1118	P.J.J. Diermanse	3	26 november 1896	Den Haag	Den Haag
-1119	F.C. Dominicus	3	29 december 1884	Wemeldinge	Den Haag
-1120	Gaston Burssens	1	18 februari 1896	Dendermonde	Antwerpen
-1121	W.L.M.E. van Leeuwen	3	8 september 1895	Amsterdam	Schoorl
-1122	H. Gerversman	3	17 mei 1892	Sittard	Rotterdam
-1123	Henrik Scholte	3	25 januari 1903	Groningen	Amsterdam
-1124	Anton Reichling	3	9 juli 1898	Nijmegen	Amsterdam
-1125	H. Schröder	3	1935		
-1126	Joost Hiddes Halbertsma	3	23 oktober 1789	Grouw	Deventer
-1127	G. Colmjon	3	27 april 1828	Leeuwarden	Leeuwarden
-1128	K.H.E. de Jong	3	9 februari 1872	Biebrich	Zeist
-1129	Jef Notermans	5	30 april 1898	Maastricht	Maastricht
-1130	R. Pennink	3	1884		
-1131	Oscar Dambre	5	12 november 1896	Vlamertinge	Gent
-1132	A.J. Schneiders	3	7 maart 1894	Obdam	Obdam
-1133	L.L. Hammerich	3	31 juli 1892	Kopenhagen	Hørsholm
-1134	J.C. van der Does	3	1877		
-1135	L.J. Rogier	3	26 juli 1894	Rotterdam	
-1136	Jan H. de Groot	3	13 maart 1901	Alkmaar	Zeist
-1137	F.E.J. Malherbe	3	1913	Paarl	Stellenbosch
-1138	F.E.J. Malherbe	3	3 mei 1894	Paarl	Stellenbosch
-1139	W. van Ravesteyn	3	15 oktober 1876	Rotterdam	Rotterdam
-1140	J.L. Pauwels	5	1899		
-1141	H.F. Wijnman	3	1894		
-1142	Johan Fabricius	3	24 augustus 1899	Bandung	Glimmen
-1143	Leo van Breen	3	1906	Goes	
-1144	C. de Boer	3	26 mei 1880	Leiden	Leiden
-1145	Leo Picard	3	1888		Gent
-1146	C.M. van den Heever	3	27 februari 1902	Johannesburg	Johannesburg
-1147	H. de Buck	3	25 november 1893	Oostkapelle	Haren
-1148	A.C. de Jong	3	19de eeuw		
-1149	J.F.J. van Tol	3	2 januari 1895	Amsterdam	Colmar
-1150	Marianne Philips	3	18 maart 1886	Amsterdam	Naarden
-1151	Is.P. de Vooys	1	3 februari 1875	Gouda	Arnhem
-1152	A.P. de Bont	9	20 januari 1889		Deventer
-1153	B.H. Erné	5	?	Utrecht	
-1154	B.H. Erné	5		Utrecht	
-1155	J.F. Vanderheyden	3	6 maart 1903	Heverlee	
-1156	F.K.H. Kossmann	5	10 maart 1893	Den Haag	Rotterdam
-1157	Eric van der Steen	3	14 september 1907	Alkmaar	Amsterdam
-1158	F.G.A. Stemvers	3	31 januari 1896	Rotterdam	Arnhem
-1159	T.J. Haarhoff	3	30 april 1892	Paarl	Kaapstad
-1160	G. Karsten	3	19 maart 1893	Zwaag	
-1161	George Meir	3	1900		
-1162	H.L. Bezoen	3	19 april 1908	Enschede	Soest
-1163	C.L. Thijssen-Schoute	3	19 mei 1904	Wageningen	Utrecht
-1164	A.J. de Jong	3	1880		
-1165	G.I. Lieftinck	1	1902	Amsterdam	
-1166	G. Kazemier	5	24 maart 1902	Groningen	Den Haag
-1167	Prosper Arents	3	23 januari 1889	Borgerhout	Mortsel
-1168	Willem Pée	5	9 april 1903	Brugge	Rosières
-1169	L.M. van Dis	5	21 mei 1904	Zaamslag	Naarden
-1170	H.A. Höweler	3	27 november 1899	Amsterdam	Laren
-1171	J.H.J. Willems	3	1902		
-1172	Clara Eggink	3	18 april 1906	Utrecht	Scheveningen
-1173	Max Kijzer	3	14 januari 1893	Amsterdam	Midden-Europa
-1174	J.E. van der Laan	3	1903		
-1175	Jeanne van Schaik-Willing	3	8 oktober 1895	Amsterdam	Amsterdam
-1176	J. Naarding	5	21 juni 1903	Sleen	Assen
-1177	H.A. Mulder	3	19 juli 1906	Zaamslag	Grahamstad
-1178	Anne de Vries	4	22 mei 1904	Assen	Zeist
-1179	Anne de Vries	4	19 augustus 1944	Assen	Zeist
-1180	W. van den Ent	3	19de eeuw		
-1181	Paul Haimon	3	20 oktober 1913	Ohe en Laak	Mheer
-1182	Uys Krige	3	1910		
-1183	Willy Dols	3	21 maart 1911		
-1184	A.R. Hol	3	9 mei 1895	Ingen	Ingen
-1185	J.H. van Lessen	3	28 oktober 1897	Groningen	Leiden
-1186	I.D. du Plessis	3	25 juni 1900	Kaapstad	Kaapstad
-1187	Barend de Goede	3	1915		
-1188	H. Bonger	3	12 mei 1911	Amsterdam	Amsterdam
-1189	Robert Franquinet	3	5 juni 1915	Amby	Maastricht
-1190	F.W. van Heerikhuizen	3	5 augustus 1910	Enschede	Velp
-1191	P. Polman	3	20 augustus 1897	Amsterdam	Utrecht
-1192	J.D.M. Cornelissen	3	27 september 1893	Hertogenbosch	Nijmegen
-1193	F. de Tollenaere	5	8 juli 1912	Ronse	Warmond
-1194	W. Roukens	3	28 april 1896	Kerkrade	Maastricht
-1195	Gerard den Brabander	3	3 juli 1900	Den Haag	Amsterdam
-1196	A.P. Kieft	3	20ste eeuw		
-1197	J. Karsemeijer	3	1897		
-1198	Adriaan van der Veen	9	16 december 1916	Venray	Den Haag
-1199	J.P. van Praag	3	1912		
-1200	N.P. van Wyk Louw	5	11 juni 1906	Sutherland	Johannesburg
-1201	A. Marja	3	8 maart 1917	Oude Leije	Den Haag
-1202	R.W. Zandvoort	3	2 juli 1894	Avenhorn	Amersfoort
-1203	Max Dendermonde	3	17 juni 1919	Winschoten	Sarasota (Florida)
-1204	P.C. Boeren	3	1909	Etten	
-1205	H. Draye	5	1911		
-1206	G.J. Uitman	3	1901		
-1207	K. Roelandts	5	6 mei 1919	Boom	Herent
-1208	Gerrit Kamphuis	5	8 mei 1906	Zwolle	Den Haag
-1209	Gilbert Degroote	5	28 januari 1914	Wakken	Leuven
-1210	S.A. Louw	3	8 augustus 1908		
-1211	J. Noë	4	1913		
-1212	S.J. van der Molen	3	1912	Leeuwarden	
-1213	Maartje Draak	5	25 maart 1907	Venlo	Amsterdam
-1214	J.B. Drewes	5	20 december 1907	Amsterdam	Rijswijk
-1215	Sjoerd Leiker	3	28 mei 1914	Drachten	Hoorn
-1216	F. Veenstra	5	29 december 1906	Hardegarijp	Leeuwarden
-1217	Henri A. Ett	3	4 augustus 1908	Rotterdam	Delft
-1218	G. Jo Steenbergen	3	1922		
-1219	G.W. Huygens	3	6 december 1912	Rotterdam	Den Haag
-1220	Jan Boon	3	6 januari 1898	Halle (bij Brussel)	Ukkel
-1221	Jan Spierdijk	3	4 oktober 1919	Amsterdam	
-1222	S.P. Uri	3	21 mei 1903	Delft	Scheveningen
-1223	H. de Vocht	3	 1878		
-1224	Paul Lebeau	3	29 juni 1908	Borgerhout	Borgerhout
-1225	H.P.H. Teesing	5	6 maart 1907	Amsterdam	Utrecht
-1226	Willem Doorenbos	3	28 mei 1820	Deersum	Den Haag
-1227	Adriaan Morriën	3	5 juni 1912	Velsen	Amsterdam
-1228	C.G.L. Apeldoorn	3	1910	Maastricht	
-1229	Victor Varangot	3	1912		
-1230	C.M. Geerars	5	15 augustus 1921	Eemnes	Amersfoort
-1231	C.J.E. Dinaux	3	13 november 1898	Ommen	Heerde
-1232	Lodewijk Maerevoet	3	1903		Muiden
-1233	J.G. Bomhoff	5	1903		
-1234	F.J.P. Peeters	3	1918		
-1235	Michel van der Plas	3	23 oktober 1927	Den Haag	Leidschendam
-1236	W.J. Buma	5	19 oktober 1910	Den Haag	
-1237	A.J.J. de Witte	5	1 mei 1911	Roosendaal	Nijmegen
-1238	A. Sassen	5	25 juni 1921	Ter Apel	Groningen
-1239	L. Koelmans	5	20ste eeuw	Enkhuizen	
-1240	W.Gs Hellinga	1	20 december 1908	Haarlem	Londen
-1241	J.A. Huisman	5	30 april 1919	Wijk bij Duurstede	Zeist
-1242	F.L. Zwaan	5	8 oktober 1906	Jokyakarta	Alphen a/d Rijn
-1243	A.G.H. Bachrach	5	9 december 1914	Frankfurt	
-1244	J.D.P. Warners	5	1913	Heinkenszand	
-1245	D.Th. Enklaar	5	16 juli 1894	Utrecht	Utrecht
-1246	A. Teeuw	5	12 augustus 1921	Gorinchem	
-1247	W.E. Hegman	5	24 juni 1924	Menen	Gent
-1248	D.P. Blok	5	7 januari 1925	Oegstgeest	
-1249	F. van Vinckenroye	5	7 augustus 1920	Kortessem	Hasselt
-1250	M. Hanot	5	14 februari 1926	Peer	
-1251	Peter King	5	1922	Wimbledon	
-1252	S.F. Witstein	5	22 mei 1920	Rotterdam	Alphen a/d Rijn
-1253	Pierre Brachin	5	1914		
-1254	J. Deschamps	5	1 januari 1917	Leuven	Leuven
-1255	W.J.A. Jonckbloet	5	6 juli 1817	Den Haag	Wiesbaden
-1256	R. Lievens	5	2 januari 1924	Ninove	Leuven
-1257	L. Peeters	5	14 februari 1925	Heppen	
-1258	F.G. Droste	5	4 juli 1928	Arnhem	
-1259	L. Brummel	5	10 augustus 1897	Arnhem	Den Haag
-1260	V.F. Vanacker	5	1921		
-1261	Jan van Bakel	9	11 december 1927		
-1262	Jaap Meijer	1	18 november 1912	Winschoten	Heemstede
-1263	Wim J. Simons	5	1926		Amsterdam
-1264	Peter van Eeten	2	20ste eeuw		
-1265	J.C. Arens	5	1918	Hengelo	
-1266	Hilda van Assche	5	5 september 1922	Oudenaarde	Wemmel
-1267	Ada Deprez	5	12 oktober 1928	Oostende	Zwijnaarde
-1268	J. Goossens	5	1944		
-1269	W. Drop	5	6 juni 1929	Vlaardingen	Amersfoort
-1270	Hubert J. Michaël	1	26 september 1911	Den Haag	Den Haag
-1271	M.C.A. van der Heijden	5	1931	Oirschot	
-1272	N. de Paepe	5	21 mei 1930	Ninove	Bonheiden
-1273	P.E.L. Verkuyl	5	1929		
-1274	Drs. P	5	24 augustus 1919	Thun	Amsterdam
-1275	H.A. Wage	5	23 september 1911	Roosendaal	Leiden
-1276	Ger Schmook	5	17 augustus 1898	Antwerpen	Antwerpen
-1277	Matthias de Vries	5	9 november 1820	Haarlem	Leiden
-1278	H. Entjes	9	17 september 1919	Ambt Rheine	Nieuwleusen
-1279	S. Carmiggelt	5	7 oktober 1913	Den Haag	Amsterdam
-1280	F. Lulofs	5	11 oktober 1919	Den Haag	Assen
-1281	H.M. Hermkens	5	1922		
-1282	R. Vos	3	20ste eeuw		
-1283	A. Kraak	5	1928		Monnickendam
-1284	L. Elaut	4	26 december 1897	Gentbrugge	Gent
-1285	W.M.H. Hummelen	5	9 oktober 1928	Zutphen	
-1286	J. 't Hart	5	1932		
-1287	B.C. Damsteegt	5	5 juli 1915	Rotterdam	Leiden
-1288	W. Martin	5	1941		
-1289	A.A. Weijnen	5	28 december 1909	Fijnaart	Malden
-1290	D.M. Bakker	5	24 juni 1934	Den Haag	Heemstede
-1291	A. Feitsma	5	1928	Brantgum	
-1292	W. Gobbers	5	28 december 1926	Antwerpen	
-1293	Norbert Morciniec	5	1932		
-1294	R. Jansen-Sieben	5	1930		
-1295	W.A. Ornée	5	26 mei 1921	Groningen	Brummen
-1296	J. Taeldeman	5	23 december 1943	Kleit	
-1297	H. Hulshof	5	1946		
-1298	A. Gruijs	5	1920		
-1299	Piet Delen	9	20ste eeuw		
-1300	H.H. Grünhagen	9	20ste eeuw		
-1301	Coen Bersma	9	20ste eeuw		
-1302	M.J.M. de Haan	5	1942		
-1303	Eldert Willems	9	16 mei 1923	Schaarbeek	De Koog
-1304	Breyten Breytenbach	9	16 september 1939	Bonnievale	
-1305	J.B. Berns	5	24 juni 1937		
-1306	L. Mosheuvel	5	9 maart 1922	Rotterdam	
-1307	J.G. Kooij	5	9 april 1940	Amsterdam	Amsterdam
-1308	Ludo Simons	5	29 juli 1939	Turnhout	
-1309	Fons van Buuren	5	1932		
-1310	C. van de Ketterij	5	1932		
-1311	H. Vos	5	20ste eeuw		
-1312	Jan Stroop	9	1938		
-1313	Rob Nieuwenhuys	5	30 juni 1908	Semarang	Amsterdam
-1314	R.L.K. Fokkema	5	2 januari 1938	Alphen a/d Rijn	Utrecht
-1315	G.R.W. Dibbets	5	23 december 1938	Nijmegen	
-1316	H.W.J. Vekeman	5	19 december 1938	Grimminge	Lechenich
-1317	T.T. Cloete	9	31 mei 1924	Vredefort	Potchefstroom
-1318	A.G.M. Vermeulen	9	20ste eeuw		
-1319	J.M.J. Sicking	5	1 maart 1936	Den Haag	Den Haag
-1320	Marita Mathijsen	9	18 augustus 1944	Belfeld	
-1321	J. Reynaert	9	23 juni 1945	Roeselare	
-1322	M.K. van Dort-Slijper	9	1939		
-1323	Fr. Daems	5	1941		
-1324	N.C.H. Wijngaards	9	29 juni 1911	Leiden	Nijmegen
-1325	Jan Noordegraaf	5	1948		
-1326	Louis Ferron	9	4 februari 1942	Leiden	Haarlem
-1327	J. Molemans	9	1938		
-1328	A. Sturm	5	1948		
-1329	A.N. Paasman	9	26 februari 1939	Hoogeveen	
-1330	Saskia Daalder	5	20ste eeuw		
-1331	Dirk Coigneau	5	1948		
-1332	A.M. Hagen	5	1936		
-1333	Carel Peeters	9	5 juni 1944	Nijmegen	
-1334	Marijke Spies	5	5 augustus 1934	Eindhoven	Amsterdam
-1335	Frank van Gestel	5	1939		
-1336	Orlanda S.H. Lie	5	1949		
-1337	F.W.N. Hugenholtz	5	1922		
-1338	P.N.G. Pesch	5	1953		
-1339	Evert van den Berg	9	1942		
-1340	W.A.A.M. Merlijn	9	20ste eeuw		
-1341	J.A. Dautzenberg	9	29 december 1944	Bocholtz	Nijmegen
-1342	Frans Claes	9	5 juni 1928	Webbekom	Heverlee
-1343	Martin Hartkamp	9	14 september 1943	Amsterdam	
-1344	M.F. Steehouder	5	20ste eeuw		
-1345	D.H. Lammers	9	1946		
-1346	Jan Schoolmeesters	5	1951		
-1347	J.H. Maureau	9	1943		
-1348	Gerard Verhoeven	9	1944		
-1349	Hella S. Haasse	9	2 februari 1918	Batavia	Amsterdam
-1350	G.F.H. Raat	9	1946	Amsterdam	
-1351	Dédé Brouwer	9	20ste eeuw		
-1352	C.W. van de Watering	5	1935		
-1353	Sies de Haan	9	1946		
-1354	Ton van Haaften	9	1953		
-1355	Antoine Braet	9	1942	Aardenburg	
-1356	J.M. Willeumier-Schalij	9	1917		
-1357	Rudy Kousbroek	9	1 november 1929	Pematang Siantar (Sumatra)	Leiden
-1358	J. van Marle	9	1950		
-1359	Wim Rutgers	9	19 december 1941	Dinxperlo	
-1360	M.H. Schenkeveld	5	1928		
-1361	Bert van Selm	5	3 april 1945	Delft	Leiden
-1362	R.W.W.M. van der Drift	9	20ste eeuw		
-1363	Marlies Philippa	9	1944		
-1364	P.J. Verkruijsse	5	27 januari 1943	Groede	Nieuwkoop
-1365	Aad Nuis	9	18 juli 1933	Sliedrecht	Den Haag
-1366	Camiel Hamans	9	1948		
-1367	Guus Extra	9	1946		
-1368	René Appel	9	19 september 1945	Hoogkarspel	
-1369	Eep Francken	9	1948		
-1370	N. van der Blom	9	7 april 1917	Gorinchem	Rotterdam
-1371	Hanna Stouten	9	1937		
-1372	G. van Eemeren	9	1941		
-1373	Marijke Meijer Drees	5	1954		
-1374	Siem Bakker	9	5 oktober 1942	Oude Niedorp	
-1375	G. Gerritsen-Geywitz	5	20ste eeuw		
-1376	G. Gerritsen-Geywitz	5			
-1377	Maarten van Buuren	9	1948	Maassluis	
-1378	Maarten van Buuren	9	 1948	Maassluis	
-1379	Piet Meeuse	9	1947		
-1380	Piet Meeuse	9	 1947		
-1381	Ward Ruyslinck	9	17 juni 1929	Berchem (Antwerpen)	Meise
-1382	Mieke B. Smits-Veldt	5	1936		
-1383	Hans van den Bergh	9	3 december 1932	Amsterdam	Amsterdam
-1384	Hans Heestermans	9	22 januari 1943	Oud Vossemeer	
-1385	Rob Rentenaar	9	1938		
-1386	Philippe Noble	9	1949	Le Puy	
-1387	W. Bronzwaer	9	15 mei 1936	Heerlen	Nijmegen
-1388	Lia van Gemert	5	1958		
-1389	P.H. Schrijvers	9	1939		
-1390	Aleid Truijens	9	1955		
-1391	Dick Springorum	9	1941		
-1392	Ad Foolen	9	1950		
-1393	Willem G. Weststeijn	9	1943		
-1394	G.J. Vis	9	30 maart 1934	Blokker	Schoorl
-1395	Frida Balk-Smit Duyzentkunst	9	12 april 1929	Amsterdam	Bloemendaal
-1396	J. A. Le Loux-Schuringa	5	1953		
-1397	Kitty M. van Leuven-Zwart	9	1943		
-1398	M. Vasalis	9	13 februari 1909	Den Haag	Roden
-1399	W.S. Huberts	9	13 augustus 1953	Utrecht	
-1400	Jozef D. Janssens	5	3 november 1944	Rijkevorsel	
-1401	A. Moerdijk	9	1944		
-1402	Toon Tellegen	9	18 november 1941	Brielle	
-1403	Jan Fontijn	9	9 februari 1936	Amsterdam	
-1404	W.F.G. Breekveldt	5	1935		
-1405	Ton Harmsen	9	1948	Den Haag	
-1406	Olf Praamstra	9	1950		
-1407	B.P.M. Dongelmans	5	1952	Alphen a/d Rijn	
-1408	Paul Gillaerts	9	1954		
-1409	August Hans den Boef	9	1949	Rotterdam	
-1410	Theo A.J.M. Janssen	9	1944		
-1411	Harry Bekkering	9	1944	Roosteren	
-1412	Bart Besamusca	5	1955		
-1413	S.C. Dik	9	6 september 1940	Delden	Holysloot
-1414	Cyrille Offermans	9	8 april 1945	Geleen	
-1415	Frank Berndsen	9	1949		
-1416	Aster Berkhof	9	18 juni 1920	Rijkevorsel	
-1417	Irene Spijker	5	1956		
-1418	A.A. Keersmaekers	5	26 oktober 1920	Retie	Duffel
-1419	J.J.M. Westenbroek	9	16 oktober 1926	Den Haag	Arnhem
-1420	Guillaume van der Graft	9	15 augustus 1920	Rotterdam	Utrecht
-1421	Stanislaw Predota	5	1944		
-1422	Willy Vandeweghe	9	1948	Brugge	
-1423	Roger Henrard	5	1921	Ans, bij Luik	
-1424	Maaike Hogenhout-Mulder	9	20ste eeuw		
-1425	Ron Elshout	9	1956	Rotterdam	
-1426	J.A. van Leuvensteijn	5	20 april 1942	Alkmaar	
-1427	Jean Brüll	9	1932		
-1428	van der Veur	9	19de eeuw		
-1429	Ares Koopman	9	1952		
-1430	Rudolf Dekker	5	1951	Amsterdam	
-1431	Ben van Melick	9	17 februari 1947	Hoensbroek	
-1432	Jan Klein	9	1917		
-1433	J.H. Winkelman	9	1940	Rotterdam	
-1434	Kees-Jan Backhuys	9	20ste eeuw		
-1435	Ineke Bulte	9	1946		
-1436	P.J.A. Franssen	9	1956		
-1437	Hans Renders	9	1957	Aarle	
-1438	Jan Nijen Twilhaar	9	1955		
-1439	Dieuwke E. van der Poel	5	1958		
-1440	Frans Ruiter	9	1954		
-1441	Pieter Nieuwint	9	1945		
-1442	Maaike Meijer	9	25 januari 1949	Eindhoven	
-1443	Cor van Bree	9	1932	Vlaardingen	
-1444	Fabian R.W. Stolk	9	25 maart 1958	Zeist	
-1445	Marc Van Vaeck	5	1959		
-1446	Joost Niemöller	9	25 februari 1957	Haarlem	
-1447	Rogi Wieg	9	21 augustus 1962	Delft	Amsterdam
-1448	Mary G. Kemperink	9	1951		
-1449	Ton van der Wouden	9	20 september 1958	Gouda	
-1450	Ralf Grüttemeier	9	1961		
-1451	Jacqueline de Man	5	1958		
-1452	Thomas Vaessens	9	17 november 1967	Maastricht	
-1453	Wilbert Smulders	9	1950		
-1454	A. Middeldorp	9	13 december 1921	Scherpenzeel	Voorhout
-1455	Kees Snoek	9	1952	Dordrecht	
-1456	Michiel van Kempen	9	4 april 1957	Oirschot	
-1457	Ariane van Santen	9	1944		
-1458	Annelies van Gijsen	9	1953		
-1459	Louis Peter Grijp	9	23 januari 1954	Den Haag	Driebergen-Rijsenburg
-1460	Ben Peperkamp	9	21 april 1959	Den Haag	Amsterdam
-1461	Eric Hoekstra	9	1960		
-1462	Ton van Strien	9	12 oktober 1951	Vijfhuizen	
-1463	Theo Hermans	9	1948		
-1464	Hans Broekhuis	9	1959		
-1465	Marijke J. van der Wal	9	19 december 1949		
-1466	Yves T'Sjoen	9	1966	Oudenaarde	
-1467	Joost Zwagerman	9	18 november 1963	Alkmaar	Haarlem
-1468	Margriet de Moor	9	21 november 1941	Noordwijk	
-1469	Hans Groenewegen	9	25 mei 1956	Haamstede	Rijswijk
-1470	Theo Meder	9	1960		
-1471	Joris Gerits	9	6 september 1943	Vilvoorde	Bonheiden
-1472	Jacqueline Bel	9	1958	Den Haag	
-1473	Paul Van Keymeulen	1	3 februari 1920	Erpe-Mere	
-1474	Hugo Walschap	1	1926		
-1475	Lucien Brulez	1	9 juli 1891	Blankenberge	
-1476	Stéphane Mallarmé	1	18 maart 1842	Parijs	
-1477	Leopold Flam	1	16 maart 1912	Antwerpen	Brussel
-1478	Lidy van Eijsselsteijn	2	3 juni 1904	Nieuwe Pekela	Haren
-1479	Anna Mertens	2	20ste eeuw		
-1480	Henk Krijger	2	1914		
-1481	Ab Visser	2	14 februari 1913	Groningen	Amsterdam
-1482	C. Vermeer	2	20ste eeuw		
-1483	C. Ouboter	2	1914		
-1484	J.C. Schuller	2	20ste eeuw		
-1485	Koos van Doorne	2	1908		
-1486	P.A. Hekstra	2	20ste eeuw		
-1487	Jaap Das	2	1911		
-1488	K.J. Popma	2	1903		
-1489	J. van Doorne	2	16 februari 1908	Delft	Baarn
-1490	Johan van Hulzen	2	1 juli 1891	Zeist	
-1491	S.J. Popma	2	1899		
-1492	Arjen Miedema	2	1902		
-1493	Jan Elzo Niemeijer	2	1922		
-1494	Aart Romijn	2	4 januari 1907	Zaandam	
-1495	Etus Alons-Bernhardt	8	20ste eeuw		
-1496	Endre Ady	8	22 november 1877		Boedapest
-1497	J.H. Schouten	2	1893		
-1498	A. Mertens	2	20ste eeuw		
-1499	Coert Poort	2	7 augustus 1922	Rotterdam	
-1500	William Blake	3	28 november 1757	Londen	Londen
-1501	Kees Ouboter	2	20ste eeuw		
-1502	Emiel Willekens	1	23 februari 1922		Antwerpen
-1503	Carlos Tindemans	5	1931		
-1504	Piet Couttenier	1	1947		
-1505	Paul Schampaert	1	20ste eeuw		
-1506	Ingrid van de Wijer	5	1955		
-1507	K. du Bois de Vroylande	4	19de eeuw		
-1508	F. De Raedemaeker	4	1894		
-1509	Eugenius Druwé	4	19de eeuw		
-1510	L. Arts	4	1901	Antwerpen	
-1511	R. van Ooteghem	4	19de eeuw		
-1512	Edw. De Schaepdrijver	4	19de eeuw		
-1513	J. Donceel	4	19de eeuw		
-1514	Alb. Raignier	4	20ste eeuw		
-1515	M. Dufraing	4	19de eeuw		
-1516	Gaston Van Bulck	4	1903		
-1517	G. De Wolf	4	20ste eeuw		
-1518	Fr. van Baarle	4	20ste eeuw		
-1519	Edgard de Bruyne	4	18 april 1898	Ieper	Schaarbeek
-1520	Anton Van de Velde	4	8 juli 1895	Antwerpen	Schilde
-1521	A. Snoeck	4	20ste eeuw		
-1522	H. Bruders	4	19de eeuw		
-1523	Louis H.M. Monden	4	1911		
-1524	B. De Wint	4	19de eeuw		
-1525	L.G. Polspoel	4	19de eeuw		
-1526	Jan Jozef van Laer	4	1908	Turnhout	
-1527	W. De Roy	4	19de eeuw		
-1528	Marcel Matthijs	4	11 januari 1899	Oedelem (Beernem)	Brugge
-1529	Ad. Jansen	4	19de eeuw		
-1530	L. Vander Kerken	4	1910		
-1531	E.J. Vandenbussche	4	19de eeuw		
-1532	Hugo Vandeperre	4	20ste eeuw		
-1533	Edouard Dhanis	4	1902		
-1534	Leo Simoens	4	11 april 1915	Sint-Andries	
-1535	P. Ellerbeek	4	20ste eeuw		
-1536	W. Talloen	4	19de eeuw		
-1537	Michiel Dierickx	4	25 juni 1909	Zingem	Oostende
-1538	Karel van Isacker	4	26 juni 1913	Mechelen	Niel-bij-As
-1539	L. Baudez	4	20ste eeuw		
-1540	Arthur Thomas	4	20ste eeuw		
-1541	Walter F. Smet	4	1915		
-1542	P. Goedertier	4	20ste eeuw		
-1543	Albert Deblaere	4	1916		
-1544	G. Neefs	4	20ste eeuw		
-1545	H. Peeters	4	20ste eeuw		
-1546	E. de Strycker	4	20ste eeuw		
-1547	R. Leijs	4	20ste eeuw		
-1548	Alb. Block	4	19de eeuw		
-1549	E. De Cooman	4	20ste eeuw		
-1550	Pieter Frans Fransen	4	1913		
-1551	J. De Fraine	4	20ste eeuw		
-1552	G. Van Cutsem	4	20ste eeuw		
-1553	Marcel Brauns	4	2 oktober 1913	Hasselt	Gent
-1554	W. Luyten	4	20ste eeuw		
-1555	C. Pickery	4	20ste eeuw		
-1556	Antoon Fimmers	4	19de eeuw		
-1557	I. De la Potterie	4	1914		
-1558	Louis Bruyns	4	15 januari 1919	Essen	
-1559	J.B. Poukens	4	1882		
-1560	B. Boeyckens	4	20ste eeuw		
-1561	G. Huyghe	4	30 juni 1920		
-1562	Fl. Bertiau	4	20ste eeuw		
-1563	Jozef Andriessen	4	2 december 1917	Ekeren	Heverlee
-1564	Paul Maria Jozef de Meester	4	1916		
-1565	G. Gilleman	4	20ste eeuw		
-1566	Jan Bruna	1	17 augustus 1876		
-1567	Fr. de Jong Edz.	2	1919		
-1568	Pieter Korthuys	2	11 september 1898	Rotterdam	
-1569	G.E. Mulder	2	20ste eeuw		
+	Author	Community
+0	Henk Kuitenbrouwer	5
+1	Henri Bruning	5
+2	Albert Kuyle	5
+3	Albe	1
+4	Dirk Coster	5
+5	Jan Engelman	5
+6	Erich Wichman	5
+7	Willem Pijper	5
+8	Just Havelaar	5
+9	Gerard Bruning	5
+10	Joep Nicolas	5
+11	Gerard Brom	5
+12	Bernard Verhoeven	5
+13	Johan de Meester	5
+14	Karel van den Oever	5
+15	Huib Luns	5
+16	Wies Moens	1
+17	Marnix Gijsen	1
+18	Herman Teirlinck	1
+19	Richard Minne	1
+20	J.C. Bloem	3
+21	Albert Helman	5
+22	G.P.M. Knuvelder	1
+23	Frederik van Eeden	5
+24	Menno ter Braak	5
+25	Willem Nieuwenhuis	5
+26	Herman de Man	5
+27	Henriette Roland Holst-van der Schalk	1
+28	Charles Eyck	5
+29	H. Marsman	5
+30	A. den Doolaard	5
+31	Anton van Duinkerken	5
+32	A.A.M. Stols	9
+33	M. Stol	9
+34	Herman Gorter	5
+35	A. Roland Holst	5
+36	Ernest Michel	5
+37	A.M. de Jong	5
+38	Willem Maas	5
+39	Hendrik de Vries	5
+40	Novalis	5
+41	Albert Verwey	5
+42	Antoon Coolen	5
+43	Stijn Streuvels	1
+44	H.E.H. van Loon	5
+45	H. van Loon	5
+46	Sybold van Ravesteyn	5
+47	Karel van de Woestijne	1
+48	Prosper van Langendonck	5
+49	Willem Kloos	5
+50	Guido Gezelle	1
+51	J.F.M. Sterck	5
+52	Frans Erens	5
+53	Wouter Lutkie	5
+54	Gerard Wijdeveld	5
+55	Stefan George	5
+56	P.N. van Eyck	3
+57	Nicolaas Beets	5
+58	Abraham Kuyper	5
+59	J.J. van Geuns	6
+60	J. van Geuns	6
+61	Halbo C. Kool	5
+62	D.A.M. Binnendijk	5
+63	Jan H. Eekhout	5
+64	A.J.D. van Oosten	5
+65	B.H. Molkenboer	5
+66	H. Mol	3
+67	G. Kalff	5
+68	A. van Domburg	5
+69	Ellen Russe	7
+70	Giovanni Papini	7
+71	Roel Houwink	5
+72	J.H. Leopold	3
+73	Chris de Graaff	5
+74	Multatuli	5
+75	Ad. Sassen	5
+76	Geerten Gossaert	5
+77	Ernest Claes	1
+78	Jacob van Lennep	5
+79	Felix Timmermans	1
+80	E.J. Potgieter	2
+81	Gerard Walschap	1
+82	Louis de Bourbon	5
+83	E. du Perron	5
+84	Jan Greshoff	1
+85	W.A.P. Smit	3
+86	Paul Vlemminx	5
+87	Henri Borel	1
+88	Constant van Wessem	5
+89	Theun de Vries	5
+90	Alfred de Vigny	5
+91	Arthur van Schendel	5
+92	Pieter van der Meer de Walcheren	5
+93	J.W.F. Werumeus Buning	5
+94	Aart van der Leeuw	5
+95	C.R. de Klerk	5
+96	Lodewijk van Deyssel	5
+97	Maria Viola	5
+98	Alphons Diepenbrock	5
+99	Jan Vercammen	1
+100	Pierre Kemp	5
+101	Jozef Cantré	5
+102	Frans Coenen	5
+103	A.G.W. Severijnen	1
+104	C.G.N. de Vooys	5
+105	P.J.H. Vermeeren	5
+106	Pieter G. Buckinx	1
+107	Jan Romein	9
+108	Garmt Stuiveling	5
+109	Ed. Hoornik	10
+110	Willem Bilderdijk	5
+111	André Demedts	1
+112	Jan Prins	5
+113	Willem de Mérode	5
+114	P.C. Boutens	5
+115	E. Moll	5
+116	M. Rutten	3
+117	H.W.E. Moller	5
+118	J. Slauerhoff	5
+119	P.J. Veth	2
+120	W.R. van Hoëvell	2
+121	A.V. Michiels	2
+122	Willem Richard Boer	1
+123	P.W. Korthals	2
+124	Salomon Müller	2
+125	Jan Heemskerk Bzn.	5
+126	Adam Smith	5
+127	S.J. van den Bergh	2
+128	Alfred de Musset	5
+129	S. Vissering	2
+130	H.J. Schimmel	5
+131	W.J. Hofdijk	5
+132	Carel Adriaan Engelbregt	1
+133	Willem Jan Knoop	1
+134	J.J.L. ten Kate	2
+135	Johan Carl Zimmerman	2
+136	Pieter Nicolaas Muller	5
+137	Johan Adam Wijnne	1
+138	Samuel Adrianus Naber	2
+139	Cd. Busken Huet	5
+140	Robert Fruin	2
+141	Martinus Nijhoff	3
+142	H.P.G. Quack	5
+143	Nikolaas Gerard Pierson	5
+144	J.A. Alberdingk Thijm	5
+145	Pieter Rutger Feith	11
+146	R. Feith	11
+147	Tiberius Cornelius Winkler	12
+148	C. Winkler	12
+149	Carel Vosmaer	5
+150	J. van Vloten	5
+151	Henricus Oort	13
+152	H. Oort	13
+153	H.C. Rogge	2
+154	Jérome Alexandre Sillem	1
+155	Charles Boissevain	5
+156	George Eliot	1
+157	D.E.W. Wolff	1
+158	David Jacob van Lennep	5
+159	Henri Ernest Moltzer	5
+160	H. Kern	5
+161	Abraham Seyne Kok	1
+162	Cornelis Bellaar Spruyt	5
+163	J.N. van Hall	5
+164	Johan Hermann Christian Heyse	5
+165	Allard Pierson	5
+166	Willem de Clercq	5
+167	Johan Hendrik Gallée	5
+168	J. Verdam	5
+169	Marie Henriëtte Koorders-Boeke	5
+170	H. van Cappelle jr.	14
+171	H. van Cappelle	14
+172	J. van Loenen Martinet	5
+173	Hendrik Hooyer	15
+174	J.H. Hooijer	15
+175	Anton Gerard van Hamel	5
+176	Jan ten Brink	5
+177	A.G. van Hamel	5
+178	Max Rooses	1
+179	Willem Hendrik de Beaufort	3
+180	Pol de Mont	1
+181	Joh. Dyserinck	1
+182	Louis Couperus	5
+183	Jan C. de Vos	5
+184	Willem van der Vlugt	1
+185	Henricus Anastasius Viotta	1
+186	Marcellus Emants	5
+187	A. Kluijver	5
+188	A. Kluyver	5
+189	Hélène Swarth	5
+190	H.J. Polak	5
+191	Leo Simons	1
+192	R.A. Kollewijn	5
+193	R.P.J. Tutein Nolthenius	5
+194	Herman Heijermans	5
+195	Willem Gerard van Nouhuys	1
+196	W.G.C. Byvanck	1
+197	Taco H. de Beer	5
+198	Jan Veth	5
+199	Jan Six	5
+200	L. Knappert	5
+201	H.T. Colenbrander	5
+202	Bruneau	1
+203	Conrad Th. van Deventer	5
+204	N.P. van den Berg	5
+205	A.A.W. Hubrecht	16
+206	Hugo de Vries	16
+207	Antoon Derkinderen	5
+208	Margo Scharten-Antink	5
+209	Carel Scharten	5
+210	Herman Robbers	5
+211	Top Naeff	5
+212	Edward B. Koster	5
+213	Frans Mijnssen	5
+214	Nico van Suchtelen	1
+215	Jozef Israëls	5
+216	M.H. van Campen	5
+217	Caesar Gezelle	1
+218	Joannes Reddingius	5
+219	Ina Boudier-Bakker	5
+220	W.L. Penning	5
+221	Anna van Gogh-Kaulbach	5
+222	Marie Metz-Koning	5
+223	W.J.C. van Hasselt	2
+224	Bernard Shaw	1
+225	Adriaan van Oordt	5
+226	Eduard Verkade	5
+227	Maurits Sabbe	1
+228	S. Bonn	5
+229	Jan van Nijlen	5
+230	Maurits Uyldert	5
+231	René de Clercq	5
+232	Augusta de Wit	5
+233	Pieter Valkhoff	1
+234	Albrecht Rodenbach	5
+235	D. van Blom	5
+236	Carry van Bruggen	5
+237	Herman Poort	5
+238	J. Prinsen J.Lzn	5
+239	J. Prins	5
+240	C.A. Verrijn Stuart	5
+241	C. van Vollenhoven	5
+242	R.C. Bakhuizen van den Brink	5
+243	Johan Huizinga	5
+244	André Jolles	5
+245	P. Geyl	9
+246	P.J. Meertens	3
+247	Arthur J.H. Cornette	1
+248	Lode Baekelmans	1
+249	Joris Eeckhout	1
+250	Virginie Loveling	1
+251	Maurice Roelants	1
+252	Hermann Wolf	17
+253	Herman Wolf	17
+254	André de Ridder	5
+255	N.A. Donkersloot	5
+256	W. Kramer	5
+257	J.H. Plantenga	9
+258	Emmanuel de Bom	5
+259	Cornelia Serrurier	5
+260	E.J. Dijksterhuis	9
+261	Lode Zielens	1
+262	Sybrandus Johannes Fockema Andreae	9
+263	S.J. Fockema Andreae	9
+264	Paul Valéry	5
+265	Jozef Muls	1
+266	R.F. Beerling	9
+267	D.C. Hesseling	5
+268	Anton Koolhaas	10
+269	A. Kool	10
+270	Thomas Mann	1
+271	Gerlach Royen	3
+272	J.C. Brandt Corstius	5
+273	Hein Boeken	5
+274	Yge Foppema	9
+275	F. Bordewijk	9
+276	O. Noordenbos	9
+277	M.J. Langeveld	9
+278	J.J. Vriend	9
+279	E.W. Beth	9
+280	L.H. Grondijs	9
+281	J.D. Meerwaldt	9
+282	J.J.L. Duyvendak	9
+283	Wouter Paap	10
+284	B.M. Telders	9
+285	D. Loenen	9
+286	J.D. Bierens de Haan	9
+287	G.S. Overdiep	3
+288	Jan Campert	10
+289	Eduard Reeser	9
+290	Emmy van Lokhorst	9
+291	J.N. Bakhuizen van den Brink	9
+292	G.W. Wolthuis	9
+293	J.S. Bartstra	9
+294	G.G. Kloeke	3
+295	Jaap Kunst	9
+296	K.F. Proost	9
+297	W. Banning	9
+298	H.J. Pos	9
+299	Anton van der Boom	9
+300	M.J. Sirks	9
+301	A.N. Molenaar	9
+302	C.F.A. van Dam	5
+303	Miguel de Cervantes Saavedra	5
+304	H. Wagenvoort	9
+305	B.A. van Groningen	9
+306	J.C.H. de Pater	9
+307	S.M. Noach	5
+308	J.C.A. Fetter	9
+309	Willem Jan Mari van Eysinga	9
+310	K. Strijd	9
+311	C.J. de Vogel	9
+312	G. van der Leeuw	9
+313	Johan van der Woude	5
+314	Simon Vestdijk	5
+315	N.E.H. van Esveld	9
+316	Johannes Lindeboom	9
+317	C.J. Kelk	9
+318	A.G.M. van Melsen	9
+319	Jan te Winkel	5
+320	W. van der Wielen	9
+321	J.E. de Haas	9
+322	G.P. Frets	9
+323	H.J. Prakke	9
+324	Ferdinand Langen	9
+325	Marie Ramondt	9
+326	Gerard van Eckeren	9
+327	W.Ph. Coolhaas	9
+328	Guus Dijkhuizen	10
+329	Johanna K. Oudendijk	9
+330	Gabriël Smit	9
+331	H. Engel	9
+332	G. Révész	9
+333	J. Keuning	9
+334	Jan Barents	9
+335	Hubert Lampo	1
+336	Piet van Aken	1
+337	Johan Daisne	1
+338	Raymond Herreman	1
+339	August Vermeylen	1
+340	I.J.M. van den Berg	9
+341	Karel Jonckheere	1
+342	Raymond Brulez	1
+343	Martin Permys	9
+344	W.J. Verdenius	9
+345	L. van den Ham	9
+346	C.W. Roldanus	9
+347	Willem van Maanen	9
+348	Francis Bacon	9
+349	C.F.P. Stutterheim	3
+350	H.F.W.D. Fischer	9
+351	Paul Rodenko	5
+352	W. de Vries	18
+353	C.W. de Vries	9
+354	J.M. Kramer	9
+355	B. Hunningher	3
+356	J. de Graaf	9
+357	Mary Dresselhuys	9
+358	Bert Voeten	9
+359	Jaap Romijn	9
+360	René Verbeeck	1
+361	Urbain van de Voorde	1
+362	Wim Vesseur	9
+363	Mea Verwey	5
+364	W.H. Staverman	5
+365	Max Croiset	9
+366	Ton Lutz	9
+367	Anna Blaman	9
+368	Luisa Treves	9
+369	Jan Sebastian Rabie	9
+370	Hugo Claus	10
+371	Luc Lutz	9
+372	Karel Meeuwesse	5
+373	Frank van der Goes	5
+374	Paul van Ostaijen	3
+375	A.L. Sötemann	3
+376	Julien Jozef Kuypers	1
+377	K.H.R. de Josselin de Jong	19
+378	R. de Josselin de Jong	19
+379	H.H.J. de Leeuwe	3
+380	R.J. Forbes	9
+381	Henri Wiessing	5
+382	David Koning	10
+383	P. Minderaa	3
+384	A. Alberts	1
+385	C.B. van Haeringen	3
+386	K. Lekkerkerker	5
+387	D.A. de Graaf	5
+388	Gerben Colmjon	5
+389	C. Bittremieux	3
+390	Victor E. van Vriesland	5
+391	Leo Vroman	10
+392	W.J.H. Caron	3
+393	H.W. van Tricht	3
+394	Ben Stroman	1
+395	Herman van den Bergh	5
+396	Lucebert	10
+397	Bert Bakker	9
+398	Willem Elsschot	1
+399	C.A. Zaalberg	3
+400	José-Maria de Heredia	18
+401	Elisabeth Eybers	18
+402	Sybren Polet	18
+403	Amy van Marken	18
+404	Attila József	20
+405	A. Kibédi Varga	20
+406	Sándor Weöres	20
+407	David Rokeah	9
+408	W.A. Braasem	10
+409	Alfred Kossmann	5
+410	Gerrit Achterberg	5
+411	Hans Andreus	10
+412	Martien J.G. de Jong	5
+413	Piet Calis	5
+414	Theo van Baaren	9
+415	Paul de Wispelaere	10
+416	Ivo Michiels	1
+417	G.J. Resink	5
+418	J.B. Charles	9
+419	Karel De Clerck	5
+420	G.J. Geers	9
+421	Blas de Otero	9
+422	R.A. Cornets de Groot	10
+423	J. Bernlef	10
+424	Hans Verhagen	10
+425	Jan Hanlo	18
+426	Gerrit Kouwenaar	10
+427	Paul Snoek	18
+428	Ezra Pound	10
+429	Ad den Besten	10
+430	Jan G. Elburg	18
+431	Cyriel Buysse	1
+432	Han Lammers	10
+433	Paul van 't Veer	10
+434	J.L. Heldring	10
+435	A.L. Constandse	10
+436	Ger Harmsen	5
+437	W.J.C. Buitendijk	3
+438	K. Schippers	10
+439	Albert Besnard	1
+440	Harry Mulisch	10
+441	Dylan Thomas	10
+442	Remco Campert	10
+443	Armando	10
+444	C. Buddingh'	10
+445	Bertus Aafjes	18
+446	H.A. Gomperts	10
+447	Chris van der Weye	1
+448	Peter Schat	10
+449	Coenraad van Emde Boas	9
+450	W.L. Brugsma	10
+451	J.C. van Schagen	18
+452	Cees Nooteboom	18
+453	Frits Kief	5
+454	Reinbert de Leeuw	10
+455	Louis Paul Boon	10
+456	Hans Henkemans	10
+457	Heere Heeresma	10
+458	Arie de Froe	10
+459	J. Sperna Weiland	10
+460	Simon Vinkenoog	5
+461	Koos Schuur	5
+462	F.B. Löhnis	10
+463	H.M. van Randwijk	10
+464	L. de Jong	10
+465	Bert Schierbeek	10
+466	Wallace Stevens	10
+467	William Carlos Williams	10
+468	Hans Keller	10
+469	Jac. van Hattum	10
+470	Maurits Mok	10
+471	Louis Andriessen	10
+472	Jan Blokker	10
+473	Matthijs Vermeulen	10
+474	Edmond Campers	10
+475	S.R. de Groot	10
+476	S. Dresden	18
+477	Victor J. Brunclair	10
+478	Roel van Duyn	10
+479	Judith Herzberg	10
+480	Maurice Gilliams	1
+481	Willem Frederik Hermans	18
+482	Rudi Fuchs	10
+483	J. Bosch	3
+484	T.S. Eliot	10
+485	Joris Ivens	10
+486	Joris Iven	10
+487	Annie Romein-Verschoor	9
+488	Peter Brook	10
+489	Aad van der Mijn	10
+490	Rein Bloem	10
+491	Frits Staal	10
+492	Noam Chomsky	10
+493	Krijn ter Braak	10
+494	Wilbert Bank	10
+495	Rudolf Geel	10
+496	J.W. Holsbergen	10
+497	G. van Benthem van den Bergh	10
+498	Loden Vogel	10
+499	Günter Grass	10
+500	Daniël de Lange	10
+501	Bastiaan Willink	10
+502	Dick Elffers	10
+503	Guy Kilian	10
+504	Sigmund Freud	10
+505	Miguel de Unamuno	10
+506	Abram de Swaan	10
+507	Norbert Elias	10
+508	Leo Ross	18
+509	Jacob Israël de Haan	18
+510	Ton Anbeek	18
+511	W.F. Wertheim	9
+512	H. de Lange	10
+513	Herman de Lange	10
+514	T.A. van Dijk	18
+515	Bram van der Lek	10
+516	H.J. Verkuyl	3
+517	W.G. Klooster	3
+518	Lien Heyting	10
+519	Wim Hazeu	10
+520	J.J.A. Mooij	18
+521	A. Mooij	18
+522	Bert Vanheste	10
+523	David Kettler	10
+524	Bart van Heerikhuizen	10
+525	James Joyce	18
+526	Rien T. Segers	1
+527	Anton Blok	10
+528	Johan Goudsblom	10
+529	Derek Phillips	21
+530	Rob van der Veer	21
+531	Wiel Kusters	18
+532	Emma Brunt	10
+533	Lodewijk Brunt	10
+534	Huub Beurskens	18
+535	R.B. Kitaj	18
+536	W.A.M. de Moor	5
+537	Frans W. Saris	22
+538	N.G. van Kampen	22
+539	Enno Endt	18
+540	Rainer Maria Rilke	18
+541	Christel van Boheemen-Saaf	18
+542	D.H. Lawrence	18
+543	Peter van Zonneveld	3
+544	Kees Fens	3
+545	Jaap Goedegebuure	18
+546	Gottfried Benn	18
+547	Maarten Steenmeijer	23
+548	Octavio Paz	23
+549	Nico Wilterdink	10
+550	Hans Faverey	18
+551	J. Weisgerber	10
+552	Juan Carlos Onetti	23
+553	Mario Vargas Llosa	23
+554	Mario Molegraaf	18
+555	Hans Warren	18
+556	Ton Naaijkens	18
+557	Paul Celan	18
+558	Remco Ekkers	18
+559	Jan van Luxemburg	18
+560	Marc Galle	1
+561	Kas Deprez	3
+562	G. Geerts	3
+563	Anne Marie Musschoot	18
+564	Paul Claes	3
+565	W.P. Gerritsen	3
+566	Graa Boomsma	18
+567	Harry G.M. Prick	5
+568	F. Jansonius	5
+569	Agnes Verbiest	18
+570	A. Agnes Sneller	18
+571	P.J. Buijnsters	3
+572	R.M. van Goens	3
+573	Hieronymus van Alphen	3
+574	Mieke Bal	18
+575	Clarín	23
+576	W.J. van den Akker	18
+577	D.W. Fokkema	18
+578	G.J. Dorleijn	3
+579	W.H. Auden	18
+580	Jos Joosten	18
+581	Ernst van Alphen	18
+582	Hugo Brems	18
+583	Anne Duden	18
+584	Else Lasker-Schüler	18
+585	Hugo Bousset	18
+586	Peter Verhelst	18
+587	Eric de Kuyper	18
+588	Jan Fabre	18
+589	Patricia de Martelaere	18
+590	M. Februari	18
+591	Charlotte Mutsaers	18
+592	Dirk van Bastelaere	18
+593	Leo Pleysier	18
+594	Pol Hoste	18
+595	Koen Peeters	18
+596	Walter van den Broeck	18
+597	Atte Jongstra	18
+598	Anneke Brassinga	18
+599	Stefan Hertmans	18
+600	M.E. Belpaire	1
+601	Johannes Jörgensen	1
+602	Paul Alberdingk Thijm	1
+603	Jan Emiel Vliebergh	1
+604	E. Vliebergh	1
+605	A. Dupont	1
+606	Jaak Muyldermans	1
+607	Jozef Jacobs	1
+608	Fr. Meeus	1
+609	Peter Benoit	1
+610	Constance Teichmann	1
+611	Jules Persyn	1
+612	Frans Drijvers	1
+613	Hugo Verriest	1
+614	August Cuppens	1
+615	J. Salsmans	24
+616	O. Cornet	1
+617	Bergman	24
+618	Aloïs Walgrave	1
+619	Lodewijk Ontrop	1
+620	A.W. Sanders van Loo	5
+621	Floris Prims	1
+622	Selma Lagerlöf	1
+623	Louisa Duykers	1
+624	G. van Poppel	1
+625	Alfons Fierens	24
+626	G. Kurth	24
+627	Hilda Ram	1
+628	Lodewijk Dosfel	1
+629	Frans van Cauwelaert	1
+630	Jacob Smit	5
+631	Constant Eeckels	1
+632	Jozef van Mierlo	24
+633	Albertine Steenhoff-Smulders	5
+634	Annie Salomons	5
+635	Antonio Fogazzaro	1
+636	Fernand Toussaint van Boelaere	1
+637	Marie Koenen	24
+638	Jozef Simons	24
+639	D.C. Tinbergen	1
+640	Felix Rutten	1
+641	Jan Hammenecker	1
+642	Cyriel Verschaeve	1
+643	J.W. Muller	3
+644	Marie Schmitz	1
+645	August van Cauwelaert	1
+646	Gustaaf Segers	5
+647	Achilles Mussche	1
+648	Lambrecht Lambrechts	5
+649	Hilarion Thans	24
+650	Dirk Vansina	1
+651	J.A. Hallez	1
+652	Jac. Weil	5
+653	Jean Cocteau	1
+654	Paul Claudel	1
+655	Sigrid Undset	1
+656	L. de Smet	1
+657	J.A. Goris	1
+658	Ruth Schaumann	1
+659	Pertinax	5
+660	Raphaël M.J. Kreemers	1
+661	Ilja Ehrenburg	1
+662	Edward Rombauts	1
+663	Max Lamberty	1
+664	Albert Westerlinck	1
+665	Fernand Deschamps	1
+666	Bert Decorte	1
+667	Paul de Vree	1
+668	Marcel Lobet	5
+669	J.J. Gielen	5
+670	Marcel Coole	1
+671	Juul Filliaert	1
+672	I.K. Illakowicz	1
+673	Anton van Wilderode	1
+674	Pierre H. Dubois	5
+675	Lode Roose	3
+676	Gabriela Mistral	1
+677	Albert van Hoogenbemt	1
+678	R.F. Lissens	3
+679	J.A. van Houtte	24
+680	Joos Florquin	18
+681	Omer Wattez	5
+682	Jan van Beers	5
+683	J.B. Schepers	5
+684	Paul Fredericq	5
+685	H. Mulder	5
+686	Christine D'haen	18
+687	A. van Elslander	3
+688	Emiel Jan Janssen	24
+689	Tirso de Molina	5
+690	Hubert van Herreweghen	18
+691	Herwig Hensen	5
+692	J.A. Worp	3
+693	Fernand Auwera	10
+694	Jef Geeraerts	18
+695	Willem M. Roggeman	18
+696	W. Ruys	18
+697	Patricia Lasoen	18
+698	Marko Fondse	18
+699	Eddy van Vliet	18
+700	Daniël van Ryssel	18
+701	Herman de Coninck	18
+702	Jacques Kruithof	18
+703	Stefaan van den Bremt	18
+704	Huub Oosterhuis	18
+705	Jan van der Vegt	18
+706	Gerd Segers	18
+707	Ludo Abicht	18
+708	Harry Scholten	18
+709	Lionel Deflo	18
+710	Wim Zaal	18
+711	Paul Vanderschaeghe	18
+712	Julia Tulkens	18
+713	Willy Spillebeen	18
+714	J.J. Wesselo	18
+715	Roland Jooris	18
+716	Charles B. Timmer	18
+717	H.C. ten Berge	18
+718	Peter Berger	18
+719	Hans Vlek	18
+720	Julien Vangansbeke	18
+721	Jan Vanriet	18
+722	Clem Schouwenaars	18
+723	Willem Wilmink	18
+724	Roger Pieters	18
+725	Alstein	18
+726	Mark Insingel	18
+727	Gerrit Krol	18
+728	Erik van Ruysbeek	18
+729	Gerrit Komrij	3
+730	Robin Hannelore	18
+731	Marcel van Maele	18
+732	Frans Depeuter	18
+733	Jacques Hamelink	18
+734	Bernard Kemp	18
+735	Dirk Christiaens	18
+736	Jeroen Brouwers	18
+737	Martin Ros	18
+738	Geert van Beek	18
+739	Jaap Harten	18
+740	Anton Korteweg	3
+741	Ad Zuiderent	3
+742	C.O. Jellema	18
+743	Jo Gisekin	18
+744	Freddy de Vree	18
+745	Jozef Deleu	18
+746	L.H. Wiener	18
+747	H. van Gorp	3
+748	Lieven Rens	3
+749	Wilfried Adams	18
+750	Karel van het Reve	18
+751	Frans Boenders	18
+752	Hugues C. Pernath	18
+753	Patrick Conrad	18
+754	J.J. Oversteegen	3
+755	Sjoerd Kuyper	18
+756	J. van Tooren	18
+757	Jan Wolkers	18
+758	José Boyens	18
+759	Georges Wildemeersch	18
+760	Monika van Paemel	18
+761	Marcel Janssen	18
+762	Maarten 't Hart	3
+763	Anton Haakman	18
+764	Marcel Janssens	3
+765	Miel Vanstreels	18
+766	J. Uyttendaele	18
+767	Tymen Trolsky	18
+768	Luuk Gruwez	18
+769	Hans van de Waarsenburg	18
+770	Herman Sabbe	18
+771	Rutger Kopland	18
+772	Hedwig Speliers	18
+773	Jan van der Hoeven	18
+774	Nic van Bruggen	18
+775	Bob den Uyl	18
+776	Michel Bartosik	18
+777	Georges Adé	18
+778	Jef van Gool	18
+779	Rob Delvigne	18
+780	Tom van Deel	18
+781	Wim Meewis	18
+782	Pszisko Jacobs	18
+783	Cola Debrot	18
+784	Hugo Raes	18
+785	J.P. Guépin	18
+786	Joris Denoo	18
+787	Lucienne Stassaert	18
+788	Rudolf van de Perre	18
+789	Herman Pleij	3
+790	J.M.A. Biesheuvel	18
+791	K.L. Poll	18
+792	Frans van Dooren	18
+793	R.A. Basart	18
+794	Albert de Longie	18
+795	Jan Biezen	18
+796	Oek de Jong	18
+797	Bert Kooijman	18
+798	Car Flanders	18
+799	Gust Gils	18
+800	Dirk Kroon	18
+801	F.B. Hotz	18
+802	Eriek Verpale	18
+803	Hanneke van Buuren	18
+804	Willy Lauwens	18
+805	Jos de Haes	18
+806	Johanna Kruit	18
+807	Marc Bruynseraede	18
+808	Henk Romijn Meijer	18
+809	Kees Winkler	18
+810	Claude van de Berge	18
+811	Charles Vergeer	18
+812	Eugène van Itterbeek	18
+813	Elly de Waard	18
+814	Jan Siebelink	18
+815	J.J. Mak	3
+816	Gerard Reve	18
+817	Hendrik Carette	18
+818	Karel Hellemans	18
+819	Armand van Assche	18
+820	Willem Brakman	18
+821	Rob Schouten	18
+822	W. Waterschoot	3
+823	Wouter Kotte	18
+824	Doeschka Meijsing	18
+825	H.H. ter Balkt	18
+826	Koen Vermeiren	18
+827	Willem van Toorn	18
+828	Eva Gerlach	18
+829	F.L. Bastet	18
+830	Hans Lodeizen	18
+831	Jan Kuijper	18
+832	Marc Reynebeau	18
+833	Jan Schepens	1
+834	Lieve Scheer	18
+835	Frans Kuipers	18
+836	Dirk Verbruggen	18
+837	Boudewijn Büch	18
+838	Philip Vermoortel	5
+839	Ida Gerhardt	18
+840	Ed Leeflang	18
+841	Dirk de Geest	18
+842	Stefaan Evenepoel	18
+843	Benno Barnard	18
+844	Erik Spinoy	18
+845	Karel Porteman	3
+846	E.K. Grootes	3
+847	H.J.A. Hofland	18
+848	Kristien Hemmerechts	18
+849	Anne van Herreweghen	18
+850	Bart Vervaeck	18
+851	Bert Ranke	5
+852	Jan Walravens	1
+853	Marcel de Smedt	3
+854	F.A. Snellaert	3
+855	Leen Huet	18
+856	Frank Willaert	3
+857	Rudi Laermans	18
+858	M.A. Schenkeveld-van der Dussen	3
+859	Elma van Haren	18
+860	Kamiel Vanhole	18
+861	Eric Vos	18
+862	Jan Baetens	18
+863	Jef Last	5
+864	Jacques Gans	5
+865	Karel Reijnders	5
+866	M.C. van den Toorn	3
+867	W. Blok	3
+868	H. Schultink	3
+869	E.M. Uhlenbeck	3
+870	A.W. de Groot	3
+871	C. Kruyskamp	3
+872	J. Kamerbeek jr.	1
+873	J.C. Kamerbeek	1
+874	P.C. Paardekooper	3
+875	N. van Wijk	5
+876	C.H. den Hertog	3
+877	A.A. Prins	25
+878	A. Prins	25
+879	F.A. Stoett	3
+880	P.F. Schmitz	18
+881	J.W. de Vries	18
+882	J. F. P. de Smit	0
+883	L. Pepplinkhuizen	0
+884	Teun Hoekstra	18
+885	Harry van der Hulst	18
+886	S.J. Lenselink	3
+887	G.J. de Haan	3
+888	Dirk Geeraerts	18
+889	D. Geeraerts	18
+890	Elrud Ibsch	18
+891	Arie Verhagen	18
+892	Wim Zonneveld	3
+893	Mieke Trommelen	3
+894	R.Th. van der Paardt	5
+895	Rob Wolfs	18
+896	Lo van Driel	5
+897	Taco Roorda	5
+898	Johan Kerstens	3
+899	Arthur Dirksen	18
+900	Peter van Bart	3
+901	Will van Peer	18
+902	Anneke Neijt	18
+903	A.M. Duinhoven	3
+904	Odile Heynders	18
+905	J.J. Kloek	3
+906	W.W. Mijnhardt	18
+907	Fred Weerman	18
+908	Frank Jansen	18
+909	Hans Anten	3
+910	P.G.J. van Sterkenburg	3
+911	Wardy Poelstra	18
+912	J.M. van der Horst	3
+913	A. van Loey	3
+914	H. Duits	3
+915	Jan Koopmans	5
+916	Jan L. Walch	5
+917	Adriaan Loosjes	5
+918	Hendrik van der Wal	5
+919	Edmond van Offel	5
+920	Frits Hopman	5
+921	Jan J. Zeldenthuis	5
+922	Johann Wolfgang von Goethe	1
+923	F.H. Fischer	5
+924	J. van Oudshoorn	5
+925	Jo de Wit	5
+926	J. Saks	5
+927	Karel Wasch	5
+928	Jan van Lumey	8
+929	Heinrich von Kleist	8
+930	Alie Smeding	5
+931	Nico Rost	5
+932	Max Brod	5
+933	Elisabeth Zernike	5
+934	S.G. de Vries	5
+935	G.J.W. Koolemans Beijnen	5
+936	P.J. Blok	5
+937	Louis D. Petit	5
+938	G.M. Boissevain	5
+939	J.H. Groenewegen	5
+940	P.H. van der Kemp	5
+941	L. Scharpé	5
+942	J. Herderscheê	5
+943	G.J. Boekenoogen	5
+944	P.C. Molhuysen	5
+945	J.E. Heeres	5
+946	R.W.P. de Vries	5
+947	J.C. Breen	5
+948	J.J. Salverda de Grave	5
+949	J.S. van Veen	5
+950	H.L. Drucker	5
+951	J.H. van den Bosch	5
+952	J.H. Abendanon	5
+953	C.P. Burger	5
+954	M.A. Perk	5
+955	J.A.N. Knuttel	5
+956	J.H. Holwerda	5
+957	A.A. Verdenius	18
+958	G.A. Nauta	5
+959	H. van Strien	5
+960	N. van der Laan	5
+961	A. Jager	5
+962	A.L.G. Bosboom-Toussaint	5
+963	C.C. van de Graft	5
+964	G.J. Nieuwenhuis	5
+965	H.T. Damsté	3
+966	A.A. van Rijnbach	5
+967	S.W.F. Margadant	5
+968	M.E. Kronenberg	5
+969	F.W. Stapel	5
+970	F. Oudschans Dentz	5
+971	J. Aleida Nijland	5
+972	K.H. Heeroma	3
+973	F.P. Huygens	9
+974	J. Leenen	3
+975	L. Grootaers	3
+976	Frank Baur	3
+977	C.C. de Bruin	3
+978	W.H. Beuken	3
+979	A.C. Bouman	5
+980	M. Schönfeld	3
+981	Jan Ploeger	5
+982	A.P. Grové	5
+983	P.C. Schoonees	5
+984	S.P.E. Boshoff	5
+985	P.J. Nienaber	5
+986	Ernst van Heerden	5
+987	D.J. Opperman	5
+988	G.S. Nienaber	5
+989	H.J.J.M. van der Merwe	5
+990	Th. Weevers	5
+991	L.C. Michels	3
+992	Jo Daan	3
+993	K. Fokkema	3
+994	Cornelis Rijnsdorp	9
+995	Jacoba M. Vreugdenhil	9
+996	Dingeman van der Stoep	9
+997	P.J. Risseeuw	9
+998	H.T.J. Miedema	3
+999	J.H. Brouwer	3
+1000	A. Ampe	24
+1001	B. van den Berg	3
+1002	Marinel Gerritsen	3
+1003	G.A. van Es	3
+1004	Nop Maas	5
+1005	Wim Vermeer	3
+1006	M.F. Fresco	5
+1007	F. van Elmbt	3
+1008	Peter J.A. Nissen	18
+1009	Leo Herberghs	18
+1010	W.F. Jonckheere	18
+1011	J.C. Kannemeyer	18
+1012	F.I.J. van Rensburg	18
+1013	Maarten Klein	3
+1014	F.P. van Oostrom	3
+1015	Arie-Jan Gelderblom	3
+1016	J.A. Rispens	5
+1017	Jef Suys	9
+1018	Hendrik Conscience	3
+1019	P. Spigt	9
+1020	Tadeusz Rózewicz	18
+1021	Marc Andries	9
+1022	T. Haan	9
+1023	G.J.M. van het Reve	5
+1024	Frans Bastiaanse	5
+1025	Nine van der Schaaf	5
+1026	E. Rijpma	5
+1027	H. Robbers	5
+1028	B.H. Peteri	5
+1029	H.H.J. Maas	5
+1030	Jacob Geel	5
+1031	Leo Goemans	5
+1032	Leo van Puyvelde	5
+1033	Chr. Stapelkamp	3
+1034	W. van Schothorst	5
+1035	Daan van der Zee	5
+1036	B. Faddegon	5
+1037	J.A. vor der Hake	5
+1038	F.P.H. Prick van Wely	5
+1039	Simon Gorter	5
+1040	H. Logeman	5
+1041	K.H. de Raaf	5
+1042	L.J.M. Feber	5
+1043	L.A. te Winkel	5
+1044	Frans Verschoren	5
+1045	G.F. Haspels	5
+1046	H.J.E. Endepols	5
+1047	A.S.C. Wallis	5
+1048	William Davids	5
+1049	J. Mathijs Acket	5
+1050	G.J. Hoogewerff	5
+1051	K. ter Laan	3
+1052	J.J.A.A. Frantzen	5
+1053	J.H. Kern	3
+1054	Ary Delen	5
+1055	G. Engels	5
+1056	J.D.C. van Dokkum	5
+1057	C.C. Uhlenbeck	5
+1058	J.L. Horsten	5
+1059	D.A. Stracke	5
+1060	A. Stracke	5
+1061	Adolf Herckenrath	5
+1062	A.C.S. de Koe	5
+1063	E.F. Kossmann	5
+1064	Laurens van der Waals	5
+1065	Alfons de Cock	5
+1066	François Pauwels	5
+1067	G. Bolkestein	5
+1068	Ph.J. Simons	5
+1069	J. Petri	5
+1070	H.W.J. Kroes	5
+1071	Henri van Booven	5
+1072	V. de Meyer	5
+1073	Herman Middendorp	5
+1074	Arnold Sauwen	5
+1075	H.H. Knippenberg	5
+1076	J. Wille	3
+1077	R. Foncke	5
+1078	Daan Boens	5
+1079	Firmin van Hecke	5
+1080	Jo van Ammers-Küller	5
+1081	A. Wapenaar	9
+1082	Rinke Tolman	5
+1083	J. de Jong	3
+1084	G.E. Opstelten	5
+1085	J. de Wit	3
+1086	K. Kooiman	5
+1087	Wilma	18
+1088	E.C. Pienaar	5
+1089	Willem van Doorn	5
+1090	A. van Collem	5
+1091	J.F. Willems	5
+1092	Ernst Groenevelt	5
+1093	Wobbe de Vries	18
+1094	Lode Monteyne	5
+1095	Montanus	18
+1096	A. Goslinga	5
+1097	J.G.M. Moormann	3
+1098	Israël Querido	5
+1099	Antoon Thiry	5
+1100	J. Mansion	5
+1101	A.W.C. Zuidema	5
+1102	Maurits de Meyer	5
+1103	J.J. le Roux	5
+1104	H.W.J.M. Keuls	5
+1105	G.A. Brands	5
+1106	Willem van Eeghem	5
+1107	Kees Meekel	5
+1108	Fritz Francken	5
+1109	J. van de Velde	5
+1110	Martien Beversluis	5
+1111	A. Carnoy	3
+1112	Franz de Backer	5
+1113	D.B. Bosman	5
+1114	J.A. van Praag	5
+1115	Paul de Keyser	5
+1116	L.P.H. Eykman	18
+1117	A.W. Grauls	5
+1118	P.H. Greiner	5
+1119	Alice Nahon	5
+1120	J.H. Scholte	5
+1121	Jan Gessler	5
+1122	P.J.J. Diermanse	5
+1123	F.C. Dominicus	5
+1124	Gaston Burssens	5
+1125	W.L.M.E. van Leeuwen	5
+1126	H. Gerversman	5
+1127	Henrik Scholte	5
+1128	Anton Reichling	5
+1129	H. Schröder	5
+1130	Joost Hiddes Halbertsma	5
+1131	G. Colmjon	5
+1132	K.H.E. de Jong	5
+1133	Jef Notermans	3
+1134	R. Pennink	5
+1135	Oscar Dambre	3
+1136	A.J. Schneiders	5
+1137	L.L. Hammerich	5
+1138	J.C. van der Does	5
+1139	L.J. Rogier	5
+1140	Jan H. de Groot	5
+1141	F.E.J. Malherbe	5
+1142	W. van Ravesteyn	5
+1143	Jop Pollmann	5
+1144	J.L. Pauwels	3
+1145	H.F. Wijnman	5
+1146	Johan Fabricius	5
+1147	Leo van Breen	5
+1148	C. de Boer	5
+1149	Leo Picard	5
+1150	C.M. van den Heever	3
+1151	H. de Buck	5
+1152	A.C. de Jong	5
+1153	J.F.J. van Tol	5
+1154	Marianne Philips	5
+1155	Is.P. de Vooys	1
+1156	A.P. de Bont	18
+1157	B.H. Erné	3
+1158	J.F. Vanderheyden	5
+1159	F.K.H. Kossmann	3
+1160	Eric van der Steen	5
+1161	F.G.A. Stemvers	5
+1162	T.J. Haarhoff	5
+1163	G. Karsten	5
+1164	George Meir	5
+1165	H.L. Bezoen	5
+1166	C.L. Thijssen-Schoute	5
+1167	A.J. de Jong	5
+1168	G.I. Lieftinck	5
+1169	G. Kazemier	18
+1170	Prosper Arents	5
+1171	Willem Pée	3
+1172	L.M. van Dis	3
+1173	H.A. Höweler	5
+1174	J.H.J. Willems	5
+1175	Clara Eggink	5
+1176	G. Knop	5
+1177	Max Kijzer	5
+1178	J.E. van der Laan	5
+1179	Jeanne van Schaik-Willing	5
+1180	J. Naarding	3
+1181	H.A. Mulder	5
+1182	Anne de Vries	24
+1183	W. van den Ent	3
+1184	Paul Haimon	5
+1185	Uys Krige	5
+1186	Willy Dols	5
+1187	A.R. Hol	5
+1188	J.H. van Lessen	5
+1189	I.D. du Plessis	5
+1190	Barend de Goede	5
+1191	H. Bonger	5
+1192	Robert Franquinet	5
+1193	F.W. van Heerikhuizen	5
+1194	P. Polman	5
+1195	J.D.M. Cornelissen	5
+1196	F. de Tollenaere	3
+1197	W. Roukens	5
+1198	Gerard den Brabander	5
+1199	A.P. Kieft	5
+1200	J. Karsemeijer	5
+1201	Adriaan van der Veen	18
+1202	J.P. van Praag	5
+1203	N.P. van Wyk Louw	3
+1204	A. Marja	5
+1205	R.W. Zandvoort	5
+1206	Max Dendermonde	5
+1207	P.C. Boeren	5
+1208	H. Draye	3
+1209	G.J. Uitman	5
+1210	K. Roelandts	3
+1211	K.C. Peeters	5
+1212	Gerrit Kamphuis	3
+1213	Gilbert Degroote	3
+1214	S.A. Louw	3
+1215	J. Noë	24
+1216	S.J. van der Molen	5
+1217	Maartje Draak	3
+1218	J.B. Drewes	3
+1219	Sjoerd Leiker	5
+1220	F. Veenstra	3
+1221	Henri A. Ett	5
+1222	G. Jo Steenbergen	5
+1223	G.W. Huygens	5
+1224	Jan Boon	5
+1225	Jan Spierdijk	5
+1226	S.P. Uri	5
+1227	H. de Vocht	5
+1228	Paul Lebeau	5
+1229	H.P.H. Teesing	3
+1230	Willem Doorenbos	5
+1231	Adriaan Morriën	5
+1232	C.G.L. Apeldoorn	5
+1233	Victor Varangot	5
+1234	C.M. Geerars	3
+1235	C.J.E. Dinaux	5
+1236	Lodewijk Maerevoet	5
+1237	J.G. Bomhoff	3
+1238	F.J.P. Peeters	5
+1239	Michel van der Plas	5
+1240	W.J. Buma	3
+1241	A.J.J. de Witte	3
+1242	A. Sassen	3
+1243	L. Koelmans	3
+1244	W.Gs Hellinga	5
+1245	J.A. Huisman	3
+1246	F.L. Zwaan	3
+1247	A.G.H. Bachrach	3
+1248	J.D.P. Warners	3
+1249	D.Th. Enklaar	3
+1250	A. Teeuw	3
+1251	W.E. Hegman	3
+1252	D.P. Blok	3
+1253	L. Strengholt	3
+1254	F. van Vinckenroye	3
+1255	F. Ketner	3
+1256	M. Hanot	3
+1257	Peter King	3
+1258	S.F. Witstein	3
+1259	Pierre Brachin	3
+1260	J. Deschamps	3
+1261	W.J.A. Jonckbloet	3
+1262	R. Lievens	3
+1263	L. Peeters	3
+1264	F.G. Droste	3
+1265	L. Brummel	3
+1266	V.F. Vanacker	3
+1267	Jan van Bakel	18
+1268	Jaap Meijer	5
+1269	Wim J. Simons	3
+1270	Peter van Eeten	5
+1271	J.C. Arens	3
+1272	Hilda van Assche	3
+1273	Ada Deprez	3
+1274	J. Goossens	3
+1275	W. Drop	18
+1276	Hubert J. Michaël	5
+1277	M.C.A. van der Heijden	3
+1278	N. de Paepe	3
+1279	Drs. P	3
+1280	H.A. Wage	3
+1281	P.E.L. Verkuyl	3
+1282	Ger Schmook	3
+1283	Matthias de Vries	3
+1284	H. Entjes	18
+1285	S. Carmiggelt	3
+1286	F. Lulofs	3
+1287	H.M. Hermkens	3
+1288	R. Vos	5
+1289	A. Kraak	3
+1290	L. Elaut	24
+1291	W.M.H. Hummelen	3
+1292	J. 't Hart	3
+1293	J.J. Spa	3
+1294	B.C. Damsteegt	3
+1295	W. Martin	3
+1296	A.A. Weijnen	3
+1297	D.M. Bakker	3
+1298	A. Feitsma	3
+1299	A.M.J. van Buuren	3
+1300	W. Gobbers	3
+1301	Norbert Morciniec	3
+1302	R. Jansen-Sieben	3
+1303	W.A. Ornée	3
+1304	J. Taeldeman	3
+1305	H. Hulshof	3
+1306	A. Gruijs	3
+1307	Piet Delen	18
+1308	J. Griffioen	18
+1309	H.H. Grünhagen	18
+1310	Piet van Caldenborgh	18
+1311	Coen Bersma	18
+1312	Fritz Zondervan	18
+1313	M.J.M. de Haan	3
+1314	J.P. Gumbert	3
+1315	Eldert Willems	18
+1316	Breyten Breytenbach	18
+1317	J.B. Berns	3
+1318	L. Mosheuvel	3
+1319	J.G. Kooij	3
+1320	Ludo Simons	3
+1321	Fons van Buuren	3
+1322	C. van de Ketterij	3
+1323	H. Vos	3
+1324	Jan Stroop	18
+1325	Rob Nieuwenhuys	3
+1326	R.L.K. Fokkema	3
+1327	G.R.W. Dibbets	3
+1328	H.W.J. Vekeman	3
+1329	T.T. Cloete	18
+1330	A.G.M. Vermeulen	18
+1331	J.M.J. Sicking	3
+1332	Marita Mathijsen	18
+1333	J. Reynaert	18
+1334	M.K. van Dort-Slijper	18
+1335	Fr. Daems	3
+1336	N.C.H. Wijngaards	18
+1337	Jan Noordegraaf	3
+1338	Louis Ferron	18
+1339	J. Molemans	18
+1340	A. Sturm	3
+1341	A.N. Paasman	18
+1342	Saskia Daalder	3
+1343	Dirk Coigneau	3
+1344	A.M. Hagen	3
+1345	Carel Peeters	18
+1346	Marijke Spies	3
+1347	Frank van Gestel	3
+1348	Orlanda S.H. Lie	3
+1349	F.W.N. Hugenholtz	3
+1350	P.N.G. Pesch	3
+1351	Evert van den Berg	18
+1352	W.A.A.M. Merlijn	18
+1353	J.A. Dautzenberg	18
+1354	Frans Claes	18
+1355	Martin Hartkamp	18
+1356	M.F. Steehouder	3
+1357	A.J. Hanou	3
+1358	D.H. Lammers	18
+1359	T. Kruiger	18
+1360	W.K.B. Koning	18
+1361	Jan Schoolmeesters	3
+1362	J.H. Maureau	18
+1363	Gerard Verhoeven	18
+1364	Mark Baeyens	18
+1365	Hella S. Haasse	18
+1366	G.F.H. Raat	18
+1367	Dédé Brouwer	18
+1368	C.W. van de Watering	3
+1369	Sies de Haan	18
+1370	Ton van Haaften	18
+1371	Antoine Braet	18
+1372	J.M. Willeumier-Schalij	18
+1373	Rudy Kousbroek	18
+1374	J. van Marle	18
+1375	Wim Rutgers	18
+1376	M.H. Schenkeveld	3
+1377	Bert van Selm	3
+1378	R.W.W.M. van der Drift	18
+1379	Marlies Philippa	18
+1380	P.J. Verkruijsse	3
+1381	Aad Nuis	18
+1382	Camiel Hamans	18
+1383	Guus Extra	18
+1384	René Appel	18
+1385	Eep Francken	18
+1386	N. van der Blom	18
+1387	Hanna Stouten	18
+1388	G. van Eemeren	18
+1389	Marijke Meijer Drees	3
+1390	Siem Bakker	18
+1391	G. Gerritsen-Geywitz	3
+1392	Maarten van Buuren	18
+1393	Piet Meeuse	18
+1394	Ward Ruyslinck	18
+1395	Mieke B. Smits-Veldt	3
+1396	Hans van den Bergh	18
+1397	Hans Heestermans	18
+1398	Rob Rentenaar	18
+1399	Philippe Noble	18
+1400	W. Bronzwaer	18
+1401	Lia van Gemert	3
+1402	P.H. Schrijvers	18
+1403	Aleid Truijens	18
+1404	Dick Springorum	18
+1405	Ad Foolen	18
+1406	Willem G. Weststeijn	18
+1407	G.J. Vis	18
+1408	Frida Balk-Smit Duyzentkunst	18
+1409	J. A. Le Loux-Schuringa	3
+1410	Kitty M. van Leuven-Zwart	18
+1411	Riemer Reinsma	18
+1412	M. Vasalis	18
+1413	W.S. Huberts	18
+1414	Jozef D. Janssens	3
+1415	A. Moerdijk	18
+1416	Toon Tellegen	18
+1417	Jan Fontijn	18
+1418	W.F.G. Breekveldt	3
+1419	Ton Harmsen	18
+1420	Olf Praamstra	18
+1421	B.P.M. Dongelmans	3
+1422	Paul Gillaerts	18
+1423	August Hans den Boef	18
+1424	Theo A.J.M. Janssen	18
+1425	Harry Bekkering	18
+1426	Hans Bennis	18
+1427	Bart Besamusca	3
+1428	S.C. Dik	18
+1429	Cyrille Offermans	18
+1430	Frank Berndsen	18
+1431	Aster Berkhof	18
+1432	Irene Spijker	3
+1433	A.A. Keersmaekers	3
+1434	J.J.M. Westenbroek	18
+1435	Hans Vanacker	3
+1436	Guillaume van der Graft	9
+1437	Bernhard F. Scholz	3
+1438	Stanislaw Predota	3
+1439	Willy Vandeweghe	18
+1440	Hanneke Houtkoop-Steenstra	18
+1441	Roger Henrard	3
+1442	Maaike Hogenhout-Mulder	18
+1443	Ron Elshout	18
+1444	J.A. van Leuvensteijn	3
+1445	Jean Brüll	18
+1446	Tanja Janssen	18
+1447	Piet Visser	18
+1448	Korrie Korevaart	18
+1449	van der Veur	18
+1450	Ares Koopman	18
+1451	Rudolf Dekker	3
+1452	Ben van Melick	18
+1453	Jan Klein	18
+1454	J.H. Winkelman	18
+1455	Gé Vaartjes	18
+1456	Ton Hendrix	18
+1457	Kees-Jan Backhuys	18
+1458	Hans Luijten	3
+1459	Ineke Bulte	18
+1460	P.J.A. Franssen	18
+1461	Marieke M. van Oostrom	3
+1462	Hans Renders	18
+1463	Hanneke Eggels	18
+1464	Jan Nijen Twilhaar	18
+1465	Jaap de Jong	18
+1466	Dieuwke E. van der Poel	3
+1467	Frans Ruiter	18
+1468	Pieter Nieuwint	18
+1469	Maaike Meijer	18
+1470	H.F. Schatz	18
+1471	Cor van Bree	18
+1472	Fabian R.W. Stolk	18
+1473	Kees Singeling	3
+1474	Marc Van Vaeck	3
+1475	Joost Niemöller	18
+1476	Rogi Wieg	18
+1477	Mary G. Kemperink	18
+1478	Herman Giesbers	18
+1479	Lisan van Beurden	3
+1480	Ton van der Wouden	18
+1481	Ralf Grüttemeier	18
+1482	Jacqueline de Man	3
+1483	Thomas Vaessens	18
+1484	Ben Salemans	3
+1485	Wilbert Smulders	18
+1486	A. Middeldorp	18
+1487	Annie van den Oever	18
+1488	Henk Bloemhoff	18
+1489	Kees Snoek	18
+1490	Michiel van Kempen	18
+1491	Ariane van Santen	18
+1492	Annelies van Gijsen	18
+1493	Louis Peter Grijp	18
+1494	Ben Peperkamp	18
+1495	Lisa Kuitert	18
+1496	Eric Hoekstra	18
+1497	Ton van Strien	18
+1498	Theo Hermans	18
+1499	Hans Broekhuis	18
+1500	Marijke J. van der Wal	18
+1501	Yves T'Sjoen	18
+1502	Joost Zwagerman	18
+1503	Margriet de Moor	18
+1504	Hans Groenewegen	18
+1505	Theo Meder	18
+1506	Joris Gerits	18
+1507	Jacqueline Bel	18
+1508	Paul Van Keymeulen	1
+1509	Hugo Walschap	1
+1510	Marcel Demeulenaere	1
+1511	Lucien Brulez	1
+1512	Stéphane Mallarmé	1
+1513	Leopold Flam	1
+1514	Guy Voets	1
+1515	Henk Krijger	9
+1516	Ab Visser	9
+1517	C. Vermeer	9
+1518	C. Ouboter	9
+1519	J.C. Schuller	9
+1520	Anna Mertens	9
+1521	M. Siesling	9
+1522	Koos van Doorne	9
+1523	P.A. Hekstra	9
+1524	Jaap Das	9
+1525	K.J. Popma	9
+1526	J. van Doorne	9
+1527	Johan van Hulzen	9
+1528	S.J. Popma	9
+1529	Arjen Miedema	9
+1530	Jan Elzo Niemeijer	9
+1531	Aart Romijn	9
+1532	Etus Alons-Bernhardt	4
+1533	Endre Ady	4
+1534	J.H. Schouten	9
+1535	A. Mertens	9
+1536	Coert Poort	9
+1537	William Blake	5
+1538	Kees Ouboter	9
+1539	Emiel Willekens	5
+1540	Carlos Tindemans	3
+1541	Piet Couttenier	3
+1542	Paul Schampaert	1
+1543	Ingrid van de Wijer	3
+1544	K. du Bois de Vroylande	24
+1545	F. De Raedemaeker	24
+1546	Eugenius Druwé	24
+1547	L. Arts	24
+1548	R. van Ooteghem	24
+1549	Edw. De Schaepdrijver	24
+1550	J. Donceel	24
+1551	Alb. Raignier	24
+1552	M. Dufraing	24
+1553	Gaston Van Bulck	24
+1554	G. De Wolf	24
+1555	Fr. van Baarle	24
+1556	Edgard de Bruyne	24
+1557	Anton Van de Velde	24
+1558	A. Snoeck	24
+1559	H. Bruders	24
+1560	Louis H.M. Monden	24
+1561	B. De Wint	24
+1562	L.G. Polspoel	24
+1563	Jan Jozef van Laer	24
+1564	W. Koch	24
+1565	W. De Roy	24
+1566	Marcel Matthijs	24
+1567	Marcel van Caster	24
+1568	A. Darquennes	24
+1569	Ad. Jansen	24
+1570	L. Verelst	24
+1571	L. Vander Kerken	24
+1572	E.J. Vandenbussche	24
+1573	Hugo Vandeperre	24
+1574	J. De Jaegher	24
+1575	Edouard Dhanis	24
+1576	Leo Simoens	24
+1577	P. Ellerbeek	24
+1578	W. Talloen	24
+1579	M. Schurmans	24
+1580	Michiel Dierickx	24
+1581	Karel van Isacker	24
+1582	L. Baudez	24
+1583	Arthur Thomas	24
+1584	Walter F. Smet	24
+1585	P. Goedertier	24
+1586	Albert Deblaere	24
+1587	G. Neefs	24
+1588	H. Peeters	24
+1589	O. Praem	24
+1590	Clemens Maria Beukers	24
+1591	E. de Strycker	24
+1592	R. Leijs	24
+1593	Alb. Block	24
+1594	E. De Cooman	24
+1595	M. van Stratum	24
+1596	J. Smets	24
+1597	Pieter Frans Fransen	24
+1598	J. De Fraine	24
+1599	G. Van Cutsem	24
+1600	Em. Peeters	24
+1601	A. Boone	24
+1602	Marcel Brauns	24
+1603	Louis Sterkens	24
+1604	W. Luyten	24
+1605	C. Pickery	24
+1606	Jos. Burvenich	24
+1607	Antoon Fimmers	24
+1608	J. Talloen	24
+1609	I. De la Potterie	24
+1610	Louis Bruyns	24
+1611	M. Deckers	24
+1612	J.B. Poukens	24
+1613	B. Boeyckens	24
+1614	G. Huyghe	24
+1615	Marc Dykmans	24
+1616	Fl. Bertiau	24
+1617	Jozef Andriessen	24
+1618	G. Garmijn	24
+1619	Paul Maria Jozef de Meester	24
+1620	L. Mestdagh	24
+1621	P.W. Smet	24
+1622	G. Gilleman	24
+1623	M. Huybens	24
+1624	Jan Bruna	5
+1625	Jozef Uytterhoeven	1
+1626	Fr. de Jong Edz.	9
+1627	Pieter Korthuys	9
+1628	G.E. Mulder	9
