@@ -5,7 +5,6 @@ Short description of the network:
 - Author = Source
 - Mention in a text = Target
 - Co-authors = both Source & Target
-- Relations with weigth < 5 are excluded
 - Authors born before 1700 are excluded
 
 Code includes:
